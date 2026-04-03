@@ -33,7 +33,6 @@ def generate_uid(event: dict) -> str:
 
 def parse_date(date_str: str) -> str:
     """日付文字列をICS形式に変換 (YYYYMMDD)"""
-    # "2026年9月23日(水)" → "20260923"
     date_str = date_str.strip()
     for ch in ["年", "月"]:
         date_str = date_str.replace(ch, "-")
@@ -44,7 +43,6 @@ def parse_date(date_str: str) -> str:
 
 def parse_time(time_str: str) -> str:
     """時刻文字列をICS形式に変換 (HHMMSS)"""
-    # "16:30" → "163000"
     time_str = time_str.strip().replace("：", ":")
     parts = time_str.split(":")
     return f"{int(parts[0]):02d}{int(parts[1]):02d}00"
@@ -58,24 +56,21 @@ def get_dtstart(event: dict) -> str:
         time_ics = parse_time(start)
         return f"DTSTART;TZID=Asia/Tokyo:{date_ics}T{time_ics}"
     else:
-        # 時刻不明 → 終日イベント
         return f"DTSTART;VALUE=DATE:{date_ics}"
 
 
 def get_dtend(event: dict) -> str:
-    """終了日時のICS表現を返す（開始+2時間 or 終日）"""
+    """終了日時のICS表現を返す（開演+2時間 or 終日）"""
     date_ics = parse_date(event["date"])
     start = event.get("start_time", "").strip()
     if start:
         time_ics = parse_time(start)
-        # 開始時刻 +2時間を仮の終了時刻とする
         h = int(time_ics[:2]) + 2
         if h >= 24:
             h -= 24
         end_time = f"{h:02d}{time_ics[2:]}"
         return f"DTEND;TZID=Asia/Tokyo:{date_ics}T{end_time}"
     else:
-        # 終日イベント → 翌日
         from datetime import timedelta
         dt = datetime.strptime(date_ics, "%Y%m%d")
         next_day = (dt + timedelta(days=1)).strftime("%Y%m%d")
@@ -92,16 +87,24 @@ def build_description(event: dict, actor_name: str) -> str:
     if event.get("open_time"):
         lines.append(f"開場: {event['open_time']}")
 
+    # 開演時間
+    if event.get("start_time"):
+        lines.append(f"開演: {event['start_time']}")
+
+    # 会場
+    if event.get("venue"):
+        lines.append(f"会場: {event['venue']}")
+
     # 出演者（自分以外を最大20名表示）
     actors = event.get("actors", [])
     others = [a["name"] for a in actors if a.get("name") != actor_name]
     if others:
         display = others[:20]
-        lines.append(f"共演者: {', '.join(display)}")
+        lines.append(f"共演: {', '.join(display)}")
         if len(others) > 20:
-            lines.append(f"  ...他 {len(others) - 20}名")
+            lines.append(f"  ...他{len(others) - 20}名")
 
-    # Eventernoteリンク（フルURLならそのまま、パスならドメイン付与）
+    # Eventernoteリンク
     url = event["event_url"]
     if not url.startswith("http"):
         url = f"https://www.eventernote.com{url}"
@@ -150,7 +153,6 @@ def generate_ics(json_path: str):
     actor_name = actor["name"]
     actor_id = actor["id"]
 
-    # カレンダーヘッダー
     cal_lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
@@ -168,14 +170,12 @@ def generate_ics(json_path: str):
         "END:VTIMEZONE",
     ]
 
-    # 各イベントを変換
     for event in events:
         vevent_lines = event_to_vevent(event, actor_name)
         cal_lines.extend(vevent_lines)
 
     cal_lines.append("END:VCALENDAR")
 
-    # ファイル書き出し（空行なし、CRLF改行）
     output_path = f"data/calendar_{actor_id}.ics"
     with open(output_path, "w", encoding="utf-8", newline="") as f:
         for line in cal_lines:
