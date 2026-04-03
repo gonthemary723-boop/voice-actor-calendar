@@ -1,7 +1,7 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-04-03T18:03:29.713017",
+  "fetched_at": "2026-04-03T17:04:57.200742",
   "event_count": 532,
   "events": [
     {
@@ -1343,12 +1343,12 @@
       ]
     },
     {
-      "event_name": "舞台「アサルトリリィ・シュツルム」御台場⼥学校 7/18 18:00",
-      "event_url": "https://www.eventernote.com/events/469827",
+      "event_name": "舞台「アサルトリリィ・シュツルム」御台場⼥学校 7/18 13:00",
+      "event_url": "https://www.eventernote.com/events/469830",
       "date": "2026-07-18",
       "venue": "シアター1010",
-      "open_time": "17:00",
-      "start_time": "18:00",
+      "open_time": "12:00",
+      "start_time": "13:00",
       "actors": [
         {
           "name": "石井陽菜",
@@ -1461,12 +1461,12 @@
       ]
     },
     {
-      "event_name": "舞台「アサルトリリィ・シュツルム」御台場⼥学校 7/18 13:00",
-      "event_url": "https://www.eventernote.com/events/469830",
+      "event_name": "舞台「アサルトリリィ・シュツルム」御台場⼥学校 7/18 18:00",
+      "event_url": "https://www.eventernote.com/events/469827",
       "date": "2026-07-18",
       "venue": "シアター1010",
-      "open_time": "12:00",
-      "start_time": "13:00",
+      "open_time": "17:00",
+      "start_time": "18:00",
       "actors": [
         {
           "name": "石井陽菜",
@@ -1697,24 +1697,6 @@
       ]
     },
     {
-      "event_name": "「春咲暖ののんたいとる」1周年記念公開録音 第2部",
-      "event_url": "https://www.eventernote.com/events/470357",
-      "date": "2026-06-13",
-      "venue": "文化放送メディアプラスホール",
-      "open_time": "15:00",
-      "start_time": "15:30",
-      "actors": [
-        {
-          "name": "春咲暖",
-          "id": null
-        },
-        {
-          "name": "浅見香月",
-          "id": null
-        }
-      ]
-    },
-    {
       "event_name": "「春咲暖ののんたいとる」1周年記念公開録音 第1部",
       "event_url": "https://www.eventernote.com/events/470355",
       "date": "2026-06-13",
@@ -1728,6 +1710,24 @@
         },
         {
           "name": "花岩香奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「春咲暖ののんたいとる」1周年記念公開録音 第2部",
+      "event_url": "https://www.eventernote.com/events/470357",
+      "date": "2026-06-13",
+      "venue": "文化放送メディアプラスホール",
+      "open_time": "15:00",
+      "start_time": "15:30",
+      "actors": [
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
           "id": null
         }
       ]
@@ -1750,7 +1750,7 @@
       "event_name": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL DAY2",
       "event_url": "https://www.eventernote.com/events/452235",
       "date": "2026-06-07",
-      "venue": "横浜アリーナ",
+      "venue": "オロシティーホール(OROCITY HALL)",
       "open_time": "15:30",
       "start_time": "17:00",
       "actors": [
@@ -1816,7 +1816,7 @@
       "event_name": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL DAY1",
       "event_url": "https://www.eventernote.com/events/452234",
       "date": "2026-06-06",
-      "venue": "横浜アリーナ",
+      "venue": "オロシティーホール(OROCITY HALL)",
       "open_time": "15:30",
       "start_time": "17:00",
       "actors": [
