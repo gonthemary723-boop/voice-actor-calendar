@@ -1,6 +1,6 @@
 """
-eventernote スクレイパー
-声優のイベント情報を取得して JSON で保存する
+eventernote スクレイパー（複数声優対応版）
+config.json に登録された全声優のイベント情報を取得して JSON で保存する
 """
 
 import json
@@ -16,11 +16,19 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
 BASE_URL = "https://www.eventernote.com"
-REQUEST_INTERVAL = 2  # 秒（サーバー負荷軽減）
+REQUEST_INTERVAL = 2
 DATA_DIR = Path("data")
+CONFIG_PATH = Path("config.json")
 
 
-def fetch_actor_events(actor_id: int, max_pages: int = 10) -> list[dict]:
+def load_config() -> list[dict]:
+    """config.json から声優リストを読み込む"""
+    with open(CONFIG_PATH, "r", encoding="utf-8") as f:
+        config = json.load(f)
+    return config["actors"]
+
+
+def fetch_actor_events(actor_id: int, max_pages: int = 50) -> list[dict]:
     """指定声優の全イベントを取得する"""
     all_events = []
 
@@ -161,28 +169,36 @@ def save_events(actor_id: int, actor_name: str, events: list[dict]) -> Path:
     }
 
     filepath = DATA_DIR / f"actor_{actor_id}.json"
-    filepath.write_text(json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8")
+    filepath.write_text(
+        json.dumps(output, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
     return filepath
 
 
 def main():
-    """テスト実行：春咲暖（ID: 16058）"""
-    actor_id = 16058
-    actor_name = "春咲暖"
+    """config.json の全声優を順番に処理する"""
+    actors = load_config()
+    print(f"=== {len(actors)}名の声優を処理します ===\n")
 
-    print(f"=== {actor_name}（ID: {actor_id}）のイベント取得開始 ===")
-    events = fetch_actor_events(actor_id, max_pages=50)
-    print(f"\n合計 {len(events)} 件取得")
+    for i, actor in enumerate(actors, 1):
+        actor_id = actor["id"]
+        actor_name = actor["name"]
 
-    if events:
-        filepath = save_events(actor_id, actor_name, events)
-        print(f"保存先: {filepath}")
+        print(f"[{i}/{len(actors)}] {actor_name}（ID: {actor_id}）")
+        print("-" * 50)
 
-        print(f"\n--- 直近5件 ---")
-        for e in events[:5]:
-            print(f"  {e['date']} | {e['event_name'][:50]}")
-            print(f"    会場: {e['venue']}")
-            print(f"    開演: {e['start_time'] or '未定'}")
+        events = fetch_actor_events(actor_id, max_pages=50)
+        print(f"  合計: {len(events)} 件取得")
+
+        if events:
+            filepath = save_events(actor_id, actor_name, events)
+            print(f"  保存先: {filepath}")
+        else:
+            print(f"  イベントなし、スキップ")
+
+        print()
+
+    print("=== 全声優の取得完了 ===")
 
 
 if __name__ == "__main__":

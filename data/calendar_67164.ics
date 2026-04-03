@@ -1,0 +1,1634 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//voice-actor-calendar//EN
+X-WR-CALNAME:陽高真白のイベント
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Asia/Tokyo
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+TZNAME:JST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3cc406ba99c6bfef6cca73600ae1181e@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260923T163000
+DTEND;TZID=Asia/Tokyo:20260923T183000
+SUMMARY:学園アイドルマスター  LIVE TOUR -標- 岩手公演 DAY2
+LOCATION:トーサイクラシックホール岩手(岩手県民会館) 大
+ ホール
+DESCRIPTION:会場: トーサイクラシックホール岩手(岩手県民
+ 会館) 大ホール\n開場 15:30 / 開演 16:30\n共演: 学園アイド
+ ルマスター\, 伊藤舞音\, 湊みや\, 春咲暖\nhttps://www.evente
+ rnote.com/events/465357
+END:VEVENT
+BEGIN:VEVENT
+UID:edd6f3efe91c43a33f63d1023fe46f57@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260922T183000
+DTEND;TZID=Asia/Tokyo:20260922T203000
+SUMMARY:学園アイドルマスター  LIVE TOUR -標- 岩手公演 DAY1
+LOCATION:トーサイクラシックホール岩手(岩手県民会館) 大
+ ホール
+DESCRIPTION:会場: トーサイクラシックホール岩手(岩手県民
+ 会館) 大ホール\n開場 17:30 / 開演 18:30\n共演: 学園アイド
+ ルマスター\, 伊藤舞音\, 湊みや\, 春咲暖\nhttps://www.evente
+ rnote.com/events/465356
+END:VEVENT
+BEGIN:VEVENT
+UID:3a570a50d6cad1df48866fdf17b33178@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260830T180000
+DTEND;TZID=Asia/Tokyo:20260830T200000
+SUMMARY:陽高真白1st LIVE「and future」
+LOCATION:大手町三井ホール
+DESCRIPTION:会場: 大手町三井ホール\n開場 17:00 / 開演 18:00\n
+ https://www.eventernote.com/events/463110
+END:VEVENT
+BEGIN:VEVENT
+UID:8f29885ac2458b1052ae3ec3889dd0ca@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260607T170000
+DTEND;TZID=Asia/Tokyo:20260607T190000
+SUMMARY:学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTI
+ VAL DAY2
+LOCATION:横浜アリーナ
+DESCRIPTION:会場: 横浜アリーナ\n開場 15:30 / 開演 17:00\n共演
+ : 学園アイドルマスター\, 長月あおい\, 小鹿なお\, 飯田
+ ヒカル\, 七瀬つむぎ\, 花岩香奈\, 伊藤舞音\, 湊みや\, 
+ 川村玲奈\, 薄井友里\, 松田彩音\, 春咲暖\, 天音ゆかり\n
+ https://www.eventernote.com/events/452235
+END:VEVENT
+BEGIN:VEVENT
+UID:9db809e248c4c049d18cf734ba81b2d9@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260606T170000
+DTEND;TZID=Asia/Tokyo:20260606T190000
+SUMMARY:学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTI
+ VAL DAY1
+LOCATION:横浜アリーナ
+DESCRIPTION:会場: 横浜アリーナ\n開場 15:30 / 開演 17:00\n共演
+ : 学園アイドルマスター\, 長月あおい\, 小鹿なお\, 飯田
+ ヒカル\, 七瀬つむぎ\, 花岩香奈\, 伊藤舞音\, 湊みや\, 
+ 川村玲奈\, 薄井友里\, 松田彩音\, 春咲暖\, 天音ゆかり\n
+ https://www.eventernote.com/events/452234
+END:VEVENT
+BEGIN:VEVENT
+UID:aaf202343aa92d982d495515c0ee6b9b@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260426T163000
+DTEND;TZID=Asia/Tokyo:20260426T183000
+SUMMARY:舞台「アサルトリリィ・シュツルム」〜サングリ
+ ーズル編〜 第2弾公演 4/26 16:30
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 15:30 / 開演 16:30\n共演: 大森莉緒\, 牧浦乙葵\, 
+ 其原有沙\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 反田葉月\,
+  林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤瑞季\, 日永麗\
+ , 佐々木優佳里\, 吉岡茉祐\, 河内美里\, 込山榛香\, 髙橋
+ 彩音\, 蛭田愛梨\, 清水凜\, 楠世蓮\n  ...他6名\nhttps://www.e
+ venternote.com/events/449140
+END:VEVENT
+BEGIN:VEVENT
+UID:9dba763bee8b1a903788bb20d024a3ba@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260426T120000
+DTEND;TZID=Asia/Tokyo:20260426T140000
+SUMMARY:舞台「アサルトリリィ・シュツルム」〜サングリ
+ ーズル編〜 第2弾公演 4/26 12:00
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 11:00 / 開演 12:00\n共演: 大森莉緒\, 牧浦乙葵\, 
+ 其原有沙\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 反田葉月\,
+  林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤瑞季\, 日永麗\
+ , 佐々木優佳里\, 吉岡茉祐\, 河内美里\, 込山榛香\, 髙橋
+ 彩音\, 蛭田愛梨\, 清水凜\, 楠世蓮\n  ...他6名\nhttps://www.e
+ venternote.com/events/445953
+END:VEVENT
+BEGIN:VEVENT
+UID:75cea92a3051227ef94e30bb59064494@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260425T130000
+DTEND;TZID=Asia/Tokyo:20260425T150000
+SUMMARY:舞台「アサルトリリィ・シュツルム」〜サングリ
+ ーズル編〜 第2弾公演 4/25 13:00
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 12:00 / 開演 13:00\n共演: 大森莉緒\, 牧浦乙葵\, 
+ 其原有沙\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 反田葉月\,
+  林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤瑞季\, 日永麗\
+ , 佐々木優佳里\, 吉岡茉祐\, 河内美里\, 込山榛香\, 髙橋
+ 彩音\, 蛭田愛梨\, 清水凜\, 楠世蓮\n  ...他6名\nhttps://www.e
+ venternote.com/events/449137
+END:VEVENT
+BEGIN:VEVENT
+UID:ad9e3110af028c0996ee451e61dd0a1b@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260425T180000
+DTEND;TZID=Asia/Tokyo:20260425T200000
+SUMMARY:舞台「アサルトリリィ・シュツルム」〜サングリ
+ ーズル編〜 第2弾公演 4/25 18:00
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 17:00 / 開演 18:00\n共演: 大森莉緒\, 牧浦乙葵\, 
+ 其原有沙\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 反田葉月\,
+  林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤瑞季\, 日永麗\
+ , 佐々木優佳里\, 吉岡茉祐\, 河内美里\, 込山榛香\, 髙橋
+ 彩音\, 蛭田愛梨\, 清水凜\, 楠世蓮\n  ...他6名\nhttps://www.e
+ venternote.com/events/449138
+END:VEVENT
+BEGIN:VEVENT
+UID:c887a8fc8e85c5e0123afd93313025db@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260424T183000
+DTEND;TZID=Asia/Tokyo:20260424T203000
+SUMMARY:舞台「アサルトリリィ・シュツルム」〜サングリ
+ ーズル編〜 第2弾公演 4/24
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 17:30 / 開演 18:30\n共演: 大森莉緒\, 牧浦乙葵\, 
+ 其原有沙\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 反田葉月\,
+  林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤瑞季\, 日永麗\
+ , 佐々木優佳里\, 吉岡茉祐\, 河内美里\, 込山榛香\, 髙橋
+ 彩音\, 蛭田愛梨\, 清水凜\, 楠世蓮\n  ...他6名\nhttps://www.e
+ venternote.com/events/449136
+END:VEVENT
+BEGIN:VEVENT
+UID:9c95cf13c2b8e313abc1df5dfbfa6a85@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260423T183000
+DTEND;TZID=Asia/Tokyo:20260423T203000
+SUMMARY:舞台「アサルトリリィ・シュツルム」〜サングリ
+ ーズル編〜 第2弾公演 4/23
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 17:30 / 開演 18:30\n共演: 大森莉緒\, 牧浦乙葵\, 
+ 其原有沙\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 反田葉月\,
+  林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤瑞季\, 日永麗\
+ , 佐々木優佳里\, 吉岡茉祐\, 河内美里\, 込山榛香\, 髙橋
+ 彩音\, 蛭田愛梨\, 清水凜\, 楠世蓮\n  ...他6名\nhttps://www.e
+ venternote.com/events/449135
+END:VEVENT
+BEGIN:VEVENT
+UID:76d7807fa400e6b15f141bfde5ef5af4@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260421T183000
+DTEND;TZID=Asia/Tokyo:20260421T203000
+SUMMARY:舞台「アサルトリリィ・シュツルム」〜サングリ
+ ーズル編〜 第2弾公演 4/21
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 17:30 / 開演 18:30\n共演: 大森莉緒\, 牧浦乙葵\, 
+ 其原有沙\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 反田葉月\,
+  林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤瑞季\, 日永麗\
+ , 佐々木優佳里\, 吉岡茉祐\, 河内美里\, 込山榛香\, 髙橋
+ 彩音\, 蛭田愛梨\, 清水凜\, 楠世蓮\n  ...他6名\nhttps://www.e
+ venternote.com/events/449134
+END:VEVENT
+BEGIN:VEVENT
+UID:090de54bbeabb2b9a6274f7be419767b@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260420T183000
+DTEND;TZID=Asia/Tokyo:20260420T203000
+SUMMARY:舞台「アサルトリリィ・シュツルム」〜サングリ
+ ーズル編〜 第2弾公演 4/20
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 17:30 / 開演 18:30\n共演: 大森莉緒\, 牧浦乙葵\, 
+ 其原有沙\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 反田葉月\,
+  林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤瑞季\, 日永麗\
+ , 佐々木優佳里\, 吉岡茉祐\, 河内美里\, 込山榛香\, 髙橋
+ 彩音\, 蛭田愛梨\, 清水凜\, 楠世蓮\n  ...他6名\nhttps://www.e
+ venternote.com/events/449133
+END:VEVENT
+BEGIN:VEVENT
+UID:9215238673ee26827d25addf7776fb26@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260419T130000
+DTEND;TZID=Asia/Tokyo:20260419T150000
+SUMMARY:舞台「アサルトリリィ・シュツルム」〜サングリ
+ ーズル編〜 第2弾公演 4/19
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 12:00 / 開演 13:00\n共演: 大森莉緒\, 牧浦乙葵\, 
+ 其原有沙\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 反田葉月\,
+  林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤瑞季\, 日永麗\
+ , 佐々木優佳里\, 吉岡茉祐\, 河内美里\, 込山榛香\, 髙橋
+ 彩音\, 蛭田愛梨\, 清水凜\, 楠世蓮\n  ...他6名\nhttps://www.e
+ venternote.com/events/449132
+END:VEVENT
+BEGIN:VEVENT
+UID:074d56a2462be066509f28fb3f863577@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260418T130000
+DTEND;TZID=Asia/Tokyo:20260418T150000
+SUMMARY:舞台「アサルトリリィ・シュツルム」〜サングリ
+ ーズル編〜 第2弾公演 4/18 13:00
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 12:00 / 開演 13:00\n共演: 大森莉緒\, 牧浦乙葵\, 
+ 其原有沙\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 反田葉月\,
+  林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤瑞季\, 日永麗\
+ , 佐々木優佳里\, 吉岡茉祐\, 河内美里\, 込山榛香\, 髙橋
+ 彩音\, 蛭田愛梨\, 清水凜\, 楠世蓮\n  ...他6名\nhttps://www.e
+ venternote.com/events/445952
+END:VEVENT
+BEGIN:VEVENT
+UID:f26b6f2a1f9f6b5e6458a14c3a727d32@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260418T180000
+DTEND;TZID=Asia/Tokyo:20260418T200000
+SUMMARY:舞台「アサルトリリィ・シュツルム」〜サングリ
+ ーズル編〜 第2弾公演 4/18 18:00
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 17:00 / 開演 18:00\n共演: 大森莉緒\, 牧浦乙葵\, 
+ 其原有沙\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 反田葉月\,
+  林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤瑞季\, 日永麗\
+ , 佐々木優佳里\, 吉岡茉祐\, 河内美里\, 込山榛香\, 髙橋
+ 彩音\, 蛭田愛梨\, 清水凜\, 楠世蓮\n  ...他6名\nhttps://www.e
+ venternote.com/events/449131
+END:VEVENT
+BEGIN:VEVENT
+UID:620d259122aa2b1c773f994c876711e1@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260301T170000
+DTEND;TZID=Asia/Tokyo:20260301T190000
+SUMMARY:学園アイドルマスター 初星音楽祭 DAY2
+LOCATION:京王アリーナTOKYO(武蔵野の森総合スポーツプラザ
+ )メインアリーナ
+DESCRIPTION:会場: 京王アリーナTOKYO(武蔵野の森総合スポー
+ ツプラザ)メインアリーナ\n開場 15:30 / 開演 17:00\n共演: 
+ 学園アイドルマスター\, 長月あおい\, 小鹿なお\, 飯田
+ ヒカル\, 七瀬つむぎ\, 花岩香奈\, 伊藤舞音\, 湊みや\, 
+ 川村玲奈\, 薄井友里\, 松田彩音\, 春咲暖\, 天音ゆかり\n
+ https://www.eventernote.com/events/445442
+END:VEVENT
+BEGIN:VEVENT
+UID:d46a80102a21f281482013c0193917d6@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260228T170000
+DTEND;TZID=Asia/Tokyo:20260228T190000
+SUMMARY:学園アイドルマスター 初星音楽祭 DAY1
+LOCATION:京王アリーナTOKYO(武蔵野の森総合スポーツプラザ
+ )メインアリーナ
+DESCRIPTION:会場: 京王アリーナTOKYO(武蔵野の森総合スポー
+ ツプラザ)メインアリーナ\n開場 15:30 / 開演 17:00\n共演: 
+ 学園アイドルマスター\, 長月あおい\, 小鹿なお\, 飯田
+ ヒカル\, 七瀬つむぎ\, 花岩香奈\, 伊藤舞音\, 湊みや\, 
+ 川村玲奈\, 薄井友里\, 松田彩音\, 春咲暖\, 天音ゆかり\n
+ https://www.eventernote.com/events/445441
+END:VEVENT
+BEGIN:VEVENT
+UID:d4d92ec7dbdf68d166299daf499b22cc@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260211T183000
+DTEND;TZID=Asia/Tokyo:20260211T203000
+SUMMARY:春咲暖×陽高真白ツーマンライブ 「Luminous 2026」夜
+ 公演
+LOCATION:新宿ReNY
+DESCRIPTION:会場: 新宿ReNY\n開場 17:45 / 開演 18:30\n共演: 春咲
+ 暖\nhttps://www.eventernote.com/events/445470
+END:VEVENT
+BEGIN:VEVENT
+UID:84e30f7fbc07ca3359a506c8fe0dd05f@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20260211T151500
+DTEND;TZID=Asia/Tokyo:20260211T171500
+SUMMARY:春咲暖×陽高真白ツーマンライブ 「Luminous 2026」昼
+ 公演
+LOCATION:新宿ReNY
+DESCRIPTION:会場: 新宿ReNY\n開場 14:30 / 開演 15:15\n共演: 春咲
+ 暖\nhttps://www.eventernote.com/events/445471
+END:VEVENT
+BEGIN:VEVENT
+UID:cc01b97eab9143bb1737deac50af5acc@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20251214T160000
+DTEND;TZID=Asia/Tokyo:20251214T180000
+SUMMARY:THE IDOLM@STER M@STERS OF IDOL WORLD 2025 DAY2
+LOCATION:京セラドーム大阪(大阪ドーム)
+DESCRIPTION:会場: 京セラドーム大阪(大阪ドーム)\n開場 14:00
+  / 開演 16:00\n共演: THE IDOLM@STER\, 今井麻美\, 長谷川明子\,
+  原由実\, たかはし智秋\, 沼倉愛美\, アイドルマスター
+ シンデレラガールズ\, アミマネラ(シンデレラガールズ)
+ \, 大橋彩香\, 髙野麻美\, 深川芹亜\, Sirius Chord(シンデレ
+ ラガールズ)\, 福原綾香\, 関口理咲\, 千菅春香\, セクシ
+ ーギャルズ(シンデレラガールズ)\, 山下七海\, 金子真由
+ 美\, 佳村はるか\, アイドルマスターミリオンライブ！
+ ミリオンスターズ\n  ...他59名\nhttps://www.eventernote.com/event
+ s/438726
+END:VEVENT
+BEGIN:VEVENT
+UID:51e31489c56216bdd4b8cf7def0003b8@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20251101T180000
+DTEND;TZID=Asia/Tokyo:20251101T200000
+SUMMARY:第１回 うちとれっ！ お花さん みーてぃんぐっ！ 
+ 夜の部
+LOCATION:小松川区民館ホール
+DESCRIPTION:会場: 小松川区民館ホール\n開場 17:15 / 開演 18:0
+ 0\n共演: 春咲暖\nhttps://www.eventernote.com/events/443892
+END:VEVENT
+BEGIN:VEVENT
+UID:9cd2c2a2d59b2c5cc34b2cd2256604ce@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20251101T130000
+DTEND;TZID=Asia/Tokyo:20251101T150000
+SUMMARY:第１回 うちとれっ！ お花さん みーてぃんぐっ！ 
+ 昼の部
+LOCATION:小松川区民館ホール
+DESCRIPTION:会場: 小松川区民館ホール\n開場 12:15 / 開演 13:0
+ 0\n共演: 春咲暖\nhttps://www.eventernote.com/events/443890
+END:VEVENT
+BEGIN:VEVENT
+UID:66813f27c8d5e74ac4686371620666eb@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20251005T160000
+DTEND;TZID=Asia/Tokyo:20251005T180000
+SUMMARY:超次元ミュージカル「ネプテューヌ」Re:BOOT!! 10/5 1
+ 6:00
+LOCATION:六行会ホール
+DESCRIPTION:会場: 六行会ホール\n開場 15:00 / 開演 16:00\n共演
+ : 中川梨花\, 田口華\, 北澤早紀\, 星乃まりな\, 斎藤愛莉
+ \, 八木ましろ\, あやさ(天見綾沙/妃奈乃るい)\, 花井円
+ 香\, 川原美咲\, 西門志織\, 絃ユリナ\, 工藤スミレ\, 遠
+ 藤しずか\, 矢新愛梨\, 安藤千伽奈\, 石井文夏\, 市川珠
+ 良\, 鈴代真弓\, 助川綾美\, SERENA\n  ...他1名\nhttps://www.even
+ ternote.com/events/435405
+END:VEVENT
+BEGIN:VEVENT
+UID:ea16c0ba4dcb09e33169a28a4f44ad88@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20251005T120000
+DTEND;TZID=Asia/Tokyo:20251005T140000
+SUMMARY:超次元ミュージカル「ネプテューヌ」Re:BOOT!! 10/5 1
+ 2:00
+LOCATION:六行会ホール
+DESCRIPTION:会場: 六行会ホール\n開場 11:00 / 開演 12:00\n共演
+ : 中川梨花\, 田口華\, 北澤早紀\, 星乃まりな\, 斎藤愛莉
+ \, 八木ましろ\, あやさ(天見綾沙/妃奈乃るい)\, 花井円
+ 香\, 川原美咲\, 西門志織\, 絃ユリナ\, 工藤スミレ\, 遠
+ 藤しずか\, 矢新愛梨\, 安藤千伽奈\, 石井文夏\, 市川珠
+ 良\, 鈴代真弓\, 助川綾美\, SERENA\n  ...他1名\nhttps://www.even
+ ternote.com/events/435403
+END:VEVENT
+BEGIN:VEVENT
+UID:decda318bb828edd0a49ac81d6d21084@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20251004T130000
+DTEND;TZID=Asia/Tokyo:20251004T150000
+SUMMARY:超次元ミュージカル「ネプテューヌ」Re:BOOT!! 10/4 1
+ 3:00
+LOCATION:六行会ホール
+DESCRIPTION:会場: 六行会ホール\n開場 12:00 / 開演 13:00\n共演
+ : 中川梨花\, 田口華\, 北澤早紀\, 星乃まりな\, 斎藤愛莉
+ \, 八木ましろ\, あやさ(天見綾沙/妃奈乃るい)\, 花井円
+ 香\, 川原美咲\, 西門志織\, 絃ユリナ\, 工藤スミレ\, 遠
+ 藤しずか\, 矢新愛梨\, 安藤千伽奈\, 石井文夏\, 市川珠
+ 良\, 鈴代真弓\, 助川綾美\, SERENA\n  ...他1名\nhttps://www.even
+ ternote.com/events/435401
+END:VEVENT
+BEGIN:VEVENT
+UID:11e1a0608ce5e6b968e45db0b6b065c9@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20251004T170000
+DTEND;TZID=Asia/Tokyo:20251004T190000
+SUMMARY:超次元ミュージカル「ネプテューヌ」Re:BOOT!! 10/4 1
+ 7:00
+LOCATION:六行会ホール
+DESCRIPTION:会場: 六行会ホール\n開場 16:00 / 開演 17:00\n共演
+ : 中川梨花\, 田口華\, 北澤早紀\, 星乃まりな\, 斎藤愛莉
+ \, 八木ましろ\, あやさ(天見綾沙/妃奈乃るい)\, 花井円
+ 香\, 川原美咲\, 西門志織\, 絃ユリナ\, 工藤スミレ\, 遠
+ 藤しずか\, 矢新愛梨\, 安藤千伽奈\, 石井文夏\, 市川珠
+ 良\, 鈴代真弓\, 助川綾美\, SERENA\n  ...他1名\nhttps://www.even
+ ternote.com/events/435402
+END:VEVENT
+BEGIN:VEVENT
+UID:c61aa4cfac84b3beedd828c225937b7a@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20251003T180000
+DTEND;TZID=Asia/Tokyo:20251003T200000
+SUMMARY:超次元ミュージカル「ネプテューヌ」Re:BOOT!! 10/3 1
+ 8:00
+LOCATION:六行会ホール
+DESCRIPTION:会場: 六行会ホール\n開場 17:00 / 開演 18:00\n共演
+ : 中川梨花\, 田口華\, 北澤早紀\, 星乃まりな\, 斎藤愛莉
+ \, 八木ましろ\, あやさ(天見綾沙/妃奈乃るい)\, 花井円
+ 香\, 川原美咲\, 西門志織\, 絃ユリナ\, 工藤スミレ\, 遠
+ 藤しずか\, 矢新愛梨\, 安藤千伽奈\, 石井文夏\, 市川珠
+ 良\, 鈴代真弓\, 助川綾美\, SERENA\n  ...他1名\nhttps://www.even
+ ternote.com/events/435398
+END:VEVENT
+BEGIN:VEVENT
+UID:1b9f3aab083e41b98ea1911ba010fcbd@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20251003T140000
+DTEND;TZID=Asia/Tokyo:20251003T160000
+SUMMARY:超次元ミュージカル「ネプテューヌ」Re:BOOT!! 10/3 1
+ 4:00
+LOCATION:六行会ホール
+DESCRIPTION:会場: 六行会ホール\n開場 13:00 / 開演 14:00\n共演
+ : 中川梨花\, 田口華\, 北澤早紀\, 星乃まりな\, 斎藤愛莉
+ \, 八木ましろ\, あやさ(天見綾沙/妃奈乃るい)\, 花井円
+ 香\, 川原美咲\, 西門志織\, 絃ユリナ\, 工藤スミレ\, 遠
+ 藤しずか\, 矢新愛梨\, 安藤千伽奈\, 石井文夏\, 市川珠
+ 良\, 鈴代真弓\, 助川綾美\, SERENA\n  ...他1名\nhttps://www.even
+ ternote.com/events/435400
+END:VEVENT
+BEGIN:VEVENT
+UID:d4b594c63d3fd184be4db884d7a037c8@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20251002T180000
+DTEND;TZID=Asia/Tokyo:20251002T200000
+SUMMARY:超次元ミュージカル「ネプテューヌ」Re:BOOT!! 10/2 1
+ 8:00
+LOCATION:六行会ホール
+DESCRIPTION:会場: 六行会ホール\n開場 17:00 / 開演 18:00\n共演
+ : 中川梨花\, 田口華\, 北澤早紀\, 星乃まりな\, 斎藤愛莉
+ \, 八木ましろ\, あやさ(天見綾沙/妃奈乃るい)\, 花井円
+ 香\, 川原美咲\, 西門志織\, 絃ユリナ\, 工藤スミレ\, 遠
+ 藤しずか\, 矢新愛梨\, 安藤千伽奈\, 石井文夏\, 市川珠
+ 良\, 鈴代真弓\, 助川綾美\, SERENA\n  ...他1名\nhttps://www.even
+ ternote.com/events/435397
+END:VEVENT
+BEGIN:VEVENT
+UID:f734c211ac1c7b2159d756c768d999ad@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20251002T140000
+DTEND;TZID=Asia/Tokyo:20251002T160000
+SUMMARY:超次元ミュージカル「ネプテューヌ」Re:BOOT!! 10/2 1
+ 4:00
+LOCATION:六行会ホール
+DESCRIPTION:会場: 六行会ホール\n開場 13:00 / 開演 14:00\n共演
+ : 中川梨花\, 田口華\, 北澤早紀\, 星乃まりな\, 斎藤愛莉
+ \, 八木ましろ\, あやさ(天見綾沙/妃奈乃るい)\, 花井円
+ 香\, 川原美咲\, 西門志織\, 絃ユリナ\, 工藤スミレ\, 遠
+ 藤しずか\, 矢新愛梨\, 安藤千伽奈\, 石井文夏\, 市川珠
+ 良\, 鈴代真弓\, 助川綾美\, SERENA\n  ...他1名\nhttps://www.even
+ ternote.com/events/435399
+END:VEVENT
+BEGIN:VEVENT
+UID:699934cb79aa419928c6442e6086c242@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20251001T180000
+DTEND;TZID=Asia/Tokyo:20251001T200000
+SUMMARY:超次元ミュージカル「ネプテューヌ」Re:BOOT!! 10/1
+LOCATION:六行会ホール
+DESCRIPTION:会場: 六行会ホール\n開場 17:00 / 開演 18:00\n共演
+ : 中川梨花\, 田口華\, 北澤早紀\, 星乃まりな\, 斎藤愛莉
+ \, 八木ましろ\, あやさ(天見綾沙/妃奈乃るい)\, 花井円
+ 香\, 川原美咲\, 西門志織\, 絃ユリナ\, 工藤スミレ\, 遠
+ 藤しずか\, 矢新愛梨\, 安藤千伽奈\, 石井文夏\, 市川珠
+ 良\, 鈴代真弓\, 助川綾美\, SERENA\n  ...他1名\nhttps://www.even
+ ternote.com/events/435396
+END:VEVENT
+BEGIN:VEVENT
+UID:269b6dc3bab3cdc25d4654886a6250d7@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250921T170000
+DTEND;TZID=Asia/Tokyo:20250921T190000
+SUMMARY:学園アイドルマスター クラス対抗初星大運動会 DA
+ Y2
+LOCATION:国立代々木競技場第一体育館
+DESCRIPTION:会場: 国立代々木競技場第一体育館\n開場 15:30 /
+  開演 17:00\n共演: 学園アイドルマスター\, 長月あおい\, 
+ 小鹿なお\, 飯田ヒカル\, 七瀬つむぎ\, 花岩香奈\, 伊藤
+ 舞音\, 湊みや\, 川村玲奈\, 薄井友里\, 松田彩音\, 春咲
+ 暖\, 天音ゆかり\, 村田綾香\, 赤羽根健治\nhttps://www.evente
+ rnote.com/events/431846
+END:VEVENT
+BEGIN:VEVENT
+UID:d5d05fdce456b8491f47984a62824399@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250920T170000
+DTEND;TZID=Asia/Tokyo:20250920T190000
+SUMMARY:学園アイドルマスター クラス対抗初星大運動会 DA
+ Y1
+LOCATION:国立代々木競技場第一体育館
+DESCRIPTION:会場: 国立代々木競技場第一体育館\n開場 15:30 /
+  開演 17:00\n共演: 学園アイドルマスター\, 長月あおい\, 
+ 小鹿なお\, 飯田ヒカル\, 七瀬つむぎ\, 花岩香奈\, 伊藤
+ 舞音\, 湊みや\, 川村玲奈\, 薄井友里\, 松田彩音\, 春咲
+ 暖\, 天音ゆかり\, 村田綾香\, 赤羽根健治\nhttps://www.evente
+ rnote.com/events/431845
+END:VEVENT
+BEGIN:VEVENT
+UID:30f8685642202d4f98ef618efa87d144@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250803T180000
+DTEND;TZID=Asia/Tokyo:20250803T200000
+SUMMARY:陽高真白 presents「☆夏の大暴走まつり☆ 〜ハジけ
+ る準備はできてるか〜」
+LOCATION:SHIBUYA TAKE OFF 7
+DESCRIPTION:会場: SHIBUYA TAKE OFF 7\n開場 17:30 / 開演 18:00\n共演
+ : 春咲暖\nhttps://www.eventernote.com/events/435985
+END:VEVENT
+BEGIN:VEVENT
+UID:59c559fb56bbb90cfd973112d7f12384@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250803T140000
+DTEND;TZID=Asia/Tokyo:20250803T160000
+SUMMARY:春咲暖 presents「☆夏のうたたねまつり☆ 〜トキめ
+ く準備はできてるか〜」
+LOCATION:SHIBUYA TAKE OFF 7
+DESCRIPTION:会場: SHIBUYA TAKE OFF 7\n開場 13:30 / 開演 14:00\n共演
+ : 春咲暖\nhttps://www.eventernote.com/events/435984
+END:VEVENT
+BEGIN:VEVENT
+UID:c09b96c18c6bafcbb5b9de36654ba61b@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250704T190000
+DTEND;TZID=Asia/Tokyo:20250704T210000
+SUMMARY:学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 
+ 東京追加公演 ＜夜の部＞
+LOCATION:新宿ReNY
+DESCRIPTION:会場: 新宿ReNY\n開場 18:15 / 開演 19:00\n共演: 学園
+ アイドルマスター\, 松田彩音\, 春咲暖\nhttps://www.eventerno
+ te.com/events/431615
+END:VEVENT
+BEGIN:VEVENT
+UID:8c4670085591b503188e7efcc467dafb@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250704T151500
+DTEND;TZID=Asia/Tokyo:20250704T171500
+SUMMARY:学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 
+ 東京追加公演  ＜昼の部＞
+LOCATION:新宿ReNY
+DESCRIPTION:会場: 新宿ReNY\n開場 14:30 / 開演 15:15\n共演: 学園
+ アイドルマスター\, 松田彩音\, 春咲暖\nhttps://www.eventerno
+ te.com/events/431616
+END:VEVENT
+BEGIN:VEVENT
+UID:855734b0fb1640c28f5e76660511af82@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250704T151500
+DTEND;TZID=Asia/Tokyo:20250704T171500
+SUMMARY:学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 
+ 東京追加公演 ＜昼の部＞
+LOCATION:新宿ReNY
+DESCRIPTION:会場: 新宿ReNY\n開場 14:30 / 開演 15:15\n共演: 学園
+ アイドルマスター\, 松田彩音\, 春咲暖\nhttps://www.eventerno
+ te.com/events/431535
+END:VEVENT
+BEGIN:VEVENT
+UID:3b80bb70971d92a3ef089e2f5f804c5a@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250601T170000
+DTEND;TZID=Asia/Tokyo:20250601T190000
+SUMMARY:学園アイドルマスター The 1st Period Harmony Star DAY2
+LOCATION:TACHIKAWA STAGE GARDEN
+DESCRIPTION:会場: TACHIKAWA STAGE GARDEN\n開場 16:00 / 開演 17:00\n
+ 共演: 学園アイドルマスター\, 長月あおい\, 小鹿なお\, 
+ 飯田ヒカル\, 七瀬つむぎ\, 花岩香奈\, 伊藤舞音\, 湊み
+ や\, 川村玲奈\, 薄井友里\, 春咲暖\, 松田彩音\nhttps://www.
+ eventernote.com/events/405992
+END:VEVENT
+BEGIN:VEVENT
+UID:ade70c43c99e233c7a8e8638ab02cbdd@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250531T170000
+DTEND;TZID=Asia/Tokyo:20250531T190000
+SUMMARY:学園アイドルマスター The 1st Period Harmony Star DAY1
+LOCATION:TACHIKAWA STAGE GARDEN
+DESCRIPTION:会場: TACHIKAWA STAGE GARDEN\n開場 16:00 / 開演 17:00\n
+ 共演: 学園アイドルマスター\, 長月あおい\, 小鹿なお\, 
+ 飯田ヒカル\, 七瀬つむぎ\, 花岩香奈\, 伊藤舞音\, 湊み
+ や\, 川村玲奈\, 薄井友里\, 春咲暖\, 松田彩音\nhttps://www.
+ eventernote.com/events/405991
+END:VEVENT
+BEGIN:VEVENT
+UID:eec404415b61aab081019105624be31e@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250525T170000
+DTEND;TZID=Asia/Tokyo:20250525T190000
+SUMMARY:学園アイドルマスター The 1st Period Spotlight Star DAY2
+LOCATION:TACHIKAWA STAGE GARDEN
+DESCRIPTION:会場: TACHIKAWA STAGE GARDEN\n開場 16:00 / 開演 17:00\n
+ 共演: 学園アイドルマスター\, 長月あおい\, 小鹿なお\, 
+ 飯田ヒカル\, 七瀬つむぎ\, 花岩香奈\, 伊藤舞音\, 湊み
+ や\, 川村玲奈\, 薄井友里\, 春咲暖\, 松田彩音\nhttps://www.
+ eventernote.com/events/405990
+END:VEVENT
+BEGIN:VEVENT
+UID:71cd6a3e6ce48bf89c35a88922106ab4@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250524T170000
+DTEND;TZID=Asia/Tokyo:20250524T190000
+SUMMARY:学園アイドルマスター The 1st Period Spotlight Star DAY1
+LOCATION:TACHIKAWA STAGE GARDEN
+DESCRIPTION:会場: TACHIKAWA STAGE GARDEN\n開場 16:00 / 開演 17:00\n
+ 共演: 学園アイドルマスター\, 長月あおい\, 小鹿なお\, 
+ 飯田ヒカル\, 七瀬つむぎ\, 花岩香奈\, 伊藤舞音\, 湊み
+ や\, 川村玲奈\, 薄井友里\, 春咲暖\, 松田彩音\nhttps://www.
+ eventernote.com/events/405989
+END:VEVENT
+BEGIN:VEVENT
+UID:78a70b1ba0c05103d551af33c5c715f4@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250505T180000
+DTEND;TZID=Asia/Tokyo:20250505T200000
+SUMMARY:アサルトリリィトークイベント　アサルトリリィ
+ ・シュツルム～サングリーズル編～振り返りトークシ
+ ョー　第二部
+LOCATION:東京都立産業貿易センター浜松町館
+DESCRIPTION:会場: 東京都立産業貿易センター浜松町館\n開
+ 場 17:30 / 開演 18:00\n共演: 大森莉緒\, 牧浦乙葵\, 安藤千
+ 伽奈\, 日永麗\, 河内美里\, 込山榛香\, 吉岡茉祐\nhttps://w
+ ww.eventernote.com/events/426315
+END:VEVENT
+BEGIN:VEVENT
+UID:703bb1e57760559bc9319235659dd13e@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250430T130000
+DTEND;TZID=Asia/Tokyo:20250430T150000
+SUMMARY:舞台「アサルトリリィ・シュツルム」 ～サングリ
+ ーズル編～ 4/30
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 12:00 / 開演 13:00\n共演: 大森莉緒\, 牧浦乙葵\
+ , 稲玉洸\, 小松穂葉\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 
+ 反田葉月\, 林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤瑞
+ 季\, 日永麗\, 佐々木優佳里\, 吉岡茉祐\, 朝倉ふゆな\, 
+ 河内美里\, 込山榛香\, 蛭田愛梨\, 清水凜\n  ...他4名\nhttp
+ s://www.eventernote.com/events/417792
+END:VEVENT
+BEGIN:VEVENT
+UID:39a4c526f4d4fec8502d02a4a71d53bd@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250429T130000
+DTEND;TZID=Asia/Tokyo:20250429T150000
+SUMMARY:舞台「アサルトリリィ・シュツルム」 ～サングリ
+ ーズル編～ 4/29 13:00
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 12:00 / 開演 13:00\n共演: 大森莉緒\, 牧浦乙葵\
+ , 稲玉洸\, 小松穂葉\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 
+ 反田葉月\, 林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤瑞
+ 季\, 日永麗\, 佐々木優佳里\, 吉岡茉祐\, 朝倉ふゆな\, 
+ 河内美里\, 込山榛香\, 蛭田愛梨\, 清水凜\n  ...他4名\nhttp
+ s://www.eventernote.com/events/417791
+END:VEVENT
+BEGIN:VEVENT
+UID:9cd0cf324a06465cdb69ddcd85e71ed7@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250429T180000
+DTEND;TZID=Asia/Tokyo:20250429T200000
+SUMMARY:舞台「アサルトリリィ・シュツルム」 ～サングリ
+ ーズル編～ 4/29 18:00
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 17:00 / 開演 18:00\n共演: 大森莉緒\, 牧浦乙葵\
+ , 稲玉洸\, 小松穂葉\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 
+ 反田葉月\, 林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤瑞
+ 季\, 日永麗\, 佐々木優佳里\, 吉岡茉祐\, 朝倉ふゆな\, 
+ 河内美里\, 込山榛香\, 蛭田愛梨\, 清水凜\n  ...他4名\nhttp
+ s://www.eventernote.com/events/417790
+END:VEVENT
+BEGIN:VEVENT
+UID:53e71b65af3975aac87574bd8f183438@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250427T130000
+DTEND;TZID=Asia/Tokyo:20250427T150000
+SUMMARY:舞台「アサルトリリィ・シュツルム」 ～サングリ
+ ーズル編～ 4/27 13:00
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 12:00 / 開演 13:00\n共演: 大森莉緒\, 牧浦乙葵\
+ , 稲玉洸\, 小松穂葉\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 
+ 黒木美佑\, 松村芽久未\, 大滝紗緒里\, 安藤千伽奈\, 斉
+ 藤瑞季\, 日永麗\, 佐々木優佳里\, 吉岡茉祐\, 朝倉ふゆ
+ な\, 河内美里\, 込山榛香\, 蛭田愛梨\, 清水凜\n  ...他4名
+ \nhttps://www.eventernote.com/events/417800
+END:VEVENT
+BEGIN:VEVENT
+UID:e7dc88f45b01171c6c4357a255df1b2c@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250427T180000
+DTEND;TZID=Asia/Tokyo:20250427T200000
+SUMMARY:舞台「アサルトリリィ・シュツルム」 ～サングリ
+ ーズル編～ 4/27 18:00
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 17:00 / 開演 18:00\n共演: 大森莉緒\, 牧浦乙葵\
+ , 稲玉洸\, 小松穂葉\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 
+ 黒木美佑\, 松村芽久未\, 大滝紗緒里\, 安藤千伽奈\, 斉
+ 藤瑞季\, 日永麗\, 佐々木優佳里\, 吉岡茉祐\, 朝倉ふゆ
+ な\, 河内美里\, 込山榛香\, 蛭田愛梨\, 清水凜\n  ...他4名
+ \nhttps://www.eventernote.com/events/417795
+END:VEVENT
+BEGIN:VEVENT
+UID:93f6dfb3e44738aa86aa058ee841c77d@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250426T130000
+DTEND;TZID=Asia/Tokyo:20250426T150000
+SUMMARY:舞台「アサルトリリィ・シュツルム」 ～サングリ
+ ーズル編～ 4/26 13:00
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 12:00 / 開演 13:00\n共演: 大森莉緒\, 牧浦乙葵\
+ , 稲玉洸\, 小松穂葉\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 
+ 黒木美佑\, 松村芽久未\, 大滝紗緒里\, 安藤千伽奈\, 斉
+ 藤瑞季\, 日永麗\, 佐々木優佳里\, 吉岡茉祐\, 朝倉ふゆ
+ な\, 河内美里\, 込山榛香\, 蛭田愛梨\, 清水凜\n  ...他4名
+ \nhttps://www.eventernote.com/events/417799
+END:VEVENT
+BEGIN:VEVENT
+UID:56dc132061b4b9916a87cd6b14aab596@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250426T180000
+DTEND;TZID=Asia/Tokyo:20250426T200000
+SUMMARY:舞台「アサルトリリィ・シュツルム」 ～サングリ
+ ーズル編～ 4/26 18:00
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 17:00 / 開演 18:00\n共演: 大森莉緒\, 牧浦乙葵\
+ , 稲玉洸\, 小松穂葉\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 
+ 黒木美佑\, 松村芽久未\, 大滝紗緒里\, 安藤千伽奈\, 斉
+ 藤瑞季\, 日永麗\, 佐々木優佳里\, 吉岡茉祐\, 朝倉ふゆ
+ な\, 河内美里\, 込山榛香\, 蛭田愛梨\, 清水凜\n  ...他4名
+ \nhttps://www.eventernote.com/events/417798
+END:VEVENT
+BEGIN:VEVENT
+UID:e525fde4750c1847ec93e0ba239f8bc2@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250425T190000
+DTEND;TZID=Asia/Tokyo:20250425T210000
+SUMMARY:舞台「アサルトリリィ・シュツルム」 ～サングリ
+ ーズル編～ 4/25
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 18:00 / 開演 19:00\n共演: 大森莉緒\, 牧浦乙葵\
+ , 稲玉洸\, 小松穂葉\, 林田真尋\, 伊藤優衣\, 畑美紗起\, 
+ 反田葉月\, 松村芽久未\, 大滝紗緒里\, 安藤千伽奈\, 斉
+ 藤瑞季\, 日永麗\, 佐々木優佳里\, 吉岡茉祐\, 朝倉ふゆ
+ な\, 河内美里\, 込山榛香\, 蛭田愛梨\, 清水凜\n  ...他4名
+ \nhttps://www.eventernote.com/events/417789
+END:VEVENT
+BEGIN:VEVENT
+UID:e32c0dcd72a1688d8ccfb24bba5714cc@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250403T190000
+DTEND;TZID=Asia/Tokyo:20250403T210000
+SUMMARY:演劇ユニット【メイホリック】［メイホリックシ
+ アター18］朗読劇「美術室に置き去りにされた天使－再
+ 演－」4月3日(木) 本番③
+LOCATION:新宿シアターサンモール
+DESCRIPTION:会場: 新宿シアターサンモール\n開場 18:30 / 開
+ 演 19:00\n共演: 佐々木琴子\, 真山りか\, 広瀬ゆうき\, 天
+ 希かのん\, 門林有羽\, 村田綾香\, 天音みほ\, 辻森梓咲\,
+  柏綾菜\, 橘莉衣\, 立石凛\, 飯田ヒカル\, 飯塚麻結\, 八
+ 巻アンナ\, 香坂さき\, 石飛恵里花\, 磯貝花音\, 花柚\, 
+ 相良茉優\, 岡本芽子\nhttps://www.eventernote.com/events/420612
+END:VEVENT
+BEGIN:VEVENT
+UID:5328ff9f8ac5b60629c2b7ab1549353a@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250403T150000
+DTEND;TZID=Asia/Tokyo:20250403T170000
+SUMMARY:演劇ユニット【メイホリック】［メイホリックシ
+ アター18］朗読劇「美術室に置き去りにされた天使－再
+ 演－」4月3日(木) 本番②(アフタートークショーあり)
+LOCATION:新宿シアターサンモール
+DESCRIPTION:会場: 新宿シアターサンモール\n開場 14:30 / 開
+ 演 15:00\n共演: 佐々木琴子\, 真山りか\, 広瀬ゆうき\, 天
+ 希かのん\, 門林有羽\, 村田綾香\, 天音みほ\, 辻森梓咲\,
+  柏綾菜\, 橘莉衣\, 立石凛\, 飯田ヒカル\, 飯塚麻結\, 八
+ 巻アンナ\, 香坂さき\, 石飛恵里花\, 磯貝花音\, 花柚\, 
+ 相良茉優\, 岡本芽子\nhttps://www.eventernote.com/events/420611
+END:VEVENT
+BEGIN:VEVENT
+UID:c318b8ccabc700d3a60f82b75115bbba@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250402T190000
+DTEND;TZID=Asia/Tokyo:20250402T210000
+SUMMARY:演劇ユニット【メイホリック】［メイホリックシ
+ アター18］朗読劇「美術室に置き去りにされた天使－再
+ 演－」4月2日(水) 本番①
+LOCATION:新宿シアターサンモール
+DESCRIPTION:会場: 新宿シアターサンモール\n開場 18:30 / 開
+ 演 19:00\n共演: 原田彩楓\, 真山りか\, 二ノ宮ゆい(ニノミ
+ ヤユイ)\, 白城なお\, 門林有羽\, 村田綾香\, 藤川茜\, 秋
+ 元悠里\, 柏綾菜\, 橘莉衣\, 立石凛\, 星希成奏\, 鷹村彩
+ 花\, 佐倉薫\, 鈴木杏奈\, 石飛恵里花\, 磯貝花音\, 逢来
+ りん\, 小日向美香\, 岡本芽子\nhttps://www.eventernote.com/event
+ s/420610
+END:VEVENT
+BEGIN:VEVENT
+UID:9654a41f431b52617d250ea6558ce14e@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;VALUE=DATE:20250224
+DTEND;VALUE=DATE:20250225
+SUMMARY:【出演者変更】学園アイドルマスター 47都道府県
+ 制覇！アニメイト全国行脚！スペシャルトークイベン
+ ト 秋葉原回
+LOCATION:アニメイト秋葉原1号館 7F
+DESCRIPTION:会場: アニメイト秋葉原1号館 7F\n共演: 春咲暖\,
+  学園アイドルマスター\nhttps://www.eventernote.com/events/392941
+END:VEVENT
+BEGIN:VEVENT
+UID:6ca0ecfb2d5ff64aeccdbe7a33dd5acf@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250216T183000
+DTEND;TZID=Asia/Tokyo:20250216T203000
+SUMMARY:【出演者変更】学園アイドルマスター DEBUT LIVE 初 
+ TOUR -初陣公演- 渋谷クラブクアトロ ＜夜の部＞
+LOCATION:SHIBUYA CLUB QUATTRO
+DESCRIPTION:会場: SHIBUYA CLUB QUATTRO\n開場 17:45 / 開演 18:30\n共
+ 演: 学園アイドルマスター\, 春咲暖\, 長月あおい\nhttps:/
+ /www.eventernote.com/events/398421
+END:VEVENT
+BEGIN:VEVENT
+UID:cb1ae8012c106165e172486fcf4431ec@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250216T151500
+DTEND;TZID=Asia/Tokyo:20250216T171500
+SUMMARY:【出演者変更】学園アイドルマスター DEBUT LIVE 初 
+ TOUR -初陣公演- 渋谷クラブクアトロ ＜昼の部＞
+LOCATION:SHIBUYA CLUB QUATTRO
+DESCRIPTION:会場: SHIBUYA CLUB QUATTRO\n開場 14:30 / 開演 15:15\n共
+ 演: 学園アイドルマスター\, 春咲暖\, 長月あおい\nhttps:/
+ /www.eventernote.com/events/398420
+END:VEVENT
+BEGIN:VEVENT
+UID:b5b5076fbe785f2a0d3bdcf946714c70@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250211T183000
+DTEND;TZID=Asia/Tokyo:20250211T203000
+SUMMARY:【出演者変更】学園アイドルマスター DEBUT LIVE 初 
+ TOUR -初陣公演- 梅田クラブクアトロ ＜夜の部＞
+LOCATION:梅田CLUB QUATTRO
+DESCRIPTION:会場: 梅田CLUB QUATTRO\n開場 17:45 / 開演 18:30\n共演
+ : 学園アイドルマスター\, 春咲暖\, 長月あおい\nhttps://ww
+ w.eventernote.com/events/398419
+END:VEVENT
+BEGIN:VEVENT
+UID:bf1612feeb3fa64714354ce857eba7d1@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250211T151500
+DTEND;TZID=Asia/Tokyo:20250211T171500
+SUMMARY:【出演者変更】学園アイドルマスター DEBUT LIVE 初 
+ TOUR -初陣公演- 梅田クラブクアトロ ＜昼の部＞
+LOCATION:梅田CLUB QUATTRO
+DESCRIPTION:会場: 梅田CLUB QUATTRO\n開場 14:30 / 開演 15:15\n共演
+ : 学園アイドルマスター\, 春咲暖\, 長月あおい\nhttps://ww
+ w.eventernote.com/events/398418
+END:VEVENT
+BEGIN:VEVENT
+UID:e9b95d59a84ca58f8f1a65149fa4acb8@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250208T151500
+DTEND;TZID=Asia/Tokyo:20250208T171500
+SUMMARY:【出演者変更】学園アイドルマスター DEBUT LIVE 初 
+ TOUR -初陣公演- 名古屋クラブクアトロ ＜昼の部＞
+LOCATION:NAGOYA CLUB QUATTRO
+DESCRIPTION:会場: NAGOYA CLUB QUATTRO\n開場 14:30 / 開演 15:15\n共
+ 演: 学園アイドルマスター\, 長月あおい\nhttps://www.eventer
+ note.com/events/398416
+END:VEVENT
+BEGIN:VEVENT
+UID:c9dd7a5688b154611b72e97f3e315cc7@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250208T183000
+DTEND;TZID=Asia/Tokyo:20250208T203000
+SUMMARY:【出演者変更】学園アイドルマスター DEBUT LIVE 初 
+ TOUR -初陣公演- 名古屋クラブクアトロ ＜夜の部＞
+LOCATION:NAGOYA CLUB QUATTRO
+DESCRIPTION:会場: NAGOYA CLUB QUATTRO\n開場 17:45 / 開演 18:30\n共
+ 演: 学園アイドルマスター\, 長月あおい\nhttps://www.eventer
+ note.com/events/398417
+END:VEVENT
+BEGIN:VEVENT
+UID:dae111d87403a76ebe946e6155434447@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250119T130000
+DTEND;TZID=Asia/Tokyo:20250119T150000
+SUMMARY:アサルトリリィトークイベント　イルマ女子美術
+ 高校編振り返りトークショー 　第一部
+LOCATION:秋葉原ハンドレッド２
+DESCRIPTION:会場: 秋葉原ハンドレッド２\n開場 12:40 / 開演 1
+ 3:00\n共演: 斎藤愛莉\, 結木ことは\, 松田彩希\, 小菅怜衣
+ \, あわつまい\, 尾花沢軒栄\nhttps://www.eventernote.com/events/4
+ 10206
+END:VEVENT
+BEGIN:VEVENT
+UID:27ed4f2029583301f084cf8bbe777697@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250118T180000
+DTEND;TZID=Asia/Tokyo:20250118T200000
+SUMMARY:矢野妃菜喜メンバーズサイト「HINATOON」イベント
+ 「HINATOON LIVE 2025～WINTER～ -陰キャと陽キャ、襲来-」夜
+ 公演
+LOCATION:横浜ReNY beta
+DESCRIPTION:会場: 横浜ReNY beta\n開場 17:30 / 開演 18:00\n共演: 
+ 矢野妃菜喜\, 春咲暖\nhttps://www.eventernote.com/events/399169
+END:VEVENT
+BEGIN:VEVENT
+UID:92419be8c3335a41123622e59ab8d22e@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20250118T140000
+DTEND;TZID=Asia/Tokyo:20250118T160000
+SUMMARY:矢野妃菜喜メンバーズサイト「HINATOON」イベント
+ 「HINATOON LIVE 2025～WINTER～ -陰キャと陽キャ、襲来-」昼
+ 公演
+LOCATION:横浜ReNY beta
+DESCRIPTION:会場: 横浜ReNY beta\n開場 13:30 / 開演 14:00\n共演: 
+ 矢野妃菜喜\, 春咲暖\nhttps://www.eventernote.com/events/399168
+END:VEVENT
+BEGIN:VEVENT
+UID:e8c54c3b9c9020e7d38b9bec084f9a21@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20241215T120000
+DTEND;TZID=Asia/Tokyo:20241215T140000
+SUMMARY:舞台「アサルトリリィ・イルマ女子美術高校」-The
+  Bond with the White Rose- 12/15
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 11:15 / 開演 12:00\n共演: 北澤早紀\, 福岡聖菜\, 
+ 朝倉ふゆな\, 集貝はな\, 矢新愛梨\, 小松穂葉\, 斎藤愛
+ 莉\, 熊田茜音\, 佐藤遥\, 熊沢世莉奈\, 髙橋彩音\, 梅原
+ サエリ\, 川原美咲\, 結木ことは\, 松田彩希\, 西田奈未\,
+  鵜川もえか\, 遥りさ\, MoeMi(尾高もえみ)\, 西本りみ\n  ..
+ .他9名\nhttps://www.eventernote.com/events/391334
+END:VEVENT
+BEGIN:VEVENT
+UID:af1c131768f4e250393bd035392c093e@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20241214T130000
+DTEND;TZID=Asia/Tokyo:20241214T150000
+SUMMARY:舞台「アサルトリリィ・イルマ女子美術高校」-The
+  Bond with the White Rose- 12/14 13:00
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 12:15 / 開演 13:00\n共演: 北澤早紀\, 福岡聖菜\, 
+ 朝倉ふゆな\, 集貝はな\, 矢新愛梨\, 小松穂葉\, 斎藤愛
+ 莉\, 熊田茜音\, 佐藤遥\, 熊沢世莉奈\, 髙橋彩音\, 梅原
+ サエリ\, 川原美咲\, 結木ことは\, 松田彩希\, 西田奈未\,
+  鵜川もえか\, 遥りさ\, MoeMi(尾高もえみ)\, 西本りみ\n  ..
+ .他9名\nhttps://www.eventernote.com/events/391333
+END:VEVENT
+BEGIN:VEVENT
+UID:8cb49b841c423ac30ed888daffc37ebd@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20241214T180000
+DTEND;TZID=Asia/Tokyo:20241214T200000
+SUMMARY:舞台「アサルトリリィ・イルマ女子美術高校」-The
+  Bond with the White Rose- 12/14 18:00
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 17:15 / 開演 18:00\n共演: 北澤早紀\, 福岡聖菜\, 
+ 朝倉ふゆな\, 集貝はな\, 矢新愛梨\, 小松穂葉\, 斎藤愛
+ 莉\, 熊田茜音\, 佐藤遥\, 熊沢世莉奈\, 髙橋彩音\, 梅原
+ サエリ\, 川原美咲\, 結木ことは\, 松田彩希\, 西田奈未\,
+  鵜川もえか\, 遥りさ\, MoeMi(尾高もえみ)\, 西本りみ\n  ..
+ .他9名\nhttps://www.eventernote.com/events/391332
+END:VEVENT
+BEGIN:VEVENT
+UID:1e4ea055341f3537677ec02da1e1d9bf@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20241213T190000
+DTEND;TZID=Asia/Tokyo:20241213T210000
+SUMMARY:舞台「アサルトリリィ・イルマ女子美術高校」-The
+  Bond with the White Rose- 12/13
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 18:15 / 開演 19:00\n共演: 北澤早紀\, 福岡聖菜\, 
+ 朝倉ふゆな\, 集貝はな\, 矢新愛梨\, 小松穂葉\, 斎藤愛
+ 莉\, 熊田茜音\, 佐藤遥\, 熊沢世莉奈\, 髙橋彩音\, 梅原
+ サエリ\, 川原美咲\, 結木ことは\, 松田彩希\, 西田奈未\,
+  鵜川もえか\, 遥りさ\, MoeMi(尾高もえみ)\, 西本りみ\n  ..
+ .他9名\nhttps://www.eventernote.com/events/391331
+END:VEVENT
+BEGIN:VEVENT
+UID:b6a556bc1ca3a427af959210de0b0cff@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20241212T190000
+DTEND;TZID=Asia/Tokyo:20241212T210000
+SUMMARY:舞台「アサルトリリィ・イルマ女子美術高校」-The
+  Bond with the White Rose- 12/12
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 18:15 / 開演 19:00\n共演: 北澤早紀\, 福岡聖菜\, 
+ 朝倉ふゆな\, 集貝はな\, 矢新愛梨\, 小松穂葉\, 斎藤愛
+ 莉\, 熊田茜音\, 佐藤遥\, 熊沢世莉奈\, 髙橋彩音\, 梅原
+ サエリ\, 川原美咲\, 結木ことは\, 松田彩希\, 西田奈未\,
+  鵜川もえか\, 遥りさ\, MoeMi(尾高もえみ)\, 西本りみ\n  ..
+ .他9名\nhttps://www.eventernote.com/events/391330
+END:VEVENT
+BEGIN:VEVENT
+UID:2c3b07c3ca680805f6aa57a8be771dfd@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20241210T190000
+DTEND;TZID=Asia/Tokyo:20241210T210000
+SUMMARY:舞台「アサルトリリィ・イルマ女子美術高校」-The
+  Bond with the White Rose- 12/10
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 18:15 / 開演 19:00\n共演: 北澤早紀\, 福岡聖菜\, 
+ 朝倉ふゆな\, 集貝はな\, 矢新愛梨\, 小松穂葉\, 斎藤愛
+ 莉\, 熊田茜音\, 佐藤遥\, 熊沢世莉奈\, 髙橋彩音\, 梅原
+ サエリ\, 川原美咲\, 松田彩希\, 西田奈未\, 鵜川もえか\,
+  遥りさ\, MoeMi(尾高もえみ)\, 西本りみ\, 一本鎗希華\n  ..
+ .他9名\nhttps://www.eventernote.com/events/391329
+END:VEVENT
+BEGIN:VEVENT
+UID:2f574bbf6a563673c0193b9b05c94644@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20241208T130000
+DTEND;TZID=Asia/Tokyo:20241208T150000
+SUMMARY:舞台「アサルトリリィ・イルマ女子美術高校」-The
+  Bond with the White Rose- 12/8 13:00
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 12:15 / 開演 13:00\n共演: 北澤早紀\, 福岡聖菜\, 
+ 朝倉ふゆな\, 集貝はな\, 矢新愛梨\, 小松穂葉\, 斎藤愛
+ 莉\, 熊田茜音\, 佐藤遥\, 熊沢世莉奈\, 髙橋彩音\, 梅原
+ サエリ\, 川原美咲\, 松田彩希\, 西田奈未\, 鵜川もえか\,
+  遥りさ\, MoeMi(尾高もえみ)\, 西本りみ\, 一本鎗希華\n  ..
+ .他9名\nhttps://www.eventernote.com/events/391327
+END:VEVENT
+BEGIN:VEVENT
+UID:a1b8d6d119d3688c32c053f1a082a82d@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20241207T180000
+DTEND;TZID=Asia/Tokyo:20241207T200000
+SUMMARY:舞台「アサルトリリィ・イルマ女子美術高校」-The
+  Bond with the White Rose- 12/7 18:00
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 17:15 / 開演 18:00\n共演: 北澤早紀\, 福岡聖菜\, 
+ 朝倉ふゆな\, 集貝はな\, 矢新愛梨\, 小松穂葉\, 斎藤愛
+ 莉\, 熊田茜音\, 佐藤遥\, 熊沢世莉奈\, 髙橋彩音\, 梅原
+ サエリ\, 川原美咲\, 松田彩希\, 西田奈未\, 鵜川もえか\,
+  遥りさ\, MoeMi(尾高もえみ)\, 西本りみ\, 一本鎗希華\n  ..
+ .他9名\nhttps://www.eventernote.com/events/391326
+END:VEVENT
+BEGIN:VEVENT
+UID:596c1eff2e2d4bc3413cf540569d72ef@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20241207T130000
+DTEND;TZID=Asia/Tokyo:20241207T150000
+SUMMARY:舞台「アサルトリリィ・イルマ女子美術高校」-The
+  Bond with the White Rose- 12/7 13:00
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 12:15 / 開演 13:00\n共演: 北澤早紀\, 福岡聖菜\, 
+ 朝倉ふゆな\, 集貝はな\, 矢新愛梨\, 小松穂葉\, 斎藤愛
+ 莉\, 熊田茜音\, 佐藤遥\, 熊沢世莉奈\, 髙橋彩音\, 梅原
+ サエリ\, 川原美咲\, 松田彩希\, 西田奈未\, 鵜川もえか\,
+  遥りさ\, MoeMi(尾高もえみ)\, 西本りみ\, 一本鎗希華\n  ..
+ .他9名\nhttps://www.eventernote.com/events/391328
+END:VEVENT
+BEGIN:VEVENT
+UID:6b9cf8fa0d4894154a47110eb4650ca2@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20241205T190000
+DTEND;TZID=Asia/Tokyo:20241205T210000
+SUMMARY:舞台「アサルトリリィ・イルマ女子美術高校」-The
+  Bond with the White Rose- 12/5
+LOCATION:こくみん共済 coop ホール／スペース・ゼロ
+DESCRIPTION:会場: こくみん共済 coop ホール／スペース・ゼ
+ ロ\n開場 18:15 / 開演 19:00\n共演: 北澤早紀\, 福岡聖菜\, 
+ 朝倉ふゆな\, 集貝はな\, 矢新愛梨\, 小松穂葉\, 斎藤愛
+ 莉\, 熊田茜音\, 佐藤遥\, 熊沢世莉奈\, 髙橋彩音\, 梅原
+ サエリ\, 川原美咲\, 松田彩希\, 西田奈未\, 鵜川もえか\,
+  遥りさ\, MoeMi(尾高もえみ)\, 西本りみ\, 一本鎗希華\n  ..
+ .他9名\nhttps://www.eventernote.com/events/391325
+END:VEVENT
+BEGIN:VEVENT
+UID:880afa7ad055623b3634c49e8b277f87@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20240522T163000
+DTEND;TZID=Asia/Tokyo:20240522T183000
+SUMMARY:舞台「アサルトリリィ・新章」 サングリーズル編
+ 『花々の黄昏たそがれ』／ 大島近海ネスト調査隊編『
+ 玲瓏たる深潭』 5月22日(水)16:30
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 15:45 / 開演 16:30\n共演: 大森莉緒\, 牧浦乙葵\
+ , 其原有沙\, 浜浦彩乃\, 林田真尋\, 伊藤優衣\, 畑美紗起
+ \, 反田葉月\, 林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤
+ 瑞季\, 日永麗\, 橘里依\, 槙原唯\, 矢澤梨央\, 真田うる
+ は\, 宇田川ももか\, 星野咲笑\, 稲玉洸\n  ...他17名\nhttps:
+ //www.eventernote.com/events/371292
+END:VEVENT
+BEGIN:VEVENT
+UID:95d31345fd9125e3dc1dbc310df2f34a@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20240522T120000
+DTEND;TZID=Asia/Tokyo:20240522T140000
+SUMMARY:舞台「アサルトリリィ・新章」 サングリーズル編
+ 『花々の黄昏たそがれ』／ 大島近海ネスト調査隊編『
+ 玲瓏たる深潭』 5月22日(水)12:00
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 11:15 / 開演 12:00\n共演: 大森莉緒\, 牧浦乙葵\
+ , 其原有沙\, 浜浦彩乃\, 林田真尋\, 伊藤優衣\, 畑美紗起
+ \, 反田葉月\, 林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤
+ 瑞季\, 日永麗\, 橘里依\, 槙原唯\, 矢澤梨央\, 真田うる
+ は\, 宇田川ももか\, 星野咲笑\, 稲玉洸\n  ...他17名\nhttps:
+ //www.eventernote.com/events/371295
+END:VEVENT
+BEGIN:VEVENT
+UID:b78fc428193b4d7f8b809fb9051703cd@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20240521T183000
+DTEND;TZID=Asia/Tokyo:20240521T203000
+SUMMARY:舞台「アサルトリリィ・新章」 サングリーズル編
+ 『花々の黄昏たそがれ』／ 大島近海ネスト調査隊編『
+ 玲瓏たる深潭』 5月21日(火)18:30
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 17:45 / 開演 18:30\n共演: 大森莉緒\, 牧浦乙葵\
+ , 其原有沙\, 浜浦彩乃\, 林田真尋\, 伊藤優衣\, 畑美紗起
+ \, 反田葉月\, 林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤
+ 瑞季\, 日永麗\, 橘里依\, 槙原唯\, 矢澤梨央\, 真田うる
+ は\, 宇田川ももか\, 星野咲笑\, 稲玉洸\n  ...他17名\nhttps:
+ //www.eventernote.com/events/371291
+END:VEVENT
+BEGIN:VEVENT
+UID:add7bababafcb0f84298f70c3a83a6d6@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20240520T183000
+DTEND;TZID=Asia/Tokyo:20240520T203000
+SUMMARY:舞台「アサルトリリィ・新章」 サングリーズル編
+ 『花々の黄昏たそがれ』／ 大島近海ネスト調査隊編『
+ 玲瓏たる深潭』 5月20日(月)18:30
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 17:45 / 開演 18:30\n共演: 大森莉緒\, 牧浦乙葵\
+ , 其原有沙\, 浜浦彩乃\, 林田真尋\, 伊藤優衣\, 畑美紗起
+ \, 反田葉月\, 林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤
+ 瑞季\, 日永麗\, 橘里依\, 槙原唯\, 矢澤梨央\, 真田うる
+ は\, 宇田川ももか\, 星野咲笑\, 稲玉洸\n  ...他17名\nhttps:
+ //www.eventernote.com/events/371290
+END:VEVENT
+BEGIN:VEVENT
+UID:ce9058691f8772259abff2884863dfed@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20240519T130000
+DTEND;TZID=Asia/Tokyo:20240519T150000
+SUMMARY:舞台「アサルトリリィ・新章」 サングリーズル編
+ 『花々の黄昏たそがれ』／ 大島近海ネスト調査隊編『
+ 玲瓏たる深潭』 5月19日(日)13:00
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 12:15 / 開演 13:00\n共演: 大森莉緒\, 牧浦乙葵\
+ , 其原有沙\, 浜浦彩乃\, 林田真尋\, 伊藤優衣\, 畑美紗起
+ \, 反田葉月\, 林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤
+ 瑞季\, 日永麗\, 橘里依\, 槙原唯\, 矢澤梨央\, 真田うる
+ は\, 宇田川ももか\, 星野咲笑\, 稲玉洸\n  ...他17名\nhttps:
+ //www.eventernote.com/events/371294
+END:VEVENT
+BEGIN:VEVENT
+UID:4eabaaf5e117a2b0df7e92798609fce9@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20240519T183000
+DTEND;TZID=Asia/Tokyo:20240519T203000
+SUMMARY:舞台「アサルトリリィ・新章」 サングリーズル編
+ 『花々の黄昏たそがれ』／ 大島近海ネスト調査隊編『
+ 玲瓏たる深潭』 5月19日(日)18:30
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 17:45 / 開演 18:30\n共演: 大森莉緒\, 牧浦乙葵\
+ , 其原有沙\, 浜浦彩乃\, 林田真尋\, 伊藤優衣\, 畑美紗起
+ \, 反田葉月\, 林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤
+ 瑞季\, 日永麗\, 橘里依\, 槙原唯\, 矢澤梨央\, 真田うる
+ は\, 宇田川ももか\, 星野咲笑\, 稲玉洸\n  ...他17名\nhttps:
+ //www.eventernote.com/events/371289
+END:VEVENT
+BEGIN:VEVENT
+UID:0f4fa0d3be8ef959f776c57140778563@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20240518T130000
+DTEND;TZID=Asia/Tokyo:20240518T150000
+SUMMARY:舞台「アサルトリリィ・新章」 サングリーズル編
+ 『花々の黄昏たそがれ』／ 大島近海ネスト調査隊編『
+ 玲瓏たる深潭』 5月18日(土)13:00
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 12:15 / 開演 13:00\n共演: 大森莉緒\, 牧浦乙葵\
+ , 其原有沙\, 浜浦彩乃\, 林田真尋\, 伊藤優衣\, 畑美紗起
+ \, 反田葉月\, 林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤
+ 瑞季\, 日永麗\, 橘里依\, 槙原唯\, 矢澤梨央\, 真田うる
+ は\, 宇田川ももか\, 星野咲笑\, 稲玉洸\n  ...他17名\nhttps:
+ //www.eventernote.com/events/371293
+END:VEVENT
+BEGIN:VEVENT
+UID:e444998cc397cc3c6feb8a2d021e1ad2@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20240518T183000
+DTEND;TZID=Asia/Tokyo:20240518T203000
+SUMMARY:舞台「アサルトリリィ・新章」 サングリーズル編
+ 『花々の黄昏たそがれ』／ 大島近海ネスト調査隊編『
+ 玲瓏たる深潭』 5月18日(土)18:30
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 17:45 / 開演 18:30\n共演: 大森莉緒\, 牧浦乙葵\
+ , 其原有沙\, 浜浦彩乃\, 林田真尋\, 伊藤優衣\, 畑美紗起
+ \, 反田葉月\, 林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤
+ 瑞季\, 日永麗\, 橘里依\, 槙原唯\, 矢澤梨央\, 真田うる
+ は\, 宇田川ももか\, 星野咲笑\, 稲玉洸\n  ...他17名\nhttps:
+ //www.eventernote.com/events/371288
+END:VEVENT
+BEGIN:VEVENT
+UID:fb39fba0eb99607fd6568ba065b3f616@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20240517T183000
+DTEND;TZID=Asia/Tokyo:20240517T203000
+SUMMARY:舞台「アサルトリリィ・新章」 サングリーズル編
+ 『花々の黄昏たそがれ』／ 大島近海ネスト調査隊編『
+ 玲瓏たる深潭』 5月17日(金)18:30
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 17:45 / 開演 18:30\n共演: 大森莉緒\, 牧浦乙葵\
+ , 其原有沙\, 浜浦彩乃\, 林田真尋\, 伊藤優衣\, 畑美紗起
+ \, 反田葉月\, 林鼓子\, 大滝紗緒里\, 安藤千伽奈\, 斉藤
+ 瑞季\, 日永麗\, 橘里依\, 槙原唯\, 矢澤梨央\, 真田うる
+ は\, 宇田川ももか\, 星野咲笑\, 稲玉洸\n  ...他17名\nhttps:
+ //www.eventernote.com/events/371287
+END:VEVENT
+BEGIN:VEVENT
+UID:1be554f250c6968d0b24267fdacb2c09@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20240428T130000
+DTEND;TZID=Asia/Tokyo:20240428T150000
+SUMMARY:「学園アイドルマスター」初星学園オープンキャ
+ ンパス＠ニコニコ超会議2024
+LOCATION:幕張メッセ 国際展示場ホール
+DESCRIPTION:会場: 幕張メッセ 国際展示場ホール\n開場 10:00 
+ / 開演 13:00\n共演: 長月あおい\, 小鹿なお\, 飯田ヒカル\,
+  春咲暖\, 松田彩音\, 小美野日出文\, 佐藤大地(BNEI)\, 山
+ 本亮(BNEI)\, 学園アイドルマスター\nhttps://www.eventernote.com
+ /events/376316
+END:VEVENT
+BEGIN:VEVENT
+UID:d73bc8088c2dc69dc617a3f8b18a744e@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20240407T160000
+DTEND;TZID=Asia/Tokyo:20240407T180000
+SUMMARY:イノセントギアカンパニー リーディングライブ 
+ 『グリム姫物語集』⑥4/7(日)16:00 C(白雪姫 髪長姫)
+LOCATION:参宮橋トランスミッション(SANGUBASI TRANCE MISSION)
+DESCRIPTION:会場: 参宮橋トランスミッション(SANGUBASI TRANCE M
+ ISSION)\n開場 15:30 / 開演 16:00\n共演: 岩倉あずさ\, 髙尾ゆ
+ き\, 実波真白\, 楠田敏之\nhttps://www.eventernote.com/events/3727
+ 08
+END:VEVENT
+BEGIN:VEVENT
+UID:525545f3d1dfc8652d2946668831e67c@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20240404T193000
+DTEND;TZID=Asia/Tokyo:20240404T213000
+SUMMARY:イノセントギアカンパニー リーディングライブ 
+ 『グリム姫物語集』①4/4(木)19:30 A(白雪姫 灰かぶり姫)
+LOCATION:参宮橋トランスミッション(SANGUBASI TRANCE MISSION)
+DESCRIPTION:会場: 参宮橋トランスミッション(SANGUBASI TRANCE M
+ ISSION)\n開場 19:00 / 開演 19:30\n共演: 岩倉あずさ\, 髙尾ゆ
+ き\, 実波真白\, 岩田裕耳\nhttps://www.eventernote.com/events/3726
+ 15
+END:VEVENT
+BEGIN:VEVENT
+UID:7b70b313a9051c63f3a93ce78f63596e@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20231028T183000
+DTEND;TZID=Asia/Tokyo:20231028T203000
+SUMMARY:舞台「アサルトリリィ」上映会＆トークショー 10/
+ 28 18:30
+LOCATION:中野ザ・ポケット
+DESCRIPTION:会場: 中野ザ・ポケット\n開場 18:00 / 開演 18:30\n
+ 共演: 北澤早紀\, 小松穂葉\, 斎藤愛莉\, 熊田茜音\, 結木
+ ことは\, MoeMi(尾高もえみ)\, 永石匠\nhttps://www.eventernote.co
+ m/events/352675
+END:VEVENT
+BEGIN:VEVENT
+UID:7db50a48eb081087c3693690cff54dcd@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20231025T183000
+DTEND;TZID=Asia/Tokyo:20231025T203000
+SUMMARY:maruxenon Live Vol.61　夜間飛行　〜まだ見ぬ世界へ〜
+LOCATION:青山月見ル君想フ
+DESCRIPTION:会場: 青山月見ル君想フ\n開場 18:00 / 開演 18:30\n
+ 共演: 白河みずな\, 岩倉あずさ\, 柳澤良音\, 彩乃ゆり菜
+ \, 礒貝真琴\, 音葉ななみ\, 近貞月乃\, 大下菜摘\, 小宮
+ 山あかり\, 多田三洋\, 小柳えめり\, 石川恭平\nhttps://www.
+ eventernote.com/events/355244
+END:VEVENT
+BEGIN:VEVENT
+UID:1306712c2a1541828cfbab8fa673afdb@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20231022T130000
+DTEND;TZID=Asia/Tokyo:20231022T150000
+SUMMARY:舞台「アサルトリリィ」上映会＆トークショー 10/
+ 22 13:00
+LOCATION:中野ザ・ポケット
+DESCRIPTION:会場: 中野ザ・ポケット\n開場 12:30 / 開演 13:00\n
+ 共演: 集貝はな\, 矢新愛梨\, 小松穂葉\, 斎藤愛莉\, 熊田
+ 茜音\, 永石匠\nhttps://www.eventernote.com/events/352677
+END:VEVENT
+BEGIN:VEVENT
+UID:6d0018c27314e8562686521b5549bda1@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20230514T130000
+DTEND;TZID=Asia/Tokyo:20230514T150000
+SUMMARY:Act Session vol.2『Re: -the beginning of the end-』5月14日(日)
+  13:00
+LOCATION:シアター・アルファ東京
+DESCRIPTION:会場: シアター・アルファ東京\n開場 12:30 / 開
+ 演 13:00\n共演: 大海将一郎\, 助川真蔵\, 白花恋香\, 春咲
+ 暖\, 小塚亮輔\, 柳澤良音\, 矢野妃菜喜\nhttps://www.eventerno
+ te.com/events/337544
+END:VEVENT
+BEGIN:VEVENT
+UID:cebaba534f44929daa60f54666f831a9@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20230514T180000
+DTEND;TZID=Asia/Tokyo:20230514T200000
+SUMMARY:Act Session vol.2『Re: -the beginning of the end-』5月14日(日)
+  18:00
+LOCATION:シアター・アルファ東京
+DESCRIPTION:会場: シアター・アルファ東京\n開場 17:30 / 開
+ 演 18:00\n共演: 大海将一郎\, 助川真蔵\, 白花恋香\, 春咲
+ 暖\, 小塚亮輔\, 柳澤良音\, 矢野妃菜喜\nhttps://www.eventerno
+ te.com/events/337543
+END:VEVENT
+BEGIN:VEVENT
+UID:04e19c895be3b4ec842bf8a050723e20@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20230512T190000
+DTEND;TZID=Asia/Tokyo:20230512T210000
+SUMMARY:Act Session vol.2『Re: -the beginning of the end-』5月12日(金)
+  19:00
+LOCATION:シアター・アルファ東京
+DESCRIPTION:会場: シアター・アルファ東京\n開場 18:30 / 開
+ 演 19:00\n共演: 白河みずな\, 大海将一郎\, 助川真蔵\, 春
+ 咲暖\, 岡延明\, 柳澤良音\, 水野朔\nhttps://www.eventernote.com
+ /events/337540
+END:VEVENT
+BEGIN:VEVENT
+UID:20bff132aa6174bd7ac39edb49cf33f2@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20230422T130000
+DTEND;TZID=Asia/Tokyo:20230422T150000
+SUMMARY:舞台「アサルトリリィ」トークイベントvol.6「イ
+ ルマ予備校復習講座」
+LOCATION:LOFT9 Shibuya(ロフトナイン渋谷)
+DESCRIPTION:会場: LOFT9 Shibuya(ロフトナイン渋谷)\n開場 12:00 /
+  開演 13:00\n共演: 小松穂葉\, 斎藤愛莉\, 熊田茜音\, 熊沢
+ 世莉奈\, 鵜川もえか\, 上谷佳澄\, MoeMi(尾高もえみ)\nhttps
+ ://www.eventernote.com/events/335940
+END:VEVENT
+BEGIN:VEVENT
+UID:0a95ea4a6dfdafd1ef9a05db54c51e1f@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20230419T150000
+DTEND;TZID=Asia/Tokyo:20230419T170000
+SUMMARY:舞台「アサルトリリィ・イルマ女子美術高校」4月
+ 19日（水）
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 14:30 / 開演 15:00\n共演: 北澤早紀\, 佐々木優
+ 佳里\, 朝倉ふゆな\, 集貝はな\, 矢新愛梨\, 小松穂葉\, 
+ 斎藤愛莉\, 熊田茜音\, 佐藤遥\, 熊沢世莉奈\, 髙橋彩音\,
+  坂口渚沙\, 結木ことは\, 松田彩希\, 西田奈未\, 鵜川も
+ えか\, 遥りさ\, MoeMi(尾高もえみ)\, 西本りみ\nhttps://www.ev
+ enternote.com/events/329040
+END:VEVENT
+BEGIN:VEVENT
+UID:b77650463c3b136662568c0e62d9a313@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20230418T190000
+DTEND;TZID=Asia/Tokyo:20230418T210000
+SUMMARY:舞台「アサルトリリィ・イルマ女子美術高校」4月
+ 18日（火）
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 18:30 / 開演 19:00\n共演: 北澤早紀\, 佐々木優
+ 佳里\, 朝倉ふゆな\, 集貝はな\, 矢新愛梨\, 小松穂葉\, 
+ 斎藤愛莉\, 熊田茜音\, 佐藤遥\, 熊沢世莉奈\, 髙橋彩音\,
+  坂口渚沙\, 結木ことは\, 松田彩希\, 西田奈未\, 鵜川も
+ えか\, 遥りさ\, MoeMi(尾高もえみ)\, 西本りみ\nhttps://www.ev
+ enternote.com/events/329039
+END:VEVENT
+BEGIN:VEVENT
+UID:c8efd13b5b4096c445f08e1a029066cd@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20230416T130000
+DTEND;TZID=Asia/Tokyo:20230416T150000
+SUMMARY:舞台「アサルトリリィ・イルマ女子美術高校」4月
+ 16日（日）13時開演
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 12:30 / 開演 13:00\n共演: 北澤早紀\, 佐々木優
+ 佳里\, 朝倉ふゆな\, 集貝はな\, 矢新愛梨\, 小松穂葉\, 
+ 斎藤愛莉\, 熊田茜音\, 佐藤遥\, 熊沢世莉奈\, 髙橋彩音\,
+  坂口渚沙\, 結木ことは\, 松田彩希\, 西田奈未\, 鵜川も
+ えか\, 遥りさ\, MoeMi(尾高もえみ)\, 西本りみ\nhttps://www.ev
+ enternote.com/events/329037
+END:VEVENT
+BEGIN:VEVENT
+UID:f4267edf89f19ee86f58ccb1919b7d8c@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20230416T180000
+DTEND;TZID=Asia/Tokyo:20230416T200000
+SUMMARY:舞台「アサルトリリィ・イルマ女子美術高校」4月
+ 16日（日）18時開演
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 17:30 / 開演 18:00\n共演: 北澤早紀\, 佐々木優
+ 佳里\, 朝倉ふゆな\, 集貝はな\, 矢新愛梨\, 小松穂葉\, 
+ 斎藤愛莉\, 熊田茜音\, 佐藤遥\, 熊沢世莉奈\, 髙橋彩音\,
+  坂口渚沙\, 結木ことは\, 松田彩希\, 西田奈未\, 鵜川も
+ えか\, 遥りさ\, MoeMi(尾高もえみ)\, 西本りみ\nhttps://www.ev
+ enternote.com/events/329038
+END:VEVENT
+BEGIN:VEVENT
+UID:d3fd3b412d4f7526f06943124212060e@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20230415T130000
+DTEND;TZID=Asia/Tokyo:20230415T150000
+SUMMARY:舞台「アサルトリリィ・イルマ女子美術高校」4月
+ 15日（土）13時開演
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 12:30 / 開演 13:00\n共演: 北澤早紀\, 佐々木優
+ 佳里\, 朝倉ふゆな\, 集貝はな\, 矢新愛梨\, 小松穂葉\, 
+ 斎藤愛莉\, 熊田茜音\, 佐藤遥\, 熊沢世莉奈\, 髙橋彩音\,
+  坂口渚沙\, 結木ことは\, 松田彩希\, 西田奈未\, 鵜川も
+ えか\, 遥りさ\, MoeMi(尾高もえみ)\, 西本りみ\nhttps://www.ev
+ enternote.com/events/329035
+END:VEVENT
+BEGIN:VEVENT
+UID:d27e4cada5a115e43b4c56b625be2676@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20230415T180000
+DTEND;TZID=Asia/Tokyo:20230415T200000
+SUMMARY:舞台「アサルトリリィ・イルマ女子美術高校」4月
+ 15日（土）18時開演
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 17:30 / 開演 18:00\n共演: 北澤早紀\, 佐々木優
+ 佳里\, 朝倉ふゆな\, 集貝はな\, 矢新愛梨\, 小松穂葉\, 
+ 斎藤愛莉\, 熊田茜音\, 佐藤遥\, 熊沢世莉奈\, 髙橋彩音\,
+  坂口渚沙\, 結木ことは\, 松田彩希\, 西田奈未\, 鵜川も
+ えか\, 遥りさ\, MoeMi(尾高もえみ)\, 西本りみ\nhttps://www.ev
+ enternote.com/events/329036
+END:VEVENT
+BEGIN:VEVENT
+UID:73c1c99b12f3249dfb369936695a96da@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20230414T190000
+DTEND;TZID=Asia/Tokyo:20230414T210000
+SUMMARY:舞台「アサルトリリィ・イルマ女子美術高校」4月
+ 14日（金）
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 18:30 / 開演 19:00\n共演: 北澤早紀\, 佐々木優
+ 佳里\, 朝倉ふゆな\, 集貝はな\, 矢新愛梨\, 小松穂葉\, 
+ 斎藤愛莉\, 熊田茜音\, 佐藤遥\, 熊沢世莉奈\, 髙橋彩音\,
+  坂口渚沙\, 結木ことは\, 松田彩希\, 西田奈未\, 鵜川も
+ えか\, 遥りさ\, MoeMi(尾高もえみ)\, 西本りみ\nhttps://www.ev
+ enternote.com/events/329034
+END:VEVENT
+BEGIN:VEVENT
+UID:8002e9a52cf0db55c1b3161b989b3ef1@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20230413T190000
+DTEND;TZID=Asia/Tokyo:20230413T210000
+SUMMARY:舞台「アサルトリリィ・イルマ女子美術高校」4月
+ 13日（木）
+LOCATION:かめありリリオホール(葛飾区亀有文化ホール)
+DESCRIPTION:会場: かめありリリオホール(葛飾区亀有文化ホ
+ ール)\n開場 18:30 / 開演 19:00\n共演: 北澤早紀\, 佐々木優
+ 佳里\, 朝倉ふゆな\, 集貝はな\, 矢新愛梨\, 小松穂葉\, 
+ 斎藤愛莉\, 熊田茜音\, 佐藤遥\, 熊沢世莉奈\, 髙橋彩音\,
+  坂口渚沙\, 結木ことは\, 松田彩希\, 西田奈未\, 鵜川も
+ えか\, 遥りさ\, MoeMi(尾高もえみ)\, 西本りみ\nhttps://www.ev
+ enternote.com/events/329033
+END:VEVENT
+BEGIN:VEVENT
+UID:63d08f6d258ea4df04062db8485c6e58@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20230310T190000
+DTEND;TZID=Asia/Tokyo:20230310T210000
+SUMMARY:「声技の英雄」 スペシャルイベント
+LOCATION:harevutai
+DESCRIPTION:会場: harevutai\n開場 18:30 / 開演 19:00\n共演: 白花
+ 恋香\, いりえみく\, 岩田萌果\, 岡延明\, 小塚亮輔\, 白
+ 河みずな\, 水野朔\, 柳澤良音\, 山口諒太郎\, しずる\, KA
+ ƵMA(しずる)\, 村上純(しずる)\, 戸谷菊之介\, 日原あゆみ
+ \nhttps://www.eventernote.com/events/333938
+END:VEVENT
+BEGIN:VEVENT
+UID:e2fbc81bd66539126672c039f0b56c8f@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20221017T183000
+DTEND;TZID=Asia/Tokyo:20221017T203000
+SUMMARY:maruxenon Live Vol.53「夜間飛行」
+LOCATION:青山月見ル君想フ
+DESCRIPTION:会場: 青山月見ル君想フ\n開場 18:00 / 開演 18:30\n
+ 共演: 岩倉あずさ\, 熊田茜音\, 白河みずな\, 日原あゆみ
+ \, 吉咲みゆ\, 矢野妃菜喜\, 礒貝真琴\, 岩田萌果\, いり
+ えみく\, 多田三洋\, 中西祐二\, 石川恭平\, 北村穂(北村
+ みのり)\nhttps://www.eventernote.com/events/318235
+END:VEVENT
+BEGIN:VEVENT
+UID:fa618dd5b522ab43dc0eea396dee72a0@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20220814T180000
+DTEND;TZID=Asia/Tokyo:20220814T200000
+SUMMARY:演劇ユニット【メイホリック】 メイホリックシア
+ ター09 朗読劇『叶え屋「ソルシレーヴ」～メリーバッ
+ ドエンド～』再演　⑫8月14日(日)18:00
+LOCATION:シアターグリーン BOX in BOX THEATER
+DESCRIPTION:会場: シアターグリーン BOX in BOX THEATER\n開演 18:
+ 00\n共演: 八木ましろ\, 飯塚麻結\, 櫻川めぐ\, 山本栞\, 
+ 播磨かな\, 日和ゆず\, 堀内まり菜\, 広瀬ゆうき\, 黒木
+ 美佑\, 岡本芽子\nhttps://www.eventernote.com/events/311480
+END:VEVENT
+BEGIN:VEVENT
+UID:1f76fac429f4b4e4c1222cbf0df97096@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20220814T150000
+DTEND;TZID=Asia/Tokyo:20220814T170000
+SUMMARY:演劇ユニット【メイホリック】 メイホリックシア
+ ター09 朗読劇『叶え屋「ソルシレーヴ」～メリーバッ
+ ドエンド～』再演　⑪8月14日(日)15:00
+LOCATION:シアターグリーン BOX in BOX THEATER
+DESCRIPTION:会場: シアターグリーン BOX in BOX THEATER\n開演 15:
+ 00\n共演: 八木ましろ\, 飯塚麻結\, 櫻川めぐ\, 山本栞\, 
+ 播磨かな\, 日和ゆず\, 堀内まり菜\, 広瀬ゆうき\, 黒木
+ 美佑\, 岡本芽子\nhttps://www.eventernote.com/events/311479
+END:VEVENT
+BEGIN:VEVENT
+UID:a68f5307a43f18d0c4e6d71159609a3c@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20220813T123000
+DTEND;TZID=Asia/Tokyo:20220813T143000
+SUMMARY:演劇ユニット【メイホリック】 メイホリックシア
+ ター09 朗読劇『叶え屋「ソルシレーヴ」～メリーバッ
+ ドエンド～』再演　⑧8月13日(土)12:30
+LOCATION:シアターグリーン BOX in BOX THEATER
+DESCRIPTION:会場: シアターグリーン BOX in BOX THEATER\n開場 12:
+ 00 / 開演 12:30\n共演: 八木ましろ\, 飯塚麻結\, 荒井瑠里\,
+  宮原颯希\, 播磨かな\, 日和ゆず\, 堀内まり菜\, 各務華
+ 梨\, 磯俣愛\, 岡本芽子\nhttps://www.eventernote.com/events/311476
+END:VEVENT
+BEGIN:VEVENT
+UID:131126e3d288f4526c4881e7bd735322@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20220813T183000
+DTEND;TZID=Asia/Tokyo:20220813T203000
+SUMMARY:演劇ユニット【メイホリック】 メイホリックシア
+ ター09 朗読劇『叶え屋「ソルシレーヴ」～メリーバッ
+ ドエンド～』再演　⑩8月13日(土)18:30
+LOCATION:シアターグリーン BOX in BOX THEATER
+DESCRIPTION:会場: シアターグリーン BOX in BOX THEATER\n開場 18:
+ 00 / 開演 18:30\n共演: 八木ましろ\, 飯塚麻結\, 荒井瑠里\,
+  宮原颯希\, 播磨かな\, 日和ゆず\, 堀内まり菜\, 各務華
+ 梨\, 磯俣愛\, 岡本芽子\nhttps://www.eventernote.com/events/311478
+END:VEVENT
+BEGIN:VEVENT
+UID:66c5ca1a159ec05ecbfe876bb1dcc14f@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20220813T153000
+DTEND;TZID=Asia/Tokyo:20220813T173000
+SUMMARY:演劇ユニット【メイホリック】 メイホリックシア
+ ター09 朗読劇『叶え屋「ソルシレーヴ」～メリーバッ
+ ドエンド～』再演　⑨8月13日(土)15:30
+LOCATION:シアターグリーン BOX in BOX THEATER
+DESCRIPTION:会場: シアターグリーン BOX in BOX THEATER\n開場 15:
+ 00 / 開演 15:30\n共演: 八木ましろ\, 飯塚麻結\, 荒井瑠里\,
+  宮原颯希\, 播磨かな\, 日和ゆず\, 堀内まり菜\, 各務華
+ 梨\, 磯俣愛\, 岡本芽子\nhttps://www.eventernote.com/events/311477
+END:VEVENT
+BEGIN:VEVENT
+UID:dfb243bf74223d0fa4b1bba8a42f3a57@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20220809T190000
+DTEND;TZID=Asia/Tokyo:20220809T210000
+SUMMARY:演劇ユニット【メイホリック】 メイホリックシア
+ ター09 朗読劇『叶え屋「ソルシレーヴ」～メリーバッ
+ ドエンド～』再演　①8月9日(火)19:00
+LOCATION:シアターグリーン BOX in BOX THEATER
+DESCRIPTION:会場: シアターグリーン BOX in BOX THEATER\n開演 19:
+ 00\n共演: 八木ましろ\, 汐入あすか\, 櫻川めぐ\, 山本栞\,
+  小峯愛未\, 門林有羽\, 城崎桃華\, 広瀬ゆうき\, 磯俣愛\
+ , 岡本芽子\nhttps://www.eventernote.com/events/311469
+END:VEVENT
+BEGIN:VEVENT
+UID:3d51e01ff5c613899c82015f83675f7b@voice-actor-calendar
+DTSTAMP:20260403T090628Z
+DTSTART;TZID=Asia/Tokyo:20220402T170000
+DTEND;TZID=Asia/Tokyo:20220402T190000
+SUMMARY:minimal/xenon 「peace」
+LOCATION:大岡山Goodstock Tokyo
+DESCRIPTION:会場: 大岡山Goodstock Tokyo\n開場 16:30 / 開演 17:00\n
+ 共演: 橘一花\, 白河みずな\, 美久月楓\, 彩乃ゆり菜\, 澤
+ 田真里愛\nhttps://www.eventernote.com/events/302586
+END:VEVENT
+END:VCALENDAR

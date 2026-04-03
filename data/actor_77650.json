@@ -1,0 +1,2784 @@
+{
+  "actor_id": 77650,
+  "actor_name": "伊藤舞音",
+  "fetched_at": "2026-04-03T18:01:48.693465",
+  "event_count": 54,
+  "events": [
+    {
+      "event_name": "学園アイドルマスター  LIVE TOUR -標- 岩手公演 DAY2",
+      "event_url": "https://www.eventernote.com/events/465357",
+      "date": "2026-09-23",
+      "venue": "トーサイクラシックホール岩手(岩手県民会館) 大ホール",
+      "open_time": "15:30",
+      "start_time": "16:30",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター  LIVE TOUR -標- 岩手公演 DAY1",
+      "event_url": "https://www.eventernote.com/events/465356",
+      "date": "2026-09-22",
+      "venue": "トーサイクラシックホール岩手(岩手県民会館) 大ホール",
+      "open_time": "17:30",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ことばとば【2部】(2026年8月8日)",
+      "event_url": "https://www.eventernote.com/events/469319",
+      "date": "2026-08-08",
+      "venue": "ライクスホール",
+      "open_time": "15:30",
+      "start_time": "16:00",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ことばとば【1部】(2026年8月8日)",
+      "event_url": "https://www.eventernote.com/events/469318",
+      "date": "2026-08-08",
+      "venue": "ライクスホール",
+      "open_time": "12:00",
+      "start_time": "12:30",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年7月5日)",
+      "event_url": "https://www.eventernote.com/events/465884",
+      "date": "2026-07-05",
+      "venue": "クーポール会館",
+      "open_time": "15:30",
+      "start_time": "16:15",
+      "actors": [
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年7月5日)",
+      "event_url": "https://www.eventernote.com/events/465113",
+      "date": "2026-07-05",
+      "venue": "クーポール会館",
+      "open_time": "12:00",
+      "start_time": "12:45",
+      "actors": [
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ぷちうるふ2ndみーてぃん2026 夜の部",
+      "event_url": "https://www.eventernote.com/events/469136",
+      "date": "2026-06-27",
+      "venue": "歌舞伎町劇場",
+      "open_time": "18:30",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "井料愛良",
+          "id": null
+        },
+        {
+          "name": "汐屋遥佳",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ぷちうるふ2ndみーてぃん2026 昼の部",
+      "event_url": "https://www.eventernote.com/events/469134",
+      "date": "2026-06-27",
+      "venue": "歌舞伎町劇場",
+      "open_time": "14:30",
+      "start_time": "15:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "井料愛良",
+          "id": null
+        },
+        {
+          "name": "汐屋遥佳",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL DAY2",
+      "event_url": "https://www.eventernote.com/events/452235",
+      "date": "2026-06-07",
+      "venue": "横浜アリーナ",
+      "open_time": "15:30",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL DAY1",
+      "event_url": "https://www.eventernote.com/events/452234",
+      "date": "2026-06-06",
+      "venue": "横浜アリーナ",
+      "open_time": "15:30",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【Big Bridge Company】第三回公演 朗読劇『結びの言葉』③",
+      "event_url": "https://www.eventernote.com/events/471277",
+      "date": "2026-05-14",
+      "venue": "シアター風姿花伝",
+      "open_time": "",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "岡本彩夏",
+          "id": null
+        },
+        {
+          "name": "花谷麻妃",
+          "id": null
+        },
+        {
+          "name": "花澤桃花",
+          "id": null
+        },
+        {
+          "name": "安澄かえで",
+          "id": null
+        },
+        {
+          "name": "広瀬ゆうき",
+          "id": null
+        },
+        {
+          "name": "浦尾岳大",
+          "id": null
+        },
+        {
+          "name": "前田玲奈",
+          "id": null
+        },
+        {
+          "name": "中川梨花",
+          "id": null
+        },
+        {
+          "name": "高橋みのり",
+          "id": null
+        },
+        {
+          "name": "岩倉あずさ",
+          "id": null
+        },
+        {
+          "name": "延松舞佳",
+          "id": null
+        },
+        {
+          "name": "椎名孝介",
+          "id": null
+        },
+        {
+          "name": "三橋かおる",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【Big Bridge Company】第三回公演 朗読劇『結びの言葉』②",
+      "event_url": "https://www.eventernote.com/events/471276",
+      "date": "2026-05-14",
+      "venue": "シアター風姿花伝",
+      "open_time": "",
+      "start_time": "14:30",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "岡本彩夏",
+          "id": null
+        },
+        {
+          "name": "花谷麻妃",
+          "id": null
+        },
+        {
+          "name": "花澤桃花",
+          "id": null
+        },
+        {
+          "name": "安澄かえで",
+          "id": null
+        },
+        {
+          "name": "広瀬ゆうき",
+          "id": null
+        },
+        {
+          "name": "浦尾岳大",
+          "id": null
+        },
+        {
+          "name": "前田玲奈",
+          "id": null
+        },
+        {
+          "name": "中川梨花",
+          "id": null
+        },
+        {
+          "name": "高橋みのり",
+          "id": null
+        },
+        {
+          "name": "岩倉あずさ",
+          "id": null
+        },
+        {
+          "name": "延松舞佳",
+          "id": null
+        },
+        {
+          "name": "椎名孝介",
+          "id": null
+        },
+        {
+          "name": "三橋かおる",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【Big Bridge Company】第三回公演 朗読劇『結びの言葉』①",
+      "event_url": "https://www.eventernote.com/events/471274",
+      "date": "2026-05-13",
+      "venue": "シアター風姿花伝",
+      "open_time": "",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "岡本彩夏",
+          "id": null
+        },
+        {
+          "name": "後本萌葉",
+          "id": null
+        },
+        {
+          "name": "花澤桃花",
+          "id": null
+        },
+        {
+          "name": "安澄かえで",
+          "id": null
+        },
+        {
+          "name": "三葉海緒(珠原海愛)",
+          "id": null
+        },
+        {
+          "name": "浦尾岳大",
+          "id": null
+        },
+        {
+          "name": "前田玲奈",
+          "id": null
+        },
+        {
+          "name": "中川梨花",
+          "id": null
+        },
+        {
+          "name": "高橋みのり",
+          "id": null
+        },
+        {
+          "name": "岩倉あずさ",
+          "id": null
+        },
+        {
+          "name": "延松舞佳",
+          "id": null
+        },
+        {
+          "name": "望月輝透",
+          "id": null
+        },
+        {
+          "name": "三橋かおる",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project-Produce］演劇ユニット【爆走おとな小学生】朗読劇『カラフル』4月26日⑧",
+      "event_url": "https://www.eventernote.com/events/467088",
+      "date": "2026-04-26",
+      "venue": "新宿シアターサンモール",
+      "open_time": "",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "宮﨑雅也",
+          "id": null
+        },
+        {
+          "name": "斉藤朱夏",
+          "id": null
+        },
+        {
+          "name": "大友至恩",
+          "id": null
+        },
+        {
+          "name": "村上奈津実",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "室元気",
+          "id": null
+        },
+        {
+          "name": "山中真尋",
+          "id": null
+        },
+        {
+          "name": "平田裕香",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "阿部寿世",
+          "id": null
+        },
+        {
+          "name": "川口ナオ",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project-Produce］演劇ユニット【爆走おとな小学生】朗読劇『カラフル』4月26日⑨",
+      "event_url": "https://www.eventernote.com/events/467089",
+      "date": "2026-04-26",
+      "venue": "新宿シアターサンモール",
+      "open_time": "",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "宮﨑雅也",
+          "id": null
+        },
+        {
+          "name": "斉藤朱夏",
+          "id": null
+        },
+        {
+          "name": "大友至恩",
+          "id": null
+        },
+        {
+          "name": "村上奈津実",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "室元気",
+          "id": null
+        },
+        {
+          "name": "山中真尋",
+          "id": null
+        },
+        {
+          "name": "平田裕香",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "阿部寿世",
+          "id": null
+        },
+        {
+          "name": "川口ナオ",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project-Produce］演劇ユニット【爆走おとな小学生】朗読劇『カラフル』4月22日①",
+      "event_url": "https://www.eventernote.com/events/467081",
+      "date": "2026-04-22",
+      "venue": "新宿シアターサンモール",
+      "open_time": "",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "西本茉生",
+          "id": null
+        },
+        {
+          "name": "斉藤朱夏",
+          "id": null
+        },
+        {
+          "name": "大友至恩",
+          "id": null
+        },
+        {
+          "name": "ゾマやかじゃない！(リアルアキバボーイズ)",
+          "id": null
+        },
+        {
+          "name": "咲良菜緒",
+          "id": null
+        },
+        {
+          "name": "塩田一期",
+          "id": null
+        },
+        {
+          "name": "平山笑美",
+          "id": null
+        },
+        {
+          "name": "森田璃空",
+          "id": null
+        },
+        {
+          "name": "縣豪紀",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "原田彩楓",
+          "id": null
+        },
+        {
+          "name": "小坂涼太郎",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "おかづラジオ FIRST-BITE 2026 夜の部",
+      "event_url": "https://www.eventernote.com/events/454328",
+      "date": "2026-03-15",
+      "venue": "歌舞伎町劇場",
+      "open_time": "18:30",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "おかづラジオ FIRST-BITE 2026 昼の部",
+      "event_url": "https://www.eventernote.com/events/454327",
+      "date": "2026-03-15",
+      "venue": "歌舞伎町劇場",
+      "open_time": "14:30",
+      "start_time": "15:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター 初星音楽祭 DAY2",
+      "event_url": "https://www.eventernote.com/events/445442",
+      "date": "2026-03-01",
+      "venue": "京王アリーナTOKYO(武蔵野の森総合スポーツプラザ)メインアリーナ",
+      "open_time": "15:30",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター 初星音楽祭 DAY1",
+      "event_url": "https://www.eventernote.com/events/445441",
+      "date": "2026-02-28",
+      "venue": "京王アリーナTOKYO(武蔵野の森総合スポーツプラザ)メインアリーナ",
+      "open_time": "15:30",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "薄井友里の#サシバナ Produced by ボイスガレッジ 第3部",
+      "event_url": "https://www.eventernote.com/events/457276",
+      "date": "2026-02-01",
+      "venue": "R'sアートコート(労音大久保会館)",
+      "open_time": "18:00",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "MISHIMA LIVE READING PROJECT-Vol.1④",
+      "event_url": "https://www.eventernote.com/events/456422",
+      "date": "2026-01-29",
+      "venue": "中野テアトルBONBON",
+      "open_time": "18:30",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "小日向美香",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "結城美優",
+          "id": null
+        },
+        {
+          "name": "村上和叶",
+          "id": null
+        },
+        {
+          "name": "佐倉薫",
+          "id": null
+        },
+        {
+          "name": "百瀬帆南",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "秋山歩",
+          "id": null
+        },
+        {
+          "name": "由良朱合",
+          "id": null
+        },
+        {
+          "name": "佐々木ひまわり",
+          "id": null
+        },
+        {
+          "name": "KAREN(和泉芳怜)",
+          "id": null
+        },
+        {
+          "name": "ひとみちゃん",
+          "id": null
+        },
+        {
+          "name": "いろはちゃん",
+          "id": null
+        },
+        {
+          "name": "あいのちゃん",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "MISHIMA LIVE READING PROJECT-Vol.1③",
+      "event_url": "https://www.eventernote.com/events/456421",
+      "date": "2026-01-29",
+      "venue": "中野テアトルBONBON",
+      "open_time": "14:00",
+      "start_time": "14:30",
+      "actors": [
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "小日向美香",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "結城美優",
+          "id": null
+        },
+        {
+          "name": "村上和叶",
+          "id": null
+        },
+        {
+          "name": "佐倉薫",
+          "id": null
+        },
+        {
+          "name": "百瀬帆南",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "秋山歩",
+          "id": null
+        },
+        {
+          "name": "由良朱合",
+          "id": null
+        },
+        {
+          "name": "佐々木ひまわり",
+          "id": null
+        },
+        {
+          "name": "KAREN(和泉芳怜)",
+          "id": null
+        },
+        {
+          "name": "ひとみちゃん",
+          "id": null
+        },
+        {
+          "name": "いろはちゃん",
+          "id": null
+        },
+        {
+          "name": "あいのちゃん",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "MISHIMA LIVE READING PROJECT-Vol.1②",
+      "event_url": "https://www.eventernote.com/events/456420",
+      "date": "2026-01-28",
+      "venue": "中野テアトルBONBON",
+      "open_time": "18:30",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "小越春花",
+          "id": null
+        },
+        {
+          "name": "佐々木ひまわり",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "堺萌香",
+          "id": null
+        },
+        {
+          "name": "広瀬ゆうき",
+          "id": null
+        },
+        {
+          "name": "百瀬帆南",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "根本優奈",
+          "id": null
+        },
+        {
+          "name": "谷真理佳",
+          "id": null
+        },
+        {
+          "name": "櫻井陽夏",
+          "id": null
+        },
+        {
+          "name": "ひとみちゃん",
+          "id": null
+        },
+        {
+          "name": "いろはちゃん",
+          "id": null
+        },
+        {
+          "name": "あいのちゃん",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "THE IDOLM@STER M@STERS OF IDOL WORLD 2025 DAY2",
+      "event_url": "https://www.eventernote.com/events/438726",
+      "date": "2025-12-14",
+      "venue": "京セラドーム大阪(大阪ドーム)",
+      "open_time": "14:00",
+      "start_time": "16:00",
+      "actors": [
+        {
+          "name": "THE IDOLM@STER",
+          "id": null
+        },
+        {
+          "name": "今井麻美",
+          "id": null
+        },
+        {
+          "name": "長谷川明子",
+          "id": null
+        },
+        {
+          "name": "原由実",
+          "id": null
+        },
+        {
+          "name": "たかはし智秋",
+          "id": null
+        },
+        {
+          "name": "沼倉愛美",
+          "id": null
+        },
+        {
+          "name": "アイドルマスターシンデレラガールズ",
+          "id": null
+        },
+        {
+          "name": "アミマネラ(シンデレラガールズ)",
+          "id": null
+        },
+        {
+          "name": "大橋彩香",
+          "id": null
+        },
+        {
+          "name": "髙野麻美",
+          "id": null
+        },
+        {
+          "name": "深川芹亜",
+          "id": null
+        },
+        {
+          "name": "Sirius Chord(シンデレラガールズ)",
+          "id": null
+        },
+        {
+          "name": "福原綾香",
+          "id": null
+        },
+        {
+          "name": "関口理咲",
+          "id": null
+        },
+        {
+          "name": "千菅春香",
+          "id": null
+        },
+        {
+          "name": "セクシーギャルズ(シンデレラガールズ)",
+          "id": null
+        },
+        {
+          "name": "山下七海",
+          "id": null
+        },
+        {
+          "name": "金子真由美",
+          "id": null
+        },
+        {
+          "name": "佳村はるか",
+          "id": null
+        },
+        {
+          "name": "アイドルマスターミリオンライブ！ミリオンスターズ",
+          "id": null
+        },
+        {
+          "name": "山崎はるか",
+          "id": null
+        },
+        {
+          "name": "大関英里",
+          "id": null
+        },
+        {
+          "name": "藤井ゆきよ",
+          "id": null
+        },
+        {
+          "name": "髙橋ミナミ",
+          "id": null
+        },
+        {
+          "name": "阿部里果",
+          "id": null
+        },
+        {
+          "name": "近藤唯",
+          "id": null
+        },
+        {
+          "name": "斉藤佑圭",
+          "id": null
+        },
+        {
+          "name": "愛美",
+          "id": null
+        },
+        {
+          "name": "南早紀",
+          "id": null
+        },
+        {
+          "name": "香里有佐",
+          "id": null
+        },
+        {
+          "name": "アイドルマスターSideM",
+          "id": null
+        },
+        {
+          "name": "DRAMATIC STARS(SideM)",
+          "id": null
+        },
+        {
+          "name": "仲村宗悟",
+          "id": null
+        },
+        {
+          "name": "Jupiter(SideM)",
+          "id": null
+        },
+        {
+          "name": "神原大地",
+          "id": null
+        },
+        {
+          "name": "神速一魂(SideM)",
+          "id": null
+        },
+        {
+          "name": "益山武明",
+          "id": null
+        },
+        {
+          "name": "深町寿成",
+          "id": null
+        },
+        {
+          "name": "S.E.M(SideM)",
+          "id": null
+        },
+        {
+          "name": "伊東健人",
+          "id": null
+        },
+        {
+          "name": "榎木淳弥",
+          "id": null
+        },
+        {
+          "name": "中島ヨシキ",
+          "id": null
+        },
+        {
+          "name": "THE 虎牙道(SideM)",
+          "id": null
+        },
+        {
+          "name": "寺島惇太",
+          "id": null
+        },
+        {
+          "name": "濱野大輝",
+          "id": null
+        },
+        {
+          "name": "小松昌平",
+          "id": null
+        },
+        {
+          "name": "Legenders(SideM)",
+          "id": null
+        },
+        {
+          "name": "笠間淳",
+          "id": null
+        },
+        {
+          "name": "汐谷文康",
+          "id": null
+        },
+        {
+          "name": "駒田航",
+          "id": null
+        },
+        {
+          "name": "アイドルマスターシャイニーカラーズ",
+          "id": null
+        },
+        {
+          "name": "illumination STARS",
+          "id": null
+        },
+        {
+          "name": "関根瞳",
+          "id": null
+        },
+        {
+          "name": "近藤玲奈",
+          "id": null
+        },
+        {
+          "name": "峯田茉優",
+          "id": null
+        },
+        {
+          "name": "放課後クライマックスガールズ",
+          "id": null
+        },
+        {
+          "name": "河野ひより",
+          "id": null
+        },
+        {
+          "name": "永井真里子",
+          "id": null
+        },
+        {
+          "name": "丸岡和佳奈",
+          "id": null
+        },
+        {
+          "name": "涼本あきほ",
+          "id": null
+        },
+        {
+          "name": "Straylight",
+          "id": null
+        },
+        {
+          "name": "田中有紀",
+          "id": null
+        },
+        {
+          "name": "幸村恵理",
+          "id": null
+        },
+        {
+          "name": "北原沙弥香",
+          "id": null
+        },
+        {
+          "name": "noctchill",
+          "id": null
+        },
+        {
+          "name": "和久井優",
+          "id": null
+        },
+        {
+          "name": "土屋李央",
+          "id": null
+        },
+        {
+          "name": "田嶌紗蘭",
+          "id": null
+        },
+        {
+          "name": "岡咲美保",
+          "id": null
+        },
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "アルバノクト",
+          "id": null
+        },
+        {
+          "name": "田中あいみ",
+          "id": null
+        },
+        {
+          "name": "日高里菜",
+          "id": null
+        },
+        {
+          "name": "赤羽根健治",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ぷちうるふ1stみーてぃん2025　昼の部",
+      "event_url": "https://www.eventernote.com/events/439960",
+      "date": "2025-10-11",
+      "venue": "HYPERMIX門前仲町",
+      "open_time": "",
+      "start_time": "15:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "井料愛良",
+          "id": null
+        },
+        {
+          "name": "汐屋遥佳",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ぷちうるふ1stみーてぃん2025　夜の部",
+      "event_url": "https://www.eventernote.com/events/439961",
+      "date": "2025-10-11",
+      "venue": "HYPERMIX門前仲町",
+      "open_time": "",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "井料愛良",
+          "id": null
+        },
+        {
+          "name": "汐屋遥佳",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター クラス対抗初星大運動会 DAY2",
+      "event_url": "https://www.eventernote.com/events/431846",
+      "date": "2025-09-21",
+      "venue": "国立代々木競技場第一体育館",
+      "open_time": "15:30",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "村田綾香",
+          "id": null
+        },
+        {
+          "name": "赤羽根健治",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター クラス対抗初星大運動会 DAY1",
+      "event_url": "https://www.eventernote.com/events/431845",
+      "date": "2025-09-20",
+      "venue": "国立代々木競技場第一体育館",
+      "open_time": "15:30",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "村田綾香",
+          "id": null
+        },
+        {
+          "name": "赤羽根健治",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【時間変更】THE IDOLM@STER 20th anniversary ORCHESTRA CONCERT SYMPHONY OF BRILLIANT STARS 昼公演",
+      "event_url": "https://www.eventernote.com/events/410340",
+      "date": "2025-07-21",
+      "venue": "パシフィコ横浜  国立大ホール",
+      "open_time": "13:00",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "和田一樹",
+          "id": null
+        },
+        {
+          "name": "東京フィルハーモニー交響楽団",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "結城アイラ(ASUKA)",
+          "id": null
+        },
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "THE IDOLM@STER",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "新コンテンツブランド・ぷちうるふ発表会",
+      "event_url": "https://www.eventernote.com/events/433785",
+      "date": "2025-06-22",
+      "venue": "TUNNEL TOKYO",
+      "open_time": "17:30",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "井料愛良",
+          "id": null
+        },
+        {
+          "name": "たかはし智秋",
+          "id": null
+        },
+        {
+          "name": "汐屋遥佳",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［MISHIMALIVE♡Vol.11〜みしまちゃんpresents〜］①",
+      "event_url": "https://www.eventernote.com/events/432743",
+      "date": "2025-06-21",
+      "venue": "MsmileBOX渋谷",
+      "open_time": "13:00",
+      "start_time": "13:30",
+      "actors": [
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "赤坂麻凪",
+          "id": null
+        },
+        {
+          "name": "小越春花",
+          "id": null
+        },
+        {
+          "name": "村上和叶",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "おはようエレメンタリー",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［MISHIMALIVE♡Vol.11〜みしまちゃんpresents〜］②",
+      "event_url": "https://www.eventernote.com/events/432744",
+      "date": "2025-06-21",
+      "venue": "MsmileBOX渋谷",
+      "open_time": "17:30",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "赤坂麻凪",
+          "id": null
+        },
+        {
+          "name": "小越春花",
+          "id": null
+        },
+        {
+          "name": "村上和叶",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "おはようエレメンタリー",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター 初星学園放送部 公開録音2025 ～放送部の優雅で軽やかで大騒ぎな一日～ ＜第2部: 放送部の軽やかで大騒ぎな一日＞",
+      "event_url": "https://www.eventernote.com/events/427495",
+      "date": "2025-06-15",
+      "venue": "森のホール21(松戸市文化会館)",
+      "open_time": "17:45",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "村田綾香",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター The 1st Period Harmony Star DAY2",
+      "event_url": "https://www.eventernote.com/events/405992",
+      "date": "2025-06-01",
+      "venue": "TACHIKAWA STAGE GARDEN",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター The 1st Period Harmony Star DAY1",
+      "event_url": "https://www.eventernote.com/events/405991",
+      "date": "2025-05-31",
+      "venue": "TACHIKAWA STAGE GARDEN",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター The 1st Period Spotlight Star DAY2",
+      "event_url": "https://www.eventernote.com/events/405990",
+      "date": "2025-05-25",
+      "venue": "TACHIKAWA STAGE GARDEN",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター The 1st Period Spotlight Star DAY1",
+      "event_url": "https://www.eventernote.com/events/405989",
+      "date": "2025-05-24",
+      "venue": "TACHIKAWA STAGE GARDEN",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "らいおんちゃん公開録音2025年APRIL 第２部",
+      "event_url": "https://www.eventernote.com/events/424580",
+      "date": "2025-04-29",
+      "venue": "アニメイト池袋本店 B2F アニメイトシアター",
+      "open_time": "18:00",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "早坂弥優",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "里美咲華",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "和久野愛佳",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "らいおんちゃん公開録音2025年APRIL 第１部",
+      "event_url": "https://www.eventernote.com/events/424579",
+      "date": "2025-04-29",
+      "venue": "アニメイト池袋本店 B2F アニメイトシアター",
+      "open_time": "15:30",
+      "start_time": "16:00",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "早坂弥優",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "里美咲華",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "らいおんちゃん ラジオ公開録音 第１部",
+      "event_url": "https://www.eventernote.com/events/411236",
+      "date": "2025-01-13",
+      "venue": "アニメイト池袋本店 B2F アニメイトシアター",
+      "open_time": "14:30",
+      "start_time": "15:15",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "早坂弥優",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "里美咲華",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "和久野愛佳",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "らいおんちゃん ラジオ公開録音 第２部",
+      "event_url": "https://www.eventernote.com/events/411237",
+      "date": "2025-01-13",
+      "venue": "アニメイト池袋本店 B2F アニメイトシアター",
+      "open_time": "16:45",
+      "start_time": "17:30",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "早坂弥優",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "里美咲華",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "和久野愛佳",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project 第六十弾］演劇ユニット【爆走おとな小学生】第二十一回全校集会 \"朗読×ACT\"theater『アイディール・セミナー』第7セッション",
+      "event_url": "https://www.eventernote.com/events/399713",
+      "date": "2024-12-15",
+      "venue": "新宿村LIVE",
+      "open_time": "12:00",
+      "start_time": "12:30",
+      "actors": [
+        {
+          "name": "青葉ひなり",
+          "id": null
+        },
+        {
+          "name": "石井萌々果",
+          "id": null
+        },
+        {
+          "name": "根岸可蓮",
+          "id": null
+        },
+        {
+          "name": "大澤萌々",
+          "id": null
+        },
+        {
+          "name": "井川勇樹",
+          "id": null
+        },
+        {
+          "name": "加藤光大",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "髙木悠慎",
+          "id": null
+        },
+        {
+          "name": "桃原華恋",
+          "id": null
+        },
+        {
+          "name": "佐野遥喜",
+          "id": null
+        },
+        {
+          "name": "小林愛香",
+          "id": null
+        },
+        {
+          "name": "南早紀",
+          "id": null
+        },
+        {
+          "name": "結城萌子",
+          "id": null
+        },
+        {
+          "name": "石田みなみ",
+          "id": null
+        },
+        {
+          "name": "福嶋晴菜",
+          "id": null
+        },
+        {
+          "name": "鳴海まい",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "森永彩斗",
+          "id": null
+        },
+        {
+          "name": "堂島颯人",
+          "id": null
+        },
+        {
+          "name": "正木郁",
+          "id": null
+        },
+        {
+          "name": "森下来奈",
+          "id": null
+        },
+        {
+          "name": "香里有佐",
+          "id": null
+        },
+        {
+          "name": "美澄明里",
+          "id": null
+        },
+        {
+          "name": "橋爪亮磨",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project 第六十弾］演劇ユニット【爆走おとな小学生】第二十一回全校集会 \"朗読×ACT\"theater『アイディール・セミナー』第8セッション",
+      "event_url": "https://www.eventernote.com/events/399714",
+      "date": "2024-12-15",
+      "venue": "新宿村LIVE",
+      "open_time": "16:00",
+      "start_time": "16:30",
+      "actors": [
+        {
+          "name": "青葉ひなり",
+          "id": null
+        },
+        {
+          "name": "石井萌々果",
+          "id": null
+        },
+        {
+          "name": "根岸可蓮",
+          "id": null
+        },
+        {
+          "name": "大澤萌々",
+          "id": null
+        },
+        {
+          "name": "井川勇樹",
+          "id": null
+        },
+        {
+          "name": "加藤光大",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "髙木悠慎",
+          "id": null
+        },
+        {
+          "name": "桃原華恋",
+          "id": null
+        },
+        {
+          "name": "佐野遥喜",
+          "id": null
+        },
+        {
+          "name": "小林愛香",
+          "id": null
+        },
+        {
+          "name": "南早紀",
+          "id": null
+        },
+        {
+          "name": "結城萌子",
+          "id": null
+        },
+        {
+          "name": "石田みなみ",
+          "id": null
+        },
+        {
+          "name": "福嶋晴菜",
+          "id": null
+        },
+        {
+          "name": "鳴海まい",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "森永彩斗",
+          "id": null
+        },
+        {
+          "name": "堂島颯人",
+          "id": null
+        },
+        {
+          "name": "正木郁",
+          "id": null
+        },
+        {
+          "name": "森下来奈",
+          "id": null
+        },
+        {
+          "name": "香里有佐",
+          "id": null
+        },
+        {
+          "name": "美澄明里",
+          "id": null
+        },
+        {
+          "name": "橋爪亮磨",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "THE IDOLM@STER M@STER EXPO 学園アイドルマスター エキスポミニライブDAY1",
+      "event_url": "https://www.eventernote.com/events/392789",
+      "date": "2024-12-14",
+      "venue": "幕張メッセ 国際展示場ホール",
+      "open_time": "",
+      "start_time": "17:40",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "村田綾香",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学マスカンファレンス",
+      "event_url": "https://www.eventernote.com/events/400576",
+      "date": "2024-12-12",
+      "venue": "ベルサール秋葉原",
+      "open_time": "19:00",
+      "start_time": "20:00",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "小美野日出文",
+          "id": null
+        },
+        {
+          "name": "村田綾香",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project 第六十弾］演劇ユニット【爆走おとな小学生】第二十一回全校集会 \"朗読×ACT\"theater『アイディール・セミナー』第1セッション",
+      "event_url": "https://www.eventernote.com/events/399707",
+      "date": "2024-12-11",
+      "venue": "新宿村LIVE",
+      "open_time": "18:30",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "青葉ひなり",
+          "id": null
+        },
+        {
+          "name": "石井萌々果",
+          "id": null
+        },
+        {
+          "name": "根岸可蓮",
+          "id": null
+        },
+        {
+          "name": "大澤萌々",
+          "id": null
+        },
+        {
+          "name": "井川勇樹",
+          "id": null
+        },
+        {
+          "name": "加藤光大",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "髙木悠慎",
+          "id": null
+        },
+        {
+          "name": "桃原華恋",
+          "id": null
+        },
+        {
+          "name": "佐野遥喜",
+          "id": null
+        },
+        {
+          "name": "緒方佑奈",
+          "id": null
+        },
+        {
+          "name": "山岸理子",
+          "id": null
+        },
+        {
+          "name": "岩田陽菜",
+          "id": null
+        },
+        {
+          "name": "西連寺亜希",
+          "id": null
+        },
+        {
+          "name": "結木美咲",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "山口諒太郎",
+          "id": null
+        },
+        {
+          "name": "真野拓実",
+          "id": null
+        },
+        {
+          "name": "正木郁",
+          "id": null
+        },
+        {
+          "name": "森下来奈",
+          "id": null
+        },
+        {
+          "name": "二ノ宮ゆい(ニノミヤユイ)",
+          "id": null
+        },
+        {
+          "name": "加藤聖奈",
+          "id": null
+        },
+        {
+          "name": "美澄明里",
+          "id": null
+        },
+        {
+          "name": "橋爪亮磨",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【振替開催】学園アイドルマスター DEBUT LIVE 初 TOUR -初心公演- 梅田クラブクアトロ＜昼の部＞",
+      "event_url": "https://www.eventernote.com/events/391921",
+      "date": "2024-12-01",
+      "venue": "梅田CLUB QUATTRO",
+      "open_time": "14:30",
+      "start_time": "15:15",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【振替開催】学園アイドルマスター DEBUT LIVE 初 TOUR -初心公演- 梅田クラブクアトロ＜夜の部＞",
+      "event_url": "https://www.eventernote.com/events/391920",
+      "date": "2024-12-01",
+      "venue": "梅田CLUB QUATTRO",
+      "open_time": "17:45",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【第2部】学園アイドルマスター 初星学園 『1st Single』リリース記念イベント",
+      "event_url": "https://www.eventernote.com/events/387344",
+      "date": "2024-10-26",
+      "venue": "アニメイト池袋本店 9F animate hall BLACK",
+      "open_time": "13:15",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター DEBUT LIVE 初 TOUR -初心公演- 広島クラブクアトロ＜昼の部＞",
+      "event_url": "https://www.eventernote.com/events/378497",
+      "date": "2024-09-23",
+      "venue": "広島CLUB QUATTRO",
+      "open_time": "14:30",
+      "start_time": "15:15",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター DEBUT LIVE 初 TOUR -初心公演- 広島クラブクアトロ＜夜の部＞",
+      "event_url": "https://www.eventernote.com/events/378496",
+      "date": "2024-09-23",
+      "venue": "広島CLUB QUATTRO",
+      "open_time": "17:45",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "佐藤大地(BNEI)",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター DEBUT LIVE 初 TOUR -初心公演- 名古屋クラブクアトロ＜昼の部＞",
+      "event_url": "https://www.eventernote.com/events/378494",
+      "date": "2024-09-07",
+      "venue": "NAGOYA CLUB QUATTRO",
+      "open_time": "14:30",
+      "start_time": "15:15",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター DEBUT LIVE 初 TOUR -初心公演- 名古屋クラブクアトロ＜夜の部＞",
+      "event_url": "https://www.eventernote.com/events/378495",
+      "date": "2024-09-07",
+      "venue": "NAGOYA CLUB QUATTRO",
+      "open_time": "17:45",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        }
+      ]
+    }
+  ]
+}

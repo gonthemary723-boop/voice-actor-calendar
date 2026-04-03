@@ -1,0 +1,912 @@
+{
+  "actor_id": 78176,
+  "actor_name": "浅見香月",
+  "fetched_at": "2026-04-03T18:03:51.919565",
+  "event_count": 20,
+  "events": [
+    {
+      "event_name": "ぷちうるふ2ndみーてぃん2026 夜の部",
+      "event_url": "https://www.eventernote.com/events/469136",
+      "date": "2026-06-27",
+      "venue": "歌舞伎町劇場",
+      "open_time": "18:30",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "井料愛良",
+          "id": null
+        },
+        {
+          "name": "汐屋遥佳",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ぷちうるふ2ndみーてぃん2026 昼の部",
+      "event_url": "https://www.eventernote.com/events/469134",
+      "date": "2026-06-27",
+      "venue": "歌舞伎町劇場",
+      "open_time": "14:30",
+      "start_time": "15:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "井料愛良",
+          "id": null
+        },
+        {
+          "name": "汐屋遥佳",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「春咲暖ののんたいとる」1周年記念公開録音 第2部",
+      "event_url": "https://www.eventernote.com/events/470357",
+      "date": "2026-06-13",
+      "venue": "文化放送メディアプラスホール",
+      "open_time": "15:00",
+      "start_time": "15:30",
+      "actors": [
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "SEASIDE NexT Girl’s Presents さまなつDEゆめかなGAだいぼーそー！昼の部",
+      "event_url": "https://www.eventernote.com/events/463802",
+      "date": "2026-05-30",
+      "venue": "築地本願寺ブディストホール",
+      "open_time": "13:15",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "佐藤榛夏",
+          "id": null
+        },
+        {
+          "name": "中林新夏",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "野木奏",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "SEASIDE NexT Girl’s Presents さまなつDEゆめかなGAだいぼーそー！夜の部",
+      "event_url": "https://www.eventernote.com/events/463803",
+      "date": "2026-05-30",
+      "venue": "築地本願寺ブディストホール",
+      "open_time": "17:30",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "佐藤榛夏",
+          "id": null
+        },
+        {
+          "name": "中林新夏",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "野木奏",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク3〜おはにゃみ〜 夜の部",
+      "event_url": "https://www.eventernote.com/events/457278",
+      "date": "2026-04-18",
+      "venue": "浜離宮朝日ホール 小ホール",
+      "open_time": "16:45",
+      "start_time": "17:30",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク3〜おはにゃみ〜 昼の部",
+      "event_url": "https://www.eventernote.com/events/457277",
+      "date": "2026-04-18",
+      "venue": "浜離宮朝日ホール 小ホール",
+      "open_time": "13:15",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "おかづラジオ FIRST-BITE 2026 夜の部",
+      "event_url": "https://www.eventernote.com/events/454328",
+      "date": "2026-03-15",
+      "venue": "歌舞伎町劇場",
+      "open_time": "18:30",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "おかづラジオ FIRST-BITE 2026 昼の部",
+      "event_url": "https://www.eventernote.com/events/454327",
+      "date": "2026-03-15",
+      "venue": "歌舞伎町劇場",
+      "open_time": "14:30",
+      "start_time": "15:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "石見舞菜香・長谷川育美のふたりば 第2回番組イベント 二部",
+      "event_url": "https://www.eventernote.com/events/452082",
+      "date": "2026-01-10",
+      "venue": "東京証券会館ホール",
+      "open_time": "16:00",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "石見舞菜香",
+          "id": null
+        },
+        {
+          "name": "長谷川育美",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "首藤志奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "石見舞菜香・長谷川育美のふたりば 第2回番組イベント 一部",
+      "event_url": "https://www.eventernote.com/events/451816",
+      "date": "2026-01-10",
+      "venue": "東京証券会館ホール",
+      "open_time": "12:00",
+      "start_time": "13:30",
+      "actors": [
+        {
+          "name": "石見舞菜香",
+          "id": null
+        },
+        {
+          "name": "長谷川育美",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "首藤志奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ぷちうるふ1stみーてぃん2025　昼の部",
+      "event_url": "https://www.eventernote.com/events/439960",
+      "date": "2025-10-11",
+      "venue": "HYPERMIX門前仲町",
+      "open_time": "",
+      "start_time": "15:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "井料愛良",
+          "id": null
+        },
+        {
+          "name": "汐屋遥佳",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ぷちうるふ1stみーてぃん2025　夜の部",
+      "event_url": "https://www.eventernote.com/events/439961",
+      "date": "2025-10-11",
+      "venue": "HYPERMIX門前仲町",
+      "open_time": "",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "井料愛良",
+          "id": null
+        },
+        {
+          "name": "汐屋遥佳",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "新コンテンツブランド・ぷちうるふ発表会",
+      "event_url": "https://www.eventernote.com/events/433785",
+      "date": "2025-06-22",
+      "venue": "TUNNEL TOKYO",
+      "open_time": "17:30",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "井料愛良",
+          "id": null
+        },
+        {
+          "name": "たかはし智秋",
+          "id": null
+        },
+        {
+          "name": "汐屋遥佳",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project 第六十二弾］演劇ユニット【爆走おとな小学生】第二十二回全校集会 朗読×ACT『アイディール・セミナー/2nd session』<<第8セッション>>",
+      "event_url": "https://www.eventernote.com/events/418600",
+      "date": "2025-04-13",
+      "venue": "新宿シアターサンモール",
+      "open_time": "",
+      "start_time": "16:30",
+      "actors": [
+        {
+          "name": "小林愛香",
+          "id": null
+        },
+        {
+          "name": "南早紀",
+          "id": null
+        },
+        {
+          "name": "山岸理子",
+          "id": null
+        },
+        {
+          "name": "濱健人",
+          "id": null
+        },
+        {
+          "name": "春川芽生",
+          "id": null
+        },
+        {
+          "name": "岩田陽菜",
+          "id": null
+        },
+        {
+          "name": "鳴海まい",
+          "id": null
+        },
+        {
+          "name": "真野美月",
+          "id": null
+        },
+        {
+          "name": "十二稜子",
+          "id": null
+        },
+        {
+          "name": "日向朔公",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "石井萌々果",
+          "id": null
+        },
+        {
+          "name": "根岸可蓮",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "大澤萌々",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "加藤光大",
+          "id": null
+        },
+        {
+          "name": "井川勇樹",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "髙木悠慎",
+          "id": null
+        },
+        {
+          "name": "橋爪亮磨",
+          "id": null
+        },
+        {
+          "name": "鈴木南",
+          "id": null
+        },
+        {
+          "name": "西嶋沙紀",
+          "id": null
+        },
+        {
+          "name": "松林楓",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "西尾夕香",
+          "id": null
+        },
+        {
+          "name": "佳原萌枝",
+          "id": null
+        },
+        {
+          "name": "香田メイ(Mei)",
+          "id": null
+        },
+        {
+          "name": "MINA(Dippin'SHE)",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project 第六十二弾］演劇ユニット【爆走おとな小学生】第二十二回全校集会 朗読×ACT『アイディール・セミナー/2nd session』<<第7セッション>>",
+      "event_url": "https://www.eventernote.com/events/418599",
+      "date": "2025-04-13",
+      "venue": "新宿シアターサンモール",
+      "open_time": "",
+      "start_time": "12:30",
+      "actors": [
+        {
+          "name": "小林愛香",
+          "id": null
+        },
+        {
+          "name": "南早紀",
+          "id": null
+        },
+        {
+          "name": "山岸理子",
+          "id": null
+        },
+        {
+          "name": "濱健人",
+          "id": null
+        },
+        {
+          "name": "春川芽生",
+          "id": null
+        },
+        {
+          "name": "岩田陽菜",
+          "id": null
+        },
+        {
+          "name": "鳴海まい",
+          "id": null
+        },
+        {
+          "name": "真野美月",
+          "id": null
+        },
+        {
+          "name": "十二稜子",
+          "id": null
+        },
+        {
+          "name": "日向朔公",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "石井萌々果",
+          "id": null
+        },
+        {
+          "name": "根岸可蓮",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "大澤萌々",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "加藤光大",
+          "id": null
+        },
+        {
+          "name": "井川勇樹",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "髙木悠慎",
+          "id": null
+        },
+        {
+          "name": "橋爪亮磨",
+          "id": null
+        },
+        {
+          "name": "鈴木南",
+          "id": null
+        },
+        {
+          "name": "西嶋沙紀",
+          "id": null
+        },
+        {
+          "name": "松林楓",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "西尾夕香",
+          "id": null
+        },
+        {
+          "name": "佳原萌枝",
+          "id": null
+        },
+        {
+          "name": "香田メイ(Mei)",
+          "id": null
+        },
+        {
+          "name": "MINA(Dippin'SHE)",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project 第六十二弾］演劇ユニット【爆走おとな小学生】第二十二回全校集会 朗読×ACT『アイディール・セミナー/2nd session』<<第2セッション>>",
+      "event_url": "https://www.eventernote.com/events/418586",
+      "date": "2025-04-10",
+      "venue": "新宿シアターサンモール",
+      "open_time": "",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "小林愛香",
+          "id": null
+        },
+        {
+          "name": "南早紀",
+          "id": null
+        },
+        {
+          "name": "山岸理子",
+          "id": null
+        },
+        {
+          "name": "堂島颯人",
+          "id": null
+        },
+        {
+          "name": "渡部優衣",
+          "id": null
+        },
+        {
+          "name": "岩田陽菜",
+          "id": null
+        },
+        {
+          "name": "結木美咲",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "十二稜子",
+          "id": null
+        },
+        {
+          "name": "上村源",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "石井萌々果",
+          "id": null
+        },
+        {
+          "name": "根岸可蓮",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "大澤萌々",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "加藤光大",
+          "id": null
+        },
+        {
+          "name": "井川勇樹",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "髙木悠慎",
+          "id": null
+        },
+        {
+          "name": "橋爪亮磨",
+          "id": null
+        },
+        {
+          "name": "鈴木南",
+          "id": null
+        },
+        {
+          "name": "西嶋沙紀",
+          "id": null
+        },
+        {
+          "name": "松林楓",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "大西綺華",
+          "id": null
+        },
+        {
+          "name": "香田メイ(Mei)",
+          "id": null
+        },
+        {
+          "name": "MINA(Dippin'SHE)",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project 第六十二弾］演劇ユニット【爆走おとな小学生】第二十二回全校集会 朗読×ACT『アイディール・セミナー/2nd session』<<第1セッション>>",
+      "event_url": "https://www.eventernote.com/events/418596",
+      "date": "2025-04-09",
+      "venue": "新宿シアターサンモール",
+      "open_time": "",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "小林愛香",
+          "id": null
+        },
+        {
+          "name": "南早紀",
+          "id": null
+        },
+        {
+          "name": "山岸理子",
+          "id": null
+        },
+        {
+          "name": "堂島颯人",
+          "id": null
+        },
+        {
+          "name": "春川芽生",
+          "id": null
+        },
+        {
+          "name": "岩田陽菜",
+          "id": null
+        },
+        {
+          "name": "結木美咲",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "福嶋晴菜",
+          "id": null
+        },
+        {
+          "name": "日向朔公",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "石井萌々果",
+          "id": null
+        },
+        {
+          "name": "根岸可蓮",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "大澤萌々",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "加藤光大",
+          "id": null
+        },
+        {
+          "name": "井川勇樹",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "髙木悠慎",
+          "id": null
+        },
+        {
+          "name": "橋爪亮磨",
+          "id": null
+        },
+        {
+          "name": "鈴木南",
+          "id": null
+        },
+        {
+          "name": "西嶋沙紀",
+          "id": null
+        },
+        {
+          "name": "松林楓",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "西尾夕香",
+          "id": null
+        },
+        {
+          "name": "大西綺華",
+          "id": null
+        },
+        {
+          "name": "香田メイ(Mei)",
+          "id": null
+        },
+        {
+          "name": "MINA(Dippin'SHE)",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【出演者変更】「ＶＯＩＣＥ ＣＯＭＩＣ ＬＩＶＥ 公演B クセつよ男子特集 愛が重い恋愛上級者＆生意気後輩男子」5月18日(土) 昼公演",
+      "event_url": "https://www.eventernote.com/events/373149",
+      "date": "2024-05-18",
+      "venue": "池袋HUMAXシネマズ",
+      "open_time": "12:30",
+      "start_time": "13:30",
+      "actors": [
+        {
+          "name": "伊駒ゆりえ",
+          "id": null
+        },
+        {
+          "name": "岡本信彦",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【出演者変更】「ＶＯＩＣＥ ＣＯＭＩＣ ＬＩＶＥ 公演B クセつよ男子特集 愛が重い恋愛上級者＆生意気後輩男子」5月18日(土) 夜公演",
+      "event_url": "https://www.eventernote.com/events/373150",
+      "date": "2024-05-18",
+      "venue": "池袋HUMAXシネマズ",
+      "open_time": "18:30",
+      "start_time": "19:30",
+      "actors": [
+        {
+          "name": "堀江瞬",
+          "id": null
+        },
+        {
+          "name": "伊駒ゆりえ",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "堀金蒼平",
+          "id": null
+        }
+      ]
+    }
+  ]
+}

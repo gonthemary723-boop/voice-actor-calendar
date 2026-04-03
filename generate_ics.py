@@ -1,11 +1,23 @@
-# generate_ics.py
 """
-Eventernote JSON → ICS (iCalendar) 変換スクリプト
+Eventernote JSON → ICS (iCalendar) 変換スクリプト（複数声優対応版）
+config.json に登録された全声優のICSファイルを生成する
 """
 
 import hashlib
 import json
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+
+
+CONFIG_PATH = Path("config.json")
+DATA_DIR = Path("data")
+
+
+def load_config() -> list[dict]:
+    """config.json から声優リストを読み込む"""
+    with open(CONFIG_PATH, "r", encoding="utf-8") as f:
+        config = json.load(f)
+    return config["actors"]
 
 
 # === データ読み込み ===
@@ -60,7 +72,7 @@ def get_dtstart(event: dict) -> str:
 
 
 def get_dtend(event: dict) -> str:
-    """終了日時のICS表現を返す（開演+2時間 or 終日）"""
+    """終了日時のICS表現を返す（開演＋2時間 or 終日）"""
     date_ics = parse_date(event["date"])
     start = event.get("start_time", "").strip()
     if start:
@@ -71,7 +83,6 @@ def get_dtend(event: dict) -> str:
         end_time = f"{h:02d}{time_ics[2:]}"
         return f"DTEND;TZID=Asia/Tokyo:{date_ics}T{end_time}"
     else:
-        from datetime import timedelta
         dt = datetime.strptime(date_ics, "%Y%m%d")
         next_day = (dt + timedelta(days=1)).strftime("%Y%m%d")
         return f"DTEND;VALUE=DATE:{next_day}"
@@ -129,12 +140,11 @@ def fold_line(line: str) -> str:
     encoded = line.encode("utf-8")
     if len(encoded) <= 75:
         return line
-    
+
     result = []
     current = b""
     for char in line:
         char_bytes = char.encode("utf-8")
-        # 最初の行は75、継続行は74（先頭スペース分）
         limit = 75 if not result else 74
         if len(current) + len(char_bytes) > limit:
             result.append(current.decode("utf-8"))
@@ -143,7 +153,7 @@ def fold_line(line: str) -> str:
             current += char_bytes
     if current:
         result.append(current.decode("utf-8"))
-    
+
     return "\r\n ".join(result)
 
 
@@ -165,7 +175,6 @@ def event_to_vevent(event: dict, actor_name: str) -> list[str]:
     if location:
         lines.append(f"LOCATION:{location}")
 
-    # DESCRIPTIONは各行を escape してから \n で結合
     desc_lines = description.split("\n")
     escaped_desc = "\\n".join(escape_ics_text(line) for line in desc_lines)
     lines.append(f"DESCRIPTION:{escaped_desc}")
@@ -174,13 +183,21 @@ def event_to_vevent(event: dict, actor_name: str) -> list[str]:
     return lines
 
 
-# === メイン処理 ===
+# === 1声優分のICS生成 ===
 
-def generate_ics(json_path: str):
-    """JSONからICSファイルを生成する"""
-    actor, events = load_events(json_path)
-    actor_name = actor["name"]
-    actor_id = actor["id"]
+def generate_ics_for_actor(actor_id: int, actor_name: str) -> bool:
+    """指定声優のJSONからICSファイルを生成する"""
+    json_path = DATA_DIR / f"actor_{actor_id}.json"
+
+    if not json_path.exists():
+        print(f"  JSONファイルなし: {json_path} → スキップ")
+        return False
+
+    actor, events = load_events(str(json_path))
+
+    if not events:
+        print(f"  イベント0件 → スキップ")
+        return False
 
     cal_lines = [
         "BEGIN:VCALENDAR",
@@ -205,18 +222,36 @@ def generate_ics(json_path: str):
 
     cal_lines.append("END:VCALENDAR")
 
-    output_path = f"data/calendar_{actor_id}.ics"
+    output_path = DATA_DIR / f"calendar_{actor_id}.ics"
     with open(output_path, "w", encoding="utf-8", newline="") as f:
         for line in cal_lines:
             stripped = line.strip()
             if stripped:
                 f.write(fold_line(stripped) + "\r\n")
 
+    print(f"  ICS生成完了: {output_path}（{len(events)}件）")
+    return True
 
-    print(f"ICSファイル生成完了: {output_path}")
-    print(f"  イベント数: {len(events)}件")
-    print(f"  カレンダー名: {actor_name}のイベント")
+
+# === メイン処理 ===
+
+def main():
+    """config.json の全声優のICSを生成する"""
+    actors = load_config()
+    print(f"=== {len(actors)}名のICSファイルを生成します ===\n")
+
+    success = 0
+    for i, actor in enumerate(actors, 1):
+        actor_id = actor["id"]
+        actor_name = actor["name"]
+        print(f"[{i}/{len(actors)}] {actor_name}（ID: {actor_id}）")
+
+        if generate_ics_for_actor(actor_id, actor_name):
+            success += 1
+        print()
+
+    print(f"=== 完了: {success}/{len(actors)} 名のICSを生成 ===")
 
 
 if __name__ == "__main__":
-    generate_ics("data/actor_16058.json")
+    main()
