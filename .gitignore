@@ -1,3 +1,8 @@
 __pycache__/
 *.pyc
 .env
+credentials.json
+*.pdf
+test_*.py
+check_*.py
+create_*.py
