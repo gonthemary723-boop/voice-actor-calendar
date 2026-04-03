@@ -1,4 +1,9 @@
-name: Update Calendar
+# update_workflow.py
+import os
+
+os.makedirs(".github/workflows", exist_ok=True)
+
+content = """name: Update Calendar
 
 on:
   schedule:
@@ -49,3 +54,8 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+"""
+
+with open(".github/workflows/update_calendar.yml", "w", encoding="utf-8") as f:
+    f.write(content)
+print("ワークフロー更新完了")
