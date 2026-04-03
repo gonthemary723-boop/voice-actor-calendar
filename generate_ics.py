@@ -123,6 +123,29 @@ def escape_ics_text(text: str) -> str:
     return text
 
 
+def fold_line(line: str) -> str:
+    """ICS仕様に従い、75オクテットで行を折り返す（RFC 5545 Section 3.1）"""
+    encoded = line.encode("utf-8")
+    if len(encoded) <= 75:
+        return line
+    
+    result = []
+    current = b""
+    for char in line:
+        char_bytes = char.encode("utf-8")
+        # 最初の行は75、継続行は74（先頭スペース分）
+        limit = 75 if not result else 74
+        if len(current) + len(char_bytes) > limit:
+            result.append(current.decode("utf-8"))
+            current = char_bytes
+        else:
+            current += char_bytes
+    if current:
+        result.append(current.decode("utf-8"))
+    
+    return "\r\n ".join(result)
+
+
 def event_to_vevent(event: dict, actor_name: str) -> list[str]:
     """1イベントをVEVENTの行リストに変換する"""
     now_utc = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
@@ -181,7 +204,8 @@ def generate_ics(json_path: str):
         for line in cal_lines:
             stripped = line.strip()
             if stripped:
-                f.write(stripped + "\r\n")
+                f.write(fold_line(stripped) + "\r\n")
+
 
     print(f"ICSファイル生成完了: {output_path}")
     print(f"  イベント数: {len(events)}件")
