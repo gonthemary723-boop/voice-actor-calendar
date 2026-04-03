@@ -204,7 +204,11 @@ def generate_ics_for_actor(actor_id: int, actor_name: str) -> bool:
         "VERSION:2.0",
         "PRODID:-//voice-actor-calendar//EN",
         f"X-WR-CALNAME:{actor_name}のイベント",
+        f"NAME:{actor_name}のイベント",
         "CALSCALE:GREGORIAN",
+        "METHOD:PUBLISH",
+        "REFRESH-INTERVAL;VALUE=DURATION:P1D",
+        "X-PUBLISHED-TTL:P1D",
         "BEGIN:VTIMEZONE",
         "TZID:Asia/Tokyo",
         "BEGIN:STANDARD",
@@ -215,6 +219,7 @@ def generate_ics_for_actor(actor_id: int, actor_name: str) -> bool:
         "END:STANDARD",
         "END:VTIMEZONE",
     ]
+
 
     for event in events:
         vevent_lines = event_to_vevent(event, actor_name)
