@@ -83,17 +83,18 @@ def build_description(event: dict, actor_name: str) -> str:
     """イベントの説明文を組み立てる"""
     lines = []
 
-    # 開場時間
-    if event.get("open_time"):
-        lines.append(f"開場: {event['open_time']}")
-
-    # 開演時間
-    if event.get("start_time"):
-        lines.append(f"開演: {event['start_time']}")
-
-    # 会場
+    # 会場（最優先）
     if event.get("venue"):
         lines.append(f"会場: {event['venue']}")
+
+    # 開場/開演を1行にまとめる
+    times = []
+    if event.get("open_time"):
+        times.append(f"開場 {event['open_time']}")
+    if event.get("start_time"):
+        times.append(f"開演 {event['start_time']}")
+    if times:
+        lines.append(" / ".join(times))
 
     # 出演者（自分以外を最大20名表示）
     actors = event.get("actors", [])
@@ -110,7 +111,7 @@ def build_description(event: dict, actor_name: str) -> str:
         url = f"https://www.eventernote.com{url}"
     lines.append(url)
 
-    return "\\n".join(lines)
+    return "\n".join(lines)
 
 
 # === ICSテキスト生成 ===
@@ -163,7 +164,12 @@ def event_to_vevent(event: dict, actor_name: str) -> list[str]:
     ]
     if location:
         lines.append(f"LOCATION:{location}")
-    lines.append(f"DESCRIPTION:{description}")
+
+    # DESCRIPTIONは各行を escape してから \n で結合
+    desc_lines = description.split("\n")
+    escaped_desc = "\\n".join(escape_ics_text(line) for line in desc_lines)
+    lines.append(f"DESCRIPTION:{escaped_desc}")
+
     lines.append("END:VEVENT")
     return lines
 
