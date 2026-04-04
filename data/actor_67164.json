@@ -1,7 +1,7 @@
 {
   "actor_id": 67164,
   "actor_name": "陽高真白",
-  "fetched_at": "2026-04-04T01:13:19.305321",
+  "fetched_at": "2026-04-04T16:02:37.808835",
   "event_count": 111,
   "events": [
     {
@@ -82,7 +82,7 @@
       "event_name": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL DAY2",
       "event_url": "https://www.eventernote.com/events/452235",
       "date": "2026-06-07",
-      "venue": "オロシティーホール(OROCITY HALL)",
+      "venue": "横浜アリーナ",
       "open_time": "15:30",
       "start_time": "17:00",
       "actors": [
@@ -148,7 +148,7 @@
       "event_name": "学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL DAY1",
       "event_url": "https://www.eventernote.com/events/452234",
       "date": "2026-06-06",
-      "venue": "オロシティーホール(OROCITY HALL)",
+      "venue": "横浜アリーナ",
       "open_time": "15:30",
       "start_time": "17:00",
       "actors": [
