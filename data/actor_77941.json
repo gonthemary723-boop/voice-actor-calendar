@@ -1,7 +1,7 @@
 {
   "actor_id": 77941,
   "actor_name": "松田彩音",
-  "fetched_at": "2026-04-03T17:03:36.160060",
+  "fetched_at": "2026-04-04T00:56:09.851245",
   "event_count": 30,
   "events": [
     {
@@ -219,12 +219,12 @@
       ]
     },
     {
-      "event_name": "［Otona Project-Produce］演劇ユニット【爆走おとな小学生】朗読劇『カラフル』4月25日⑦",
-      "event_url": "https://www.eventernote.com/events/467087",
+      "event_name": "［Otona Project-Produce］演劇ユニット【爆走おとな小学生】朗読劇『カラフル』4月25日⑥",
+      "event_url": "https://www.eventernote.com/events/467086",
       "date": "2026-04-25",
       "venue": "新宿シアターサンモール",
       "open_time": "",
-      "start_time": "18:30",
+      "start_time": "13:30",
       "actors": [
         {
           "name": "西本茉生",
@@ -277,12 +277,12 @@
       ]
     },
     {
-      "event_name": "［Otona Project-Produce］演劇ユニット【爆走おとな小学生】朗読劇『カラフル』4月25日⑥",
-      "event_url": "https://www.eventernote.com/events/467086",
+      "event_name": "［Otona Project-Produce］演劇ユニット【爆走おとな小学生】朗読劇『カラフル』4月25日⑦",
+      "event_url": "https://www.eventernote.com/events/467087",
       "date": "2026-04-25",
       "venue": "新宿シアターサンモール",
       "open_time": "",
-      "start_time": "13:30",
+      "start_time": "18:30",
       "actors": [
         {
           "name": "西本茉生",
