@@ -1,7 +1,7 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-04-04T16:00:11.654014",
+  "fetched_at": "2026-04-05T16:03:20.625644",
   "event_count": 79,
   "events": [
     {
@@ -219,24 +219,6 @@
       ]
     },
     {
-      "event_name": "飯田ヒカルの#サシバナProduced by ボイスガレッジ 第2部",
-      "event_url": "https://www.eventernote.com/events/470940",
-      "date": "2026-05-04",
-      "venue": "関交協ハーモニックホール",
-      "open_time": "15:00",
-      "start_time": "15:30",
-      "actors": [
-        {
-          "name": "飯田ヒカル",
-          "id": null
-        },
-        {
-          "name": "七瀬つむぎ",
-          "id": null
-        }
-      ]
-    },
-    {
       "event_name": "飯田ヒカルの#サシバナProduced by ボイスガレッジ 第1部",
       "event_url": "https://www.eventernote.com/events/470714",
       "date": "2026-05-04",
@@ -250,6 +232,24 @@
         },
         {
           "name": "首藤志奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "飯田ヒカルの#サシバナProduced by ボイスガレッジ 第2部",
+      "event_url": "https://www.eventernote.com/events/470940",
+      "date": "2026-05-04",
+      "venue": "関交協ハーモニックホール",
+      "open_time": "15:00",
+      "start_time": "15:30",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
           "id": null
         }
       ]
