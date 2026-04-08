@@ -1,8 +1,8 @@
 {
   "actor_id": 67164,
   "actor_name": "陽高真白",
-  "fetched_at": "2026-04-07T18:14:20.847877",
-  "event_count": 111,
+  "fetched_at": "2026-04-08T18:59:30.536712",
+  "event_count": 125,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- 岩手公演 DAY2",
@@ -74,6 +74,818 @@
       "actors": [
         {
           "name": "陽高真白",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「時光代理人-LINK CLICK- Game of Rules」THE MUSICAL 6/28",
+      "event_url": "https://www.eventernote.com/events/474070",
+      "date": "2026-06-28",
+      "venue": "IMM THEATER",
+      "open_time": "",
+      "start_time": "13:30",
+      "actors": [
+        {
+          "name": "武子直輝",
+          "id": null
+        },
+        {
+          "name": "佐奈宏紀",
+          "id": null
+        },
+        {
+          "name": "小泉萌香",
+          "id": null
+        },
+        {
+          "name": "石井陽菜",
+          "id": null
+        },
+        {
+          "name": "上山航平",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "影山達也",
+          "id": null
+        },
+        {
+          "name": "早乙女じょうじ",
+          "id": null
+        },
+        {
+          "name": "倉貫匡弘",
+          "id": null
+        },
+        {
+          "name": "飯田寅義",
+          "id": null
+        },
+        {
+          "name": "加藤大騎",
+          "id": null
+        },
+        {
+          "name": "浅見静江",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「時光代理人-LINK CLICK- Game of Rules」THE MUSICAL 6/27 12:30",
+      "event_url": "https://www.eventernote.com/events/474078",
+      "date": "2026-06-27",
+      "venue": "IMM THEATER",
+      "open_time": "",
+      "start_time": "12:30",
+      "actors": [
+        {
+          "name": "武子直輝",
+          "id": null
+        },
+        {
+          "name": "佐奈宏紀",
+          "id": null
+        },
+        {
+          "name": "小泉萌香",
+          "id": null
+        },
+        {
+          "name": "石井陽菜",
+          "id": null
+        },
+        {
+          "name": "上山航平",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "影山達也",
+          "id": null
+        },
+        {
+          "name": "早乙女じょうじ",
+          "id": null
+        },
+        {
+          "name": "倉貫匡弘",
+          "id": null
+        },
+        {
+          "name": "飯田寅義",
+          "id": null
+        },
+        {
+          "name": "加藤大騎",
+          "id": null
+        },
+        {
+          "name": "浅見静江",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「時光代理人-LINK CLICK- Game of Rules」THE MUSICAL 6/27 17:00",
+      "event_url": "https://www.eventernote.com/events/474075",
+      "date": "2026-06-27",
+      "venue": "IMM THEATER",
+      "open_time": "",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "武子直輝",
+          "id": null
+        },
+        {
+          "name": "佐奈宏紀",
+          "id": null
+        },
+        {
+          "name": "小泉萌香",
+          "id": null
+        },
+        {
+          "name": "石井陽菜",
+          "id": null
+        },
+        {
+          "name": "上山航平",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "影山達也",
+          "id": null
+        },
+        {
+          "name": "早乙女じょうじ",
+          "id": null
+        },
+        {
+          "name": "倉貫匡弘",
+          "id": null
+        },
+        {
+          "name": "飯田寅義",
+          "id": null
+        },
+        {
+          "name": "加藤大騎",
+          "id": null
+        },
+        {
+          "name": "浅見静江",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「時光代理人-LINK CLICK- Game of Rules」THE MUSICAL 6/26",
+      "event_url": "https://www.eventernote.com/events/474067",
+      "date": "2026-06-26",
+      "venue": "IMM THEATER",
+      "open_time": "",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "武子直輝",
+          "id": null
+        },
+        {
+          "name": "佐奈宏紀",
+          "id": null
+        },
+        {
+          "name": "小泉萌香",
+          "id": null
+        },
+        {
+          "name": "石井陽菜",
+          "id": null
+        },
+        {
+          "name": "上山航平",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "影山達也",
+          "id": null
+        },
+        {
+          "name": "早乙女じょうじ",
+          "id": null
+        },
+        {
+          "name": "倉貫匡弘",
+          "id": null
+        },
+        {
+          "name": "飯田寅義",
+          "id": null
+        },
+        {
+          "name": "加藤大騎",
+          "id": null
+        },
+        {
+          "name": "浅見静江",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「時光代理人-LINK CLICK- Game of Rules」THE MUSICAL 6/25 18:00",
+      "event_url": "https://www.eventernote.com/events/474068",
+      "date": "2026-06-25",
+      "venue": "IMM THEATER",
+      "open_time": "",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "武子直輝",
+          "id": null
+        },
+        {
+          "name": "佐奈宏紀",
+          "id": null
+        },
+        {
+          "name": "小泉萌香",
+          "id": null
+        },
+        {
+          "name": "石井陽菜",
+          "id": null
+        },
+        {
+          "name": "上山航平",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "影山達也",
+          "id": null
+        },
+        {
+          "name": "早乙女じょうじ",
+          "id": null
+        },
+        {
+          "name": "倉貫匡弘",
+          "id": null
+        },
+        {
+          "name": "飯田寅義",
+          "id": null
+        },
+        {
+          "name": "加藤大騎",
+          "id": null
+        },
+        {
+          "name": "浅見静江",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「時光代理人-LINK CLICK- Game of Rules」THE MUSICAL 6/25 13:30",
+      "event_url": "https://www.eventernote.com/events/474072",
+      "date": "2026-06-25",
+      "venue": "IMM THEATER",
+      "open_time": "",
+      "start_time": "13:30",
+      "actors": [
+        {
+          "name": "武子直輝",
+          "id": null
+        },
+        {
+          "name": "佐奈宏紀",
+          "id": null
+        },
+        {
+          "name": "小泉萌香",
+          "id": null
+        },
+        {
+          "name": "石井陽菜",
+          "id": null
+        },
+        {
+          "name": "上山航平",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "影山達也",
+          "id": null
+        },
+        {
+          "name": "早乙女じょうじ",
+          "id": null
+        },
+        {
+          "name": "倉貫匡弘",
+          "id": null
+        },
+        {
+          "name": "飯田寅義",
+          "id": null
+        },
+        {
+          "name": "加藤大騎",
+          "id": null
+        },
+        {
+          "name": "浅見静江",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「時光代理人-LINK CLICK- Game of Rules」THE MUSICAL 6/24",
+      "event_url": "https://www.eventernote.com/events/474069",
+      "date": "2026-06-24",
+      "venue": "IMM THEATER",
+      "open_time": "",
+      "start_time": "13:30",
+      "actors": [
+        {
+          "name": "武子直輝",
+          "id": null
+        },
+        {
+          "name": "佐奈宏紀",
+          "id": null
+        },
+        {
+          "name": "小泉萌香",
+          "id": null
+        },
+        {
+          "name": "石井陽菜",
+          "id": null
+        },
+        {
+          "name": "上山航平",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "影山達也",
+          "id": null
+        },
+        {
+          "name": "早乙女じょうじ",
+          "id": null
+        },
+        {
+          "name": "倉貫匡弘",
+          "id": null
+        },
+        {
+          "name": "飯田寅義",
+          "id": null
+        },
+        {
+          "name": "加藤大騎",
+          "id": null
+        },
+        {
+          "name": "浅見静江",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「時光代理人-LINK CLICK- Game of Rules」THE MUSICAL 6/22",
+      "event_url": "https://www.eventernote.com/events/474066",
+      "date": "2026-06-22",
+      "venue": "IMM THEATER",
+      "open_time": "",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "武子直輝",
+          "id": null
+        },
+        {
+          "name": "佐奈宏紀",
+          "id": null
+        },
+        {
+          "name": "小泉萌香",
+          "id": null
+        },
+        {
+          "name": "石井陽菜",
+          "id": null
+        },
+        {
+          "name": "上山航平",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "影山達也",
+          "id": null
+        },
+        {
+          "name": "早乙女じょうじ",
+          "id": null
+        },
+        {
+          "name": "倉貫匡弘",
+          "id": null
+        },
+        {
+          "name": "飯田寅義",
+          "id": null
+        },
+        {
+          "name": "加藤大騎",
+          "id": null
+        },
+        {
+          "name": "浅見静江",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「時光代理人-LINK CLICK- Game of Rules」THE MUSICAL 6/21 17:00",
+      "event_url": "https://www.eventernote.com/events/474074",
+      "date": "2026-06-21",
+      "venue": "IMM THEATER",
+      "open_time": "",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "武子直輝",
+          "id": null
+        },
+        {
+          "name": "佐奈宏紀",
+          "id": null
+        },
+        {
+          "name": "小泉萌香",
+          "id": null
+        },
+        {
+          "name": "石井陽菜",
+          "id": null
+        },
+        {
+          "name": "上山航平",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "影山達也",
+          "id": null
+        },
+        {
+          "name": "早乙女じょうじ",
+          "id": null
+        },
+        {
+          "name": "倉貫匡弘",
+          "id": null
+        },
+        {
+          "name": "飯田寅義",
+          "id": null
+        },
+        {
+          "name": "加藤大騎",
+          "id": null
+        },
+        {
+          "name": "浅見静江",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「時光代理人-LINK CLICK- Game of Rules」THE MUSICAL 6/21 12:30",
+      "event_url": "https://www.eventernote.com/events/474077",
+      "date": "2026-06-21",
+      "venue": "IMM THEATER",
+      "open_time": "",
+      "start_time": "12:30",
+      "actors": [
+        {
+          "name": "武子直輝",
+          "id": null
+        },
+        {
+          "name": "佐奈宏紀",
+          "id": null
+        },
+        {
+          "name": "小泉萌香",
+          "id": null
+        },
+        {
+          "name": "石井陽菜",
+          "id": null
+        },
+        {
+          "name": "上山航平",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "影山達也",
+          "id": null
+        },
+        {
+          "name": "早乙女じょうじ",
+          "id": null
+        },
+        {
+          "name": "倉貫匡弘",
+          "id": null
+        },
+        {
+          "name": "飯田寅義",
+          "id": null
+        },
+        {
+          "name": "加藤大騎",
+          "id": null
+        },
+        {
+          "name": "浅見静江",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「時光代理人-LINK CLICK- Game of Rules」THE MUSICAL 6/20 17:00",
+      "event_url": "https://www.eventernote.com/events/474073",
+      "date": "2026-06-20",
+      "venue": "IMM THEATER",
+      "open_time": "",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "武子直輝",
+          "id": null
+        },
+        {
+          "name": "佐奈宏紀",
+          "id": null
+        },
+        {
+          "name": "小泉萌香",
+          "id": null
+        },
+        {
+          "name": "石井陽菜",
+          "id": null
+        },
+        {
+          "name": "上山航平",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "影山達也",
+          "id": null
+        },
+        {
+          "name": "早乙女じょうじ",
+          "id": null
+        },
+        {
+          "name": "倉貫匡弘",
+          "id": null
+        },
+        {
+          "name": "飯田寅義",
+          "id": null
+        },
+        {
+          "name": "加藤大騎",
+          "id": null
+        },
+        {
+          "name": "浅見静江",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「時光代理人-LINK CLICK- Game of Rules」THE MUSICAL 6/20 12:30",
+      "event_url": "https://www.eventernote.com/events/474076",
+      "date": "2026-06-20",
+      "venue": "IMM THEATER",
+      "open_time": "",
+      "start_time": "12:30",
+      "actors": [
+        {
+          "name": "武子直輝",
+          "id": null
+        },
+        {
+          "name": "佐奈宏紀",
+          "id": null
+        },
+        {
+          "name": "小泉萌香",
+          "id": null
+        },
+        {
+          "name": "石井陽菜",
+          "id": null
+        },
+        {
+          "name": "上山航平",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "影山達也",
+          "id": null
+        },
+        {
+          "name": "早乙女じょうじ",
+          "id": null
+        },
+        {
+          "name": "倉貫匡弘",
+          "id": null
+        },
+        {
+          "name": "飯田寅義",
+          "id": null
+        },
+        {
+          "name": "加藤大騎",
+          "id": null
+        },
+        {
+          "name": "浅見静江",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「時光代理人-LINK CLICK- Game of Rules」THE MUSICAL 6/19",
+      "event_url": "https://www.eventernote.com/events/474065",
+      "date": "2026-06-19",
+      "venue": "IMM THEATER",
+      "open_time": "",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "武子直輝",
+          "id": null
+        },
+        {
+          "name": "佐奈宏紀",
+          "id": null
+        },
+        {
+          "name": "小泉萌香",
+          "id": null
+        },
+        {
+          "name": "石井陽菜",
+          "id": null
+        },
+        {
+          "name": "上山航平",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "影山達也",
+          "id": null
+        },
+        {
+          "name": "早乙女じょうじ",
+          "id": null
+        },
+        {
+          "name": "倉貫匡弘",
+          "id": null
+        },
+        {
+          "name": "飯田寅義",
+          "id": null
+        },
+        {
+          "name": "加藤大騎",
+          "id": null
+        },
+        {
+          "name": "浅見静江",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「時光代理人-LINK CLICK- Game of Rules」THE MUSICAL 6/18",
+      "event_url": "https://www.eventernote.com/events/474064",
+      "date": "2026-06-18",
+      "venue": "IMM THEATER",
+      "open_time": "",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "武子直輝",
+          "id": null
+        },
+        {
+          "name": "佐奈宏紀",
+          "id": null
+        },
+        {
+          "name": "小泉萌香",
+          "id": null
+        },
+        {
+          "name": "石井陽菜",
+          "id": null
+        },
+        {
+          "name": "上山航平",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "影山達也",
+          "id": null
+        },
+        {
+          "name": "早乙女じょうじ",
+          "id": null
+        },
+        {
+          "name": "倉貫匡弘",
+          "id": null
+        },
+        {
+          "name": "飯田寅義",
+          "id": null
+        },
+        {
+          "name": "加藤大騎",
+          "id": null
+        },
+        {
+          "name": "浅見静江",
           "id": null
         }
       ]

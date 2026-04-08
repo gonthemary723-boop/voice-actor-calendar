@@ -1,7 +1,7 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-04-07T18:12:08.121595",
+  "fetched_at": "2026-04-08T18:57:14.595069",
   "event_count": 54,
   "events": [
     {
@@ -65,12 +65,12 @@
       ]
     },
     {
-      "event_name": "ことばとば【2部】(2026年8月8日)",
-      "event_url": "https://www.eventernote.com/events/469319",
+      "event_name": "ことばとば【1部】(2026年8月8日)",
+      "event_url": "https://www.eventernote.com/events/469318",
       "date": "2026-08-08",
       "venue": "ライクスホール",
-      "open_time": "15:30",
-      "start_time": "16:00",
+      "open_time": "12:00",
+      "start_time": "12:30",
       "actors": [
         {
           "name": "薄井友里",
@@ -83,12 +83,12 @@
       ]
     },
     {
-      "event_name": "ことばとば【1部】(2026年8月8日)",
-      "event_url": "https://www.eventernote.com/events/469318",
+      "event_name": "ことばとば【2部】(2026年8月8日)",
+      "event_url": "https://www.eventernote.com/events/469319",
       "date": "2026-08-08",
       "venue": "ライクスホール",
-      "open_time": "12:00",
-      "start_time": "12:30",
+      "open_time": "15:30",
+      "start_time": "16:00",
       "actors": [
         {
           "name": "薄井友里",

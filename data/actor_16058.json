@@ -1,7 +1,7 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-04-07T18:14:02.764521",
+  "fetched_at": "2026-04-08T18:59:09.535940",
   "event_count": 532,
   "events": [
     {
@@ -1343,12 +1343,12 @@
       ]
     },
     {
-      "event_name": "舞台「アサルトリリィ・シュツルム」御台場⼥学校 7/18 13:00",
-      "event_url": "https://www.eventernote.com/events/469830",
+      "event_name": "舞台「アサルトリリィ・シュツルム」御台場⼥学校 7/18 18:00",
+      "event_url": "https://www.eventernote.com/events/469827",
       "date": "2026-07-18",
       "venue": "シアター1010",
-      "open_time": "12:00",
-      "start_time": "13:00",
+      "open_time": "17:00",
+      "start_time": "18:00",
       "actors": [
         {
           "name": "石井陽菜",
@@ -1461,12 +1461,12 @@
       ]
     },
     {
-      "event_name": "舞台「アサルトリリィ・シュツルム」御台場⼥学校 7/18 18:00",
-      "event_url": "https://www.eventernote.com/events/469827",
+      "event_name": "舞台「アサルトリリィ・シュツルム」御台場⼥学校 7/18 13:00",
+      "event_url": "https://www.eventernote.com/events/469830",
       "date": "2026-07-18",
       "venue": "シアター1010",
-      "open_time": "17:00",
-      "start_time": "18:00",
+      "open_time": "12:00",
+      "start_time": "13:00",
       "actors": [
         {
           "name": "石井陽菜",
