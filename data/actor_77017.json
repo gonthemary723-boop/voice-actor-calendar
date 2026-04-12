@@ -1,7 +1,7 @@
 {
   "actor_id": 77017,
   "actor_name": "長月あおい",
-  "fetched_at": "2026-04-11T16:02:14.520738",
+  "fetched_at": "2026-04-12T17:04:19.009450",
   "event_count": 43,
   "events": [
     {
@@ -205,24 +205,6 @@
       ]
     },
     {
-      "event_name": "長月あおいのいたごち1stイベント ナガツキ春のお世話まつり〜転生したら関交協ハーモニックホールにいた件〜昼の部〜お茶会〜",
-      "event_url": "https://www.eventernote.com/events/464976",
-      "date": "2026-04-11",
-      "venue": "関交協ハーモニックホール",
-      "open_time": "13:30",
-      "start_time": "14:00",
-      "actors": [
-        {
-          "name": "長月あおい",
-          "id": null
-        },
-        {
-          "name": "飯田ヒカル",
-          "id": null
-        }
-      ]
-    },
-    {
       "event_name": "長月あおいのいたごち1stイベント ナガツキ春のお世話まつり〜転生したら関交協ハーモニックホールにいた件〜夜の部〜晩餐会〜",
       "event_url": "https://www.eventernote.com/events/464977",
       "date": "2026-04-11",
@@ -236,6 +218,24 @@
         },
         {
           "name": "薄井友里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "長月あおいのいたごち1stイベント ナガツキ春のお世話まつり〜転生したら関交協ハーモニックホールにいた件〜昼の部〜お茶会〜",
+      "event_url": "https://www.eventernote.com/events/464976",
+      "date": "2026-04-11",
+      "venue": "関交協ハーモニックホール",
+      "open_time": "13:30",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "長月あおい",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
           "id": null
         }
       ]
