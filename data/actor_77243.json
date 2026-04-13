@@ -1,8 +1,8 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-04-12T17:05:09.152684",
-  "event_count": 39,
+  "fetched_at": "2026-04-13T18:55:21.039729",
+  "event_count": 41,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- 岩手公演 DAY2",
@@ -60,6 +60,58 @@
         },
         {
           "name": "陽高真白",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "リーディングシアター『0と1と私（仮）』8月2日 夜の部",
+      "event_url": "https://www.eventernote.com/events/474856",
+      "date": "2026-08-02",
+      "venue": "R'sアートコート(労音大久保会館)",
+      "open_time": "17:00",
+      "start_time": "17:30",
+      "actors": [
+        {
+          "name": "河野ひより",
+          "id": null
+        },
+        {
+          "name": "菅叶和",
+          "id": null
+        },
+        {
+          "name": "梅澤めぐ",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "リーディングシアター『0と1と私（仮）』8月2日 昼の部",
+      "event_url": "https://www.eventernote.com/events/474855",
+      "date": "2026-08-02",
+      "venue": "R'sアートコート(労音大久保会館)",
+      "open_time": "13:30",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "河野ひより",
+          "id": null
+        },
+        {
+          "name": "菅叶和",
+          "id": null
+        },
+        {
+          "name": "梅澤めぐ",
+          "id": null
+        },
+        {
+          "name": "湊みや",
           "id": null
         }
       ]

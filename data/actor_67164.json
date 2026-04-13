@@ -1,7 +1,7 @@
 {
   "actor_id": 67164,
   "actor_name": "陽高真白",
-  "fetched_at": "2026-04-12T17:07:07.626371",
+  "fetched_at": "2026-04-13T18:57:19.349422",
   "event_count": 125,
   "events": [
     {
@@ -311,12 +311,12 @@
       ]
     },
     {
-      "event_name": "「時光代理人-LINK CLICK- Game of Rules」THE MUSICAL 6/25 18:00",
-      "event_url": "https://www.eventernote.com/events/474068",
+      "event_name": "「時光代理人-LINK CLICK- Game of Rules」THE MUSICAL 6/25 13:30",
+      "event_url": "https://www.eventernote.com/events/474072",
       "date": "2026-06-25",
       "venue": "IMM THEATER",
       "open_time": "",
-      "start_time": "18:00",
+      "start_time": "13:30",
       "actors": [
         {
           "name": "武子直輝",
@@ -369,12 +369,12 @@
       ]
     },
     {
-      "event_name": "「時光代理人-LINK CLICK- Game of Rules」THE MUSICAL 6/25 13:30",
-      "event_url": "https://www.eventernote.com/events/474072",
+      "event_name": "「時光代理人-LINK CLICK- Game of Rules」THE MUSICAL 6/25 18:00",
+      "event_url": "https://www.eventernote.com/events/474068",
       "date": "2026-06-25",
       "venue": "IMM THEATER",
       "open_time": "",
-      "start_time": "13:30",
+      "start_time": "18:00",
       "actors": [
         {
           "name": "武子直輝",
