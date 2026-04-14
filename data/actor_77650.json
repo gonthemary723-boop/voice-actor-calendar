@@ -1,7 +1,7 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-04-13T18:55:12.825813",
+  "fetched_at": "2026-04-14T18:49:47.019659",
   "event_count": 54,
   "events": [
     {
@@ -101,12 +101,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年7月5日)",
-      "event_url": "https://www.eventernote.com/events/465884",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年7月5日)",
+      "event_url": "https://www.eventernote.com/events/465113",
       "date": "2026-07-05",
       "venue": "クーポール会館",
-      "open_time": "15:30",
-      "start_time": "16:15",
+      "open_time": "12:00",
+      "start_time": "12:45",
       "actors": [
         {
           "name": "天音ゆかり",
@@ -119,12 +119,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年7月5日)",
-      "event_url": "https://www.eventernote.com/events/465113",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年7月5日)",
+      "event_url": "https://www.eventernote.com/events/465884",
       "date": "2026-07-05",
       "venue": "クーポール会館",
-      "open_time": "12:00",
-      "start_time": "12:45",
+      "open_time": "15:30",
+      "start_time": "16:15",
       "actors": [
         {
           "name": "天音ゆかり",
