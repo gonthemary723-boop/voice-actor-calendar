@@ -1,8 +1,8 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-04-14T18:51:34.162252",
-  "event_count": 532,
+  "fetched_at": "2026-04-15T18:52:07.717603",
+  "event_count": 534,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- 岩手公演 DAY2",
@@ -866,6 +866,130 @@
         },
         {
           "name": "川上将大",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "SMA VOICE文化祭 2026 -Summer Vacation- 夜公演",
+      "event_url": "https://www.eventernote.com/events/475075",
+      "date": "2026-08-16",
+      "venue": "新宿ReNY",
+      "open_time": "16:45",
+      "start_time": "17:30",
+      "actors": [
+        {
+          "name": "天沢颯志",
+          "id": null
+        },
+        {
+          "name": "岩倉あずさ",
+          "id": null
+        },
+        {
+          "name": "楠木ともり",
+          "id": null
+        },
+        {
+          "name": "小宮山あかり",
+          "id": null
+        },
+        {
+          "name": "助川真蔵",
+          "id": null
+        },
+        {
+          "name": "戸谷菊之介",
+          "id": null
+        },
+        {
+          "name": "新島瑠菜(声優)",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "日原あゆみ",
+          "id": null
+        },
+        {
+          "name": "ペイトン尚未",
+          "id": null
+        },
+        {
+          "name": "星希成奏",
+          "id": null
+        },
+        {
+          "name": "矢野妃菜喜",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "SMA VOICE文化祭 2026 -Summer Vacation- 昼公演",
+      "event_url": "https://www.eventernote.com/events/475074",
+      "date": "2026-08-16",
+      "venue": "新宿ReNY",
+      "open_time": "13:30",
+      "start_time": "14:15",
+      "actors": [
+        {
+          "name": "天沢颯志",
+          "id": null
+        },
+        {
+          "name": "岩倉あずさ",
+          "id": null
+        },
+        {
+          "name": "楠木ともり",
+          "id": null
+        },
+        {
+          "name": "小宮山あかり",
+          "id": null
+        },
+        {
+          "name": "助川真蔵",
+          "id": null
+        },
+        {
+          "name": "戸谷菊之介",
+          "id": null
+        },
+        {
+          "name": "新島瑠菜(声優)",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "日原あゆみ",
+          "id": null
+        },
+        {
+          "name": "ペイトン尚未",
+          "id": null
+        },
+        {
+          "name": "星希成奏",
+          "id": null
+        },
+        {
+          "name": "矢野妃菜喜",
           "id": null
         }
       ]

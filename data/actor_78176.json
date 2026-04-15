@@ -1,7 +1,7 @@
 {
   "actor_id": 78176,
   "actor_name": "浅見香月",
-  "fetched_at": "2026-04-14T18:52:02.280855",
+  "fetched_at": "2026-04-15T18:52:36.163969",
   "event_count": 22,
   "events": [
     {
@@ -127,80 +127,6 @@
       ]
     },
     {
-      "event_name": "【Big Bridge Company】第三回公演 朗読劇『結びの言葉』⑥",
-      "event_url": "https://www.eventernote.com/events/471280",
-      "date": "2026-05-16",
-      "venue": "シアター風姿花伝",
-      "open_time": "",
-      "start_time": "13:30",
-      "actors": [
-        {
-          "name": "城恵理子",
-          "id": null
-        },
-        {
-          "name": "岡本彩夏",
-          "id": null
-        },
-        {
-          "name": "後本萌葉",
-          "id": null
-        },
-        {
-          "name": "花澤桃花",
-          "id": null
-        },
-        {
-          "name": "安澄かえで",
-          "id": null
-        },
-        {
-          "name": "三葉海緒(珠原海愛)",
-          "id": null
-        },
-        {
-          "name": "ゾマやかじゃない！(リアルアキバボーイズ)",
-          "id": null
-        },
-        {
-          "name": "高梨螢",
-          "id": null
-        },
-        {
-          "name": "岩倉あずさ",
-          "id": null
-        },
-        {
-          "name": "大澤萌々",
-          "id": null
-        },
-        {
-          "name": "椎名孝介",
-          "id": null
-        },
-        {
-          "name": "草野太一",
-          "id": null
-        },
-        {
-          "name": "浅見香月",
-          "id": null
-        },
-        {
-          "name": "北瀬永莉",
-          "id": null
-        },
-        {
-          "name": "上村源",
-          "id": null
-        },
-        {
-          "name": "西田有愛",
-          "id": null
-        }
-      ]
-    },
-    {
       "event_name": "【Big Bridge Company】第三回公演 朗読劇『結びの言葉』⑦",
       "event_url": "https://www.eventernote.com/events/471281",
       "date": "2026-05-16",
@@ -266,6 +192,80 @@
         },
         {
           "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "西田有愛",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【Big Bridge Company】第三回公演 朗読劇『結びの言葉』⑥",
+      "event_url": "https://www.eventernote.com/events/471280",
+      "date": "2026-05-16",
+      "venue": "シアター風姿花伝",
+      "open_time": "",
+      "start_time": "13:30",
+      "actors": [
+        {
+          "name": "城恵理子",
+          "id": null
+        },
+        {
+          "name": "岡本彩夏",
+          "id": null
+        },
+        {
+          "name": "後本萌葉",
+          "id": null
+        },
+        {
+          "name": "花澤桃花",
+          "id": null
+        },
+        {
+          "name": "安澄かえで",
+          "id": null
+        },
+        {
+          "name": "三葉海緒(珠原海愛)",
+          "id": null
+        },
+        {
+          "name": "ゾマやかじゃない！(リアルアキバボーイズ)",
+          "id": null
+        },
+        {
+          "name": "高梨螢",
+          "id": null
+        },
+        {
+          "name": "岩倉あずさ",
+          "id": null
+        },
+        {
+          "name": "大澤萌々",
+          "id": null
+        },
+        {
+          "name": "椎名孝介",
+          "id": null
+        },
+        {
+          "name": "草野太一",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "北瀬永莉",
+          "id": null
+        },
+        {
+          "name": "上村源",
           "id": null
         },
         {
