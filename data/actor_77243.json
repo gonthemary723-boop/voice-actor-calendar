@@ -1,7 +1,7 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-04-15T18:50:25.580472",
+  "fetched_at": "2026-04-16T18:50:04.422624",
   "event_count": 41,
   "events": [
     {
@@ -139,12 +139,12 @@
       ]
     },
     {
-      "event_name": "Museum 2部(2026年6月21日)",
-      "event_url": "https://www.eventernote.com/events/466616",
+      "event_name": "Museum 1部(2026年6月21日)",
+      "event_url": "https://www.eventernote.com/events/466615",
       "date": "2026-06-21",
       "venue": "札幌国際交流館 ライラックホール",
-      "open_time": "16:00",
-      "start_time": "16:30",
+      "open_time": "12:30",
+      "start_time": "13:00",
       "actors": [
         {
           "name": "梅澤めぐ",
@@ -157,12 +157,12 @@
       ]
     },
     {
-      "event_name": "Museum 1部(2026年6月21日)",
-      "event_url": "https://www.eventernote.com/events/466615",
+      "event_name": "Museum 2部(2026年6月21日)",
+      "event_url": "https://www.eventernote.com/events/466616",
       "date": "2026-06-21",
       "venue": "札幌国際交流館 ライラックホール",
-      "open_time": "12:30",
-      "start_time": "13:00",
+      "open_time": "16:00",
+      "start_time": "16:30",
       "actors": [
         {
           "name": "梅澤めぐ",
