@@ -1,7 +1,7 @@
 {
   "actor_id": 77781,
   "actor_name": "七瀬つむぎ",
-  "fetched_at": "2026-04-16T18:49:38.038548",
+  "fetched_at": "2026-04-17T17:37:41.051900",
   "event_count": 45,
   "events": [
     {
@@ -87,12 +87,12 @@
       ]
     },
     {
-      "event_name": "縁結びのゆかり様1stイベント 結び、結ばれ、桃源郷 昼公演",
-      "event_url": "https://www.eventernote.com/events/469356",
+      "event_name": "縁結びのゆかり様1stイベント 結び、結ばれ、桃源郷 夜公演",
+      "event_url": "https://www.eventernote.com/events/469358",
       "date": "2026-06-14",
       "venue": "TOKYO FM HALL",
-      "open_time": "13:15",
-      "start_time": "14:00",
+      "open_time": "17:45",
+      "start_time": "18:30",
       "actors": [
         {
           "name": "天音ゆかり",
@@ -109,12 +109,12 @@
       ]
     },
     {
-      "event_name": "縁結びのゆかり様1stイベント 結び、結ばれ、桃源郷 夜公演",
-      "event_url": "https://www.eventernote.com/events/469358",
+      "event_name": "縁結びのゆかり様1stイベント 結び、結ばれ、桃源郷 昼公演",
+      "event_url": "https://www.eventernote.com/events/469356",
       "date": "2026-06-14",
       "venue": "TOKYO FM HALL",
-      "open_time": "17:45",
-      "start_time": "18:30",
+      "open_time": "13:15",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "天音ゆかり",
