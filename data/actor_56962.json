@@ -1,7 +1,7 @@
 {
   "actor_id": 56962,
   "actor_name": "薄井友里",
-  "fetched_at": "2026-04-17T17:38:27.945604",
+  "fetched_at": "2026-04-18T10:43:52.115813",
   "event_count": 78,
   "events": [
     {
@@ -277,12 +277,12 @@
       ]
     },
     {
-      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク3〜おはにゃみ〜 夜の部",
-      "event_url": "https://www.eventernote.com/events/457278",
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク3〜おはにゃみ〜 昼の部",
+      "event_url": "https://www.eventernote.com/events/457277",
       "date": "2026-04-18",
       "venue": "浜離宮朝日ホール 小ホール",
-      "open_time": "16:45",
-      "start_time": "17:30",
+      "open_time": "13:15",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "薄井友里",
@@ -307,12 +307,12 @@
       ]
     },
     {
-      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク3〜おはにゃみ〜 昼の部",
-      "event_url": "https://www.eventernote.com/events/457277",
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク3〜おはにゃみ〜 夜の部",
+      "event_url": "https://www.eventernote.com/events/457278",
       "date": "2026-04-18",
       "venue": "浜離宮朝日ホール 小ホール",
-      "open_time": "13:15",
-      "start_time": "14:00",
+      "open_time": "16:45",
+      "start_time": "17:30",
       "actors": [
         {
           "name": "薄井友里",
