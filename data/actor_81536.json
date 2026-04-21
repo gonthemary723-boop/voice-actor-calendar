@@ -1,8 +1,8 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-04-20T18:13:51.788441",
-  "event_count": 19,
+  "fetched_at": "2026-04-21T18:18:18.797611",
+  "event_count": 20,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- 福岡公演 DAY2",
@@ -64,6 +64,32 @@
         },
         {
           "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "SEASIDE SUMMER FESTIVAL 2026 夜の部",
+      "event_url": "https://www.eventernote.com/events/475864",
+      "date": "2026-07-12",
+      "venue": "築地本願寺ブディストホール",
+      "open_time": "17:30",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "立花日菜",
+          "id": null
+        },
+        {
+          "name": "篠原侑",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
           "id": null
         },
         {

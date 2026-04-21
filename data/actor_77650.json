@@ -1,8 +1,8 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-04-20T18:11:39.703097",
-  "event_count": 54,
+  "fetched_at": "2026-04-21T18:16:02.051498",
+  "event_count": 57,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- 岩手公演 DAY2",
@@ -184,6 +184,76 @@
         },
         {
           "name": "汐屋遥佳",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "演劇ユニット【メイホリック】メイホリックシアター22 朗読劇「花売りに結ばれて」6月26日④",
+      "event_url": "https://www.eventernote.com/events/475854",
+      "date": "2026-06-26",
+      "venue": "シアターグリーン BIG TREE THEATER",
+      "open_time": "",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "真宮涼",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "鈴木日菜",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "演劇ユニット【メイホリック】メイホリックシアター22 朗読劇「花売りに結ばれて」6月26日⑤",
+      "event_url": "https://www.eventernote.com/events/475856",
+      "date": "2026-06-26",
+      "venue": "シアターグリーン BIG TREE THEATER",
+      "open_time": "",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "真宮涼",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "鈴木日菜",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "演劇ユニット【メイホリック】メイホリックシアター22 朗読劇「花売りに結ばれて」6月24日①",
+      "event_url": "https://www.eventernote.com/events/475851",
+      "date": "2026-06-24",
+      "venue": "シアターグリーン BIG TREE THEATER",
+      "open_time": "",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "中澤ミナ",
+          "id": null
+        },
+        {
+          "name": "吉武千颯",
+          "id": null
+        },
+        {
+          "name": "藍本あみ",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
           "id": null
         }
       ]
