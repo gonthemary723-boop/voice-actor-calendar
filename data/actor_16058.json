@@ -1,8 +1,8 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-04-22T18:18:56.560400",
-  "event_count": 534,
+  "fetched_at": "2026-04-23T18:47:30.015134",
+  "event_count": 535,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- 岩手公演 DAY2",
@@ -1816,6 +1816,44 @@
         },
         {
           "name": "宮崎理奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "Luminous Lodge 06",
+      "event_url": "https://www.eventernote.com/events/475938",
+      "date": "2026-06-21",
+      "venue": "!_海外某所・各所",
+      "open_time": "17:00",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "大橋彩香",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "fripSide",
+          "id": null
+        },
+        {
+          "name": "八木沼悟志",
+          "id": null
+        },
+        {
+          "name": "上杉真央(mAO)",
+          "id": null
+        },
+        {
+          "name": "阿部寿世",
+          "id": null
+        },
+        {
+          "name": "ペイトン尚未",
           "id": null
         }
       ]

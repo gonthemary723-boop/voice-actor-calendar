@@ -1,8 +1,8 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-04-22T18:16:44.583021",
-  "event_count": 79,
+  "fetched_at": "2026-04-23T18:45:06.649680",
+  "event_count": 80,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- 福岡公演 DAY2",
@@ -212,6 +212,28 @@
       "open_time": "",
       "start_time": "12:00",
       "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "紫月杏朱彩のお姫様になるんだもん☆FANMEETING 2026 SPRING 2部",
+      "event_url": "https://www.eventernote.com/events/474392",
+      "date": "2026-05-09",
+      "venue": "アニメイト池袋本店 B2F アニメイトシアター",
+      "open_time": "16:45",
+      "start_time": "17:15",
+      "actors": [
+        {
+          "name": "紫月杏朱彩",
+          "id": null
+        },
+        {
+          "name": "田中那実",
+          "id": null
+        },
         {
           "name": "飯田ヒカル",
           "id": null
