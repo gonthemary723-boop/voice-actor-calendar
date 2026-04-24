@@ -1,7 +1,7 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-04-23T18:45:34.287428",
+  "fetched_at": "2026-04-24T17:57:41.977641",
   "event_count": 57,
   "events": [
     {
@@ -189,12 +189,12 @@
       ]
     },
     {
-      "event_name": "演劇ユニット【メイホリック】メイホリックシアター22 朗読劇「花売りに結ばれて」6月26日⑤",
-      "event_url": "https://www.eventernote.com/events/475856",
+      "event_name": "演劇ユニット【メイホリック】メイホリックシアター22 朗読劇「花売りに結ばれて」6月26日④",
+      "event_url": "https://www.eventernote.com/events/475854",
       "date": "2026-06-26",
       "venue": "シアターグリーン BIG TREE THEATER",
       "open_time": "",
-      "start_time": "19:00",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "真宮涼",
@@ -211,12 +211,12 @@
       ]
     },
     {
-      "event_name": "演劇ユニット【メイホリック】メイホリックシアター22 朗読劇「花売りに結ばれて」6月26日④",
-      "event_url": "https://www.eventernote.com/events/475854",
+      "event_name": "演劇ユニット【メイホリック】メイホリックシアター22 朗読劇「花売りに結ばれて」6月26日⑤",
+      "event_url": "https://www.eventernote.com/events/475856",
       "date": "2026-06-26",
       "venue": "シアターグリーン BIG TREE THEATER",
       "open_time": "",
-      "start_time": "14:00",
+      "start_time": "19:00",
       "actors": [
         {
           "name": "真宮涼",
