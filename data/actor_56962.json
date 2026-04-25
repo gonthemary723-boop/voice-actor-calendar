@@ -1,7 +1,7 @@
 {
   "actor_id": 56962,
   "actor_name": "薄井友里",
-  "fetched_at": "2026-04-24T17:58:11.203210",
+  "fetched_at": "2026-04-25T17:25:26.886483",
   "event_count": 80,
   "events": [
     {
@@ -101,12 +101,12 @@
       ]
     },
     {
-      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク4〜たにゃばた〜 昼の部",
-      "event_url": "https://www.eventernote.com/events/475559",
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク4〜たにゃばた〜 夜の部",
+      "event_url": "https://www.eventernote.com/events/475560",
       "date": "2026-07-05",
       "venue": "全電通労働会館 多目的ホール",
-      "open_time": "13:15",
-      "start_time": "14:00",
+      "open_time": "16:45",
+      "start_time": "17:30",
       "actors": [
         {
           "name": "薄井友里",
@@ -119,12 +119,12 @@
       ]
     },
     {
-      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク4〜たにゃばた〜 夜の部",
-      "event_url": "https://www.eventernote.com/events/475560",
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク4〜たにゃばた〜 昼の部",
+      "event_url": "https://www.eventernote.com/events/475559",
       "date": "2026-07-05",
       "venue": "全電通労働会館 多目的ホール",
-      "open_time": "16:45",
-      "start_time": "17:30",
+      "open_time": "13:15",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "薄井友里",
