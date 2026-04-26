@@ -1,8 +1,8 @@
 {
   "actor_id": 67164,
   "actor_name": "陽高真白",
-  "fetched_at": "2026-04-25T17:27:07.299146",
-  "event_count": 127,
+  "fetched_at": "2026-04-26T17:27:45.895676",
+  "event_count": 128,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- 岩手公演 DAY2",
@@ -198,6 +198,48 @@
         },
         {
           "name": "矢野妃菜喜",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "舞台「アサルトリリィ」上演会 7/17",
+      "event_url": "https://www.eventernote.com/events/476421",
+      "date": "2026-07-17",
+      "venue": "シアター1010",
+      "open_time": "18:00",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "大森莉緒",
+          "id": null
+        },
+        {
+          "name": "牧浦乙葵",
+          "id": null
+        },
+        {
+          "name": "其原有沙",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "大滝紗緒里",
+          "id": null
+        },
+        {
+          "name": "日永麗",
+          "id": null
+        },
+        {
+          "name": "吉岡茉祐",
+          "id": null
+        },
+        {
+          "name": "河内美里",
           "id": null
         }
       ]

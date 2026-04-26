@@ -1,8 +1,8 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-04-25T17:26:47.759525",
-  "event_count": 535,
+  "fetched_at": "2026-04-26T17:27:25.977809",
+  "event_count": 536,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- 岩手公演 DAY2",
@@ -1108,6 +1108,52 @@
         },
         {
           "name": "宮崎理奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "舞台「アサルトリリィ」上演会 7/21",
+      "event_url": "https://www.eventernote.com/events/476422",
+      "date": "2026-07-21",
+      "venue": "シアター1010",
+      "open_time": "18:00",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "石井陽菜",
+          "id": null
+        },
+        {
+          "name": "西葉瑞希",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "田崎礼奈",
+          "id": null
+        },
+        {
+          "name": "矢野妃菜喜",
+          "id": null
+        },
+        {
+          "name": "あわつまい",
+          "id": null
+        },
+        {
+          "name": "林田麻里",
+          "id": null
+        },
+        {
+          "name": "橘里依",
+          "id": null
+        },
+        {
+          "name": "天麻ゆうき",
           "id": null
         }
       ]
