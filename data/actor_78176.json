@@ -1,7 +1,7 @@
 {
   "actor_id": 78176,
   "actor_name": "浅見香月",
-  "fetched_at": "2026-04-27T19:58:46.813194",
+  "fetched_at": "2026-04-28T20:09:27.752393",
   "event_count": 23,
   "events": [
     {
@@ -101,12 +101,12 @@
       ]
     },
     {
-      "event_name": "SEASIDE NexT Girl’s Presents さまなつDEゆめかなGAだいぼーそー！昼の部",
-      "event_url": "https://www.eventernote.com/events/463802",
+      "event_name": "SEASIDE NexT Girl’s Presents さまなつDEゆめかなGAだいぼーそー！夜の部",
+      "event_url": "https://www.eventernote.com/events/463803",
       "date": "2026-05-30",
       "venue": "築地本願寺ブディストホール",
-      "open_time": "13:15",
-      "start_time": "14:00",
+      "open_time": "17:30",
+      "start_time": "18:00",
       "actors": [
         {
           "name": "佐藤榛夏",
@@ -127,12 +127,12 @@
       ]
     },
     {
-      "event_name": "SEASIDE NexT Girl’s Presents さまなつDEゆめかなGAだいぼーそー！夜の部",
-      "event_url": "https://www.eventernote.com/events/463803",
+      "event_name": "SEASIDE NexT Girl’s Presents さまなつDEゆめかなGAだいぼーそー！昼の部",
+      "event_url": "https://www.eventernote.com/events/463802",
       "date": "2026-05-30",
       "venue": "築地本願寺ブディストホール",
-      "open_time": "17:30",
-      "start_time": "18:00",
+      "open_time": "13:15",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "佐藤榛夏",

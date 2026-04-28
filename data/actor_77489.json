@@ -1,8 +1,8 @@
 {
   "actor_id": 77489,
   "actor_name": "花岩香奈",
-  "fetched_at": "2026-04-27T19:56:23.546780",
-  "event_count": 46,
+  "fetched_at": "2026-04-28T20:06:28.071805",
+  "event_count": 47,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- 福井公演 DAY2",
@@ -101,6 +101,36 @@
       "venue": "109シネマズ木場",
       "open_time": "",
       "start_time": "17:00",
+      "actors": [
+        {
+          "name": "茜屋日海夏",
+          "id": null
+        },
+        {
+          "name": "大西亜玖璃",
+          "id": null
+        },
+        {
+          "name": "鈴原希実",
+          "id": null
+        },
+        {
+          "name": "高木美佑",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「声優グランプリ」×「109シネマズ」presents シネマダミス『超時空捜査隊マルキュー』感想戦",
+      "event_url": "https://www.eventernote.com/events/476639",
+      "date": "2026-06-21",
+      "venue": "109シネマズ木場",
+      "open_time": "",
+      "start_time": "19:20",
       "actors": [
         {
           "name": "茜屋日海夏",
