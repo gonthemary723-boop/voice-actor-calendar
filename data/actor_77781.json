@@ -1,7 +1,7 @@
 {
   "actor_id": 77781,
   "actor_name": "七瀬つむぎ",
-  "fetched_at": "2026-04-29T20:03:29.361174",
+  "fetched_at": "2026-04-30T20:01:07.065798",
   "event_count": 45,
   "events": [
     {
@@ -413,12 +413,12 @@
       ]
     },
     {
-      "event_name": "［Otona Project 第六十七弾］演劇ユニット【爆走おとな小学生】第二十六回全校集会 \"朗読×ACT\"theater『アイディール・セミナー/Replay session』①第1セッション",
-      "event_url": "https://www.eventernote.com/events/462621",
+      "event_name": "［Otona Project 第六十七弾］演劇ユニット【爆走おとな小学生】第二十六回全校集会 \"朗読×ACT\"theater『アイディール・セミナー/Replay session』②第2セッション",
+      "event_url": "https://www.eventernote.com/events/462622",
       "date": "2026-04-01",
       "venue": "CBGKシブゲキ!!",
       "open_time": "",
-      "start_time": "14:00",
+      "start_time": "19:00",
       "actors": [
         {
           "name": "小林愛香",
@@ -531,12 +531,12 @@
       ]
     },
     {
-      "event_name": "［Otona Project 第六十七弾］演劇ユニット【爆走おとな小学生】第二十六回全校集会 \"朗読×ACT\"theater『アイディール・セミナー/Replay session』②第2セッション",
-      "event_url": "https://www.eventernote.com/events/462622",
+      "event_name": "［Otona Project 第六十七弾］演劇ユニット【爆走おとな小学生】第二十六回全校集会 \"朗読×ACT\"theater『アイディール・セミナー/Replay session』①第1セッション",
+      "event_url": "https://www.eventernote.com/events/462621",
       "date": "2026-04-01",
       "venue": "CBGKシブゲキ!!",
       "open_time": "",
-      "start_time": "19:00",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "小林愛香",
