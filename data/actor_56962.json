@@ -1,7 +1,7 @@
 {
   "actor_id": 56962,
   "actor_name": "薄井友里",
-  "fetched_at": "2026-04-30T20:01:54.980608",
+  "fetched_at": "2026-05-01T18:17:14.757152",
   "event_count": 80,
   "events": [
     {
@@ -137,12 +137,12 @@
       ]
     },
     {
-      "event_name": "縁結びのゆかり様1stイベント 結び、結ばれ、桃源郷 夜公演",
-      "event_url": "https://www.eventernote.com/events/469358",
+      "event_name": "縁結びのゆかり様1stイベント 結び、結ばれ、桃源郷 昼公演",
+      "event_url": "https://www.eventernote.com/events/469356",
       "date": "2026-06-14",
       "venue": "TOKYO FM HALL",
-      "open_time": "17:45",
-      "start_time": "18:30",
+      "open_time": "13:15",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "天音ゆかり",
@@ -159,12 +159,12 @@
       ]
     },
     {
-      "event_name": "縁結びのゆかり様1stイベント 結び、結ばれ、桃源郷 昼公演",
-      "event_url": "https://www.eventernote.com/events/469356",
+      "event_name": "縁結びのゆかり様1stイベント 結び、結ばれ、桃源郷 夜公演",
+      "event_url": "https://www.eventernote.com/events/469358",
       "date": "2026-06-14",
       "venue": "TOKYO FM HALL",
-      "open_time": "13:15",
-      "start_time": "14:00",
+      "open_time": "17:45",
+      "start_time": "18:30",
       "actors": [
         {
           "name": "天音ゆかり",

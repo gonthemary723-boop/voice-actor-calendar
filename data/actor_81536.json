@@ -1,7 +1,7 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-04-30T20:03:46.559483",
+  "fetched_at": "2026-05-01T18:19:07.751557",
   "event_count": 20,
   "events": [
     {
@@ -99,24 +99,6 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年7月5日)",
-      "event_url": "https://www.eventernote.com/events/465884",
-      "date": "2026-07-05",
-      "venue": "クーポール会館",
-      "open_time": "15:30",
-      "start_time": "16:15",
-      "actors": [
-        {
-          "name": "天音ゆかり",
-          "id": null
-        },
-        {
-          "name": "伊藤舞音",
-          "id": null
-        }
-      ]
-    },
-    {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年7月5日)",
       "event_url": "https://www.eventernote.com/events/465113",
       "date": "2026-07-05",
@@ -135,12 +117,30 @@
       ]
     },
     {
-      "event_name": "縁結びのゆかり様1stイベント 結び、結ばれ、桃源郷 夜公演",
-      "event_url": "https://www.eventernote.com/events/469358",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年7月5日)",
+      "event_url": "https://www.eventernote.com/events/465884",
+      "date": "2026-07-05",
+      "venue": "クーポール会館",
+      "open_time": "15:30",
+      "start_time": "16:15",
+      "actors": [
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "縁結びのゆかり様1stイベント 結び、結ばれ、桃源郷 昼公演",
+      "event_url": "https://www.eventernote.com/events/469356",
       "date": "2026-06-14",
       "venue": "TOKYO FM HALL",
-      "open_time": "17:45",
-      "start_time": "18:30",
+      "open_time": "13:15",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "天音ゆかり",
@@ -157,12 +157,12 @@
       ]
     },
     {
-      "event_name": "縁結びのゆかり様1stイベント 結び、結ばれ、桃源郷 昼公演",
-      "event_url": "https://www.eventernote.com/events/469356",
+      "event_name": "縁結びのゆかり様1stイベント 結び、結ばれ、桃源郷 夜公演",
+      "event_url": "https://www.eventernote.com/events/469358",
       "date": "2026-06-14",
       "venue": "TOKYO FM HALL",
-      "open_time": "13:15",
-      "start_time": "14:00",
+      "open_time": "17:45",
+      "start_time": "18:30",
       "actors": [
         {
           "name": "天音ゆかり",
