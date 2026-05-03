@@ -1,8 +1,8 @@
 {
   "actor_id": 67164,
   "actor_name": "陽高真白",
-  "fetched_at": "2026-05-01T18:19:04.219718",
-  "event_count": 128,
+  "fetched_at": "2026-05-03T17:38:28.317335",
+  "event_count": 129,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- 岩手公演 DAY2",
@@ -240,6 +240,56 @@
         },
         {
           "name": "河内美里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "リスアニ！×802 Palette リスパレ！LIVE vol.4 7.5",
+      "event_url": "https://www.eventernote.com/events/477254",
+      "date": "2026-07-05",
+      "venue": "なんばHatch",
+      "open_time": "15:00",
+      "start_time": "15:45",
+      "actors": [
+        {
+          "name": "藍井エイル",
+          "id": null
+        },
+        {
+          "name": "DIALOGUE＋",
+          "id": null
+        },
+        {
+          "name": "稗田寧々",
+          "id": null
+        },
+        {
+          "name": "飯塚麻結",
+          "id": null
+        },
+        {
+          "name": "村上まなつ",
+          "id": null
+        },
+        {
+          "name": "茅原実里",
+          "id": null
+        },
+        {
+          "name": "棗いつき",
+          "id": null
+        },
+        {
+          "name": "藍月なくる",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "岬なこ",
           "id": null
         }
       ]
