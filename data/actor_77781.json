@@ -1,9 +1,79 @@
 {
   "actor_id": 77781,
   "actor_name": "七瀬つむぎ",
-  "fetched_at": "2026-05-05T16:25:57.844369",
-  "event_count": 45,
+  "fetched_at": "2026-05-06T16:43:32.706116",
+  "event_count": 48,
   "events": [
+    {
+      "event_name": "もえ・つむぎ・きゅーとあぐれっしょんっ！あやねもいるよ♪番組イベント 第１部",
+      "event_url": "https://www.eventernote.com/events/477666",
+      "date": "2026-10-04",
+      "venue": "科学技術館サイエンスホール",
+      "open_time": "",
+      "start_time": "",
+      "actors": [
+        {
+          "name": "佳原萌枝",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "岬なこ",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "もえ・つむぎ・きゅーとあぐれっしょんっ！あやねもいるよ♪番組イベント 第２部",
+      "event_url": "https://www.eventernote.com/events/477667",
+      "date": "2026-10-04",
+      "venue": "科学技術館サイエンスホール",
+      "open_time": "",
+      "start_time": "",
+      "actors": [
+        {
+          "name": "佳原萌枝",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "岬なこのそんなこんなこラジオ！番組イベント 第２部",
+      "event_url": "https://www.eventernote.com/events/477665",
+      "date": "2026-10-03",
+      "venue": "科学技術館サイエンスホール",
+      "open_time": "",
+      "start_time": "",
+      "actors": [
+        {
+          "name": "岬なこ",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- 福井公演 DAY2",
       "event_url": "https://www.eventernote.com/events/465353",
