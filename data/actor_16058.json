@@ -1,9 +1,37 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-05-09T15:57:50.982668",
-  "event_count": 536,
+  "fetched_at": "2026-05-10T15:59:23.541476",
+  "event_count": 538,
   "events": [
+    {
+      "event_name": "春咲暖1st Live「Light in Bloom」夜公演",
+      "event_url": "https://www.eventernote.com/events/478199",
+      "date": "2026-12-27",
+      "venue": "WOMBLIVE(studio W)",
+      "open_time": "18:30",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "春咲暖",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "春咲暖1st Live「Light in Bloom」昼公演",
+      "event_url": "https://www.eventernote.com/events/478198",
+      "date": "2026-12-27",
+      "venue": "WOMBLIVE(studio W)",
+      "open_time": "15:00",
+      "start_time": "15:30",
+      "actors": [
+        {
+          "name": "春咲暖",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- 岩手公演 DAY2",
       "event_url": "https://www.eventernote.com/events/465357",
