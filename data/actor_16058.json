@@ -1,7 +1,7 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-05-10T15:59:23.541476",
+  "fetched_at": "2026-05-11T17:29:32.438725",
   "event_count": 538,
   "events": [
     {
@@ -1959,6 +1959,20 @@
       ]
     },
     {
+      "event_name": "「春咲暖ののんたいとる」1周年記念公開録音 第3部",
+      "event_url": "https://www.eventernote.com/events/470359",
+      "date": "2026-06-13",
+      "venue": "文化放送メディアプラスホール",
+      "open_time": "19:00",
+      "start_time": "19:30",
+      "actors": [
+        {
+          "name": "春咲暖",
+          "id": null
+        }
+      ]
+    },
+    {
       "event_name": "「春咲暖ののんたいとる」1周年記念公開録音 第2部",
       "event_url": "https://www.eventernote.com/events/470357",
       "date": "2026-06-13",
@@ -1972,20 +1986,6 @@
         },
         {
           "name": "浅見香月",
-          "id": null
-        }
-      ]
-    },
-    {
-      "event_name": "「春咲暖ののんたいとる」1周年記念公開録音 第3部",
-      "event_url": "https://www.eventernote.com/events/470359",
-      "date": "2026-06-13",
-      "venue": "文化放送メディアプラスホール",
-      "open_time": "19:00",
-      "start_time": "19:30",
-      "actors": [
-        {
-          "name": "春咲暖",
           "id": null
         }
       ]
