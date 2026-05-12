@@ -1,8 +1,8 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-05-11T17:29:32.438725",
-  "event_count": 538,
+  "fetched_at": "2026-05-12T17:16:24.750904",
+  "event_count": 540,
   "events": [
     {
       "event_name": "春咲暖1st Live「Light in Bloom」夜公演",
@@ -1898,6 +1898,98 @@
         },
         {
           "name": "宮崎理奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "音楽朗読劇「ラビトン」6/27 19:00",
+      "event_url": "https://www.eventernote.com/events/478412",
+      "date": "2026-06-27",
+      "venue": "紀伊國屋ホール",
+      "open_time": "",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "西山宏幸",
+          "id": null
+        },
+        {
+          "name": "佐々木憲",
+          "id": null
+        },
+        {
+          "name": "津田北斗",
+          "id": null
+        },
+        {
+          "name": "小寺里枝",
+          "id": null
+        },
+        {
+          "name": "小野坂昌也",
+          "id": null
+        },
+        {
+          "name": "豊永利行",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "山田ジェームス武",
+          "id": null
+        },
+        {
+          "name": "川本成",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "音楽朗読劇「ラビトン」6/24",
+      "event_url": "https://www.eventernote.com/events/478409",
+      "date": "2026-06-24",
+      "venue": "紀伊國屋ホール",
+      "open_time": "",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "西山宏幸",
+          "id": null
+        },
+        {
+          "name": "佐々木憲",
+          "id": null
+        },
+        {
+          "name": "津田北斗",
+          "id": null
+        },
+        {
+          "name": "小寺里枝",
+          "id": null
+        },
+        {
+          "name": "宮下雄也",
+          "id": null
+        },
+        {
+          "name": "豊永利行",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "細貝圭",
+          "id": null
+        },
+        {
+          "name": "川本成",
           "id": null
         }
       ]
@@ -13737,6 +13829,10 @@
           "id": null
         },
         {
+          "name": "大島璃乃",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -13754,10 +13850,6 @@
         },
         {
           "name": "天音利梛",
-          "id": null
-        },
-        {
-          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -13791,6 +13883,10 @@
           "id": null
         },
         {
+          "name": "大島璃乃",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -13808,10 +13904,6 @@
         },
         {
           "name": "天音利梛",
-          "id": null
-        },
-        {
-          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -13953,6 +14045,10 @@
           "id": null
         },
         {
+          "name": "大島璃乃",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -13970,10 +14066,6 @@
         },
         {
           "name": "天音利梛",
-          "id": null
-        },
-        {
-          "name": "伊藤雨音",
           "id": null
         },
         {
