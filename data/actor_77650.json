@@ -1,7 +1,7 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-05-13T17:19:33.536369",
+  "fetched_at": "2026-05-14T17:03:33.637243",
   "event_count": 57,
   "events": [
     {
@@ -207,6 +207,22 @@
         {
           "name": "鈴木日菜",
           "id": null
+        },
+        {
+          "name": "相良茉優",
+          "id": null
+        },
+        {
+          "name": "佐々木琴子",
+          "id": null
+        },
+        {
+          "name": "八木ましろ",
+          "id": null
+        },
+        {
+          "name": "中川梨花",
+          "id": null
         }
       ]
     },
@@ -228,6 +244,22 @@
         },
         {
           "name": "鈴木日菜",
+          "id": null
+        },
+        {
+          "name": "相良茉優",
+          "id": null
+        },
+        {
+          "name": "佐々木琴子",
+          "id": null
+        },
+        {
+          "name": "八木ましろ",
+          "id": null
+        },
+        {
+          "name": "中川梨花",
           "id": null
         }
       ]
@@ -254,6 +286,26 @@
         },
         {
           "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "佐々木琴子",
+          "id": null
+        },
+        {
+          "name": "八木ましろ",
+          "id": null
+        },
+        {
+          "name": "緒方佑奈",
+          "id": null
+        },
+        {
+          "name": "阿部寿世",
+          "id": null
+        },
+        {
+          "name": "増井優花",
           "id": null
         }
       ]
@@ -543,7 +595,7 @@
       "event_url": "https://www.eventernote.com/events/471274",
       "date": "2026-05-13",
       "venue": "シアター風姿花伝",
-      "open_time": "",
+      "open_time": "18:30",
       "start_time": "19:00",
       "actors": [
         {
