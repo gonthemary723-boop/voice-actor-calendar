@@ -1,8 +1,8 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-05-17T16:01:30.491175",
-  "event_count": 57,
+  "fetched_at": "2026-05-18T17:31:37.134342",
+  "event_count": 58,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- 岩手公演 DAY2",
@@ -60,6 +60,24 @@
         },
         {
           "name": "陽高真白",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "飯田ヒカルバースデーパーティ２０２６ 昼公演",
+      "event_url": "https://www.eventernote.com/events/476569",
+      "date": "2026-08-23",
+      "venue": "北とぴあ3F つつじホール",
+      "open_time": "13:15",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
           "id": null
         }
       ]
