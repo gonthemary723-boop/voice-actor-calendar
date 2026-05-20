@@ -1,7 +1,7 @@
 {
   "actor_id": 77489,
   "actor_name": "花岩香奈",
-  "fetched_at": "2026-05-19T17:39:40.317232",
+  "fetched_at": "2026-05-20T17:55:01.204868",
   "event_count": 49,
   "events": [
     {
@@ -1197,20 +1197,6 @@
       ]
     },
     {
-      "event_name": "花岩香奈のはないわーるど！ 1ヶ月遅れのバースデーイベント！ 第1部",
-      "event_url": "https://www.eventernote.com/events/440104",
-      "date": "2025-10-11",
-      "venue": "TOKYO FM HALL",
-      "open_time": "12:00",
-      "start_time": "13:00",
-      "actors": [
-        {
-          "name": "花岩香奈",
-          "id": null
-        }
-      ]
-    },
-    {
       "event_name": "花岩香奈のはないわーるど！ 1ヶ月遅れのバースデーイベント！ 第2部",
       "event_url": "https://www.eventernote.com/events/442918",
       "date": "2025-10-11",
@@ -1224,6 +1210,20 @@
         },
         {
           "name": "川村玲奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "花岩香奈のはないわーるど！ 1ヶ月遅れのバースデーイベント！ 第1部",
+      "event_url": "https://www.eventernote.com/events/440104",
+      "date": "2025-10-11",
+      "venue": "TOKYO FM HALL",
+      "open_time": "12:00",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "花岩香奈",
           "id": null
         }
       ]
