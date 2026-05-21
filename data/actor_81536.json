@@ -1,8 +1,8 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-05-20T17:57:29.688336",
-  "event_count": 25,
+  "fetched_at": "2026-05-21T17:34:16.197769",
+  "event_count": 28,
   "events": [
     {
       "event_name": "S.L. Presents みんなに会いに行くよ! SP in 京都 夜の部",
@@ -272,6 +272,240 @@
         },
         {
           "name": "伊藤舞音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "演劇ユニット【メイホリック】メイホリックシアター22 朗読劇「花売りに結ばれて」6月28日⑧",
+      "event_url": "https://www.eventernote.com/events/475859",
+      "date": "2026-06-28",
+      "venue": "シアターグリーン BIG TREE THEATER",
+      "open_time": "",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "吉武千颯",
+          "id": null
+        },
+        {
+          "name": "真宮涼",
+          "id": null
+        },
+        {
+          "name": "相良茉優",
+          "id": null
+        },
+        {
+          "name": "佐々木琴子",
+          "id": null
+        },
+        {
+          "name": "八木ましろ",
+          "id": null
+        },
+        {
+          "name": "中川梨花",
+          "id": null
+        },
+        {
+          "name": "増井優花",
+          "id": null
+        },
+        {
+          "name": "咲良菜緒",
+          "id": null
+        },
+        {
+          "name": "三田美吹",
+          "id": null
+        },
+        {
+          "name": "岩田陽菜",
+          "id": null
+        },
+        {
+          "name": "川村海乃",
+          "id": null
+        },
+        {
+          "name": "城崎桃華",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "江籠裕奈",
+          "id": null
+        },
+        {
+          "name": "加藤結",
+          "id": null
+        },
+        {
+          "name": "三葉海緒(珠原海愛)",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "演劇ユニット【メイホリック】メイホリックシアター22 朗読劇「花売りに結ばれて」6月28日⑨",
+      "event_url": "https://www.eventernote.com/events/475860",
+      "date": "2026-06-28",
+      "venue": "シアターグリーン BIG TREE THEATER",
+      "open_time": "",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "吉武千颯",
+          "id": null
+        },
+        {
+          "name": "真宮涼",
+          "id": null
+        },
+        {
+          "name": "相良茉優",
+          "id": null
+        },
+        {
+          "name": "佐々木琴子",
+          "id": null
+        },
+        {
+          "name": "八木ましろ",
+          "id": null
+        },
+        {
+          "name": "中川梨花",
+          "id": null
+        },
+        {
+          "name": "増井優花",
+          "id": null
+        },
+        {
+          "name": "咲良菜緒",
+          "id": null
+        },
+        {
+          "name": "三田美吹",
+          "id": null
+        },
+        {
+          "name": "岩田陽菜",
+          "id": null
+        },
+        {
+          "name": "川村海乃",
+          "id": null
+        },
+        {
+          "name": "城崎桃華",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "江籠裕奈",
+          "id": null
+        },
+        {
+          "name": "加藤結",
+          "id": null
+        },
+        {
+          "name": "三葉海緒(珠原海愛)",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "演劇ユニット【メイホリック】メイホリックシアター22 朗読劇「花売りに結ばれて」6月24日①",
+      "event_url": "https://www.eventernote.com/events/475851",
+      "date": "2026-06-24",
+      "venue": "シアターグリーン BIG TREE THEATER",
+      "open_time": "",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "中澤ミナ",
+          "id": null
+        },
+        {
+          "name": "吉武千颯",
+          "id": null
+        },
+        {
+          "name": "藍本あみ",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "佐々木琴子",
+          "id": null
+        },
+        {
+          "name": "八木ましろ",
+          "id": null
+        },
+        {
+          "name": "緒方佑奈",
+          "id": null
+        },
+        {
+          "name": "阿部寿世",
+          "id": null
+        },
+        {
+          "name": "増井優花",
+          "id": null
+        },
+        {
+          "name": "矢嶋由菜",
+          "id": null
+        },
+        {
+          "name": "原田彩楓",
+          "id": null
+        },
+        {
+          "name": "岩倉あずさ",
+          "id": null
+        },
+        {
+          "name": "城崎桃華",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "江籠裕奈",
+          "id": null
+        },
+        {
+          "name": "那華喜シイナ",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
           "id": null
         }
       ]
