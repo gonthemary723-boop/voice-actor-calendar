@@ -1,7 +1,7 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-05-24T16:06:07.576733",
+  "fetched_at": "2026-05-25T17:11:11.994917",
   "event_count": 28,
   "events": [
     {
@@ -277,12 +277,12 @@
       ]
     },
     {
-      "event_name": "演劇ユニット【メイホリック】メイホリックシアター22 朗読劇「花売りに結ばれて」6月28日⑧",
-      "event_url": "https://www.eventernote.com/events/475859",
+      "event_name": "演劇ユニット【メイホリック】メイホリックシアター22 朗読劇「花売りに結ばれて」6月28日⑨",
+      "event_url": "https://www.eventernote.com/events/475860",
       "date": "2026-06-28",
       "venue": "シアターグリーン BIG TREE THEATER",
       "open_time": "",
-      "start_time": "13:00",
+      "start_time": "17:00",
       "actors": [
         {
           "name": "吉武千颯",
@@ -355,12 +355,12 @@
       ]
     },
     {
-      "event_name": "演劇ユニット【メイホリック】メイホリックシアター22 朗読劇「花売りに結ばれて」6月28日⑨",
-      "event_url": "https://www.eventernote.com/events/475860",
+      "event_name": "演劇ユニット【メイホリック】メイホリックシアター22 朗読劇「花売りに結ばれて」6月28日⑧",
+      "event_url": "https://www.eventernote.com/events/475859",
       "date": "2026-06-28",
       "venue": "シアターグリーン BIG TREE THEATER",
       "open_time": "",
-      "start_time": "17:00",
+      "start_time": "13:00",
       "actors": [
         {
           "name": "吉武千颯",
