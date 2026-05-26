@@ -1,16 +1,16 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-05-25T17:11:11.994917",
+  "fetched_at": "2026-05-26T17:59:37.683924",
   "event_count": 28,
   "events": [
     {
-      "event_name": "S.L. Presents みんなに会いに行くよ! SP in 京都 夜の部",
-      "event_url": "https://www.eventernote.com/events/478916",
+      "event_name": "S.L. Presents みんなに会いに行くよ! SP in 京都 昼の部",
+      "event_url": "https://www.eventernote.com/events/478915",
       "date": "2026-09-20",
       "venue": "京都教育文化センター",
-      "open_time": "15:30",
-      "start_time": "16:15",
+      "open_time": "12:00",
+      "start_time": "12:45",
       "actors": [
         {
           "name": "佐倉薫",
@@ -31,12 +31,12 @@
       ]
     },
     {
-      "event_name": "S.L. Presents みんなに会いに行くよ! SP in 京都 昼の部",
-      "event_url": "https://www.eventernote.com/events/478915",
+      "event_name": "S.L. Presents みんなに会いに行くよ! SP in 京都 夜の部",
+      "event_url": "https://www.eventernote.com/events/478916",
       "date": "2026-09-20",
       "venue": "京都教育文化センター",
-      "open_time": "12:00",
-      "start_time": "12:45",
+      "open_time": "15:30",
+      "start_time": "16:15",
       "actors": [
         {
           "name": "佐倉薫",

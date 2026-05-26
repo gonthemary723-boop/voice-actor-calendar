@@ -1,7 +1,7 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-05-25T17:08:20.544685",
+  "fetched_at": "2026-05-26T17:56:50.116493",
   "event_count": 84,
   "events": [
     {
@@ -9,8 +9,8 @@
       "event_url": "https://www.eventernote.com/events/478979",
       "date": "2026-09-20",
       "venue": "せいせきアウラホール",
-      "open_time": "",
-      "start_time": "",
+      "open_time": "13:30",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "長月あおい",
@@ -31,8 +31,8 @@
       "event_url": "https://www.eventernote.com/events/478980",
       "date": "2026-09-20",
       "venue": "せいせきアウラホール",
-      "open_time": "",
-      "start_time": "",
+      "open_time": "16:30",
+      "start_time": "17:00",
       "actors": [
         {
           "name": "中村カンナ",
