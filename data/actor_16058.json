@@ -1,8 +1,8 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-05-30T16:09:11.752686",
-  "event_count": 540,
+  "fetched_at": "2026-05-31T16:14:59.583696",
+  "event_count": 541,
   "events": [
     {
       "event_name": "春咲暖1st Live「Light in Bloom」昼公演",
@@ -2028,6 +2028,44 @@
         },
         {
           "name": "ペイトン尚未",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "AK-GARDEN29『第4回東京圏防衛構想会議』",
+      "event_url": "https://www.eventernote.com/events/480323",
+      "date": "2026-06-14",
+      "venue": "東京都立産業貿易センター浜松町館",
+      "open_time": "12:30",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "朝倉ふゆな",
+          "id": null
+        },
+        {
+          "name": "長谷川里桃",
+          "id": null
+        },
+        {
+          "name": "河内美里",
+          "id": null
+        },
+        {
+          "name": "安藤千伽奈",
+          "id": null
+        },
+        {
+          "name": "天麻ゆうき",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "尾花沢軒栄",
           "id": null
         }
       ]
