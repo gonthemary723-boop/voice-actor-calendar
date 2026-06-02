@@ -1,8 +1,8 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-06-01T19:56:05.185235",
-  "event_count": 84,
+  "fetched_at": "2026-06-02T18:41:33.735711",
+  "event_count": 85,
   "events": [
     {
       "event_name": "あおわんイベント",
@@ -148,6 +148,56 @@
         },
         {
           "name": "長月あおい",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "アニレヴ GROOVE!!!!!",
+      "event_url": "https://www.eventernote.com/events/479273",
+      "date": "2026-08-02",
+      "venue": "WARP SHINJUKU",
+      "open_time": "15:00",
+      "start_time": "15:30",
+      "actors": [
+        {
+          "name": "Motsu",
+          "id": null
+        },
+        {
+          "name": "小宮有紗",
+          "id": null
+        },
+        {
+          "name": "堀越せな",
+          "id": null
+        },
+        {
+          "name": "Dhalsim(ASH DA HERO)",
+          "id": null
+        },
+        {
+          "name": "ASH(ASH DA HERO)",
+          "id": null
+        },
+        {
+          "name": "由良朱合",
+          "id": null
+        },
+        {
+          "name": "加藤里保菜",
+          "id": null
+        },
+        {
+          "name": "進藤あまね",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "Suupeas",
           "id": null
         }
       ]
