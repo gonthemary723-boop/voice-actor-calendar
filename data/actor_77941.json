@@ -1,16 +1,16 @@
 {
   "actor_id": 77941,
   "actor_name": "松田彩音",
-  "fetched_at": "2026-06-02T18:42:31.634521",
+  "fetched_at": "2026-06-03T18:47:27.965428",
   "event_count": 33,
   "events": [
     {
-      "event_name": "もえ・つむぎ・きゅーとあぐれっしょんっ！あやねもいるよ♪番組イベント 第１部",
+      "event_name": "「もえ・つむぎ・きゅーとあぐれっしょんっ！あやねもいるよ♪」イベント 第1部 うどんの部",
       "event_url": "https://www.eventernote.com/events/477666",
       "date": "2026-10-04",
       "venue": "科学技術館サイエンスホール",
-      "open_time": "",
-      "start_time": "",
+      "open_time": "13:00",
+      "start_time": "13:30",
       "actors": [
         {
           "name": "佳原萌枝",
@@ -31,12 +31,12 @@
       ]
     },
     {
-      "event_name": "もえ・つむぎ・きゅーとあぐれっしょんっ！あやねもいるよ♪番組イベント 第２部",
+      "event_name": "「もえ・つむぎ・きゅーとあぐれっしょんっ！あやねもいるよ♪」イベント 第2部 どんぶりの部",
       "event_url": "https://www.eventernote.com/events/477667",
       "date": "2026-10-04",
       "venue": "科学技術館サイエンスホール",
-      "open_time": "",
-      "start_time": "",
+      "open_time": "16:30",
+      "start_time": "17:00",
       "actors": [
         {
           "name": "佳原萌枝",
@@ -53,12 +53,12 @@
       ]
     },
     {
-      "event_name": "岬なこのそんなこんなこラジオ！番組イベント 第２部",
+      "event_name": "「岬なこのそんなこんなこラジオ！」イベント 第2部 ちゃーんの部",
       "event_url": "https://www.eventernote.com/events/477665",
       "date": "2026-10-03",
       "venue": "科学技術館サイエンスホール",
-      "open_time": "",
-      "start_time": "",
+      "open_time": "16:30",
+      "start_time": "17:00",
       "actors": [
         {
           "name": "岬なこ",
@@ -70,6 +70,10 @@
         },
         {
           "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "佳原萌枝",
           "id": null
         }
       ]

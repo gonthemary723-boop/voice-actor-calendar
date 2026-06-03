@@ -1,8 +1,8 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-06-02T18:42:07.027502",
-  "event_count": 41,
+  "fetched_at": "2026-06-03T18:47:03.635441",
+  "event_count": 43,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- 岩手公演 DAY2",
@@ -112,6 +112,258 @@
         },
         {
           "name": "湊みや",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project 第七十弾］演劇ユニット【爆走おとな小学生】第二十八回全校集会 \"朗読×ACT\"『アイディール・セミナー/Final session-Replay-』③第3セッション",
+      "event_url": "https://www.eventernote.com/events/480644",
+      "date": "2026-07-26",
+      "venue": "シアター1010",
+      "open_time": "13:00",
+      "start_time": "13:30",
+      "actors": [
+        {
+          "name": "鈴原希実",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "大渕野々花",
+          "id": null
+        },
+        {
+          "name": "阿部寿世",
+          "id": null
+        },
+        {
+          "name": "福嶋晴菜",
+          "id": null
+        },
+        {
+          "name": "集貝はな",
+          "id": null
+        },
+        {
+          "name": "山中真尋",
+          "id": null
+        },
+        {
+          "name": "草野太一",
+          "id": null
+        },
+        {
+          "name": "秋本帆華",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "赤坂麻凪",
+          "id": null
+        },
+        {
+          "name": "石井萌々果",
+          "id": null
+        },
+        {
+          "name": "篠原望",
+          "id": null
+        },
+        {
+          "name": "小越春花",
+          "id": null
+        },
+        {
+          "name": "髙橋彩香",
+          "id": null
+        },
+        {
+          "name": "佐藤美波(佐東美波)",
+          "id": null
+        },
+        {
+          "name": "大澤萌々",
+          "id": null
+        },
+        {
+          "name": "大橋篤",
+          "id": null
+        },
+        {
+          "name": "井川勇樹",
+          "id": null
+        },
+        {
+          "name": "加藤光大",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "橋爪亮磨",
+          "id": null
+        },
+        {
+          "name": "松谷海里",
+          "id": null
+        },
+        {
+          "name": "桃原華恋",
+          "id": null
+        },
+        {
+          "name": "北村夏未",
+          "id": null
+        },
+        {
+          "name": "倉橋伶奈",
+          "id": null
+        },
+        {
+          "name": "八神日胡",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project 第七十弾］演劇ユニット【爆走おとな小学生】第二十八回全校集会 \"朗読×ACT\"『アイディール・セミナー/Final session-Replay-』④第4セッション",
+      "event_url": "https://www.eventernote.com/events/480645",
+      "date": "2026-07-26",
+      "venue": "シアター1010",
+      "open_time": "18:00",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "鈴原希実",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "大渕野々花",
+          "id": null
+        },
+        {
+          "name": "阿部寿世",
+          "id": null
+        },
+        {
+          "name": "福嶋晴菜",
+          "id": null
+        },
+        {
+          "name": "集貝はな",
+          "id": null
+        },
+        {
+          "name": "山中真尋",
+          "id": null
+        },
+        {
+          "name": "草野太一",
+          "id": null
+        },
+        {
+          "name": "秋本帆華",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "赤坂麻凪",
+          "id": null
+        },
+        {
+          "name": "石井萌々果",
+          "id": null
+        },
+        {
+          "name": "篠原望",
+          "id": null
+        },
+        {
+          "name": "小越春花",
+          "id": null
+        },
+        {
+          "name": "髙橋彩香",
+          "id": null
+        },
+        {
+          "name": "佐藤美波(佐東美波)",
+          "id": null
+        },
+        {
+          "name": "大澤萌々",
+          "id": null
+        },
+        {
+          "name": "大橋篤",
+          "id": null
+        },
+        {
+          "name": "井川勇樹",
+          "id": null
+        },
+        {
+          "name": "加藤光大",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "橋爪亮磨",
+          "id": null
+        },
+        {
+          "name": "松谷海里",
+          "id": null
+        },
+        {
+          "name": "桃原華恋",
+          "id": null
+        },
+        {
+          "name": "北村夏未",
+          "id": null
+        },
+        {
+          "name": "倉橋伶奈",
+          "id": null
+        },
+        {
+          "name": "八神日胡",
           "id": null
         }
       ]

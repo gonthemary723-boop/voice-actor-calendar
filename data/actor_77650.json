@@ -1,8 +1,8 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-06-02T18:41:58.812447",
-  "event_count": 58,
+  "fetched_at": "2026-06-03T18:46:55.534727",
+  "event_count": 59,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- 岩手公演 DAY2",
@@ -60,6 +60,28 @@
         },
         {
           "name": "陽高真白",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "声優 縁かうんと Vol.4 イベント 昼の部",
+      "event_url": "https://www.eventernote.com/events/477708",
+      "date": "2026-08-30",
+      "venue": "関交協ハーモニックホール",
+      "open_time": "",
+      "start_time": "13:30",
+      "actors": [
+        {
+          "name": "鈴木みのり",
+          "id": null
+        },
+        {
+          "name": "花井美春",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
           "id": null
         }
       ]
