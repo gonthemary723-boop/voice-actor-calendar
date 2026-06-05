@@ -1,8 +1,8 @@
 {
   "actor_id": 56410,
   "actor_name": "小鹿なお",
-  "fetched_at": "2026-06-04T17:46:25.933241",
-  "event_count": 53,
+  "fetched_at": "2026-06-05T17:20:47.087249",
+  "event_count": 55,
   "events": [
     {
       "event_name": "ことばとば【1部】(2026年10月3日)",
@@ -100,6 +100,42 @@
         },
         {
           "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "I'll be there for you〜よりらじネイバーズVol.2 第２部",
+      "event_url": "https://www.eventernote.com/events/480880",
+      "date": "2026-08-16",
+      "venue": "歌舞伎座タワー12Fセミナールーム",
+      "open_time": "",
+      "start_time": "15:00",
+      "actors": [
+        {
+          "name": "本村玲奈",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "I'll be there for you〜よりらじネイバーズVol.2 第３部",
+      "event_url": "https://www.eventernote.com/events/480881",
+      "date": "2026-08-16",
+      "venue": "歌舞伎座タワー12Fセミナールーム",
+      "open_time": "",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "小鹿なお",
           "id": null
         },
         {

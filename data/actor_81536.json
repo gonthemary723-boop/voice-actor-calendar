@@ -1,8 +1,8 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-06-04T17:49:18.915822",
-  "event_count": 28,
+  "fetched_at": "2026-06-05T17:23:37.576787",
+  "event_count": 29,
   "events": [
     {
       "event_name": "S.L. Presents みんなに会いに行くよ! SP in 京都 昼の部",
@@ -116,6 +116,24 @@
         },
         {
           "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "I'll be there for you〜よりらじネイバーズVol.2 第３部",
+      "event_url": "https://www.eventernote.com/events/480881",
+      "date": "2026-08-16",
+      "venue": "歌舞伎座タワー12Fセミナールーム",
+      "open_time": "",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "小鹿なお",
           "id": null
         },
         {
