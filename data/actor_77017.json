@@ -1,9 +1,141 @@
 {
   "actor_id": 77017,
   "actor_name": "長月あおい",
-  "fetched_at": "2026-06-06T16:07:14.717670",
-  "event_count": 46,
+  "fetched_at": "2026-06-07T16:18:59.657334",
+  "event_count": 48,
   "events": [
+    {
+      "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY2",
+      "event_url": "https://www.eventernote.com/events/465359",
+      "date": "2026-11-08",
+      "venue": "Kアリーナ横浜",
+      "open_time": "",
+      "start_time": "",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY1",
+      "event_url": "https://www.eventernote.com/events/465358",
+      "date": "2026-11-07",
+      "venue": "Kアリーナ横浜",
+      "open_time": "",
+      "start_time": "",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "あおわんイベント",
       "event_url": "https://www.eventernote.com/events/478979",
