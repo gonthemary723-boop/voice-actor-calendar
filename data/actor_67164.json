@@ -1,8 +1,8 @@
 {
   "actor_id": 67164,
   "actor_name": "陽高真白",
-  "fetched_at": "2026-06-07T16:22:31.372660",
-  "event_count": 131,
+  "fetched_at": "2026-06-08T17:59:01.524021",
+  "event_count": 132,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY2",
@@ -132,6 +132,20 @@
         },
         {
           "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "陽高真白 FANMEETING「mashi-mallow time vol.1」",
+      "event_url": "https://www.eventernote.com/events/481252",
+      "date": "2026-10-09",
+      "venue": "NEW PIER HALL(ニューピアホール)",
+      "open_time": "18:00",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "陽高真白",
           "id": null
         }
       ]
