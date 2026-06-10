@@ -1,8 +1,8 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-06-09T17:26:43.920635",
-  "event_count": 45,
+  "fetched_at": "2026-06-10T18:01:48.879746",
+  "event_count": 46,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY2",
@@ -192,6 +192,28 @@
         },
         {
           "name": "陽高真白",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "『声優グランプリPresents 浴衣のキミと夏祭り2026』昼の部",
+      "event_url": "https://www.eventernote.com/events/481425",
+      "date": "2026-08-08",
+      "venue": "東京証券会館ホール",
+      "open_time": "12:00",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "野中ここな",
+          "id": null
+        },
+        {
+          "name": "湊みや",
           "id": null
         }
       ]
