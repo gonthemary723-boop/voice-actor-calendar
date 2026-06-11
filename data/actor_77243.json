@@ -1,8 +1,8 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-06-10T18:01:48.879746",
-  "event_count": 46,
+  "fetched_at": "2026-06-11T18:17:15.859516",
+  "event_count": 48,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY2",
@@ -197,6 +197,90 @@
       ]
     },
     {
+      "event_name": "ボイスガレッジ サマーパーティー 2026〜Side Girls〜 昼の部",
+      "event_url": "https://www.eventernote.com/events/481579",
+      "date": "2026-08-16",
+      "venue": "なかのZERO 小ホール",
+      "open_time": "13:15",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "郁原ゆう",
+          "id": null
+        },
+        {
+          "name": "丸岡和佳奈",
+          "id": null
+        },
+        {
+          "name": "菅沼千紗",
+          "id": null
+        },
+        {
+          "name": "菅叶和",
+          "id": null
+        },
+        {
+          "name": "梅澤めぐ",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "芝崎典子",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ボイスガレッジ サマーパーティー 2026〜Side Girls〜 夜の部",
+      "event_url": "https://www.eventernote.com/events/481580",
+      "date": "2026-08-16",
+      "venue": "なかのZERO 小ホール",
+      "open_time": "16:45",
+      "start_time": "17:30",
+      "actors": [
+        {
+          "name": "郁原ゆう",
+          "id": null
+        },
+        {
+          "name": "丸岡和佳奈",
+          "id": null
+        },
+        {
+          "name": "菅沼千紗",
+          "id": null
+        },
+        {
+          "name": "菅叶和",
+          "id": null
+        },
+        {
+          "name": "梅澤めぐ",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "芝崎典子",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        }
+      ]
+    },
+    {
       "event_name": "『声優グランプリPresents 浴衣のキミと夏祭り2026』昼の部",
       "event_url": "https://www.eventernote.com/events/481425",
       "date": "2026-08-08",
@@ -219,12 +303,12 @@
       ]
     },
     {
-      "event_name": "リーディングシアター『0と1と私（仮）』8月2日 夜の部",
-      "event_url": "https://www.eventernote.com/events/474856",
+      "event_name": "リーディングシアター『0と1と私（仮）』8月2日 昼の部",
+      "event_url": "https://www.eventernote.com/events/474855",
       "date": "2026-08-02",
       "venue": "R'sアートコート(労音大久保会館)",
-      "open_time": "17:00",
-      "start_time": "17:30",
+      "open_time": "13:30",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "河野ひより",
@@ -245,12 +329,12 @@
       ]
     },
     {
-      "event_name": "リーディングシアター『0と1と私（仮）』8月2日 昼の部",
-      "event_url": "https://www.eventernote.com/events/474855",
+      "event_name": "リーディングシアター『0と1と私（仮）』8月2日 夜の部",
+      "event_url": "https://www.eventernote.com/events/474856",
       "date": "2026-08-02",
       "venue": "R'sアートコート(労音大久保会館)",
-      "open_time": "13:30",
-      "start_time": "14:00",
+      "open_time": "17:00",
+      "start_time": "17:30",
       "actors": [
         {
           "name": "河野ひより",

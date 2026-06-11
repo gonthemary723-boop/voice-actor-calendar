@@ -1,7 +1,7 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-06-10T18:01:08.891632",
+  "fetched_at": "2026-06-11T18:16:35.789661",
   "event_count": 87,
   "events": [
     {
@@ -249,24 +249,6 @@
       ]
     },
     {
-      "event_name": "飯田ヒカルバースデーパーティ２０２６ 昼公演",
-      "event_url": "https://www.eventernote.com/events/476569",
-      "date": "2026-08-23",
-      "venue": "北とぴあ3F つつじホール",
-      "open_time": "13:15",
-      "start_time": "14:00",
-      "actors": [
-        {
-          "name": "飯田ヒカル",
-          "id": null
-        },
-        {
-          "name": "伊藤舞音",
-          "id": null
-        }
-      ]
-    },
-    {
       "event_name": "飯田ヒカルバースデーパーティ２０２６ 夜公演",
       "event_url": "https://www.eventernote.com/events/476570",
       "date": "2026-08-23",
@@ -280,6 +262,24 @@
         },
         {
           "name": "長月あおい",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "飯田ヒカルバースデーパーティ２０２６ 昼公演",
+      "event_url": "https://www.eventernote.com/events/476569",
+      "date": "2026-08-23",
+      "venue": "北とぴあ3F つつじホール",
+      "open_time": "13:15",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
           "id": null
         }
       ]
