@@ -1,7 +1,7 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-06-11T18:17:15.859516",
+  "fetched_at": "2026-06-12T17:39:41.249752",
   "event_count": 48,
   "events": [
     {
@@ -197,12 +197,12 @@
       ]
     },
     {
-      "event_name": "ボイスガレッジ サマーパーティー 2026〜Side Girls〜 昼の部",
-      "event_url": "https://www.eventernote.com/events/481579",
+      "event_name": "ボイスガレッジ サマーパーティー 2026〜Side Girls〜 夜の部",
+      "event_url": "https://www.eventernote.com/events/481580",
       "date": "2026-08-16",
       "venue": "なかのZERO 小ホール",
-      "open_time": "13:15",
-      "start_time": "14:00",
+      "open_time": "16:45",
+      "start_time": "17:30",
       "actors": [
         {
           "name": "郁原ゆう",
@@ -239,12 +239,12 @@
       ]
     },
     {
-      "event_name": "ボイスガレッジ サマーパーティー 2026〜Side Girls〜 夜の部",
-      "event_url": "https://www.eventernote.com/events/481580",
+      "event_name": "ボイスガレッジ サマーパーティー 2026〜Side Girls〜 昼の部",
+      "event_url": "https://www.eventernote.com/events/481579",
       "date": "2026-08-16",
       "venue": "なかのZERO 小ホール",
-      "open_time": "16:45",
-      "start_time": "17:30",
+      "open_time": "13:15",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "郁原ゆう",

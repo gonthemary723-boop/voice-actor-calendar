@@ -1,8 +1,8 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-06-11T18:19:09.651735",
-  "event_count": 543,
+  "fetched_at": "2026-06-12T17:41:39.109235",
+  "event_count": 544,
   "events": [
     {
       "event_name": "春咲暖1st Live「Light in Bloom」昼公演",
@@ -2118,6 +2118,40 @@
         },
         {
           "name": "宮崎理奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "舞台「アサルトリリィ・シュツルム」 ～御台場女学校編～予備校 事前学習講座 19時",
+      "event_url": "https://www.eventernote.com/events/481689",
+      "date": "2026-06-28",
+      "venue": "LOFT9 Shibuya(ロフトナイン渋谷)",
+      "open_time": "18:00",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "西葉瑞希",
+          "id": null
+        },
+        {
+          "name": "野元空",
+          "id": null
+        },
+        {
+          "name": "朝倉ふゆな",
+          "id": null
+        },
+        {
+          "name": "吉宮るり",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "遠藤三貴",
           "id": null
         }
       ]

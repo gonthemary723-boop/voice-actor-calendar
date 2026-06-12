@@ -1,9 +1,31 @@
 {
   "actor_id": 78176,
   "actor_name": "浅見香月",
-  "fetched_at": "2026-06-11T18:19:43.413447",
-  "event_count": 25,
+  "fetched_at": "2026-06-12T17:42:13.582300",
+  "event_count": 26,
   "events": [
+    {
+      "event_name": "RaccoonDogFes 岡本道場 第1部",
+      "event_url": "https://www.eventernote.com/events/481667",
+      "date": "2026-08-30",
+      "venue": "星稜会館",
+      "open_time": "14:30",
+      "start_time": "15:15",
+      "actors": [
+        {
+          "name": "岡本信彦",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "松岡洋平",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "あさ道♡はる未知 イベントVol.1 昼の部",
       "event_url": "https://www.eventernote.com/events/481322",
