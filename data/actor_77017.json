@@ -1,7 +1,7 @@
 {
   "actor_id": 77017,
   "actor_name": "長月あおい",
-  "fetched_at": "2026-06-13T16:14:32.389136",
+  "fetched_at": "2026-06-14T16:24:12.287192",
   "event_count": 48,
   "events": [
     {
@@ -9,8 +9,8 @@
       "event_url": "https://www.eventernote.com/events/465359",
       "date": "2026-11-08",
       "venue": "Kアリーナ横浜",
-      "open_time": "",
-      "start_time": "",
+      "open_time": "15:30",
+      "start_time": "17:00",
       "actors": [
         {
           "name": "学園アイドルマスター",
@@ -75,8 +75,8 @@
       "event_url": "https://www.eventernote.com/events/465358",
       "date": "2026-11-07",
       "venue": "Kアリーナ横浜",
-      "open_time": "",
-      "start_time": "",
+      "open_time": "15:30",
+      "start_time": "17:00",
       "actors": [
         {
           "name": "学園アイドルマスター",
