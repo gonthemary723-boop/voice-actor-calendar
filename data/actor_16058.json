@@ -1,7 +1,7 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-06-15T19:07:30.834306",
+  "fetched_at": "2026-06-16T18:57:32.762825",
   "event_count": 544,
   "events": [
     {
@@ -1415,12 +1415,12 @@
       ]
     },
     {
-      "event_name": "舞台「アサルトリリィ・シュツルム」御台場⼥学校 7/20 18:00",
-      "event_url": "https://www.eventernote.com/events/469829",
+      "event_name": "舞台「アサルトリリィ・シュツルム」御台場⼥学校 7/20 13:00",
+      "event_url": "https://www.eventernote.com/events/469831",
       "date": "2026-07-20",
       "venue": "シアター1010",
-      "open_time": "17:00",
-      "start_time": "18:00",
+      "open_time": "12:00",
+      "start_time": "13:00",
       "actors": [
         {
           "name": "石井陽菜",
@@ -1533,12 +1533,12 @@
       ]
     },
     {
-      "event_name": "舞台「アサルトリリィ・シュツルム」御台場⼥学校 7/20 13:00",
-      "event_url": "https://www.eventernote.com/events/469831",
+      "event_name": "舞台「アサルトリリィ・シュツルム」御台場⼥学校 7/20 18:00",
+      "event_url": "https://www.eventernote.com/events/469829",
       "date": "2026-07-20",
       "venue": "シアター1010",
-      "open_time": "12:00",
-      "start_time": "13:00",
+      "open_time": "17:00",
+      "start_time": "18:00",
       "actors": [
         {
           "name": "石井陽菜",
@@ -8371,7 +8371,7 @@
           "id": null
         },
         {
-          "name": "岩田萌果",
+          "name": "いわた萌果",
           "id": null
         },
         {
