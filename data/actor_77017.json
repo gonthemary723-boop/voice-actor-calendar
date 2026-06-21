@@ -1,9 +1,167 @@
 {
   "actor_id": 77017,
   "actor_name": "長月あおい",
-  "fetched_at": "2026-06-20T16:20:42.575693",
-  "event_count": 48,
+  "fetched_at": "2026-06-21T16:46:11.686412",
+  "event_count": 49,
   "events": [
+    {
+      "event_name": "音泉祭り2027東京",
+      "event_url": "https://www.eventernote.com/events/482665",
+      "date": "2027-02-13",
+      "venue": "TACHIKAWA STAGE GARDEN",
+      "open_time": "14:00",
+      "start_time": "14:40",
+      "actors": [
+        {
+          "name": "青山なぎさ",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "飯塚麻結",
+          "id": null
+        },
+        {
+          "name": "内山悠里菜",
+          "id": null
+        },
+        {
+          "name": "大渕野々花",
+          "id": null
+        },
+        {
+          "name": "緒方佑奈",
+          "id": null
+        },
+        {
+          "name": "小野賢章",
+          "id": null
+        },
+        {
+          "name": "佳原萌枝",
+          "id": null
+        },
+        {
+          "name": "岸本卓也",
+          "id": null
+        },
+        {
+          "name": "希水しお",
+          "id": null
+        },
+        {
+          "name": "高野麻里佳",
+          "id": null
+        },
+        {
+          "name": "佐伯伊織(NU-KO)",
+          "id": null
+        },
+        {
+          "name": "早乙女じょうじ",
+          "id": null
+        },
+        {
+          "name": "佐々木琴子",
+          "id": null
+        },
+        {
+          "name": "篠原侑",
+          "id": null
+        },
+        {
+          "name": "下野紘",
+          "id": null
+        },
+        {
+          "name": "鈴木愛奈",
+          "id": null
+        },
+        {
+          "name": "涼本あきほ",
+          "id": null
+        },
+        {
+          "name": "鷹村彩花",
+          "id": null
+        },
+        {
+          "name": "種田梨沙",
+          "id": null
+        },
+        {
+          "name": "月音こな",
+          "id": null
+        },
+        {
+          "name": "照井悠希",
+          "id": null
+        },
+        {
+          "name": "土岐隼一",
+          "id": null
+        },
+        {
+          "name": "中村カンナ",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "波多野翔",
+          "id": null
+        },
+        {
+          "name": "稗田寧々",
+          "id": null
+        },
+        {
+          "name": "松井恵理子",
+          "id": null
+        },
+        {
+          "name": "松岡禎丞",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "岬なこ",
+          "id": null
+        },
+        {
+          "name": "峯田大夢",
+          "id": null
+        },
+        {
+          "name": "村上まなつ",
+          "id": null
+        },
+        {
+          "name": "守屋亨香",
+          "id": null
+        },
+        {
+          "name": "結川あさき",
+          "id": null
+        },
+        {
+          "name": "DIALOGUE＋",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY2",
       "event_url": "https://www.eventernote.com/events/465359",
