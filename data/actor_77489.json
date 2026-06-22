@@ -1,7 +1,7 @@
 {
   "actor_id": 77489,
   "actor_name": "花岩香奈",
-  "fetched_at": "2026-06-21T16:46:54.459771",
+  "fetched_at": "2026-06-22T18:47:52.494961",
   "event_count": 53,
   "events": [
     {
@@ -137,8 +137,8 @@
       ]
     },
     {
-      "event_name": "花岩香奈のはないわーるど！ 番組イベント 第2部",
-      "event_url": "https://www.eventernote.com/events/481986",
+      "event_name": "花岩香奈のはないわーるど！ 番組イベント 第1部",
+      "event_url": "https://www.eventernote.com/events/481985",
       "date": "2026-09-13",
       "venue": "科学技術館サイエンスホール",
       "open_time": "",
@@ -151,8 +151,8 @@
       ]
     },
     {
-      "event_name": "花岩香奈のはないわーるど！ 番組イベント 第1部",
-      "event_url": "https://www.eventernote.com/events/481985",
+      "event_name": "花岩香奈のはないわーるど！ 番組イベント 第2部",
+      "event_url": "https://www.eventernote.com/events/481986",
       "date": "2026-09-13",
       "venue": "科学技術館サイエンスホール",
       "open_time": "",

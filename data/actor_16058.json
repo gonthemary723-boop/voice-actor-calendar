@@ -1,7 +1,7 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-06-21T16:49:12.212785",
+  "fetched_at": "2026-06-22T18:50:06.174435",
   "event_count": 544,
   "events": [
     {
@@ -2667,12 +2667,12 @@
       ]
     },
     {
-      "event_name": "春咲暖×陽高真白ツーマンライブ 「Luminous 2026」夜公演",
-      "event_url": "https://www.eventernote.com/events/445470",
+      "event_name": "春咲暖×陽高真白ツーマンライブ 「Luminous 2026」昼公演",
+      "event_url": "https://www.eventernote.com/events/445471",
       "date": "2026-02-11",
       "venue": "新宿ReNY",
-      "open_time": "17:45",
-      "start_time": "18:30",
+      "open_time": "14:30",
+      "start_time": "15:15",
       "actors": [
         {
           "name": "春咲暖",
@@ -2685,12 +2685,12 @@
       ]
     },
     {
-      "event_name": "春咲暖×陽高真白ツーマンライブ 「Luminous 2026」昼公演",
-      "event_url": "https://www.eventernote.com/events/445471",
+      "event_name": "春咲暖×陽高真白ツーマンライブ 「Luminous 2026」夜公演",
+      "event_url": "https://www.eventernote.com/events/445470",
       "date": "2026-02-11",
       "venue": "新宿ReNY",
-      "open_time": "14:30",
-      "start_time": "15:15",
+      "open_time": "17:45",
+      "start_time": "18:30",
       "actors": [
         {
           "name": "春咲暖",
@@ -14121,10 +14121,6 @@
           "id": null
         },
         {
-          "name": "大島璃乃",
-          "id": null
-        },
-        {
           "name": "春咲暖",
           "id": null
         },
@@ -14142,6 +14138,10 @@
         },
         {
           "name": "天音利梛",
+          "id": null
+        },
+        {
+          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -14175,10 +14175,6 @@
           "id": null
         },
         {
-          "name": "大島璃乃",
-          "id": null
-        },
-        {
           "name": "春咲暖",
           "id": null
         },
@@ -14196,6 +14192,10 @@
         },
         {
           "name": "天音利梛",
+          "id": null
+        },
+        {
+          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -14337,10 +14337,6 @@
           "id": null
         },
         {
-          "name": "大島璃乃",
-          "id": null
-        },
-        {
           "name": "春咲暖",
           "id": null
         },
@@ -14358,6 +14354,10 @@
         },
         {
           "name": "天音利梛",
+          "id": null
+        },
+        {
+          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -21218,7 +21218,7 @@
       "event_name": "A応P <ユニットCD> リリースイベント② 心斎橋",
       "event_url": "https://www.eventernote.com/events/225751",
       "date": "2019-09-21",
-      "venue": "HMV&BOOKS SHINSAIBASHI",
+      "venue": "HMV&BOOKS SHINSAIBASHI(閉店)",
       "open_time": "",
       "start_time": "19:00",
       "actors": [
@@ -29588,7 +29588,7 @@
       "event_name": "【3/9】フライング・ベイビーズ リリースイベント⑰ 心斎橋",
       "event_url": "https://www.eventernote.com/events/198138",
       "date": "2019-03-09",
-      "venue": "HMV&BOOKS SHINSAIBASHI",
+      "venue": "HMV&BOOKS SHINSAIBASHI(閉店)",
       "open_time": "",
       "start_time": "18:00",
       "actors": [
@@ -32698,7 +32698,7 @@
       "event_name": "『恋に咲く謎、はらはらと』リリースイベント(9月) ②心斎橋",
       "event_url": "https://www.eventernote.com/events/171853",
       "date": "2018-09-17",
-      "venue": "HMV&BOOKS SHINSAIBASHI",
+      "venue": "HMV&BOOKS SHINSAIBASHI(閉店)",
       "open_time": "",
       "start_time": "15:00",
       "actors": [
