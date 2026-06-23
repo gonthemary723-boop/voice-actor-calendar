@@ -1,7 +1,7 @@
 {
   "actor_id": 77489,
   "actor_name": "花岩香奈",
-  "fetched_at": "2026-06-22T18:47:52.494961",
+  "fetched_at": "2026-06-23T17:19:17.828237",
   "event_count": 53,
   "events": [
     {
@@ -277,12 +277,12 @@
       ]
     },
     {
-      "event_name": "「声優グランプリ」×「109シネマズ」presents シネマダミス『超時空捜査隊マルキュー』メイク・フレンズ編",
-      "event_url": "https://www.eventernote.com/events/469273",
+      "event_name": "「声優グランプリ」×「109シネマズ」presents シネマダミス『超時空捜査隊マルキュー』ユニーク・ドールズ編",
+      "event_url": "https://www.eventernote.com/events/469274",
       "date": "2026-06-21",
       "venue": "109シネマズ木場",
       "open_time": "",
-      "start_time": "14:00",
+      "start_time": "17:00",
       "actors": [
         {
           "name": "茜屋日海夏",
@@ -307,12 +307,12 @@
       ]
     },
     {
-      "event_name": "「声優グランプリ」×「109シネマズ」presents シネマダミス『超時空捜査隊マルキュー』ユニーク・ドールズ編",
-      "event_url": "https://www.eventernote.com/events/469274",
+      "event_name": "「声優グランプリ」×「109シネマズ」presents シネマダミス『超時空捜査隊マルキュー』メイク・フレンズ編",
+      "event_url": "https://www.eventernote.com/events/469273",
       "date": "2026-06-21",
       "venue": "109シネマズ木場",
       "open_time": "",
-      "start_time": "17:00",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "茜屋日海夏",
