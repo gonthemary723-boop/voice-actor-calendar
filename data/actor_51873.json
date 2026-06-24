@@ -1,8 +1,8 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-06-23T17:18:59.279784",
-  "event_count": 88,
+  "fetched_at": "2026-06-24T17:07:05.339705",
+  "event_count": 89,
   "events": [
     {
       "event_name": "音泉祭り2027東京",
@@ -488,6 +488,28 @@
         },
         {
           "name": "Suupeas",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "深町寿成と芝崎典子のAIが作り出したくらいにはすご〜っく普通なラジオのすご〜っく普通なイベント 夜の部",
+      "event_url": "https://www.eventernote.com/events/479724",
+      "date": "2026-07-18",
+      "venue": "高田馬場BSホール(白夜書房BSホール)",
+      "open_time": "15:30",
+      "start_time": "16:00",
+      "actors": [
+        {
+          "name": "深町寿成",
+          "id": null
+        },
+        {
+          "name": "芝崎典子",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
           "id": null
         }
       ]

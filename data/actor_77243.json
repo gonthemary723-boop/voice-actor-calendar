@@ -1,7 +1,7 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-06-23T17:19:39.541942",
+  "fetched_at": "2026-06-24T17:07:47.510605",
   "event_count": 48,
   "events": [
     {
@@ -797,12 +797,12 @@
       ]
     },
     {
-      "event_name": "『声グラゼミナール ～業界のいろは学びまSHOW～』春の集中講座 2限目（夜の部）",
-      "event_url": "https://www.eventernote.com/events/462514",
+      "event_name": "『声グラゼミナール ～業界のいろは学びまSHOW～』春の集中講座 1限目（昼の部）",
+      "event_url": "https://www.eventernote.com/events/462513",
       "date": "2026-03-22",
       "venue": "東京証券会館ホール",
-      "open_time": "16:30",
-      "start_time": "17:30",
+      "open_time": "13:00",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "鈴木杏奈",
@@ -827,12 +827,12 @@
       ]
     },
     {
-      "event_name": "『声グラゼミナール ～業界のいろは学びまSHOW～』春の集中講座 1限目（昼の部）",
-      "event_url": "https://www.eventernote.com/events/462513",
+      "event_name": "『声グラゼミナール ～業界のいろは学びまSHOW～』春の集中講座 2限目（夜の部）",
+      "event_url": "https://www.eventernote.com/events/462514",
       "date": "2026-03-22",
       "venue": "東京証券会館ホール",
-      "open_time": "13:00",
-      "start_time": "14:00",
+      "open_time": "16:30",
+      "start_time": "17:30",
       "actors": [
         {
           "name": "鈴木杏奈",
