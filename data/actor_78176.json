@@ -1,8 +1,8 @@
 {
   "actor_id": 78176,
   "actor_name": "浅見香月",
-  "fetched_at": "2026-06-24T17:10:21.156989",
-  "event_count": 26,
+  "fetched_at": "2026-06-25T17:16:00.492676",
+  "event_count": 28,
   "events": [
     {
       "event_name": "RaccoonDogFes 岡本道場 第1部",
@@ -22,6 +22,34 @@
         },
         {
           "name": "松岡洋平",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "VOICEスタイルVOL.6 発売記念 浅見香月さんイベント アニメイト回",
+      "event_url": "https://www.eventernote.com/events/483152",
+      "date": "2026-08-23",
+      "venue": "AKIHABARAゲーマーズ本店",
+      "open_time": "16:20",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "浅見香月",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "VOICEスタイルVOL.6 発売記念 浅見香月さんイベント ゲーマーズ回",
+      "event_url": "https://www.eventernote.com/events/483151",
+      "date": "2026-08-23",
+      "venue": "AKIHABARAゲーマーズ本店",
+      "open_time": "",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "浅見香月",
           "id": null
         }
       ]

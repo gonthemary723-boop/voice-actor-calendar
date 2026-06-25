@@ -1,7 +1,7 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-06-24T17:07:47.510605",
+  "fetched_at": "2026-06-25T17:13:43.454469",
   "event_count": 48,
   "events": [
     {
@@ -477,6 +477,34 @@
         {
           "name": "八神日胡",
           "id": null
+        },
+        {
+          "name": "山下七海",
+          "id": null
+        },
+        {
+          "name": "村星りじゅ",
+          "id": null
+        },
+        {
+          "name": "堺萌香",
+          "id": null
+        },
+        {
+          "name": "佐倉薫",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "結城りな",
+          "id": null
+        },
+        {
+          "name": "森下紫温",
+          "id": null
         }
       ]
     },
@@ -602,6 +630,34 @@
         },
         {
           "name": "八神日胡",
+          "id": null
+        },
+        {
+          "name": "山下七海",
+          "id": null
+        },
+        {
+          "name": "村星りじゅ",
+          "id": null
+        },
+        {
+          "name": "堺萌香",
+          "id": null
+        },
+        {
+          "name": "佐倉薫",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "結城りな",
+          "id": null
+        },
+        {
+          "name": "森下紫温",
           "id": null
         }
       ]

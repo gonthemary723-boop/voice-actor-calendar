@@ -1,9 +1,43 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-06-24T17:07:05.339705",
-  "event_count": 89,
+  "fetched_at": "2026-06-25T17:13:06.620187",
+  "event_count": 90,
   "events": [
+    {
+      "event_name": "制服カノジョ スペシャルイベント in バレンタイン",
+      "event_url": "https://www.eventernote.com/events/483131",
+      "date": "2027-02-14",
+      "venue": "!_東京都内某所",
+      "open_time": "",
+      "start_time": "",
+      "actors": [
+        {
+          "name": "前田佳織里",
+          "id": null
+        },
+        {
+          "name": "小坂井祐莉絵",
+          "id": null
+        },
+        {
+          "name": "橘杏咲",
+          "id": null
+        },
+        {
+          "name": "山田麻莉奈",
+          "id": null
+        },
+        {
+          "name": "月城日花",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "音泉祭り2027東京",
       "event_url": "https://www.eventernote.com/events/482665",
@@ -407,24 +441,6 @@
       ]
     },
     {
-      "event_name": "飯田ヒカルバースデーパーティ２０２６ 夜公演",
-      "event_url": "https://www.eventernote.com/events/476570",
-      "date": "2026-08-23",
-      "venue": "北とぴあ3F つつじホール",
-      "open_time": "17:15",
-      "start_time": "18:00",
-      "actors": [
-        {
-          "name": "飯田ヒカル",
-          "id": null
-        },
-        {
-          "name": "長月あおい",
-          "id": null
-        }
-      ]
-    },
-    {
       "event_name": "飯田ヒカルバースデーパーティ２０２６ 昼公演",
       "event_url": "https://www.eventernote.com/events/476569",
       "date": "2026-08-23",
@@ -438,6 +454,24 @@
         },
         {
           "name": "伊藤舞音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "飯田ヒカルバースデーパーティ２０２６ 夜公演",
+      "event_url": "https://www.eventernote.com/events/476570",
+      "date": "2026-08-23",
+      "venue": "北とぴあ3F つつじホール",
+      "open_time": "17:15",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
           "id": null
         }
       ]
