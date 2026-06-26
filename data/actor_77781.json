@@ -1,8 +1,8 @@
 {
   "actor_id": 77781,
   "actor_name": "七瀬つむぎ",
-  "fetched_at": "2026-06-25T17:13:15.333114",
-  "event_count": 53,
+  "fetched_at": "2026-06-26T17:01:40.222174",
+  "event_count": 55,
   "events": [
     {
       "event_name": "音泉祭り2027東京",
@@ -728,6 +728,310 @@
         },
         {
           "name": "結城りな",
+          "id": null
+        },
+        {
+          "name": "森下紫温",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project 第七十弾］演劇ユニット【爆走おとな小学生】第二十八回全校集会 \"朗読×ACT\"『アイディール・セミナー/Final session-Replay-』①第1セッション",
+      "event_url": "https://www.eventernote.com/events/480647",
+      "date": "2026-07-25",
+      "venue": "シアター1010",
+      "open_time": "13:00",
+      "start_time": "13:30",
+      "actors": [
+        {
+          "name": "大渕野々花",
+          "id": null
+        },
+        {
+          "name": "阿部寿世",
+          "id": null
+        },
+        {
+          "name": "福嶋晴菜",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "赤坂麻凪",
+          "id": null
+        },
+        {
+          "name": "石井萌々果",
+          "id": null
+        },
+        {
+          "name": "篠原望",
+          "id": null
+        },
+        {
+          "name": "小越春花",
+          "id": null
+        },
+        {
+          "name": "髙橋彩香",
+          "id": null
+        },
+        {
+          "name": "佐藤美波(佐東美波)",
+          "id": null
+        },
+        {
+          "name": "大澤萌々",
+          "id": null
+        },
+        {
+          "name": "大橋篤",
+          "id": null
+        },
+        {
+          "name": "井川勇樹",
+          "id": null
+        },
+        {
+          "name": "加藤光大",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "橋爪亮磨",
+          "id": null
+        },
+        {
+          "name": "松谷海里",
+          "id": null
+        },
+        {
+          "name": "桃原華恋",
+          "id": null
+        },
+        {
+          "name": "北村夏未",
+          "id": null
+        },
+        {
+          "name": "倉橋伶奈",
+          "id": null
+        },
+        {
+          "name": "八神日胡",
+          "id": null
+        },
+        {
+          "name": "緒方佑奈",
+          "id": null
+        },
+        {
+          "name": "坂倉花",
+          "id": null
+        },
+        {
+          "name": "田中有紀",
+          "id": null
+        },
+        {
+          "name": "高尾奏音",
+          "id": null
+        },
+        {
+          "name": "花耶",
+          "id": null
+        },
+        {
+          "name": "やみえん",
+          "id": null
+        },
+        {
+          "name": "正木郁",
+          "id": null
+        },
+        {
+          "name": "鈴木萌花",
+          "id": null
+        },
+        {
+          "name": "村星りじゅ",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "青山菜花",
+          "id": null
+        },
+        {
+          "name": "森下紫温",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project 第七十弾］演劇ユニット【爆走おとな小学生】第二十八回全校集会 \"朗読×ACT\"『アイディール・セミナー/Final session-Replay-』②第2セッション",
+      "event_url": "https://www.eventernote.com/events/480646",
+      "date": "2026-07-25",
+      "venue": "シアター1010",
+      "open_time": "18:00",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "大渕野々花",
+          "id": null
+        },
+        {
+          "name": "阿部寿世",
+          "id": null
+        },
+        {
+          "name": "福嶋晴菜",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "赤坂麻凪",
+          "id": null
+        },
+        {
+          "name": "石井萌々果",
+          "id": null
+        },
+        {
+          "name": "篠原望",
+          "id": null
+        },
+        {
+          "name": "小越春花",
+          "id": null
+        },
+        {
+          "name": "髙橋彩香",
+          "id": null
+        },
+        {
+          "name": "佐藤美波(佐東美波)",
+          "id": null
+        },
+        {
+          "name": "大澤萌々",
+          "id": null
+        },
+        {
+          "name": "大橋篤",
+          "id": null
+        },
+        {
+          "name": "井川勇樹",
+          "id": null
+        },
+        {
+          "name": "加藤光大",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "橋爪亮磨",
+          "id": null
+        },
+        {
+          "name": "松谷海里",
+          "id": null
+        },
+        {
+          "name": "桃原華恋",
+          "id": null
+        },
+        {
+          "name": "北村夏未",
+          "id": null
+        },
+        {
+          "name": "倉橋伶奈",
+          "id": null
+        },
+        {
+          "name": "八神日胡",
+          "id": null
+        },
+        {
+          "name": "緒方佑奈",
+          "id": null
+        },
+        {
+          "name": "坂倉花",
+          "id": null
+        },
+        {
+          "name": "田中有紀",
+          "id": null
+        },
+        {
+          "name": "高尾奏音",
+          "id": null
+        },
+        {
+          "name": "花耶",
+          "id": null
+        },
+        {
+          "name": "やみえん",
+          "id": null
+        },
+        {
+          "name": "正木郁",
+          "id": null
+        },
+        {
+          "name": "鈴木萌花",
+          "id": null
+        },
+        {
+          "name": "村星りじゅ",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "吉瀬真珠",
+          "id": null
+        },
+        {
+          "name": "青山菜花",
           "id": null
         },
         {
