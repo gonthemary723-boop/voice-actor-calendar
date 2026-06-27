@@ -1,7 +1,7 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-06-26T17:01:59.438741",
+  "fetched_at": "2026-06-27T16:07:33.106551",
   "event_count": 61,
   "events": [
     {
@@ -276,7 +276,7 @@
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年7月5日)",
       "event_url": "https://www.eventernote.com/events/465113",
       "date": "2026-07-05",
-      "venue": "クーポール会館",
+      "venue": "MIRAIEリアン コミュニティホール七間町",
       "open_time": "12:00",
       "start_time": "12:45",
       "actors": [
@@ -294,7 +294,7 @@
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年7月5日)",
       "event_url": "https://www.eventernote.com/events/465884",
       "date": "2026-07-05",
-      "venue": "クーポール会館",
+      "venue": "MIRAIEリアン コミュニティホール七間町",
       "open_time": "15:30",
       "start_time": "16:15",
       "actors": [
@@ -1341,10 +1341,6 @@
           "id": null
         },
         {
-          "name": "百瀬帆南",
-          "id": null
-        },
-        {
           "name": "伊藤舞音",
           "id": null
         },
@@ -1370,6 +1366,10 @@
         },
         {
           "name": "いろはちゃん",
+          "id": null
+        },
+        {
+          "name": "あいのちゃん",
           "id": null
         },
         {
@@ -1411,10 +1411,6 @@
           "id": null
         },
         {
-          "name": "百瀬帆南",
-          "id": null
-        },
-        {
           "name": "伊藤舞音",
           "id": null
         },
@@ -1440,6 +1436,10 @@
         },
         {
           "name": "いろはちゃん",
+          "id": null
+        },
+        {
+          "name": "あいのちゃん",
           "id": null
         },
         {
@@ -1481,10 +1481,6 @@
           "id": null
         },
         {
-          "name": "百瀬帆南",
-          "id": null
-        },
-        {
           "name": "伊藤舞音",
           "id": null
         },
@@ -1506,6 +1502,10 @@
         },
         {
           "name": "いろはちゃん",
+          "id": null
+        },
+        {
+          "name": "あいのちゃん",
           "id": null
         },
         {
