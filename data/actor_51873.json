@@ -1,7 +1,7 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-06-28T16:12:57.606975",
+  "fetched_at": "2026-06-29T17:39:21.366778",
   "event_count": 90,
   "events": [
     {
@@ -522,6 +522,10 @@
         },
         {
           "name": "Suupeas",
+          "id": null
+        },
+        {
+          "name": "高槻かなこ",
           "id": null
         }
       ]
