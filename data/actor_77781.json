@@ -1,7 +1,7 @@
 {
   "actor_id": 77781,
   "actor_name": "七瀬つむぎ",
-  "fetched_at": "2026-06-30T17:07:52.492644",
+  "fetched_at": "2026-07-01T17:18:18.276235",
   "event_count": 55,
   "events": [
     {
@@ -1389,124 +1389,6 @@
       ]
     },
     {
-      "event_name": "［Otona Project 第六十七弾］演劇ユニット【爆走おとな小学生】第二十六回全校集会 \"朗読×ACT\"theater『アイディール・セミナー/Replay session』①第1セッション",
-      "event_url": "https://www.eventernote.com/events/462621",
-      "date": "2026-04-01",
-      "venue": "CBGKシブゲキ!!",
-      "open_time": "",
-      "start_time": "14:00",
-      "actors": [
-        {
-          "name": "小林愛香",
-          "id": null
-        },
-        {
-          "name": "秋本帆華",
-          "id": null
-        },
-        {
-          "name": "内山悠里菜",
-          "id": null
-        },
-        {
-          "name": "七瀬つむぎ",
-          "id": null
-        },
-        {
-          "name": "吉瀬真珠",
-          "id": null
-        },
-        {
-          "name": "月なぎさ(姫なぎさ)",
-          "id": null
-        },
-        {
-          "name": "立石凛",
-          "id": null
-        },
-        {
-          "name": "大渕野々花",
-          "id": null
-        },
-        {
-          "name": "山岸理子",
-          "id": null
-        },
-        {
-          "name": "古仲可奈",
-          "id": null
-        },
-        {
-          "name": "大澤萌々",
-          "id": null
-        },
-        {
-          "name": "井川勇樹",
-          "id": null
-        },
-        {
-          "name": "加藤光大",
-          "id": null
-        },
-        {
-          "name": "石原美沙紀",
-          "id": null
-        },
-        {
-          "name": "花塚廉太郎",
-          "id": null
-        },
-        {
-          "name": "三島京華",
-          "id": null
-        },
-        {
-          "name": "星野美夢",
-          "id": null
-        },
-        {
-          "name": "鷲尾修斗",
-          "id": null
-        },
-        {
-          "name": "日高里緒",
-          "id": null
-        },
-        {
-          "name": "小森結梨",
-          "id": null
-        },
-        {
-          "name": "蔵田尚樹",
-          "id": null
-        },
-        {
-          "name": "草野太一",
-          "id": null
-        },
-        {
-          "name": "湊竜也",
-          "id": null
-        },
-        {
-          "name": "橋爪亮磨",
-          "id": null
-        },
-        {
-          "name": "山本晃樹",
-          "id": null
-        },
-        {
-          "name": "桃原華恋",
-          "id": null
-        },
-        {
-          "name": "北村夏未",
-          "id": null
-        }
-      ]
-    },
-    {
       "event_name": "［Otona Project 第六十七弾］演劇ユニット【爆走おとな小学生】第二十六回全校集会 \"朗読×ACT\"theater『アイディール・セミナー/Replay session』②第2セッション",
       "event_url": "https://www.eventernote.com/events/462622",
       "date": "2026-04-01",
@@ -1625,12 +1507,130 @@
       ]
     },
     {
-      "event_name": "『声グラゼミナール ～業界のいろは学びまSHOW～』春の集中講座 1限目（昼の部）",
-      "event_url": "https://www.eventernote.com/events/462513",
+      "event_name": "［Otona Project 第六十七弾］演劇ユニット【爆走おとな小学生】第二十六回全校集会 \"朗読×ACT\"theater『アイディール・セミナー/Replay session』①第1セッション",
+      "event_url": "https://www.eventernote.com/events/462621",
+      "date": "2026-04-01",
+      "venue": "CBGKシブゲキ!!",
+      "open_time": "",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "小林愛香",
+          "id": null
+        },
+        {
+          "name": "秋本帆華",
+          "id": null
+        },
+        {
+          "name": "内山悠里菜",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "吉瀬真珠",
+          "id": null
+        },
+        {
+          "name": "月なぎさ(姫なぎさ)",
+          "id": null
+        },
+        {
+          "name": "立石凛",
+          "id": null
+        },
+        {
+          "name": "大渕野々花",
+          "id": null
+        },
+        {
+          "name": "山岸理子",
+          "id": null
+        },
+        {
+          "name": "古仲可奈",
+          "id": null
+        },
+        {
+          "name": "大澤萌々",
+          "id": null
+        },
+        {
+          "name": "井川勇樹",
+          "id": null
+        },
+        {
+          "name": "加藤光大",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "鷲尾修斗",
+          "id": null
+        },
+        {
+          "name": "日高里緒",
+          "id": null
+        },
+        {
+          "name": "小森結梨",
+          "id": null
+        },
+        {
+          "name": "蔵田尚樹",
+          "id": null
+        },
+        {
+          "name": "草野太一",
+          "id": null
+        },
+        {
+          "name": "湊竜也",
+          "id": null
+        },
+        {
+          "name": "橋爪亮磨",
+          "id": null
+        },
+        {
+          "name": "山本晃樹",
+          "id": null
+        },
+        {
+          "name": "桃原華恋",
+          "id": null
+        },
+        {
+          "name": "北村夏未",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "『声グラゼミナール ～業界のいろは学びまSHOW～』春の集中講座 2限目（夜の部）",
+      "event_url": "https://www.eventernote.com/events/462514",
       "date": "2026-03-22",
       "venue": "東京証券会館ホール",
-      "open_time": "13:00",
-      "start_time": "14:00",
+      "open_time": "16:30",
+      "start_time": "17:30",
       "actors": [
         {
           "name": "鈴木杏奈",
@@ -1655,12 +1655,12 @@
       ]
     },
     {
-      "event_name": "『声グラゼミナール ～業界のいろは学びまSHOW～』春の集中講座 2限目（夜の部）",
-      "event_url": "https://www.eventernote.com/events/462514",
+      "event_name": "『声グラゼミナール ～業界のいろは学びまSHOW～』春の集中講座 1限目（昼の部）",
+      "event_url": "https://www.eventernote.com/events/462513",
       "date": "2026-03-22",
       "venue": "東京証券会館ホール",
-      "open_time": "16:30",
-      "start_time": "17:30",
+      "open_time": "13:00",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "鈴木杏奈",
