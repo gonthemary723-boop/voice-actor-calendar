@@ -1,7 +1,7 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-07-01T17:20:38.068347",
+  "fetched_at": "2026-07-02T16:54:11.164681",
   "event_count": 544,
   "events": [
     {
@@ -2683,12 +2683,12 @@
       ]
     },
     {
-      "event_name": "春咲暖×陽高真白ツーマンライブ 「Luminous 2026」昼公演",
-      "event_url": "https://www.eventernote.com/events/445471",
+      "event_name": "春咲暖×陽高真白ツーマンライブ 「Luminous 2026」夜公演",
+      "event_url": "https://www.eventernote.com/events/445470",
       "date": "2026-02-11",
       "venue": "新宿ReNY",
-      "open_time": "14:30",
-      "start_time": "15:15",
+      "open_time": "17:45",
+      "start_time": "18:30",
       "actors": [
         {
           "name": "春咲暖",
@@ -2701,12 +2701,12 @@
       ]
     },
     {
-      "event_name": "春咲暖×陽高真白ツーマンライブ 「Luminous 2026」夜公演",
-      "event_url": "https://www.eventernote.com/events/445470",
+      "event_name": "春咲暖×陽高真白ツーマンライブ 「Luminous 2026」昼公演",
+      "event_url": "https://www.eventernote.com/events/445471",
       "date": "2026-02-11",
       "venue": "新宿ReNY",
-      "open_time": "17:45",
-      "start_time": "18:30",
+      "open_time": "14:30",
+      "start_time": "15:15",
       "actors": [
         {
           "name": "春咲暖",
@@ -14137,10 +14137,6 @@
           "id": null
         },
         {
-          "name": "大島璃乃",
-          "id": null
-        },
-        {
           "name": "春咲暖",
           "id": null
         },
@@ -14158,6 +14154,10 @@
         },
         {
           "name": "天音利梛",
+          "id": null
+        },
+        {
+          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -14191,10 +14191,6 @@
           "id": null
         },
         {
-          "name": "大島璃乃",
-          "id": null
-        },
-        {
           "name": "春咲暖",
           "id": null
         },
@@ -14212,6 +14208,10 @@
         },
         {
           "name": "天音利梛",
+          "id": null
+        },
+        {
+          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -14353,10 +14353,6 @@
           "id": null
         },
         {
-          "name": "大島璃乃",
-          "id": null
-        },
-        {
           "name": "春咲暖",
           "id": null
         },
@@ -14374,6 +14370,10 @@
         },
         {
           "name": "天音利梛",
+          "id": null
+        },
+        {
+          "name": "伊藤雨音",
           "id": null
         },
         {
