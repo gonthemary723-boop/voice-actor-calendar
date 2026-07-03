@@ -1,8 +1,8 @@
 {
   "actor_id": 56410,
   "actor_name": "小鹿なお",
-  "fetched_at": "2026-07-02T16:51:18.701995",
-  "event_count": 57,
+  "fetched_at": "2026-07-03T16:26:21.031523",
+  "event_count": 58,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY2",
@@ -272,6 +272,36 @@
         },
         {
           "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "『アイドルマスター TOURS』公開生配信イベント",
+      "event_url": "https://www.eventernote.com/events/484106",
+      "date": "2026-07-27",
+      "venue": "池袋サンシャインシティ アルパB1F 噴水広場",
+      "open_time": "",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "中村繪里子",
+          "id": null
+        },
+        {
+          "name": "峯田茉優",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "千春",
+          "id": null
+        },
+        {
+          "name": "箕浦亮平",
           "id": null
         }
       ]
