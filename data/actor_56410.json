@@ -1,8 +1,8 @@
 {
   "actor_id": 56410,
   "actor_name": "小鹿なお",
-  "fetched_at": "2026-07-03T16:26:21.031523",
-  "event_count": 58,
+  "fetched_at": "2026-07-04T16:04:27.095967",
+  "event_count": 63,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY2",
@@ -173,6 +173,66 @@
       ]
     },
     {
+      "event_name": "『声グラゼミナール ～業界のいろは学びまSHOW～』第二弾 1限目（昼の部）",
+      "event_url": "https://www.eventernote.com/events/484280",
+      "date": "2026-09-21",
+      "venue": "全電通労働会館 多目的ホール",
+      "open_time": "13:00",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "坂倉花",
+          "id": null
+        },
+        {
+          "name": "月音こな",
+          "id": null
+        },
+        {
+          "name": "渡瀬結月",
+          "id": null
+        },
+        {
+          "name": "豊田萌絵",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "『声グラゼミナール ～業界のいろは学びまSHOW～』第二弾 2限目（夜の部）",
+      "event_url": "https://www.eventernote.com/events/484281",
+      "date": "2026-09-21",
+      "venue": "全電通労働会館 多目的ホール",
+      "open_time": "16:30",
+      "start_time": "17:30",
+      "actors": [
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "坂倉花",
+          "id": null
+        },
+        {
+          "name": "月音こな",
+          "id": null
+        },
+        {
+          "name": "渡瀬結月",
+          "id": null
+        },
+        {
+          "name": "豊田萌絵",
+          "id": null
+        }
+      ]
+    },
+    {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- 福岡公演 DAY2",
       "event_url": "https://www.eventernote.com/events/465355",
       "date": "2026-09-06",
@@ -232,6 +292,60 @@
         },
         {
           "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "小鹿なおの#サシバナProduced by ボイスガレッジ 第3部",
+      "event_url": "https://www.eventernote.com/events/484310",
+      "date": "2026-08-23",
+      "venue": "R'sアートコート(労音大久保会館)",
+      "open_time": "18:00",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "松岡美里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "小鹿なおの#サシバナProduced by ボイスガレッジ 第2部",
+      "event_url": "https://www.eventernote.com/events/484309",
+      "date": "2026-08-23",
+      "venue": "R'sアートコート(労音大久保会館)",
+      "open_time": "15:00",
+      "start_time": "15:30",
+      "actors": [
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "飯田友子",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "小鹿なおの#サシバナProduced by ボイスガレッジ 第1部",
+      "event_url": "https://www.eventernote.com/events/484308",
+      "date": "2026-08-23",
+      "venue": "R'sアートコート(労音大久保会館)",
+      "open_time": "12:00",
+      "start_time": "12:30",
+      "actors": [
+        {
+          "name": "小鹿なお",
           "id": null
         },
         {

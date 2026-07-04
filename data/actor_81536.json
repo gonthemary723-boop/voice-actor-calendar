@@ -1,8 +1,8 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-07-03T16:29:25.548019",
-  "event_count": 31,
+  "fetched_at": "2026-07-04T16:07:30.943974",
+  "event_count": 32,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY2",
@@ -137,12 +137,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! スペシャル in 京都 夜の部",
-      "event_url": "https://www.eventernote.com/events/478916",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! スペシャル in 京都 昼の部",
+      "event_url": "https://www.eventernote.com/events/478915",
       "date": "2026-09-20",
       "venue": "京都教育文化センター",
-      "open_time": "15:30",
-      "start_time": "16:15",
+      "open_time": "12:00",
+      "start_time": "12:45",
       "actors": [
         {
           "name": "佐倉薫",
@@ -163,12 +163,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! スペシャル in 京都 昼の部",
-      "event_url": "https://www.eventernote.com/events/478915",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! スペシャル in 京都 夜の部",
+      "event_url": "https://www.eventernote.com/events/478916",
       "date": "2026-09-20",
       "venue": "京都教育文化センター",
-      "open_time": "12:00",
-      "start_time": "12:45",
+      "open_time": "15:30",
+      "start_time": "16:15",
       "actors": [
         {
           "name": "佐倉薫",
@@ -248,6 +248,24 @@
         },
         {
           "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "小鹿なおの#サシバナProduced by ボイスガレッジ 第1部",
+      "event_url": "https://www.eventernote.com/events/484308",
+      "date": "2026-08-23",
+      "venue": "R'sアートコート(労音大久保会館)",
+      "open_time": "12:00",
+      "start_time": "12:30",
+      "actors": [
+        {
+          "name": "小鹿なお",
           "id": null
         },
         {
