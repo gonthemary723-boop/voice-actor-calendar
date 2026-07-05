@@ -1,9 +1,45 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-07-04T16:07:30.943974",
-  "event_count": 32,
+  "fetched_at": "2026-07-05T16:14:32.765012",
+  "event_count": 34,
   "events": [
+    {
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年1月17日)",
+      "event_url": "https://www.eventernote.com/events/484381",
+      "date": "2027-01-17",
+      "venue": "MIRAIEリアン コミュニティホール七間町",
+      "open_time": "15:30",
+      "start_time": "16:15",
+      "actors": [
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年1月17日)",
+      "event_url": "https://www.eventernote.com/events/484380",
+      "date": "2027-01-17",
+      "venue": "MIRAIEリアン コミュニティホール七間町",
+      "open_time": "12:00",
+      "start_time": "12:45",
+      "actors": [
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY2",
       "event_url": "https://www.eventernote.com/events/465359",

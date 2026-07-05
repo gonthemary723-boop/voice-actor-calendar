@@ -1,8 +1,8 @@
 {
   "actor_id": 56962,
   "actor_name": "薄井友里",
-  "fetched_at": "2026-07-04T16:05:41.284027",
-  "event_count": 82,
+  "fetched_at": "2026-07-05T16:12:34.761395",
+  "event_count": 84,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY2",
@@ -137,6 +137,58 @@
       ]
     },
     {
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク5〜がくえんちゃい〜 夜の部",
+      "event_url": "https://www.eventernote.com/events/484393",
+      "date": "2026-10-18",
+      "venue": "浜離宮朝日ホール 小ホール",
+      "open_time": "16:45",
+      "start_time": "17:30",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "関根瞳",
+          "id": null
+        },
+        {
+          "name": "岡咲美保",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク5〜がくえんちゃい〜 昼の部",
+      "event_url": "https://www.eventernote.com/events/484392",
+      "date": "2026-10-18",
+      "venue": "浜離宮朝日ホール 小ホール",
+      "open_time": "13:15",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "関根瞳",
+          "id": null
+        },
+        {
+          "name": "岡咲美保",
+          "id": null
+        }
+      ]
+    },
+    {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- 福井公演 DAY2",
       "event_url": "https://www.eventernote.com/events/465353",
       "date": "2026-08-21",
@@ -247,6 +299,10 @@
         {
           "name": "川村玲奈",
           "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
         }
       ]
     },
@@ -264,6 +320,10 @@
         },
         {
           "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
           "id": null
         }
       ]
