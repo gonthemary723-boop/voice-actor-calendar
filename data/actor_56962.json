@@ -1,8 +1,8 @@
 {
   "actor_id": 56962,
   "actor_name": "薄井友里",
-  "fetched_at": "2026-07-06T17:46:58.114046",
-  "event_count": 84,
+  "fetched_at": "2026-07-07T17:18:38.830212",
+  "event_count": 86,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY2",
@@ -280,6 +280,54 @@
         },
         {
           "name": "伊藤舞音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ごきげんよう！百合咲リヲのイベントです。～おじサマータイム2026～ 第２部",
+      "event_url": "https://www.eventernote.com/events/484622",
+      "date": "2026-08-01",
+      "venue": "高円寺Studio K(Studio 2)",
+      "open_time": "18:00",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "髙橋咲貴",
+          "id": null
+        },
+        {
+          "name": "豊洲りお",
+          "id": null
+        },
+        {
+          "name": "佐藤榛夏",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ごきげんよう！百合咲リヲのイベントです。～おじサマータイム2026～ 第１部",
+      "event_url": "https://www.eventernote.com/events/484621",
+      "date": "2026-08-01",
+      "venue": "高円寺Studio K(Studio 2)",
+      "open_time": "15:00",
+      "start_time": "15:30",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "髙橋咲貴",
+          "id": null
+        },
+        {
+          "name": "豊洲りお",
           "id": null
         }
       ]

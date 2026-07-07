@@ -1,7 +1,7 @@
 {
   "actor_id": 77489,
   "actor_name": "花岩香奈",
-  "fetched_at": "2026-07-06T17:46:11.460041",
+  "fetched_at": "2026-07-07T17:17:55.811975",
   "event_count": 59,
   "events": [
     {
@@ -198,7 +198,7 @@
       "date": "2026-10-10",
       "venue": "書泉ブックタワー",
       "open_time": "",
-      "start_time": "",
+      "start_time": "16:45",
       "actors": [
         {
           "name": "花岩香奈",
@@ -212,7 +212,7 @@
       "date": "2026-10-10",
       "venue": "書泉ブックタワー",
       "open_time": "",
-      "start_time": "",
+      "start_time": "17:50",
       "actors": [
         {
           "name": "花岩香奈",

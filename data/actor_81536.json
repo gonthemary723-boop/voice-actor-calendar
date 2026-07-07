@@ -1,8 +1,8 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-07-06T17:49:03.961234",
-  "event_count": 34,
+  "fetched_at": "2026-07-07T17:20:32.418128",
+  "event_count": 35,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年1月17日)",
@@ -414,6 +414,28 @@
         },
         {
           "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "松田颯水ふれあいフェスティバル2026～我、誕生～【夜の部】",
+      "event_url": "https://www.eventernote.com/events/479933",
+      "date": "2026-07-18",
+      "venue": "シアターマーキュリー新宿",
+      "open_time": "17:00",
+      "start_time": "17:30",
+      "actors": [
+        {
+          "name": "松田颯水",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "渡谷美帆",
           "id": null
         }
       ]
