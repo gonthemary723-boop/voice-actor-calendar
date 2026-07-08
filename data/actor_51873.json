@@ -1,8 +1,8 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-07-07T17:17:37.737043",
-  "event_count": 90,
+  "fetched_at": "2026-07-08T16:41:14.688633",
+  "event_count": 91,
   "events": [
     {
       "event_name": "制服カノジョ スペシャルイベント in バレンタイン",
@@ -192,6 +192,32 @@
         },
         {
           "name": "DIALOGUE＋",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "佐伯伊織・涼本あきほの「だまされたと思って聞いてみな！」単独イベント 第1部",
+      "event_url": "https://www.eventernote.com/events/484733",
+      "date": "2026-11-21",
+      "venue": "科学技術館サイエンスホール",
+      "open_time": "",
+      "start_time": "",
+      "actors": [
+        {
+          "name": "佐伯伊織(NU-KO)",
+          "id": null
+        },
+        {
+          "name": "涼本あきほ",
+          "id": null
+        },
+        {
+          "name": "中村カンナ",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
           "id": null
         }
       ]

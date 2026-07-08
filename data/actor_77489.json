@@ -1,7 +1,7 @@
 {
   "actor_id": 77489,
   "actor_name": "花岩香奈",
-  "fetched_at": "2026-07-07T17:17:55.811975",
+  "fetched_at": "2026-07-08T16:41:33.574535",
   "event_count": 59,
   "events": [
     {
@@ -193,12 +193,12 @@
       ]
     },
     {
-      "event_name": "花岩香奈さん 1st写真集発売記念イベント@書泉ブックタワー ＜第5部＞",
-      "event_url": "https://www.eventernote.com/events/484461",
+      "event_name": "花岩香奈さん 1st写真集発売記念イベント@書泉ブックタワー ＜第6部＞",
+      "event_url": "https://www.eventernote.com/events/484462",
       "date": "2026-10-10",
       "venue": "書泉ブックタワー",
       "open_time": "",
-      "start_time": "16:45",
+      "start_time": "17:50",
       "actors": [
         {
           "name": "花岩香奈",
@@ -207,12 +207,12 @@
       ]
     },
     {
-      "event_name": "花岩香奈さん 1st写真集発売記念イベント@書泉ブックタワー ＜第6部＞",
-      "event_url": "https://www.eventernote.com/events/484462",
+      "event_name": "花岩香奈さん 1st写真集発売記念イベント@書泉ブックタワー ＜第5部＞",
+      "event_url": "https://www.eventernote.com/events/484461",
       "date": "2026-10-10",
       "venue": "書泉ブックタワー",
       "open_time": "",
-      "start_time": "17:50",
+      "start_time": "16:45",
       "actors": [
         {
           "name": "花岩香奈",
