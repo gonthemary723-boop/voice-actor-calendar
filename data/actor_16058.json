@@ -1,7 +1,7 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-07-09T17:25:45.305129",
+  "fetched_at": "2026-07-10T17:00:03.358447",
   "event_count": 544,
   "events": [
     {
@@ -7066,7 +7066,7 @@
       "event_name": "月を跨ぐVOL.４　昼の部",
       "event_url": "https://www.eventernote.com/events/358151",
       "date": "2023-09-23",
-      "venue": "すたごや／スター発掘小屋",
+      "venue": "すたごや／スター発掘小屋(閉店)",
       "open_time": "11:30",
       "start_time": "12:00",
       "actors": [
@@ -7120,7 +7120,7 @@
       "event_name": "月を跨ぐVOL.４　夕方の部",
       "event_url": "https://www.eventernote.com/events/358152",
       "date": "2023-09-23",
-      "venue": "すたごや／スター発掘小屋",
+      "venue": "すたごや／スター発掘小屋(閉店)",
       "open_time": "14:30",
       "start_time": "15:00",
       "actors": [
@@ -14103,7 +14103,7 @@
           "id": null
         },
         {
-          "name": "天音利梛",
+          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -14137,6 +14137,10 @@
           "id": null
         },
         {
+          "name": "大島璃乃",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -14150,10 +14154,6 @@
         },
         {
           "name": "富田保乃歌",
-          "id": null
-        },
-        {
-          "name": "天音利梛",
           "id": null
         },
         {
@@ -14191,6 +14191,10 @@
           "id": null
         },
         {
+          "name": "大島璃乃",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -14204,10 +14208,6 @@
         },
         {
           "name": "富田保乃歌",
-          "id": null
-        },
-        {
-          "name": "天音利梛",
           "id": null
         },
         {
@@ -14265,7 +14265,7 @@
           "id": null
         },
         {
-          "name": "天音利梛",
+          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -14319,7 +14319,7 @@
           "id": null
         },
         {
-          "name": "天音利梛",
+          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -14353,6 +14353,10 @@
           "id": null
         },
         {
+          "name": "大島璃乃",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -14366,10 +14370,6 @@
         },
         {
           "name": "富田保乃歌",
-          "id": null
-        },
-        {
-          "name": "天音利梛",
           "id": null
         },
         {
@@ -14427,7 +14427,7 @@
           "id": null
         },
         {
-          "name": "天音利梛",
+          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -23495,10 +23495,6 @@
           "id": null
         },
         {
-          "name": "河口夏音",
-          "id": null
-        },
-        {
           "name": "川中子奈月心",
           "id": null
         },
@@ -24796,6 +24792,10 @@
         },
         {
           "name": "内藤里奈",
+          "id": null
+        },
+        {
+          "name": "間山優",
           "id": null
         },
         {

@@ -1,8 +1,8 @@
 {
   "actor_id": 77781,
   "actor_name": "七瀬つむぎ",
-  "fetched_at": "2026-07-09T17:23:20.972337",
-  "event_count": 55,
+  "fetched_at": "2026-07-10T16:57:53.277668",
+  "event_count": 60,
   "events": [
     {
       "event_name": "音泉祭り2027東京",
@@ -158,6 +158,76 @@
         },
         {
           "name": "DIALOGUE＋",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  大阪  ゲーマーズ回",
+      "event_url": "https://www.eventernote.com/events/484866",
+      "date": "2027-01-17",
+      "venue": "!_大阪市内某所",
+      "open_time": "",
+      "start_time": "",
+      "actors": [
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  大阪  アニメイト回",
+      "event_url": "https://www.eventernote.com/events/484864",
+      "date": "2027-01-17",
+      "venue": "!_大阪市内某所",
+      "open_time": "",
+      "start_time": "",
+      "actors": [
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  東京  ゲーマーズ回",
+      "event_url": "https://www.eventernote.com/events/484865",
+      "date": "2027-01-16",
+      "venue": "!_東京都内某所",
+      "open_time": "",
+      "start_time": "",
+      "actors": [
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  東京  アニメイト回",
+      "event_url": "https://www.eventernote.com/events/484863",
+      "date": "2027-01-16",
+      "venue": "!_東京都内某所",
+      "open_time": "",
+      "start_time": "",
+      "actors": [
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "七瀬つむぎ1st写真集（仮）2ショット写メ会",
+      "event_url": "https://www.eventernote.com/events/484867",
+      "date": "2026-11-14",
+      "venue": "!_東京都内某所",
+      "open_time": "",
+      "start_time": "",
+      "actors": [
+        {
+          "name": "七瀬つむぎ",
           "id": null
         }
       ]
