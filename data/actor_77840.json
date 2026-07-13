@@ -1,7 +1,7 @@
 {
   "actor_id": 77840,
   "actor_name": "川村玲奈",
-  "fetched_at": "2026-07-12T16:02:23.295676",
+  "fetched_at": "2026-07-13T17:14:19.156293",
   "event_count": 52,
   "events": [
     {
@@ -137,12 +137,12 @@
       ]
     },
     {
-      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク5〜がくえんちゃい〜 昼の部",
-      "event_url": "https://www.eventernote.com/events/484392",
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク5〜がくえんちゃい〜 夜の部",
+      "event_url": "https://www.eventernote.com/events/484393",
       "date": "2026-10-18",
       "venue": "浜離宮朝日ホール 小ホール",
-      "open_time": "13:15",
-      "start_time": "14:00",
+      "open_time": "16:45",
+      "start_time": "17:30",
       "actors": [
         {
           "name": "薄井友里",
@@ -163,12 +163,12 @@
       ]
     },
     {
-      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク5〜がくえんちゃい〜 夜の部",
-      "event_url": "https://www.eventernote.com/events/484393",
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク5〜がくえんちゃい〜 昼の部",
+      "event_url": "https://www.eventernote.com/events/484392",
       "date": "2026-10-18",
       "venue": "浜離宮朝日ホール 小ホール",
-      "open_time": "16:45",
-      "start_time": "17:30",
+      "open_time": "13:15",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "薄井友里",
