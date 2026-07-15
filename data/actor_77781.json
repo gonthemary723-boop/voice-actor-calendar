@@ -1,7 +1,7 @@
 {
   "actor_id": 77781,
   "actor_name": "七瀬つむぎ",
-  "fetched_at": "2026-07-14T16:17:42.370088",
+  "fetched_at": "2026-07-15T16:24:20.930716",
   "event_count": 60,
   "events": [
     {
@@ -163,8 +163,8 @@
       ]
     },
     {
-      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  大阪  ゲーマーズ回",
-      "event_url": "https://www.eventernote.com/events/484866",
+      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  大阪  アニメイト回",
+      "event_url": "https://www.eventernote.com/events/484864",
       "date": "2027-01-17",
       "venue": "!_大阪市内某所",
       "open_time": "",
@@ -177,8 +177,8 @@
       ]
     },
     {
-      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  大阪  アニメイト回",
-      "event_url": "https://www.eventernote.com/events/484864",
+      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  大阪  ゲーマーズ回",
+      "event_url": "https://www.eventernote.com/events/484866",
       "date": "2027-01-17",
       "venue": "!_大阪市内某所",
       "open_time": "",
@@ -499,12 +499,12 @@
       ]
     },
     {
-      "event_name": "［Otona Project 第七十弾］演劇ユニット【爆走おとな小学生】第二十八回全校集会 \"朗読×ACT\"『アイディール・セミナー/Final session-Replay-』③第3セッション",
-      "event_url": "https://www.eventernote.com/events/480644",
+      "event_name": "［Otona Project 第七十弾］演劇ユニット【爆走おとな小学生】第二十八回全校集会 \"朗読×ACT\"『アイディール・セミナー/Final session-Replay-』④第4セッション",
+      "event_url": "https://www.eventernote.com/events/480645",
       "date": "2026-07-26",
       "venue": "シアター1010",
-      "open_time": "13:00",
-      "start_time": "13:30",
+      "open_time": "18:00",
+      "start_time": "18:30",
       "actors": [
         {
           "name": "鈴原希実",
@@ -653,12 +653,12 @@
       ]
     },
     {
-      "event_name": "［Otona Project 第七十弾］演劇ユニット【爆走おとな小学生】第二十八回全校集会 \"朗読×ACT\"『アイディール・セミナー/Final session-Replay-』④第4セッション",
-      "event_url": "https://www.eventernote.com/events/480645",
+      "event_name": "［Otona Project 第七十弾］演劇ユニット【爆走おとな小学生】第二十八回全校集会 \"朗読×ACT\"『アイディール・セミナー/Final session-Replay-』③第3セッション",
+      "event_url": "https://www.eventernote.com/events/480644",
       "date": "2026-07-26",
       "venue": "シアター1010",
-      "open_time": "18:00",
-      "start_time": "18:30",
+      "open_time": "13:00",
+      "start_time": "13:30",
       "actors": [
         {
           "name": "鈴原希実",

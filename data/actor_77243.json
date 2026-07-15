@@ -1,7 +1,7 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-07-14T16:18:12.140475",
+  "fetched_at": "2026-07-15T16:24:48.398758",
   "event_count": 48,
   "events": [
     {
@@ -355,12 +355,12 @@
       ]
     },
     {
-      "event_name": "［Otona Project 第七十弾］演劇ユニット【爆走おとな小学生】第二十八回全校集会 \"朗読×ACT\"『アイディール・セミナー/Final session-Replay-』③第3セッション",
-      "event_url": "https://www.eventernote.com/events/480644",
+      "event_name": "［Otona Project 第七十弾］演劇ユニット【爆走おとな小学生】第二十八回全校集会 \"朗読×ACT\"『アイディール・セミナー/Final session-Replay-』④第4セッション",
+      "event_url": "https://www.eventernote.com/events/480645",
       "date": "2026-07-26",
       "venue": "シアター1010",
-      "open_time": "13:00",
-      "start_time": "13:30",
+      "open_time": "18:00",
+      "start_time": "18:30",
       "actors": [
         {
           "name": "鈴原希実",
@@ -509,12 +509,12 @@
       ]
     },
     {
-      "event_name": "［Otona Project 第七十弾］演劇ユニット【爆走おとな小学生】第二十八回全校集会 \"朗読×ACT\"『アイディール・セミナー/Final session-Replay-』④第4セッション",
-      "event_url": "https://www.eventernote.com/events/480645",
+      "event_name": "［Otona Project 第七十弾］演劇ユニット【爆走おとな小学生】第二十八回全校集会 \"朗読×ACT\"『アイディール・セミナー/Final session-Replay-』③第3セッション",
+      "event_url": "https://www.eventernote.com/events/480644",
       "date": "2026-07-26",
       "venue": "シアター1010",
-      "open_time": "18:00",
-      "start_time": "18:30",
+      "open_time": "13:00",
+      "start_time": "13:30",
       "actors": [
         {
           "name": "鈴原希実",

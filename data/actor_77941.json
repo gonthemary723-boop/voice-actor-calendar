@@ -1,8 +1,8 @@
 {
   "actor_id": 77941,
   "actor_name": "松田彩音",
-  "fetched_at": "2026-07-14T16:18:41.683511",
-  "event_count": 37,
+  "fetched_at": "2026-07-15T16:25:15.757849",
+  "event_count": 39,
   "events": [
     {
       "event_name": "音泉祭り2027東京",
@@ -158,6 +158,50 @@
         },
         {
           "name": "DIALOGUE＋",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【うたろぐ】Vol.4【2部】",
+      "event_url": "https://www.eventernote.com/events/485380",
+      "date": "2026-12-19",
+      "venue": "ライクスホール",
+      "open_time": "15:30",
+      "start_time": "16:00",
+      "actors": [
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【うたろぐ】Vol.4【1部】",
+      "event_url": "https://www.eventernote.com/events/485379",
+      "date": "2026-12-19",
+      "venue": "ライクスホール",
+      "open_time": "12:00",
+      "start_time": "12:30",
+      "actors": [
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
           "id": null
         }
       ]

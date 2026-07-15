@@ -1,8 +1,8 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-07-14T16:18:03.145885",
-  "event_count": 65,
+  "fetched_at": "2026-07-15T16:24:40.152785",
+  "event_count": 67,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年1月17日)",
@@ -36,6 +36,50 @@
         },
         {
           "name": "伊藤舞音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【うたろぐ】Vol.4【2部】",
+      "event_url": "https://www.eventernote.com/events/485380",
+      "date": "2026-12-19",
+      "venue": "ライクスホール",
+      "open_time": "15:30",
+      "start_time": "16:00",
+      "actors": [
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【うたろぐ】Vol.4【1部】",
+      "event_url": "https://www.eventernote.com/events/485379",
+      "date": "2026-12-19",
+      "venue": "ライクスホール",
+      "open_time": "12:00",
+      "start_time": "12:30",
+      "actors": [
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
           "id": null
         }
       ]
@@ -501,7 +545,7 @@
           "id": null
         },
         {
-          "name": "那華喜シイナ",
+          "name": "平山笑美",
           "id": null
         },
         {
@@ -579,7 +623,7 @@
           "id": null
         },
         {
-          "name": "那華喜シイナ",
+          "name": "平山笑美",
           "id": null
         },
         {
@@ -657,7 +701,7 @@
           "id": null
         },
         {
-          "name": "那華喜シイナ",
+          "name": "石原美沙紀",
           "id": null
         },
         {
