@@ -1,9 +1,45 @@
 {
   "actor_id": 77840,
   "actor_name": "川村玲奈",
-  "fetched_at": "2026-07-15T16:24:56.616321",
-  "event_count": 52,
+  "fetched_at": "2026-07-16T16:19:10.145964",
+  "event_count": 54,
   "events": [
+    {
+      "event_name": "『湊みやの一枚いいですか？』〜1st Location 福岡編〜【ゲスト：川村玲奈】昼の部",
+      "event_url": "https://www.eventernote.com/events/485534",
+      "date": "2026-11-29",
+      "venue": "雷5656会館ときわホール",
+      "open_time": "13:15",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "『湊みやの一枚いいですか？』〜1st Location 福岡編〜【ゲスト：川村玲奈】夜の部",
+      "event_url": "https://www.eventernote.com/events/485535",
+      "date": "2026-11-29",
+      "venue": "雷5656会館ときわホール",
+      "open_time": "16:45",
+      "start_time": "17:30",
+      "actors": [
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY2",
       "event_url": "https://www.eventernote.com/events/465359",
