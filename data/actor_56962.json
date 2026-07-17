@@ -1,8 +1,8 @@
 {
   "actor_id": 56962,
   "actor_name": "薄井友里",
-  "fetched_at": "2026-07-16T16:19:23.324588",
-  "event_count": 86,
+  "fetched_at": "2026-07-17T16:17:47.243148",
+  "event_count": 87,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY2",
@@ -184,6 +184,24 @@
         },
         {
           "name": "岡咲美保",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "花岩香奈のはないわーるど！ 2日遅れのバースデーイベント！ 第2部",
+      "event_url": "https://www.eventernote.com/events/481986",
+      "date": "2026-09-13",
+      "venue": "科学技術館サイエンスホール",
+      "open_time": "17:15",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
           "id": null
         }
       ]

@@ -1,8 +1,8 @@
 {
   "actor_id": 77489,
   "actor_name": "花岩香奈",
-  "fetched_at": "2026-07-16T16:18:43.120895",
-  "event_count": 59,
+  "fetched_at": "2026-07-17T16:17:01.911104",
+  "event_count": 60,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY2",
@@ -137,6 +137,20 @@
       ]
     },
     {
+      "event_name": "【当選者限定】 花岩香奈 1st写真集発売記念イベント",
+      "event_url": "https://www.eventernote.com/events/485603",
+      "date": "2026-10-17",
+      "venue": "magmabooks",
+      "open_time": "",
+      "start_time": "11:30",
+      "actors": [
+        {
+          "name": "花岩香奈",
+          "id": null
+        }
+      ]
+    },
+    {
       "event_name": "花岩香奈さん 1st写真集発売記念イベント@書泉ブックタワー ＜第1部＞",
       "event_url": "https://www.eventernote.com/events/483678",
       "date": "2026-10-10",
@@ -221,12 +235,12 @@
       ]
     },
     {
-      "event_name": "花岩香奈のはないわーるど！ 番組イベント 第1部",
+      "event_name": "花岩香奈のはないわーるど！ 2日遅れのバースデーイベント！ 第1部",
       "event_url": "https://www.eventernote.com/events/481985",
       "date": "2026-09-13",
       "venue": "科学技術館サイエンスホール",
-      "open_time": "",
-      "start_time": "",
+      "open_time": "12:45",
+      "start_time": "13:30",
       "actors": [
         {
           "name": "花岩香奈",
@@ -235,15 +249,19 @@
       ]
     },
     {
-      "event_name": "花岩香奈のはないわーるど！ 番組イベント 第2部",
+      "event_name": "花岩香奈のはないわーるど！ 2日遅れのバースデーイベント！ 第2部",
       "event_url": "https://www.eventernote.com/events/481986",
       "date": "2026-09-13",
       "venue": "科学技術館サイエンスホール",
-      "open_time": "",
-      "start_time": "",
+      "open_time": "17:15",
+      "start_time": "18:00",
       "actors": [
         {
           "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
           "id": null
         }
       ]
