@@ -1,8 +1,8 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-07-17T16:19:16.696760",
-  "event_count": 544,
+  "fetched_at": "2026-07-18T16:01:41.739400",
+  "event_count": 549,
   "events": [
     {
       "event_name": "春咲暖1st Live「Light in Bloom」昼公演",
@@ -160,6 +160,236 @@
         },
         {
           "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ねお・りーでぃんぐ『スライム倒して300年、知らないうちにレベルMAXになってました』10/23 18:30",
+      "event_url": "https://www.eventernote.com/events/485806",
+      "date": "2026-10-23",
+      "venue": "新宿シアターサンモール",
+      "open_time": "",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "立石凛",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "石飛恵里花",
+          "id": null
+        },
+        {
+          "name": "渡邉結衣",
+          "id": null
+        },
+        {
+          "name": "畑美紗起",
+          "id": null
+        },
+        {
+          "name": "富田麻帆",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "白城もえの",
+          "id": null
+        },
+        {
+          "name": "髙橋彩音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ねお・りーでぃんぐ『スライム倒して300年、知らないうちにレベルMAXになってました』10/22",
+      "event_url": "https://www.eventernote.com/events/485805",
+      "date": "2026-10-22",
+      "venue": "新宿シアターサンモール",
+      "open_time": "",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "林鼓子",
+          "id": null
+        },
+        {
+          "name": "反田葉月",
+          "id": null
+        },
+        {
+          "name": "石飛恵里花",
+          "id": null
+        },
+        {
+          "name": "早川渚紗",
+          "id": null
+        },
+        {
+          "name": "朝倉ふゆな",
+          "id": null
+        },
+        {
+          "name": "石井陽菜",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "渡辺みり愛",
+          "id": null
+        },
+        {
+          "name": "あわつまい",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ねお・りーでぃんぐ『スライム倒して300年、知らないうちにレベルMAXになってました』10/19",
+      "event_url": "https://www.eventernote.com/events/485803",
+      "date": "2026-10-19",
+      "venue": "新宿シアターサンモール",
+      "open_time": "",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "星守紗凪",
+          "id": null
+        },
+        {
+          "name": "反田葉月",
+          "id": null
+        },
+        {
+          "name": "大西亜玖璃",
+          "id": null
+        },
+        {
+          "name": "早川渚紗",
+          "id": null
+        },
+        {
+          "name": "朝倉ふゆな",
+          "id": null
+        },
+        {
+          "name": "井尻晏菜",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "渡辺みり愛",
+          "id": null
+        },
+        {
+          "name": "髙橋彩音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ねお・りーでぃんぐ『スライム倒して300年、知らないうちにレベルMAXになってました』10/18 13:00",
+      "event_url": "https://www.eventernote.com/events/485811",
+      "date": "2026-10-18",
+      "venue": "新宿シアターサンモール",
+      "open_time": "",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "立石凛",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "工藤理子",
+          "id": null
+        },
+        {
+          "name": "渡邉結衣",
+          "id": null
+        },
+        {
+          "name": "安藤千伽奈",
+          "id": null
+        },
+        {
+          "name": "井尻晏菜",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "大滝紗緒里",
+          "id": null
+        },
+        {
+          "name": "あわつまい",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ねお・りーでぃんぐ『スライム倒して300年、知らないうちにレベルMAXになってました』10/16",
+      "event_url": "https://www.eventernote.com/events/485802",
+      "date": "2026-10-16",
+      "venue": "新宿シアターサンモール",
+      "open_time": "",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "立石凛",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "工藤理子",
+          "id": null
+        },
+        {
+          "name": "十条月",
+          "id": null
+        },
+        {
+          "name": "安藤千伽奈",
+          "id": null
+        },
+        {
+          "name": "石井陽菜",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "大滝紗緒里",
+          "id": null
+        },
+        {
+          "name": "あわつまい",
           "id": null
         }
       ]
