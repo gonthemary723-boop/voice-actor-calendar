@@ -1,8 +1,8 @@
 {
   "actor_id": 77781,
   "actor_name": "七瀬つむぎ",
-  "fetched_at": "2026-07-18T15:59:28.470317",
-  "event_count": 60,
+  "fetched_at": "2026-07-19T15:59:32.103947",
+  "event_count": 65,
   "events": [
     {
       "event_name": "音泉祭り2027東京",
@@ -163,8 +163,8 @@
       ]
     },
     {
-      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  大阪  アニメイト回",
-      "event_url": "https://www.eventernote.com/events/484864",
+      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  大阪  ゲーマーズ回",
+      "event_url": "https://www.eventernote.com/events/484866",
       "date": "2027-01-17",
       "venue": "!_大阪市内某所",
       "open_time": "",
@@ -177,8 +177,8 @@
       ]
     },
     {
-      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  大阪  ゲーマーズ回",
-      "event_url": "https://www.eventernote.com/events/484866",
+      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  大阪  アニメイト回",
+      "event_url": "https://www.eventernote.com/events/484864",
       "date": "2027-01-17",
       "venue": "!_大阪市内某所",
       "open_time": "",
@@ -434,6 +434,408 @@
         },
         {
           "name": "佳原萌枝",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project 第七十一弾］演劇ユニット【爆走おとな小学生】11周年記念授業  朗読劇『コトバノコトバ』9月6日⑧13:00",
+      "event_url": "https://www.eventernote.com/events/485897",
+      "date": "2026-09-06",
+      "venue": "CBGKシブゲキ!!",
+      "open_time": "",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "秋本帆華",
+          "id": null
+        },
+        {
+          "name": "結城りな",
+          "id": null
+        },
+        {
+          "name": "豊田萌絵",
+          "id": null
+        },
+        {
+          "name": "小日向美香",
+          "id": null
+        },
+        {
+          "name": "小鳥遊あみ",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "門林有羽",
+          "id": null
+        },
+        {
+          "name": "雪月心愛",
+          "id": null
+        },
+        {
+          "name": "柏綾菜",
+          "id": null
+        },
+        {
+          "name": "大澤萌々",
+          "id": null
+        },
+        {
+          "name": "青山菜花",
+          "id": null
+        },
+        {
+          "name": "夏目妃菜",
+          "id": null
+        },
+        {
+          "name": "平田裕香",
+          "id": null
+        },
+        {
+          "name": "早田健人",
+          "id": null
+        },
+        {
+          "name": "鷲尾修斗",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "小阪崇生",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project 第七十一弾］演劇ユニット【爆走おとな小学生】11周年記念授業  朗読劇『コトバノコトバ』9月6日⑨17:00",
+      "event_url": "https://www.eventernote.com/events/485898",
+      "date": "2026-09-06",
+      "venue": "CBGKシブゲキ!!",
+      "open_time": "",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "秋本帆華",
+          "id": null
+        },
+        {
+          "name": "結城りな",
+          "id": null
+        },
+        {
+          "name": "豊田萌絵",
+          "id": null
+        },
+        {
+          "name": "小日向美香",
+          "id": null
+        },
+        {
+          "name": "小鳥遊あみ",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "門林有羽",
+          "id": null
+        },
+        {
+          "name": "雪月心愛",
+          "id": null
+        },
+        {
+          "name": "柏綾菜",
+          "id": null
+        },
+        {
+          "name": "大澤萌々",
+          "id": null
+        },
+        {
+          "name": "青山菜花",
+          "id": null
+        },
+        {
+          "name": "夏目妃菜",
+          "id": null
+        },
+        {
+          "name": "平田裕香",
+          "id": null
+        },
+        {
+          "name": "早田健人",
+          "id": null
+        },
+        {
+          "name": "鷲尾修斗",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "小阪崇生",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project 第七十一弾］演劇ユニット【爆走おとな小学生】11周年記念授業  朗読劇『コトバノコトバ』9月5日⑦18:30",
+      "event_url": "https://www.eventernote.com/events/485896",
+      "date": "2026-09-05",
+      "venue": "CBGKシブゲキ!!",
+      "open_time": "",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "秋本帆華",
+          "id": null
+        },
+        {
+          "name": "西本りみ",
+          "id": null
+        },
+        {
+          "name": "高木美佑",
+          "id": null
+        },
+        {
+          "name": "阿部寿世",
+          "id": null
+        },
+        {
+          "name": "小鳥遊あみ",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "古仲可奈",
+          "id": null
+        },
+        {
+          "name": "雪月心愛",
+          "id": null
+        },
+        {
+          "name": "有沢澪風",
+          "id": null
+        },
+        {
+          "name": "大澤萌々",
+          "id": null
+        },
+        {
+          "name": "村星りじゅ",
+          "id": null
+        },
+        {
+          "name": "末永香乃",
+          "id": null
+        },
+        {
+          "name": "室元気",
+          "id": null
+        },
+        {
+          "name": "濱健人",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "小阪崇生",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project 第七十一弾］演劇ユニット【爆走おとな小学生】11周年記念授業  朗読劇『コトバノコトバ』9月5日⑥14:00",
+      "event_url": "https://www.eventernote.com/events/485895",
+      "date": "2026-09-05",
+      "venue": "CBGKシブゲキ!!",
+      "open_time": "",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "秋本帆華",
+          "id": null
+        },
+        {
+          "name": "西本りみ",
+          "id": null
+        },
+        {
+          "name": "高木美佑",
+          "id": null
+        },
+        {
+          "name": "阿部寿世",
+          "id": null
+        },
+        {
+          "name": "小鳥遊あみ",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "古仲可奈",
+          "id": null
+        },
+        {
+          "name": "雪月心愛",
+          "id": null
+        },
+        {
+          "name": "有沢澪風",
+          "id": null
+        },
+        {
+          "name": "大澤萌々",
+          "id": null
+        },
+        {
+          "name": "村星りじゅ",
+          "id": null
+        },
+        {
+          "name": "末永香乃",
+          "id": null
+        },
+        {
+          "name": "室元気",
+          "id": null
+        },
+        {
+          "name": "濱健人",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "小阪崇生",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［Otona Project 第七十一弾］演劇ユニット【爆走おとな小学生】11周年記念授業  朗読劇『コトバノコトバ』9月3日②14:30",
+      "event_url": "https://www.eventernote.com/events/485891",
+      "date": "2026-09-03",
+      "venue": "CBGKシブゲキ!!",
+      "open_time": "",
+      "start_time": "14:30",
+      "actors": [
+        {
+          "name": "秋本帆華",
+          "id": null
+        },
+        {
+          "name": "西本りみ",
+          "id": null
+        },
+        {
+          "name": "高木美佑",
+          "id": null
+        },
+        {
+          "name": "阿部寿世",
+          "id": null
+        },
+        {
+          "name": "鷲見友美ジェナ",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "古仲可奈",
+          "id": null
+        },
+        {
+          "name": "雪月心愛",
+          "id": null
+        },
+        {
+          "name": "有沢澪風",
+          "id": null
+        },
+        {
+          "name": "橋本侑芽",
+          "id": null
+        },
+        {
+          "name": "青山菜花",
+          "id": null
+        },
+        {
+          "name": "夏目妃菜",
+          "id": null
+        },
+        {
+          "name": "平田裕香",
+          "id": null
+        },
+        {
+          "name": "早田健人",
+          "id": null
+        },
+        {
+          "name": "濱健人",
+          "id": null
+        },
+        {
+          "name": "石原美沙紀",
+          "id": null
+        },
+        {
+          "name": "花塚廉太郎",
+          "id": null
+        },
+        {
+          "name": "小阪崇生",
           "id": null
         }
       ]
