@@ -1,7 +1,7 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-07-19T15:59:51.223342",
+  "fetched_at": "2026-07-20T16:25:41.883154",
   "event_count": 67,
   "events": [
     {
@@ -41,12 +41,12 @@
       ]
     },
     {
-      "event_name": "【うたろぐ】Vol.4【2部】",
-      "event_url": "https://www.eventernote.com/events/485380",
+      "event_name": "【うたろぐ】Vol.4【1部】",
+      "event_url": "https://www.eventernote.com/events/485379",
       "date": "2026-12-19",
       "venue": "ライクスホール",
-      "open_time": "15:30",
-      "start_time": "16:00",
+      "open_time": "12:00",
+      "start_time": "12:30",
       "actors": [
         {
           "name": "松田彩音",
@@ -63,12 +63,12 @@
       ]
     },
     {
-      "event_name": "【うたろぐ】Vol.4【1部】",
-      "event_url": "https://www.eventernote.com/events/485379",
+      "event_name": "【うたろぐ】Vol.4【2部】",
+      "event_url": "https://www.eventernote.com/events/485380",
       "date": "2026-12-19",
       "venue": "ライクスホール",
-      "open_time": "12:00",
-      "start_time": "12:30",
+      "open_time": "15:30",
+      "start_time": "16:00",
       "actors": [
         {
           "name": "松田彩音",
