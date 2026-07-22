@@ -1,7 +1,7 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-07-21T16:24:23.484521",
+  "fetched_at": "2026-07-22T16:21:09.469884",
   "event_count": 91,
   "events": [
     {
@@ -197,12 +197,12 @@
       ]
     },
     {
-      "event_name": "佐伯伊織・涼本あきほの「だまされたと思って聞いてみな！」単独イベント 第1部",
+      "event_name": "佐伯伊織・涼本あきほの「だまされたと思って聞いてみな！」～みんなの様子が！おかしい！～ 第1部",
       "event_url": "https://www.eventernote.com/events/484733",
       "date": "2026-11-21",
       "venue": "科学技術館サイエンスホール",
-      "open_time": "",
-      "start_time": "",
+      "open_time": "13:30",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "佐伯伊織(NU-KO)",

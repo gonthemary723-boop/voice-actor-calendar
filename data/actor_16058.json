@@ -1,8 +1,8 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-07-21T16:26:46.026173",
-  "event_count": 549,
+  "fetched_at": "2026-07-22T16:23:47.221002",
+  "event_count": 550,
   "events": [
     {
       "event_name": "春咲暖1st Live「Light in Bloom」昼公演",
@@ -1476,6 +1476,32 @@
         },
         {
           "name": "矢野妃菜喜",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "振り返りトークイベント 舞台「アサルトリリィ・シュツルム」〜御台場女学校編〜 第三部",
+      "event_url": "https://www.eventernote.com/events/486230",
+      "date": "2026-08-09",
+      "venue": "秋葉原ハンドレッド２",
+      "open_time": "19:00",
+      "start_time": "19:30",
+      "actors": [
+        {
+          "name": "石井陽菜",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "有沢澪風",
+          "id": null
+        },
+        {
+          "name": "尾花沢軒栄",
           "id": null
         }
       ]
