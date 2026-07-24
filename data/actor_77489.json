@@ -1,7 +1,7 @@
 {
   "actor_id": 77489,
   "actor_name": "花岩香奈",
-  "fetched_at": "2026-07-23T16:28:44.526716",
+  "fetched_at": "2026-07-24T16:44:42.888958",
   "event_count": 60,
   "events": [
     {
@@ -235,20 +235,6 @@
       ]
     },
     {
-      "event_name": "花岩香奈のはないわーるど！ 2日遅れのバースデーイベント！ 第1部",
-      "event_url": "https://www.eventernote.com/events/481985",
-      "date": "2026-09-13",
-      "venue": "科学技術館サイエンスホール",
-      "open_time": "12:45",
-      "start_time": "13:30",
-      "actors": [
-        {
-          "name": "花岩香奈",
-          "id": null
-        }
-      ]
-    },
-    {
       "event_name": "花岩香奈のはないわーるど！ 2日遅れのバースデーイベント！ 第2部",
       "event_url": "https://www.eventernote.com/events/481986",
       "date": "2026-09-13",
@@ -262,6 +248,20 @@
         },
         {
           "name": "薄井友里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "花岩香奈のはないわーるど！ 2日遅れのバースデーイベント！ 第1部",
+      "event_url": "https://www.eventernote.com/events/481985",
+      "date": "2026-09-13",
+      "venue": "科学技術館サイエンスホール",
+      "open_time": "12:45",
+      "start_time": "13:30",
+      "actors": [
+        {
+          "name": "花岩香奈",
           "id": null
         }
       ]
