@@ -1,8 +1,8 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-07-25T16:06:16.293509",
-  "event_count": 50,
+  "fetched_at": "2026-07-26T16:03:31.724857",
+  "event_count": 52,
   "events": [
     {
       "event_name": "『湊みやの一枚いいですか？』〜1st Location 福岡編〜【ゲスト：川村玲奈】昼の部",
@@ -168,6 +168,58 @@
         },
         {
           "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "朗読と歌とおしゃべりをきみと 〜W〜『Fioriのサプライズパーティー』第一部",
+      "event_url": "https://www.eventernote.com/events/486710",
+      "date": "2026-10-31",
+      "venue": "杉並区勤労福祉会館",
+      "open_time": "13:30",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "紫月杏朱彩",
+          "id": null
+        },
+        {
+          "name": "梅澤めぐ",
+          "id": null
+        },
+        {
+          "name": "菅叶和",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "朗読と歌とおしゃべりをきみと 〜W〜『Fioriのサプライズパーティー』第二部",
+      "event_url": "https://www.eventernote.com/events/486711",
+      "date": "2026-10-31",
+      "venue": "杉並区勤労福祉会館",
+      "open_time": "17:30",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "紫月杏朱彩",
+          "id": null
+        },
+        {
+          "name": "梅澤めぐ",
+          "id": null
+        },
+        {
+          "name": "菅叶和",
+          "id": null
+        },
+        {
+          "name": "湊みや",
           "id": null
         }
       ]
