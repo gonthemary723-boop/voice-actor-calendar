@@ -1,7 +1,7 @@
 {
   "actor_id": 77781,
   "actor_name": "七瀬つむぎ",
-  "fetched_at": "2026-07-27T16:59:38.419569",
+  "fetched_at": "2026-07-28T16:41:59.732738",
   "event_count": 65,
   "events": [
     {
@@ -163,8 +163,8 @@
       ]
     },
     {
-      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  大阪  ゲーマーズ回",
-      "event_url": "https://www.eventernote.com/events/484866",
+      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  大阪  アニメイト回",
+      "event_url": "https://www.eventernote.com/events/484864",
       "date": "2027-01-17",
       "venue": "!_大阪市内某所",
       "open_time": "",
@@ -177,8 +177,8 @@
       ]
     },
     {
-      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  大阪  アニメイト回",
-      "event_url": "https://www.eventernote.com/events/484864",
+      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  大阪  ゲーマーズ回",
+      "event_url": "https://www.eventernote.com/events/484866",
       "date": "2027-01-17",
       "venue": "!_大阪市内某所",
       "open_time": "",
