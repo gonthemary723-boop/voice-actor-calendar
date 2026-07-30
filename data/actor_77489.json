@@ -1,8 +1,8 @@
 {
   "actor_id": 77489,
   "actor_name": "花岩香奈",
-  "fetched_at": "2026-07-29T16:23:26.314727",
-  "event_count": 60,
+  "fetched_at": "2026-07-30T16:28:40.535146",
+  "event_count": 62,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY2",
@@ -230,6 +230,50 @@
       "actors": [
         {
           "name": "花岩香奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "まぁじでカプサイ神・伊藤舞音とらぁめんに単騎突撃希望・花岩香奈とたんたんと大盛を頼む薄井友里のKFB 昼の部",
+      "event_url": "https://www.eventernote.com/events/487167",
+      "date": "2026-09-20",
+      "venue": "中野セントラルパーク カンファレンス",
+      "open_time": "12:00",
+      "start_time": "12:30",
+      "actors": [
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "まぁじでカプサイ神・伊藤舞音とらぁめんに単騎突撃希望・花岩香奈とたんたんと大盛を頼む薄井友里のKFB 夜の部",
+      "event_url": "https://www.eventernote.com/events/487168",
+      "date": "2026-09-20",
+      "venue": "中野セントラルパーク カンファレンス",
+      "open_time": "15:00",
+      "start_time": "15:30",
+      "actors": [
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
           "id": null
         }
       ]

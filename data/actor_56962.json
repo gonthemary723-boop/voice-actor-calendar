@@ -1,8 +1,8 @@
 {
   "actor_id": 56962,
   "actor_name": "薄井友里",
-  "fetched_at": "2026-07-29T16:24:17.356748",
-  "event_count": 87,
+  "fetched_at": "2026-07-30T16:29:23.067578",
+  "event_count": 89,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY2",
@@ -137,6 +137,32 @@
       ]
     },
     {
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク5〜がくえんちゃい〜 夜の部",
+      "event_url": "https://www.eventernote.com/events/484393",
+      "date": "2026-10-18",
+      "venue": "浜離宮朝日ホール 小ホール",
+      "open_time": "16:45",
+      "start_time": "17:30",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "関根瞳",
+          "id": null
+        },
+        {
+          "name": "岡咲美保",
+          "id": null
+        }
+      ]
+    },
+    {
       "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク5〜がくえんちゃい〜 昼の部",
       "event_url": "https://www.eventernote.com/events/484392",
       "date": "2026-10-18",
@@ -163,27 +189,45 @@
       ]
     },
     {
-      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク5〜がくえんちゃい〜 夜の部",
-      "event_url": "https://www.eventernote.com/events/484393",
-      "date": "2026-10-18",
-      "venue": "浜離宮朝日ホール 小ホール",
-      "open_time": "16:45",
-      "start_time": "17:30",
+      "event_name": "まぁじでカプサイ神・伊藤舞音とらぁめんに単騎突撃希望・花岩香奈とたんたんと大盛を頼む薄井友里のKFB 昼の部",
+      "event_url": "https://www.eventernote.com/events/487167",
+      "date": "2026-09-20",
+      "venue": "中野セントラルパーク カンファレンス",
+      "open_time": "12:00",
+      "start_time": "12:30",
       "actors": [
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
         {
           "name": "薄井友里",
           "id": null
-        },
+        }
+      ]
+    },
+    {
+      "event_name": "まぁじでカプサイ神・伊藤舞音とらぁめんに単騎突撃希望・花岩香奈とたんたんと大盛を頼む薄井友里のKFB 夜の部",
+      "event_url": "https://www.eventernote.com/events/487168",
+      "date": "2026-09-20",
+      "venue": "中野セントラルパーク カンファレンス",
+      "open_time": "15:00",
+      "start_time": "15:30",
+      "actors": [
         {
-          "name": "川村玲奈",
+          "name": "花岩香奈",
           "id": null
         },
         {
-          "name": "関根瞳",
+          "name": "伊藤舞音",
           "id": null
         },
         {
-          "name": "岡咲美保",
+          "name": "薄井友里",
           "id": null
         }
       ]
