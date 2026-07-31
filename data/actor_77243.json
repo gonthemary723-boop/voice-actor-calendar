@@ -1,9 +1,45 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-07-30T16:29:00.626483",
-  "event_count": 52,
+  "fetched_at": "2026-07-31T16:47:48.972699",
+  "event_count": 54,
   "events": [
+    {
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年12月27日)",
+      "event_url": "https://www.eventernote.com/events/487197",
+      "date": "2026-12-27",
+      "venue": "MIRAIEリアン コミュニティホール七間町",
+      "open_time": "12:00",
+      "start_time": "12:45",
+      "actors": [
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年12月27日)",
+      "event_url": "https://www.eventernote.com/events/487198",
+      "date": "2026-12-27",
+      "venue": "MIRAIEリアン コミュニティホール七間町",
+      "open_time": "15:30",
+      "start_time": "16:15",
+      "actors": [
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "『湊みやの一枚いいですか？』〜1st Location 福岡編〜【ゲスト：川村玲奈】昼の部",
       "event_url": "https://www.eventernote.com/events/485534",

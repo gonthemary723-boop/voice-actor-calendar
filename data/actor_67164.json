@@ -1,7 +1,7 @@
 {
   "actor_id": 67164,
   "actor_name": "陽高真白",
-  "fetched_at": "2026-07-30T16:31:08.447028",
+  "fetched_at": "2026-07-31T16:50:04.475235",
   "event_count": 137,
   "events": [
     {
@@ -455,12 +455,12 @@
       ]
     },
     {
-      "event_name": "SMA VOICE文化祭 2026 -Summer Vacation- 夜公演",
-      "event_url": "https://www.eventernote.com/events/475075",
+      "event_name": "SMA VOICE文化祭 2026 -Summer Vacation- 昼公演",
+      "event_url": "https://www.eventernote.com/events/475074",
       "date": "2026-08-16",
       "venue": "新宿ReNY",
-      "open_time": "16:45",
-      "start_time": "17:30",
+      "open_time": "13:30",
+      "start_time": "14:15",
       "actors": [
         {
           "name": "天沢颯志",
@@ -517,12 +517,12 @@
       ]
     },
     {
-      "event_name": "SMA VOICE文化祭 2026 -Summer Vacation- 昼公演",
-      "event_url": "https://www.eventernote.com/events/475074",
+      "event_name": "SMA VOICE文化祭 2026 -Summer Vacation- 夜公演",
+      "event_url": "https://www.eventernote.com/events/475075",
       "date": "2026-08-16",
       "venue": "新宿ReNY",
-      "open_time": "13:30",
-      "start_time": "14:15",
+      "open_time": "16:45",
+      "start_time": "17:30",
       "actors": [
         {
           "name": "天沢颯志",

@@ -1,7 +1,7 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-07-30T16:30:47.350328",
+  "fetched_at": "2026-07-31T16:49:43.328525",
   "event_count": 550,
   "events": [
     {
@@ -1357,12 +1357,12 @@
       ]
     },
     {
-      "event_name": "SMA VOICE文化祭 2026 -Summer Vacation- 夜公演",
-      "event_url": "https://www.eventernote.com/events/475075",
+      "event_name": "SMA VOICE文化祭 2026 -Summer Vacation- 昼公演",
+      "event_url": "https://www.eventernote.com/events/475074",
       "date": "2026-08-16",
       "venue": "新宿ReNY",
-      "open_time": "16:45",
-      "start_time": "17:30",
+      "open_time": "13:30",
+      "start_time": "14:15",
       "actors": [
         {
           "name": "天沢颯志",
@@ -1419,12 +1419,12 @@
       ]
     },
     {
-      "event_name": "SMA VOICE文化祭 2026 -Summer Vacation- 昼公演",
-      "event_url": "https://www.eventernote.com/events/475074",
+      "event_name": "SMA VOICE文化祭 2026 -Summer Vacation- 夜公演",
+      "event_url": "https://www.eventernote.com/events/475075",
       "date": "2026-08-16",
       "venue": "新宿ReNY",
-      "open_time": "13:30",
-      "start_time": "14:15",
+      "open_time": "16:45",
+      "start_time": "17:30",
       "actors": [
         {
           "name": "天沢颯志",
@@ -18147,6 +18147,60 @@
       ]
     },
     {
+      "event_name": "舞台 少女ヨルハVer1.1a1日目 昼公演",
+      "event_url": "https://www.eventernote.com/events/260197",
+      "date": "2020-12-03",
+      "venue": "東京建物 Brillia HALL(豊島区立芸術文化劇場)",
+      "open_time": "12:30",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "青木志貴",
+          "id": null
+        },
+        {
+          "name": "大西桃香",
+          "id": null
+        },
+        {
+          "name": "小泉萌香",
+          "id": null
+        },
+        {
+          "name": "園田あいか",
+          "id": null
+        },
+        {
+          "name": "谷口めぐ",
+          "id": null
+        },
+        {
+          "name": "松田彩希",
+          "id": null
+        },
+        {
+          "name": "鶴見萌",
+          "id": null
+        },
+        {
+          "name": "野口真緒",
+          "id": null
+        },
+        {
+          "name": "関谷真由",
+          "id": null
+        },
+        {
+          "name": "二瓶有加",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        }
+      ]
+    },
+    {
       "event_name": "舞台 少女ヨルハVer1.1a1日目 夜公演",
       "event_url": "https://www.eventernote.com/events/260232",
       "date": "2020-12-03",
@@ -18224,60 +18278,6 @@
         },
         {
           "name": "KOCHO(Marie Kocho)",
-          "id": null
-        }
-      ]
-    },
-    {
-      "event_name": "舞台 少女ヨルハVer1.1a1日目 昼公演",
-      "event_url": "https://www.eventernote.com/events/260197",
-      "date": "2020-12-03",
-      "venue": "東京建物 Brillia HALL(豊島区立芸術文化劇場)",
-      "open_time": "12:30",
-      "start_time": "13:00",
-      "actors": [
-        {
-          "name": "青木志貴",
-          "id": null
-        },
-        {
-          "name": "大西桃香",
-          "id": null
-        },
-        {
-          "name": "小泉萌香",
-          "id": null
-        },
-        {
-          "name": "園田あいか",
-          "id": null
-        },
-        {
-          "name": "谷口めぐ",
-          "id": null
-        },
-        {
-          "name": "松田彩希",
-          "id": null
-        },
-        {
-          "name": "鶴見萌",
-          "id": null
-        },
-        {
-          "name": "野口真緒",
-          "id": null
-        },
-        {
-          "name": "関谷真由",
-          "id": null
-        },
-        {
-          "name": "二瓶有加",
-          "id": null
-        },
-        {
-          "name": "春咲暖",
           "id": null
         }
       ]
