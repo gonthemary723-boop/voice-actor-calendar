@@ -1,7 +1,7 @@
 {
   "actor_id": 56410,
   "actor_name": "小鹿なお",
-  "fetched_at": "2026-08-02T16:02:09.399690",
+  "fetched_at": "2026-08-03T17:09:24.348543",
   "event_count": 65,
   "events": [
     {
@@ -395,7 +395,7 @@
       "event_url": "https://www.eventernote.com/events/484106",
       "date": "2026-07-27",
       "venue": "池袋サンシャインシティ アルパB1F 噴水広場",
-      "open_time": "",
+      "open_time": "18:00",
       "start_time": "18:30",
       "actors": [
         {

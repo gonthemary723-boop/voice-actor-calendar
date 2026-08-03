@@ -1,8 +1,8 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-08-02T16:02:26.678603",
-  "event_count": 92,
+  "fetched_at": "2026-08-03T17:09:38.190269",
+  "event_count": 93,
   "events": [
     {
       "event_name": "制服カノジョ スペシャルイベント in バレンタイン",
@@ -376,6 +376,40 @@
         },
         {
           "name": "夏吉ゆうこ",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "キャラミクス トークイベント vol.2 in 高千穂大学 2部",
+      "event_url": "https://www.eventernote.com/events/487596",
+      "date": "2026-10-17",
+      "venue": "高千穂大学",
+      "open_time": "15:30",
+      "start_time": "16:00",
+      "actors": [
+        {
+          "name": "矢吹健太朗",
+          "id": null
+        },
+        {
+          "name": "月音こな",
+          "id": null
+        },
+        {
+          "name": "遠藤璃菜",
+          "id": null
+        },
+        {
+          "name": "ペイトン尚未",
+          "id": null
+        },
+        {
+          "name": "前島亜美",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
           "id": null
         }
       ]

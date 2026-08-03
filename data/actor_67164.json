@@ -1,7 +1,7 @@
 {
   "actor_id": 67164,
   "actor_name": "陽高真白",
-  "fetched_at": "2026-08-02T16:05:59.723074",
+  "fetched_at": "2026-08-03T17:12:25.453321",
   "event_count": 137,
   "events": [
     {
@@ -455,12 +455,12 @@
       ]
     },
     {
-      "event_name": "SMA VOICE文化祭 2026 -Summer Vacation- 夜公演",
-      "event_url": "https://www.eventernote.com/events/475075",
+      "event_name": "SMA VOICE文化祭 2026 -Summer Vacation- 昼公演",
+      "event_url": "https://www.eventernote.com/events/475074",
       "date": "2026-08-16",
       "venue": "新宿ReNY",
-      "open_time": "16:45",
-      "start_time": "17:30",
+      "open_time": "13:30",
+      "start_time": "14:15",
       "actors": [
         {
           "name": "天沢颯志",
@@ -517,12 +517,12 @@
       ]
     },
     {
-      "event_name": "SMA VOICE文化祭 2026 -Summer Vacation- 昼公演",
-      "event_url": "https://www.eventernote.com/events/475074",
+      "event_name": "SMA VOICE文化祭 2026 -Summer Vacation- 夜公演",
+      "event_url": "https://www.eventernote.com/events/475075",
       "date": "2026-08-16",
       "venue": "新宿ReNY",
-      "open_time": "13:30",
-      "start_time": "14:15",
+      "open_time": "16:45",
+      "start_time": "17:30",
       "actors": [
         {
           "name": "天沢颯志",
@@ -3125,6 +3125,10 @@
           "id": null
         },
         {
+          "name": "アミマネラ(シンデレラガールズ)",
+          "id": null
+        },
+        {
           "name": "大橋彩香",
           "id": null
         },
@@ -3137,6 +3141,10 @@
           "id": null
         },
         {
+          "name": "Sirius Chord(シンデレラガールズ)",
+          "id": null
+        },
+        {
           "name": "福原綾香",
           "id": null
         },
@@ -3146,6 +3154,10 @@
         },
         {
           "name": "千菅春香",
+          "id": null
+        },
+        {
+          "name": "セクシーギャルズ(シンデレラガールズ)",
           "id": null
         },
         {
@@ -3390,18 +3402,6 @@
         },
         {
           "name": "アルバノクト",
-          "id": null
-        },
-        {
-          "name": "田中あいみ",
-          "id": null
-        },
-        {
-          "name": "日高里菜",
-          "id": null
-        },
-        {
-          "name": "赤羽根健治",
           "id": null
         },
         {
