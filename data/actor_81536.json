@@ -1,7 +1,7 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-08-04T16:55:34.870984",
+  "fetched_at": "2026-08-05T16:46:16.781522",
   "event_count": 39,
   "events": [
     {
@@ -409,12 +409,12 @@
       ]
     },
     {
-      "event_name": "Story Teller（Terror）朗読・怪談 第8回 配送会社 夜の部(2026年8月15日)",
-      "event_url": "https://www.eventernote.com/events/478913",
+      "event_name": "Story Teller（Terror）朗読・怪談 第8回 配送会社 アフタートーク(2026年8月15日)",
+      "event_url": "https://www.eventernote.com/events/478914",
       "date": "2026-08-15",
       "venue": "全電通労働会館 多目的ホール",
-      "open_time": "16:00",
-      "start_time": "16:45",
+      "open_time": "18:50",
+      "start_time": "19:15",
       "actors": [
         {
           "name": "立花慎之介",
@@ -439,12 +439,12 @@
       ]
     },
     {
-      "event_name": "Story Teller（Terror）朗読・怪談 第8回 配送会社 アフタートーク(2026年8月15日)",
-      "event_url": "https://www.eventernote.com/events/478914",
+      "event_name": "Story Teller（Terror）朗読・怪談 第8回 配送会社 夜の部(2026年8月15日)",
+      "event_url": "https://www.eventernote.com/events/478913",
       "date": "2026-08-15",
       "venue": "全電通労働会館 多目的ホール",
-      "open_time": "18:50",
-      "start_time": "19:15",
+      "open_time": "16:00",
+      "start_time": "16:45",
       "actors": [
         {
           "name": "立花慎之介",
