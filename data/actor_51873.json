@@ -1,8 +1,8 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-08-05T16:43:22.515867",
-  "event_count": 93,
+  "fetched_at": "2026-08-07T15:57:43.714077",
+  "event_count": 94,
   "events": [
     {
       "event_name": "制服カノジョ スペシャルイベント in バレンタイン",
@@ -192,6 +192,32 @@
         },
         {
           "name": "DIALOGUE＋",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "羽衣6 2ndリアルイベント『GEISHO-UI 2』",
+      "event_url": "https://www.eventernote.com/events/487315",
+      "date": "2026-11-29",
+      "venue": "ユピテル静岡研究所 2号棟",
+      "open_time": "",
+      "start_time": "",
+      "actors": [
+        {
+          "name": "羽衣6",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "高柳知葉",
+          "id": null
+        },
+        {
+          "name": "汐入あすか",
           "id": null
         }
       ]

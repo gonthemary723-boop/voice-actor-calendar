@@ -1,7 +1,7 @@
 {
   "actor_id": 78176,
   "actor_name": "浅見香月",
-  "fetched_at": "2026-08-05T16:46:22.373324",
+  "fetched_at": "2026-08-07T16:01:13.101178",
   "event_count": 28,
   "events": [
     {
@@ -55,12 +55,12 @@
       ]
     },
     {
-      "event_name": "あさ道♡はる未知 イベントVol.1 夜の部",
-      "event_url": "https://www.eventernote.com/events/481323",
+      "event_name": "あさ道♡はる未知 イベントVol.1 昼の部",
+      "event_url": "https://www.eventernote.com/events/481322",
       "date": "2026-08-09",
       "venue": "R'sアートコート(労音大久保会館)",
-      "open_time": "16:45",
-      "start_time": "17:30",
+      "open_time": "12:45",
+      "start_time": "13:30",
       "actors": [
         {
           "name": "浅見香月",
@@ -81,12 +81,12 @@
       ]
     },
     {
-      "event_name": "あさ道♡はる未知 イベントVol.1 昼の部",
-      "event_url": "https://www.eventernote.com/events/481322",
+      "event_name": "あさ道♡はる未知 イベントVol.1 夜の部",
+      "event_url": "https://www.eventernote.com/events/481323",
       "date": "2026-08-09",
       "venue": "R'sアートコート(労音大久保会館)",
-      "open_time": "12:45",
-      "start_time": "13:30",
+      "open_time": "16:45",
+      "start_time": "17:30",
       "actors": [
         {
           "name": "浅見香月",
