@@ -1,7 +1,7 @@
 {
   "actor_id": 77489,
   "actor_name": "花岩香奈",
-  "fetched_at": "2026-08-08T15:32:07.141848",
+  "fetched_at": "2026-08-09T15:33:33.726860",
   "event_count": 62,
   "events": [
     {
@@ -165,12 +165,12 @@
       ]
     },
     {
-      "event_name": "花岩香奈さん 1st写真集発売記念イベント@書泉ブックタワー ＜第3部＞",
-      "event_url": "https://www.eventernote.com/events/483680",
+      "event_name": "花岩香奈さん 1st写真集発売記念イベント@書泉ブックタワー ＜第6部＞",
+      "event_url": "https://www.eventernote.com/events/484462",
       "date": "2026-10-10",
       "venue": "書泉ブックタワー",
       "open_time": "",
-      "start_time": "14:20",
+      "start_time": "17:50",
       "actors": [
         {
           "name": "花岩香奈",
@@ -179,12 +179,12 @@
       ]
     },
     {
-      "event_name": "花岩香奈さん 1st写真集発売記念イベント@書泉ブックタワー ＜第6部＞",
-      "event_url": "https://www.eventernote.com/events/484462",
+      "event_name": "花岩香奈さん 1st写真集発売記念イベント@書泉ブックタワー ＜第3部＞",
+      "event_url": "https://www.eventernote.com/events/483680",
       "date": "2026-10-10",
       "venue": "書泉ブックタワー",
       "open_time": "",
-      "start_time": "17:50",
+      "start_time": "14:20",
       "actors": [
         {
           "name": "花岩香奈",
@@ -279,6 +279,20 @@
       ]
     },
     {
+      "event_name": "花岩香奈のはないわーるど！ 2日遅れのバースデーイベント！ 第1部",
+      "event_url": "https://www.eventernote.com/events/481985",
+      "date": "2026-09-13",
+      "venue": "科学技術館サイエンスホール",
+      "open_time": "12:45",
+      "start_time": "13:30",
+      "actors": [
+        {
+          "name": "花岩香奈",
+          "id": null
+        }
+      ]
+    },
+    {
       "event_name": "花岩香奈のはないわーるど！ 2日遅れのバースデーイベント！ 第2部",
       "event_url": "https://www.eventernote.com/events/481986",
       "date": "2026-09-13",
@@ -292,20 +306,6 @@
         },
         {
           "name": "薄井友里",
-          "id": null
-        }
-      ]
-    },
-    {
-      "event_name": "花岩香奈のはないわーるど！ 2日遅れのバースデーイベント！ 第1部",
-      "event_url": "https://www.eventernote.com/events/481985",
-      "date": "2026-09-13",
-      "venue": "科学技術館サイエンスホール",
-      "open_time": "12:45",
-      "start_time": "13:30",
-      "actors": [
-        {
-          "name": "花岩香奈",
           "id": null
         }
       ]
