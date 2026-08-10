@@ -1,8 +1,8 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-08-09T15:33:11.820610",
-  "event_count": 94,
+  "fetched_at": "2026-08-10T16:00:47.739052",
+  "event_count": 96,
   "events": [
     {
       "event_name": "制服カノジョ スペシャルイベント in バレンタイン",
@@ -480,6 +480,74 @@
         },
         {
           "name": "長月あおい",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "MYSTERY LIVE THEATER『M.L.T』day2 第１部",
+      "event_url": "https://www.eventernote.com/events/488640",
+      "date": "2026-09-13",
+      "venue": "アニメイト池袋本店 B2F アニメイトシアター",
+      "open_time": "14:00",
+      "start_time": "14:45",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "田中那実",
+          "id": null
+        },
+        {
+          "name": "涼本あきほ",
+          "id": null
+        },
+        {
+          "name": "結名美月",
+          "id": null
+        },
+        {
+          "name": "咲々木瞳",
+          "id": null
+        },
+        {
+          "name": "星谷美緒",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "MYSTERY LIVE THEATER『M.L.T』day2 第２部",
+      "event_url": "https://www.eventernote.com/events/488641",
+      "date": "2026-09-13",
+      "venue": "アニメイト池袋本店 B2F アニメイトシアター",
+      "open_time": "17:00",
+      "start_time": "17:45",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "田中那実",
+          "id": null
+        },
+        {
+          "name": "涼本あきほ",
+          "id": null
+        },
+        {
+          "name": "結名美月",
+          "id": null
+        },
+        {
+          "name": "咲々木瞳",
+          "id": null
+        },
+        {
+          "name": "星谷美緒",
           "id": null
         }
       ]
