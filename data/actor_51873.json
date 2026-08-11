@@ -1,8 +1,8 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-08-10T16:00:47.739052",
-  "event_count": 96,
+  "fetched_at": "2026-08-11T16:01:58.740163",
+  "event_count": 98,
   "events": [
     {
       "event_name": "制服カノジョ スペシャルイベント in バレンタイン",
@@ -441,6 +441,42 @@
       ]
     },
     {
+      "event_name": "『ぴかのの定理 イベント Vol.1』昼の部",
+      "event_url": "https://www.eventernote.com/events/488792",
+      "date": "2026-10-11",
+      "venue": "R'sアートコート(労音大久保会館)",
+      "open_time": "12:45",
+      "start_time": "13:30",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "大渕野々花",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "『ぴかのの定理 イベント Vol.1』夜の部",
+      "event_url": "https://www.eventernote.com/events/488793",
+      "date": "2026-10-11",
+      "venue": "R'sアートコート(労音大久保会館)",
+      "open_time": "16:45",
+      "start_time": "17:30",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "大渕野々花",
+          "id": null
+        }
+      ]
+    },
+    {
       "event_name": "あおわんイベント",
       "event_url": "https://www.eventernote.com/events/478979",
       "date": "2026-09-20",
@@ -621,24 +657,6 @@
       ]
     },
     {
-      "event_name": "飯田ヒカルバースデーパーティ２０２６ 夜公演",
-      "event_url": "https://www.eventernote.com/events/476570",
-      "date": "2026-08-23",
-      "venue": "北とぴあ3F つつじホール",
-      "open_time": "17:15",
-      "start_time": "18:00",
-      "actors": [
-        {
-          "name": "飯田ヒカル",
-          "id": null
-        },
-        {
-          "name": "長月あおい",
-          "id": null
-        }
-      ]
-    },
-    {
       "event_name": "飯田ヒカルバースデーパーティ２０２６ 昼公演",
       "event_url": "https://www.eventernote.com/events/476569",
       "date": "2026-08-23",
@@ -652,6 +670,24 @@
         },
         {
           "name": "伊藤舞音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "飯田ヒカルバースデーパーティ２０２６ 夜公演",
+      "event_url": "https://www.eventernote.com/events/476570",
+      "date": "2026-08-23",
+      "venue": "北とぴあ3F つつじホール",
+      "open_time": "17:15",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
           "id": null
         }
       ]
