@@ -1,8 +1,8 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-08-11T16:05:47.715645",
-  "event_count": 39,
+  "fetched_at": "2026-08-12T16:03:50.019051",
+  "event_count": 43,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年1月17日)",
@@ -300,6 +300,158 @@
         },
         {
           "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』⑤",
+      "event_url": "https://www.eventernote.com/events/488958",
+      "date": "2026-09-18",
+      "venue": "中野テアトルBONBON",
+      "open_time": "",
+      "start_time": "14:30",
+      "actors": [
+        {
+          "name": "愛ノ彩笑",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "山岸理子",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』⑥",
+      "event_url": "https://www.eventernote.com/events/488962",
+      "date": "2026-09-18",
+      "venue": "中野テアトルBONBON",
+      "open_time": "",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "愛ノ彩笑",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "山岸理子",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』②",
+      "event_url": "https://www.eventernote.com/events/488960",
+      "date": "2026-09-16",
+      "venue": "中野テアトルBONBON",
+      "open_time": "",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "愛ノ彩笑",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "小森結梨",
+          "id": null
+        },
+        {
+          "name": "櫻井陽夏",
+          "id": null
+        },
+        {
+          "name": "篠原望",
+          "id": null
+        },
+        {
+          "name": "月なぎさ(姫なぎさ)",
+          "id": null
+        },
+        {
+          "name": "鳴海まい",
+          "id": null
+        },
+        {
+          "name": "日向もか",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "宮沢小春",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』①",
+      "event_url": "https://www.eventernote.com/events/488956",
+      "date": "2026-09-16",
+      "venue": "中野テアトルBONBON",
+      "open_time": "",
+      "start_time": "14:30",
+      "actors": [
+        {
+          "name": "愛ノ彩笑",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "小森結梨",
+          "id": null
+        },
+        {
+          "name": "櫻井陽夏",
+          "id": null
+        },
+        {
+          "name": "篠原望",
+          "id": null
+        },
+        {
+          "name": "月なぎさ(姫なぎさ)",
+          "id": null
+        },
+        {
+          "name": "鳴海まい",
+          "id": null
+        },
+        {
+          "name": "日向もか",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "宮沢小春",
           "id": null
         }
       ]

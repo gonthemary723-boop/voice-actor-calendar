@@ -1,7 +1,7 @@
 {
   "actor_id": 77941,
   "actor_name": "松田彩音",
-  "fetched_at": "2026-08-11T16:03:25.873079",
+  "fetched_at": "2026-08-12T16:01:37.613078",
   "event_count": 41,
   "events": [
     {
@@ -413,12 +413,12 @@
       ]
     },
     {
-      "event_name": "MYSTERY LIVE THEATER『M.L.T』day1 第２部",
-      "event_url": "https://www.eventernote.com/events/488639",
+      "event_name": "MYSTERY LIVE THEATER『M.L.T』day1 第１部",
+      "event_url": "https://www.eventernote.com/events/488638",
       "date": "2026-09-06",
       "venue": "アニメイト池袋本店 B2F アニメイトシアター",
-      "open_time": "17:00",
-      "start_time": "17:45",
+      "open_time": "14:00",
+      "start_time": "14:45",
       "actors": [
         {
           "name": "伊藤舞音",
@@ -447,12 +447,12 @@
       ]
     },
     {
-      "event_name": "MYSTERY LIVE THEATER『M.L.T』day1 第１部",
-      "event_url": "https://www.eventernote.com/events/488638",
+      "event_name": "MYSTERY LIVE THEATER『M.L.T』day1 第２部",
+      "event_url": "https://www.eventernote.com/events/488639",
       "date": "2026-09-06",
       "venue": "アニメイト池袋本店 B2F アニメイトシアター",
-      "open_time": "14:00",
-      "start_time": "14:45",
+      "open_time": "17:00",
+      "start_time": "17:45",
       "actors": [
         {
           "name": "伊藤舞音",

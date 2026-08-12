@@ -1,7 +1,7 @@
 {
   "actor_id": 67164,
   "actor_name": "陽高真白",
-  "fetched_at": "2026-08-11T16:05:36.331786",
+  "fetched_at": "2026-08-12T16:03:40.139499",
   "event_count": 137,
   "events": [
     {
@@ -10445,12 +10445,12 @@
       ]
     },
     {
-      "event_name": "演劇ユニット【メイホリック】 メイホリックシアター09 朗読劇『叶え屋「ソルシレーヴ」～メリーバッドエンド～』再演　⑩8月13日(土)18:30",
-      "event_url": "https://www.eventernote.com/events/311478",
+      "event_name": "演劇ユニット【メイホリック】 メイホリックシアター09 朗読劇『叶え屋「ソルシレーヴ」～メリーバッドエンド～』再演　⑧8月13日(土)12:30",
+      "event_url": "https://www.eventernote.com/events/311476",
       "date": "2022-08-13",
       "venue": "シアターグリーン BOX in BOX THEATER",
-      "open_time": "18:00",
-      "start_time": "18:30",
+      "open_time": "12:00",
+      "start_time": "12:30",
       "actors": [
         {
           "name": "八木ましろ",
@@ -10499,12 +10499,12 @@
       ]
     },
     {
-      "event_name": "演劇ユニット【メイホリック】 メイホリックシアター09 朗読劇『叶え屋「ソルシレーヴ」～メリーバッドエンド～』再演　⑧8月13日(土)12:30",
-      "event_url": "https://www.eventernote.com/events/311476",
+      "event_name": "演劇ユニット【メイホリック】 メイホリックシアター09 朗読劇『叶え屋「ソルシレーヴ」～メリーバッドエンド～』再演　⑩8月13日(土)18:30",
+      "event_url": "https://www.eventernote.com/events/311478",
       "date": "2022-08-13",
       "venue": "シアターグリーン BOX in BOX THEATER",
-      "open_time": "12:00",
-      "start_time": "12:30",
+      "open_time": "18:00",
+      "start_time": "18:30",
       "actors": [
         {
           "name": "八木ましろ",
