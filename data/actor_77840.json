@@ -1,9 +1,45 @@
 {
   "actor_id": 77840,
   "actor_name": "川村玲奈",
-  "fetched_at": "2026-08-13T16:01:07.985498",
-  "event_count": 54,
+  "fetched_at": "2026-08-14T15:54:33.574252",
+  "event_count": 56,
   "events": [
+    {
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年12月13日)",
+      "event_url": "https://www.eventernote.com/events/489223",
+      "date": "2026-12-13",
+      "venue": "MIRAIEリアン コミュニティホール七間町",
+      "open_time": "15:30",
+      "start_time": "16:15",
+      "actors": [
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年12月13日)",
+      "event_url": "https://www.eventernote.com/events/489222",
+      "date": "2026-12-13",
+      "venue": "MIRAIEリアン コミュニティホール七間町",
+      "open_time": "12:00",
+      "start_time": "12:45",
+      "actors": [
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "『湊みやの一枚いいですか？』〜1st Location 福岡編〜【ゲスト：川村玲奈】昼の部",
       "event_url": "https://www.eventernote.com/events/485534",

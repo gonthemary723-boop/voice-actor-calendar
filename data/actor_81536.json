@@ -1,8 +1,8 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-08-13T16:03:28.704889",
-  "event_count": 43,
+  "fetched_at": "2026-08-14T15:56:44.806931",
+  "event_count": 46,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年1月17日)",
@@ -77,12 +77,110 @@
       ]
     },
     {
-      "event_name": "【うたろぐ】Vol.4【2部】",
-      "event_url": "https://www.eventernote.com/events/485380",
+      "event_name": "アース・スター エンターテイメント 20周年FES ～ずっと「ありがとう」、ずっと「よろしくね」！～",
+      "event_url": "https://www.eventernote.com/events/470826",
+      "date": "2026-12-26",
+      "venue": "TFTホール1000",
+      "open_time": "",
+      "start_time": "16:00",
+      "actors": [
+        {
+          "name": "井口裕香",
+          "id": null
+        },
+        {
+          "name": "阿澄佳奈",
+          "id": null
+        },
+        {
+          "name": "日笠陽子",
+          "id": null
+        },
+        {
+          "name": "小倉唯",
+          "id": null
+        },
+        {
+          "name": "宮本佳那子",
+          "id": null
+        },
+        {
+          "name": "駒形友梨",
+          "id": null
+        },
+        {
+          "name": "MoeMi(尾高もえみ)",
+          "id": null
+        },
+        {
+          "name": "大橋彩香",
+          "id": null
+        },
+        {
+          "name": "渡部優衣",
+          "id": null
+        },
+        {
+          "name": "大坪由佳",
+          "id": null
+        },
+        {
+          "name": "ウタヒメドリーム オールスターズ",
+          "id": null
+        },
+        {
+          "name": "山﨑玲奈",
+          "id": null
+        },
+        {
+          "name": "鈴木杏奈",
+          "id": null
+        },
+        {
+          "name": "其原有沙",
+          "id": null
+        },
+        {
+          "name": "花耶",
+          "id": null
+        },
+        {
+          "name": "礒部花凜",
+          "id": null
+        },
+        {
+          "name": "鷲見友美ジェナ",
+          "id": null
+        },
+        {
+          "name": "倉知玲鳳",
+          "id": null
+        },
+        {
+          "name": "竹内夢",
+          "id": null
+        },
+        {
+          "name": "西田ひらり",
+          "id": null
+        },
+        {
+          "name": "小山奈桜",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【うたろぐ】Vol.4【1部】",
+      "event_url": "https://www.eventernote.com/events/485379",
       "date": "2026-12-19",
       "venue": "ライクスホール",
-      "open_time": "15:30",
-      "start_time": "16:00",
+      "open_time": "12:00",
+      "start_time": "12:30",
       "actors": [
         {
           "name": "松田彩音",
@@ -99,12 +197,12 @@
       ]
     },
     {
-      "event_name": "【うたろぐ】Vol.4【1部】",
-      "event_url": "https://www.eventernote.com/events/485379",
+      "event_name": "【うたろぐ】Vol.4【2部】",
+      "event_url": "https://www.eventernote.com/events/485380",
       "date": "2026-12-19",
       "venue": "ライクスホール",
-      "open_time": "12:00",
-      "start_time": "12:30",
+      "open_time": "15:30",
+      "start_time": "16:00",
       "actors": [
         {
           "name": "松田彩音",
@@ -253,6 +351,122 @@
       ]
     },
     {
+      "event_name": "ウタヒメドリーム 3周年記念 5thライブ【昼公演】",
+      "event_url": "https://www.eventernote.com/events/461782",
+      "date": "2026-10-18",
+      "venue": "豊洲PIT",
+      "open_time": "13:45",
+      "start_time": "14:30",
+      "actors": [
+        {
+          "name": "山﨑玲奈",
+          "id": null
+        },
+        {
+          "name": "鈴木杏奈",
+          "id": null
+        },
+        {
+          "name": "其原有沙",
+          "id": null
+        },
+        {
+          "name": "花耶",
+          "id": null
+        },
+        {
+          "name": "礒部花凜",
+          "id": null
+        },
+        {
+          "name": "鷲見友美ジェナ",
+          "id": null
+        },
+        {
+          "name": "倉知玲鳳",
+          "id": null
+        },
+        {
+          "name": "竹内夢",
+          "id": null
+        },
+        {
+          "name": "ウタヒメドリーム オールスターズ",
+          "id": null
+        },
+        {
+          "name": "西田ひらり",
+          "id": null
+        },
+        {
+          "name": "小山奈桜",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ウタヒメドリーム 3周年記念 5thライブ【夜公演】",
+      "event_url": "https://www.eventernote.com/events/461783",
+      "date": "2026-10-18",
+      "venue": "豊洲PIT",
+      "open_time": "17:45",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "山﨑玲奈",
+          "id": null
+        },
+        {
+          "name": "鈴木杏奈",
+          "id": null
+        },
+        {
+          "name": "其原有沙",
+          "id": null
+        },
+        {
+          "name": "花耶",
+          "id": null
+        },
+        {
+          "name": "礒部花凜",
+          "id": null
+        },
+        {
+          "name": "鷲見友美ジェナ",
+          "id": null
+        },
+        {
+          "name": "倉知玲鳳",
+          "id": null
+        },
+        {
+          "name": "竹内夢",
+          "id": null
+        },
+        {
+          "name": "ウタヒメドリーム オールスターズ",
+          "id": null
+        },
+        {
+          "name": "西田ひらり",
+          "id": null
+        },
+        {
+          "name": "小山奈桜",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! スペシャル in 京都 昼の部",
       "event_url": "https://www.eventernote.com/events/478915",
       "date": "2026-09-20",
@@ -327,6 +541,14 @@
         {
           "name": "山岸理子",
           "id": null
+        },
+        {
+          "name": "日向もか",
+          "id": null
+        },
+        {
+          "name": "宮沢小春",
+          "id": null
         }
       ]
     },
@@ -352,6 +574,14 @@
         },
         {
           "name": "山岸理子",
+          "id": null
+        },
+        {
+          "name": "日向もか",
+          "id": null
+        },
+        {
+          "name": "宮沢小春",
           "id": null
         }
       ]

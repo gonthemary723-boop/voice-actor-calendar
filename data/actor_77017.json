@@ -1,8 +1,8 @@
 {
   "actor_id": 77017,
   "actor_name": "長月あおい",
-  "fetched_at": "2026-08-13T15:59:47.347932",
-  "event_count": 49,
+  "fetched_at": "2026-08-14T15:53:18.513395",
+  "event_count": 50,
   "events": [
     {
       "event_name": "音泉祭り2027東京",
@@ -330,6 +330,24 @@
         },
         {
           "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "希水しおの#サシバナProduced by ボイスガレッジ 第2部",
+      "event_url": "https://www.eventernote.com/events/489265",
+      "date": "2026-09-13",
+      "venue": "R'sアートコート(労音大久保会館)",
+      "open_time": "13:00",
+      "start_time": "13:30",
+      "actors": [
+        {
+          "name": "希水しお",
           "id": null
         },
         {
