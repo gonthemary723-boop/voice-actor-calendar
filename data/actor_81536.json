@@ -1,7 +1,7 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-08-15T15:25:25.490489",
+  "fetched_at": "2026-08-16T15:26:40.078194",
   "event_count": 46,
   "events": [
     {
@@ -777,7 +777,7 @@
       "event_url": "https://www.eventernote.com/events/480881",
       "date": "2026-08-16",
       "venue": "歌舞伎座タワー12Fセミナールーム",
-      "open_time": "",
+      "open_time": "18:00",
       "start_time": "18:30",
       "actors": [
         {
@@ -1189,7 +1189,7 @@
           "id": null
         },
         {
-          "name": "那華喜シイナ",
+          "name": "石原美沙紀",
           "id": null
         },
         {

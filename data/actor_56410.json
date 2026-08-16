@@ -1,7 +1,7 @@
 {
   "actor_id": 56410,
   "actor_name": "小鹿なお",
-  "fetched_at": "2026-08-15T15:21:55.274782",
+  "fetched_at": "2026-08-16T15:23:17.345501",
   "event_count": 65,
   "events": [
     {
@@ -359,7 +359,7 @@
       "event_url": "https://www.eventernote.com/events/480880",
       "date": "2026-08-16",
       "venue": "歌舞伎座タワー12Fセミナールーム",
-      "open_time": "",
+      "open_time": "14:30",
       "start_time": "15:00",
       "actors": [
         {
@@ -377,7 +377,7 @@
       "event_url": "https://www.eventernote.com/events/480881",
       "date": "2026-08-16",
       "venue": "歌舞伎座タワー12Fセミナールーム",
-      "open_time": "",
+      "open_time": "18:00",
       "start_time": "18:30",
       "actors": [
         {
