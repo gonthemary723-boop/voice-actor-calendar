@@ -1,7 +1,7 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-08-17T15:29:41.445764",
+  "fetched_at": "2026-08-18T15:36:39.317646",
   "event_count": 46,
   "events": [
     {
@@ -519,7 +519,7 @@
       ]
     },
     {
-      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』⑤",
+      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月18日⑤",
       "event_url": "https://www.eventernote.com/events/488958",
       "date": "2026-09-18",
       "venue": "中野テアトルBONBON",
@@ -543,17 +543,29 @@
           "id": null
         },
         {
+          "name": "宮沢小春",
+          "id": null
+        },
+        {
           "name": "日向もか",
           "id": null
         },
         {
-          "name": "宮沢小春",
+          "name": "堺萌香",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "結城美優",
           "id": null
         }
       ]
     },
     {
-      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』⑥",
+      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月18日⑥",
       "event_url": "https://www.eventernote.com/events/488962",
       "date": "2026-09-18",
       "venue": "中野テアトルBONBON",
@@ -583,11 +595,23 @@
         {
           "name": "宮沢小春",
           "id": null
+        },
+        {
+          "name": "堺萌香",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "結城美優",
+          "id": null
         }
       ]
     },
     {
-      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』②",
+      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月16日②",
       "event_url": "https://www.eventernote.com/events/488960",
       "date": "2026-09-16",
       "venue": "中野テアトルBONBON",
@@ -633,11 +657,19 @@
         {
           "name": "宮沢小春",
           "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "結城美優",
+          "id": null
         }
       ]
     },
     {
-      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』①",
+      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月16日①",
       "event_url": "https://www.eventernote.com/events/488956",
       "date": "2026-09-16",
       "venue": "中野テアトルBONBON",
@@ -682,6 +714,14 @@
         },
         {
           "name": "宮沢小春",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "結城美優",
           "id": null
         }
       ]

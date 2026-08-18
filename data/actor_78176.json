@@ -1,8 +1,8 @@
 {
   "actor_id": 78176,
   "actor_name": "浅見香月",
-  "fetched_at": "2026-08-17T15:29:47.249873",
-  "event_count": 31,
+  "fetched_at": "2026-08-18T15:36:45.295902",
+  "event_count": 33,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年12月13日)",
@@ -32,6 +32,82 @@
       "actors": [
         {
           "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月19日⑧",
+      "event_url": "https://www.eventernote.com/events/488959",
+      "date": "2026-09-19",
+      "venue": "中野テアトルBONBON",
+      "open_time": "",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "愛ノ彩笑",
+          "id": null
+        },
+        {
+          "name": "小森結梨",
+          "id": null
+        },
+        {
+          "name": "鳴海まい",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "古仲可奈",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月19日⑦",
+      "event_url": "https://www.eventernote.com/events/488963",
+      "date": "2026-09-19",
+      "venue": "中野テアトルBONBON",
+      "open_time": "",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "愛ノ彩笑",
+          "id": null
+        },
+        {
+          "name": "小森結梨",
+          "id": null
+        },
+        {
+          "name": "鳴海まい",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "古仲可奈",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
           "id": null
         },
         {
@@ -453,12 +529,12 @@
       ]
     },
     {
-      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク3〜おはにゃみ〜 夜の部",
-      "event_url": "https://www.eventernote.com/events/457278",
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク3〜おはにゃみ〜 昼の部",
+      "event_url": "https://www.eventernote.com/events/457277",
       "date": "2026-04-18",
       "venue": "浜離宮朝日ホール 小ホール",
-      "open_time": "16:45",
-      "start_time": "17:30",
+      "open_time": "13:15",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "薄井友里",
@@ -483,12 +559,12 @@
       ]
     },
     {
-      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク3〜おはにゃみ〜 昼の部",
-      "event_url": "https://www.eventernote.com/events/457277",
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク3〜おはにゃみ〜 夜の部",
+      "event_url": "https://www.eventernote.com/events/457278",
       "date": "2026-04-18",
       "venue": "浜離宮朝日ホール 小ホール",
-      "open_time": "13:15",
-      "start_time": "14:00",
+      "open_time": "16:45",
+      "start_time": "17:30",
       "actors": [
         {
           "name": "薄井友里",
