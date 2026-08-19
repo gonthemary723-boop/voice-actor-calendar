@@ -1,16 +1,16 @@
 {
   "actor_id": 78176,
   "actor_name": "浅見香月",
-  "fetched_at": "2026-08-18T15:36:45.295902",
+  "fetched_at": "2026-08-19T15:36:25.739227",
   "event_count": 33,
   "events": [
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年12月13日)",
-      "event_url": "https://www.eventernote.com/events/489223",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年12月13日)",
+      "event_url": "https://www.eventernote.com/events/489222",
       "date": "2026-12-13",
       "venue": "MIRAIEリアン コミュニティホール七間町",
-      "open_time": "15:30",
-      "start_time": "16:15",
+      "open_time": "12:00",
+      "start_time": "12:45",
       "actors": [
         {
           "name": "川村玲奈",
@@ -23,12 +23,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年12月13日)",
-      "event_url": "https://www.eventernote.com/events/489222",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年12月13日)",
+      "event_url": "https://www.eventernote.com/events/489223",
       "date": "2026-12-13",
       "venue": "MIRAIEリアン コミュニティホール七間町",
-      "open_time": "12:00",
-      "start_time": "12:45",
+      "open_time": "15:30",
+      "start_time": "16:15",
       "actors": [
         {
           "name": "川村玲奈",
@@ -103,15 +103,15 @@
           "id": null
         },
         {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
           "name": "古仲可奈",
           "id": null
         },
         {
           "name": "星野美夢",
-          "id": null
-        },
-        {
-          "name": "浅見香月",
           "id": null
         }
       ]
