@@ -1,7 +1,7 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-08-22T15:26:05.390843",
+  "fetched_at": "2026-08-23T15:27:10.489507",
   "event_count": 46,
   "events": [
     {
@@ -519,12 +519,12 @@
       ]
     },
     {
-      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月18日⑤",
-      "event_url": "https://www.eventernote.com/events/488958",
+      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月18日⑥",
+      "event_url": "https://www.eventernote.com/events/488962",
       "date": "2026-09-18",
       "venue": "中野テアトルBONBON",
       "open_time": "",
-      "start_time": "14:30",
+      "start_time": "19:00",
       "actors": [
         {
           "name": "愛ノ彩笑",
@@ -543,11 +543,11 @@
           "id": null
         },
         {
-          "name": "宮沢小春",
+          "name": "日向もか",
           "id": null
         },
         {
-          "name": "日向もか",
+          "name": "宮沢小春",
           "id": null
         },
         {
@@ -581,12 +581,12 @@
       ]
     },
     {
-      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月18日⑥",
-      "event_url": "https://www.eventernote.com/events/488962",
+      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月18日⑤",
+      "event_url": "https://www.eventernote.com/events/488958",
       "date": "2026-09-18",
       "venue": "中野テアトルBONBON",
       "open_time": "",
-      "start_time": "19:00",
+      "start_time": "14:30",
       "actors": [
         {
           "name": "愛ノ彩笑",
@@ -605,11 +605,11 @@
           "id": null
         },
         {
-          "name": "日向もか",
+          "name": "宮沢小春",
           "id": null
         },
         {
-          "name": "宮沢小春",
+          "name": "日向もか",
           "id": null
         },
         {

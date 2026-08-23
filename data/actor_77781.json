@@ -1,7 +1,7 @@
 {
   "actor_id": 77781,
   "actor_name": "七瀬つむぎ",
-  "fetched_at": "2026-08-22T15:23:04.660110",
+  "fetched_at": "2026-08-23T15:24:20.825910",
   "event_count": 65,
   "events": [
     {
@@ -191,8 +191,8 @@
       ]
     },
     {
-      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  東京  アニメイト回",
-      "event_url": "https://www.eventernote.com/events/484863",
+      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  東京  ゲーマーズ回",
+      "event_url": "https://www.eventernote.com/events/484865",
       "date": "2027-01-16",
       "venue": "!_東京都内某所",
       "open_time": "",
@@ -205,8 +205,8 @@
       ]
     },
     {
-      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  東京  ゲーマーズ回",
-      "event_url": "https://www.eventernote.com/events/484865",
+      "event_name": "『七瀬つむぎ1st写真集(仮)』発売記念イベント  東京  アニメイト回",
+      "event_url": "https://www.eventernote.com/events/484863",
       "date": "2027-01-16",
       "venue": "!_東京都内某所",
       "open_time": "",
@@ -997,7 +997,7 @@
           "id": null
         },
         {
-          "name": "佐藤美波(佐東美波)",
+          "name": "佐藤美波",
           "id": null
         },
         {
@@ -1151,7 +1151,7 @@
           "id": null
         },
         {
-          "name": "佐藤美波(佐東美波)",
+          "name": "佐藤美波",
           "id": null
         },
         {
@@ -1281,7 +1281,7 @@
           "id": null
         },
         {
-          "name": "佐藤美波(佐東美波)",
+          "name": "佐藤美波",
           "id": null
         },
         {
@@ -1431,7 +1431,7 @@
           "id": null
         },
         {
-          "name": "佐藤美波(佐東美波)",
+          "name": "佐藤美波",
           "id": null
         },
         {
