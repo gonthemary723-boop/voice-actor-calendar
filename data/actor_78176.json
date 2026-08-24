@@ -1,7 +1,7 @@
 {
   "actor_id": 78176,
   "actor_name": "浅見香月",
-  "fetched_at": "2026-08-23T15:27:16.343136",
+  "fetched_at": "2026-08-24T15:43:38.262879",
   "event_count": 33,
   "events": [
     {
@@ -36,6 +36,72 @@
         },
         {
           "name": "浅見香月",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月19日⑦",
+      "event_url": "https://www.eventernote.com/events/488963",
+      "date": "2026-09-19",
+      "venue": "中野テアトルBONBON",
+      "open_time": "",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "愛ノ彩笑",
+          "id": null
+        },
+        {
+          "name": "小森結梨",
+          "id": null
+        },
+        {
+          "name": "鳴海まい",
+          "id": null
+        },
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "古仲可奈",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "阿久津友理",
+          "id": null
+        },
+        {
+          "name": "岩田陽菜",
+          "id": null
+        },
+        {
+          "name": "岡本彩夏",
+          "id": null
+        },
+        {
+          "name": "竹内さりあ(真野彩里愛)",
+          "id": null
+        },
+        {
+          "name": "高井千帆",
+          "id": null
+        },
+        {
+          "name": "三田美吹",
+          "id": null
+        },
+        {
+          "name": "渡邉結衣",
           "id": null
         }
       ]
@@ -99,67 +165,9 @@
         {
           "name": "三田美吹",
           "id": null
-        }
-      ]
-    },
-    {
-      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月19日⑦",
-      "event_url": "https://www.eventernote.com/events/488963",
-      "date": "2026-09-19",
-      "venue": "中野テアトルBONBON",
-      "open_time": "",
-      "start_time": "14:00",
-      "actors": [
-        {
-          "name": "愛ノ彩笑",
-          "id": null
         },
         {
-          "name": "小森結梨",
-          "id": null
-        },
-        {
-          "name": "鳴海まい",
-          "id": null
-        },
-        {
-          "name": "三島京華",
-          "id": null
-        },
-        {
-          "name": "浅見香月",
-          "id": null
-        },
-        {
-          "name": "古仲可奈",
-          "id": null
-        },
-        {
-          "name": "星野美夢",
-          "id": null
-        },
-        {
-          "name": "阿久津友理",
-          "id": null
-        },
-        {
-          "name": "岩田陽菜",
-          "id": null
-        },
-        {
-          "name": "岡本彩夏",
-          "id": null
-        },
-        {
-          "name": "竹内さりあ(真野彩里愛)",
-          "id": null
-        },
-        {
-          "name": "高井千帆",
-          "id": null
-        },
-        {
-          "name": "三田美吹",
+          "name": "渡邉結衣",
           "id": null
         }
       ]
