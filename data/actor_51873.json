@@ -1,7 +1,7 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-08-24T15:40:20.162317",
+  "fetched_at": "2026-08-25T15:43:38.098571",
   "event_count": 98,
   "events": [
     {
@@ -521,12 +521,12 @@
       ]
     },
     {
-      "event_name": "MYSTERY LIVE THEATER『M.L.T』day2 第１部",
-      "event_url": "https://www.eventernote.com/events/488640",
+      "event_name": "MYSTERY LIVE THEATER『M.L.T』day2 第２部",
+      "event_url": "https://www.eventernote.com/events/488641",
       "date": "2026-09-13",
       "venue": "アニメイト池袋本店 B2F アニメイトシアター",
-      "open_time": "14:00",
-      "start_time": "14:45",
+      "open_time": "17:00",
+      "start_time": "17:45",
       "actors": [
         {
           "name": "飯田ヒカル",
@@ -555,12 +555,12 @@
       ]
     },
     {
-      "event_name": "MYSTERY LIVE THEATER『M.L.T』day2 第２部",
-      "event_url": "https://www.eventernote.com/events/488641",
+      "event_name": "MYSTERY LIVE THEATER『M.L.T』day2 第１部",
+      "event_url": "https://www.eventernote.com/events/488640",
       "date": "2026-09-13",
       "venue": "アニメイト池袋本店 B2F アニメイトシアター",
-      "open_time": "17:00",
-      "start_time": "17:45",
+      "open_time": "14:00",
+      "start_time": "14:45",
       "actors": [
         {
           "name": "飯田ヒカル",
