@@ -1,8 +1,8 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-08-25T15:44:13.733499",
-  "event_count": 71,
+  "fetched_at": "2026-08-26T16:19:53.223447",
+  "event_count": 72,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年1月17日)",
@@ -248,6 +248,24 @@
         },
         {
           "name": "真宮涼",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "小越春花のぷらっといべんと 第２部",
+      "event_url": "https://www.eventernote.com/events/488980",
+      "date": "2026-10-03",
+      "venue": "高円寺Studio K(Studio 2)",
+      "open_time": "17:30",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "小越春花",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
           "id": null
         }
       ]
@@ -657,7 +675,7 @@
           "id": null
         },
         {
-          "name": "那華喜シイナ",
+          "name": "平山笑美",
           "id": null
         },
         {
@@ -735,7 +753,7 @@
           "id": null
         },
         {
-          "name": "那華喜シイナ",
+          "name": "平山笑美",
           "id": null
         },
         {
@@ -813,7 +831,7 @@
           "id": null
         },
         {
-          "name": "那華喜シイナ",
+          "name": "石原美沙紀",
           "id": null
         },
         {

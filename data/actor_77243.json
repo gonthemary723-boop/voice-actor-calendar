@@ -1,7 +1,7 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-08-25T15:44:22.633500",
+  "fetched_at": "2026-08-26T16:20:02.920062",
   "event_count": 54,
   "events": [
     {
@@ -209,12 +209,12 @@
       ]
     },
     {
-      "event_name": "朗読と歌とおしゃべりをきみと 〜W〜『Fioriのサプライズパーティー』第二部",
-      "event_url": "https://www.eventernote.com/events/486711",
+      "event_name": "朗読と歌とおしゃべりをきみと 〜W〜『Fioriのサプライズパーティー』第一部",
+      "event_url": "https://www.eventernote.com/events/486710",
       "date": "2026-10-31",
       "venue": "杉並区勤労福祉会館",
-      "open_time": "17:30",
-      "start_time": "18:00",
+      "open_time": "13:30",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "紫月杏朱彩",
@@ -235,12 +235,12 @@
       ]
     },
     {
-      "event_name": "朗読と歌とおしゃべりをきみと 〜W〜『Fioriのサプライズパーティー』第一部",
-      "event_url": "https://www.eventernote.com/events/486710",
+      "event_name": "朗読と歌とおしゃべりをきみと 〜W〜『Fioriのサプライズパーティー』第二部",
+      "event_url": "https://www.eventernote.com/events/486711",
       "date": "2026-10-31",
       "venue": "杉並区勤労福祉会館",
-      "open_time": "13:30",
-      "start_time": "14:00",
+      "open_time": "17:30",
+      "start_time": "18:00",
       "actors": [
         {
           "name": "紫月杏朱彩",
