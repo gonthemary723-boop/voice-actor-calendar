@@ -1,8 +1,8 @@
 {
   "actor_id": 78176,
   "actor_name": "浅見香月",
-  "fetched_at": "2026-08-26T16:22:51.661399",
-  "event_count": 35,
+  "fetched_at": "2026-08-28T00:21:22.973617",
+  "event_count": 37,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年12月13日)",
@@ -32,6 +32,58 @@
       "actors": [
         {
           "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "SEASIDE AUTUMN FESTA 2026 Day2 夜の部",
+      "event_url": "https://www.eventernote.com/events/490632",
+      "date": "2026-09-27",
+      "venue": "築地本願寺ブディストホール",
+      "open_time": "17:30",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "篠原侑",
+          "id": null
+        },
+        {
+          "name": "立花日菜",
+          "id": null
+        },
+        {
+          "name": "高柳知葉",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "SEASIDE AUTUMN FESTA 2026 Day2 昼の部",
+      "event_url": "https://www.eventernote.com/events/490631",
+      "date": "2026-09-27",
+      "venue": "築地本願寺ブディストホール",
+      "open_time": "13:30",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "篠原侑",
+          "id": null
+        },
+        {
+          "name": "立花日菜",
+          "id": null
+        },
+        {
+          "name": "高柳知葉",
           "id": null
         },
         {

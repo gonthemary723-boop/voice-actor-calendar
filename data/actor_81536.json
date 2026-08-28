@@ -1,7 +1,7 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-08-26T16:22:45.151732",
+  "fetched_at": "2026-08-28T00:21:15.867248",
   "event_count": 46,
   "events": [
     {
@@ -519,7 +519,7 @@
       ]
     },
     {
-      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月18日⑥",
+      "event_name": "【出演者変更】［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月18日⑥",
       "event_url": "https://www.eventernote.com/events/488962",
       "date": "2026-09-18",
       "venue": "中野テアトルBONBON",
@@ -540,10 +540,6 @@
         },
         {
           "name": "山岸理子",
-          "id": null
-        },
-        {
-          "name": "日向もか",
           "id": null
         },
         {
@@ -581,11 +577,15 @@
         {
           "name": "渡邉結衣",
           "id": null
+        },
+        {
+          "name": "相川奏多",
+          "id": null
         }
       ]
     },
     {
-      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月18日⑤",
+      "event_name": "【出演者変更】［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月18日⑤",
       "event_url": "https://www.eventernote.com/events/488958",
       "date": "2026-09-18",
       "venue": "中野テアトルBONBON",
@@ -613,10 +613,6 @@
           "id": null
         },
         {
-          "name": "日向もか",
-          "id": null
-        },
-        {
           "name": "堺萌香",
           "id": null
         },
@@ -647,11 +643,15 @@
         {
           "name": "渡邉結衣",
           "id": null
+        },
+        {
+          "name": "相川奏多",
+          "id": null
         }
       ]
     },
     {
-      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月16日②",
+      "event_name": "【出演者変更】［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月16日②",
       "event_url": "https://www.eventernote.com/events/488960",
       "date": "2026-09-16",
       "venue": "中野テアトルBONBON",
@@ -687,10 +687,6 @@
           "id": null
         },
         {
-          "name": "日向もか",
-          "id": null
-        },
-        {
           "name": "三島京華",
           "id": null
         },
@@ -713,11 +709,15 @@
         {
           "name": "橘莉衣",
           "id": null
+        },
+        {
+          "name": "相川奏多",
+          "id": null
         }
       ]
     },
     {
-      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月16日①",
+      "event_name": "【出演者変更】［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月16日①",
       "event_url": "https://www.eventernote.com/events/488956",
       "date": "2026-09-16",
       "venue": "中野テアトルBONBON",
@@ -753,10 +753,6 @@
           "id": null
         },
         {
-          "name": "日向もか",
-          "id": null
-        },
-        {
           "name": "三島京華",
           "id": null
         },
@@ -778,6 +774,10 @@
         },
         {
           "name": "橘莉衣",
+          "id": null
+        },
+        {
+          "name": "相川奏多",
           "id": null
         }
       ]
