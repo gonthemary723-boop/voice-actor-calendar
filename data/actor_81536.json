@@ -1,7 +1,7 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-08-28T23:57:05.492184",
+  "fetched_at": "2026-08-29T18:16:06.473427",
   "event_count": 46,
   "events": [
     {
@@ -519,12 +519,12 @@
       ]
     },
     {
-      "event_name": "【出演者変更】［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月18日⑥",
-      "event_url": "https://www.eventernote.com/events/488962",
+      "event_name": "【出演者変更】［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月18日⑤",
+      "event_url": "https://www.eventernote.com/events/488958",
       "date": "2026-09-18",
       "venue": "中野テアトルBONBON",
       "open_time": "",
-      "start_time": "19:00",
+      "start_time": "14:30",
       "actors": [
         {
           "name": "愛ノ彩笑",
@@ -585,12 +585,12 @@
       ]
     },
     {
-      "event_name": "【出演者変更】［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月18日⑤",
-      "event_url": "https://www.eventernote.com/events/488958",
+      "event_name": "【出演者変更】［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月18日⑥",
+      "event_url": "https://www.eventernote.com/events/488962",
       "date": "2026-09-18",
       "venue": "中野テアトルBONBON",
       "open_time": "",
-      "start_time": "14:30",
+      "start_time": "19:00",
       "actors": [
         {
           "name": "愛ノ彩笑",
@@ -1285,7 +1285,7 @@
           "id": null
         },
         {
-          "name": "石原美沙紀",
+          "name": "那華喜シイナ",
           "id": null
         },
         {
