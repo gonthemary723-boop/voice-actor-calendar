@@ -1,9 +1,23 @@
 {
   "actor_id": 67164,
   "actor_name": "陽高真白",
-  "fetched_at": "2026-08-29T18:15:58.212930",
-  "event_count": 137,
+  "fetched_at": "2026-08-30T18:31:55.692831",
+  "event_count": 138,
   "events": [
+    {
+      "event_name": "「陽高真白のにこにこ誕生日ぱーてぃー」",
+      "event_url": "https://www.eventernote.com/events/490989",
+      "date": "2027-02-05",
+      "venue": "EXシアター六本木(EX THEATER ROPPONGI)",
+      "open_time": "18:00",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "陽高真白",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY2",
       "event_url": "https://www.eventernote.com/events/465359",
@@ -3567,15 +3581,15 @@
           "id": null
         },
         {
+          "name": "鈴代真弓",
+          "id": null
+        },
+        {
           "name": "助川綾美",
           "id": null
         },
         {
           "name": "SERENA",
-          "id": null
-        },
-        {
-          "name": "古川舞歌",
           "id": null
         },
         {
@@ -3665,15 +3679,15 @@
           "id": null
         },
         {
+          "name": "鈴代真弓",
+          "id": null
+        },
+        {
           "name": "助川綾美",
           "id": null
         },
         {
           "name": "SERENA",
-          "id": null
-        },
-        {
-          "name": "古川舞歌",
           "id": null
         },
         {
@@ -3763,15 +3777,15 @@
           "id": null
         },
         {
+          "name": "鈴代真弓",
+          "id": null
+        },
+        {
           "name": "助川綾美",
           "id": null
         },
         {
           "name": "SERENA",
-          "id": null
-        },
-        {
-          "name": "古川舞歌",
           "id": null
         },
         {
@@ -3861,15 +3875,15 @@
           "id": null
         },
         {
+          "name": "鈴代真弓",
+          "id": null
+        },
+        {
           "name": "助川綾美",
           "id": null
         },
         {
           "name": "SERENA",
-          "id": null
-        },
-        {
-          "name": "古川舞歌",
           "id": null
         },
         {
@@ -3959,15 +3973,15 @@
           "id": null
         },
         {
+          "name": "鈴代真弓",
+          "id": null
+        },
+        {
           "name": "助川綾美",
           "id": null
         },
         {
           "name": "SERENA",
-          "id": null
-        },
-        {
-          "name": "古川舞歌",
           "id": null
         },
         {
@@ -4057,15 +4071,15 @@
           "id": null
         },
         {
+          "name": "鈴代真弓",
+          "id": null
+        },
+        {
           "name": "助川綾美",
           "id": null
         },
         {
           "name": "SERENA",
-          "id": null
-        },
-        {
-          "name": "古川舞歌",
           "id": null
         },
         {
@@ -4155,15 +4169,15 @@
           "id": null
         },
         {
+          "name": "鈴代真弓",
+          "id": null
+        },
+        {
           "name": "助川綾美",
           "id": null
         },
         {
           "name": "SERENA",
-          "id": null
-        },
-        {
-          "name": "古川舞歌",
           "id": null
         },
         {
@@ -4253,15 +4267,15 @@
           "id": null
         },
         {
+          "name": "鈴代真弓",
+          "id": null
+        },
+        {
           "name": "助川綾美",
           "id": null
         },
         {
           "name": "SERENA",
-          "id": null
-        },
-        {
-          "name": "古川舞歌",
           "id": null
         },
         {
@@ -4351,15 +4365,15 @@
           "id": null
         },
         {
+          "name": "鈴代真弓",
+          "id": null
+        },
+        {
           "name": "助川綾美",
           "id": null
         },
         {
           "name": "SERENA",
-          "id": null
-        },
-        {
-          "name": "古川舞歌",
           "id": null
         },
         {

@@ -1,8 +1,8 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-08-29T18:15:38.910738",
-  "event_count": 550,
+  "fetched_at": "2026-08-30T18:31:33.930371",
+  "event_count": 551,
   "events": [
     {
       "event_name": "春咲暖1st Live「Light in Bloom」昼公演",
@@ -390,6 +390,24 @@
         },
         {
           "name": "あわつまい",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "東京科学大学 工大祭2026「春咲暖＆松田彩音 トークショー in 東京科学大学 ～いろどりとーく！のんすとっぷ！！～」",
+      "event_url": "https://www.eventernote.com/events/490964",
+      "date": "2026-10-11",
+      "venue": "東京科学大学 大岡山キャンパス 西9号館 ディジタル多目的ホール",
+      "open_time": "13:30",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
           "id": null
         }
       ]

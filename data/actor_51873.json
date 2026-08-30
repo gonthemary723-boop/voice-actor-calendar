@@ -1,7 +1,7 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-08-29T18:13:10.535780",
+  "fetched_at": "2026-08-30T18:28:53.220959",
   "event_count": 99,
   "events": [
     {
@@ -197,12 +197,12 @@
       ]
     },
     {
-      "event_name": "羽衣6 2ndリアルイベント『GEISHO-UI 2』昼公演",
-      "event_url": "https://www.eventernote.com/events/487315",
+      "event_name": "羽衣6 2ndリアルイベント『GEISHO-UI 2』夜公演",
+      "event_url": "https://www.eventernote.com/events/490501",
       "date": "2026-11-29",
       "venue": "ユピテル静岡研究所 2号棟",
-      "open_time": "11:00",
-      "start_time": "12:00",
+      "open_time": "15:00",
+      "start_time": "16:00",
       "actors": [
         {
           "name": "羽衣6",
@@ -223,12 +223,12 @@
       ]
     },
     {
-      "event_name": "羽衣6 2ndリアルイベント『GEISHO-UI 2』夜公演",
-      "event_url": "https://www.eventernote.com/events/490501",
+      "event_name": "羽衣6 2ndリアルイベント『GEISHO-UI 2』昼公演",
+      "event_url": "https://www.eventernote.com/events/487315",
       "date": "2026-11-29",
       "venue": "ユピテル静岡研究所 2号棟",
-      "open_time": "15:00",
-      "start_time": "16:00",
+      "open_time": "11:00",
+      "start_time": "12:00",
       "actors": [
         {
           "name": "羽衣6",
