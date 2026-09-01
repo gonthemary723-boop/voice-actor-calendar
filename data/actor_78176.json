@@ -1,8 +1,8 @@
 {
   "actor_id": 78176,
   "actor_name": "浅見香月",
-  "fetched_at": "2026-08-31T20:45:20.721196",
-  "event_count": 37,
+  "fetched_at": "2026-09-01T18:17:22.237016",
+  "event_count": 38,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年12月13日)",
@@ -84,6 +84,52 @@
         },
         {
           "name": "高柳知葉",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "MISHIMALIVE READING PROJECT-Vol.2 後夜祭イベント",
+      "event_url": "https://www.eventernote.com/events/489649",
+      "date": "2026-09-22",
+      "venue": "BUZZ LIVE 渋谷",
+      "open_time": "18:00",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "三島京華",
+          "id": null
+        },
+        {
+          "name": "宮沢小春",
+          "id": null
+        },
+        {
+          "name": "鳴海まい",
+          "id": null
+        },
+        {
+          "name": "古仲可奈",
+          "id": null
+        },
+        {
+          "name": "渡邉結衣",
+          "id": null
+        },
+        {
+          "name": "愛ノ彩笑",
+          "id": null
+        },
+        {
+          "name": "星野美夢",
+          "id": null
+        },
+        {
+          "name": "高井千帆",
           "id": null
         },
         {
