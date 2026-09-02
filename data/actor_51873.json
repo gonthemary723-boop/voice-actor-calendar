@@ -1,7 +1,7 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-09-01T18:14:11.107854",
+  "fetched_at": "2026-09-02T18:28:25.967733",
   "event_count": 107,
   "events": [
     {
@@ -197,6 +197,20 @@
       ]
     },
     {
+      "event_name": "飯田ヒカルのヒカROOM Route OKINAWA  PHOTOBOOK 1部 サイン会 福岡",
+      "event_url": "https://www.eventernote.com/events/491184",
+      "date": "2027-01-10",
+      "venue": "!_福岡県内某所",
+      "open_time": "10:45",
+      "start_time": "11:00",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        }
+      ]
+    },
+    {
       "event_name": "飯田ヒカルのヒカROOM Route OKINAWA  PHOTOBOOK 3部 じゃんけん＆フォトカードお渡し会 福岡",
       "event_url": "https://www.eventernote.com/events/491188",
       "date": "2027-01-10",
@@ -217,20 +231,6 @@
       "venue": "!_福岡県内某所",
       "open_time": "16:15",
       "start_time": "16:30",
-      "actors": [
-        {
-          "name": "飯田ヒカル",
-          "id": null
-        }
-      ]
-    },
-    {
-      "event_name": "飯田ヒカルのヒカROOM Route OKINAWA  PHOTOBOOK 1部 サイン会 福岡",
-      "event_url": "https://www.eventernote.com/events/491184",
-      "date": "2027-01-10",
-      "venue": "!_福岡県内某所",
-      "open_time": "10:45",
-      "start_time": "11:00",
       "actors": [
         {
           "name": "飯田ヒカル",

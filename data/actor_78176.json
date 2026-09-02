@@ -1,8 +1,8 @@
 {
   "actor_id": 78176,
   "actor_name": "浅見香月",
-  "fetched_at": "2026-09-01T18:17:22.237016",
-  "event_count": 38,
+  "fetched_at": "2026-09-02T18:31:37.641243",
+  "event_count": 40,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年12月13日)",
@@ -36,6 +36,58 @@
         },
         {
           "name": "浅見香月",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "『声グラハロウィーン2026』昼の部",
+      "event_url": "https://www.eventernote.com/events/491387",
+      "date": "2026-10-24",
+      "venue": "東京総合美容専門学校 マルチホール",
+      "open_time": "13:00",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "青木陽菜",
+          "id": null
+        },
+        {
+          "name": "青山なぎさ",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "薬師寺李有",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "『声グラハロウィーン2026』夜の部",
+      "event_url": "https://www.eventernote.com/events/491388",
+      "date": "2026-10-24",
+      "venue": "東京総合美容専門学校 マルチホール",
+      "open_time": "16:30",
+      "start_time": "17:30",
+      "actors": [
+        {
+          "name": "青木陽菜",
+          "id": null
+        },
+        {
+          "name": "青山なぎさ",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "薬師寺李有",
           "id": null
         }
       ]
