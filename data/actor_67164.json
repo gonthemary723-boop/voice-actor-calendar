@@ -1,9 +1,47 @@
 {
   "actor_id": 67164,
   "actor_name": "陽高真白",
-  "fetched_at": "2026-09-02T18:31:22.952157",
-  "event_count": 138,
+  "fetched_at": "2026-09-03T18:27:21.105217",
+  "event_count": 139,
   "events": [
+    {
+      "event_name": "制服カノジョ スペシャルイベント in バレンタイン",
+      "event_url": "https://www.eventernote.com/events/483131",
+      "date": "2027-02-14",
+      "venue": "!_東京都内某所",
+      "open_time": "",
+      "start_time": "",
+      "actors": [
+        {
+          "name": "前田佳織里",
+          "id": null
+        },
+        {
+          "name": "小坂井祐莉絵",
+          "id": null
+        },
+        {
+          "name": "橘杏咲",
+          "id": null
+        },
+        {
+          "name": "山田麻莉奈",
+          "id": null
+        },
+        {
+          "name": "月城日花",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "「陽高真白のにこにこ誕生日ぱーてぃー」",
       "event_url": "https://www.eventernote.com/events/490989",
