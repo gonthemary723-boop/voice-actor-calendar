@@ -1,8 +1,8 @@
 {
   "actor_id": 67164,
   "actor_name": "陽高真白",
-  "fetched_at": "2026-09-06T17:35:00.313852",
-  "event_count": 139,
+  "fetched_at": "2026-09-07T19:05:15.702247",
+  "event_count": 140,
   "events": [
     {
       "event_name": "制服カノジョ スペシャルイベント in バレンタイン",
@@ -484,6 +484,28 @@
         },
         {
           "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "9/6 (日) NACK5『カメレオンパーティ』19時台ゲスト陽高真白",
+      "event_url": "https://www.eventernote.com/events/492014",
+      "date": "2026-09-06",
+      "venue": "FM NACK5 スタジオアルシェ",
+      "open_time": "18:00",
+      "start_time": "19:10",
+      "actors": [
+        {
+          "name": "前田裕太",
+          "id": null
+        },
+        {
+          "name": "佐々木もよこ",
           "id": null
         },
         {
