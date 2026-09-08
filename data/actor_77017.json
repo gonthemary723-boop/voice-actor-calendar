@@ -1,8 +1,8 @@
 {
   "actor_id": 77017,
   "actor_name": "長月あおい",
-  "fetched_at": "2026-09-07T19:01:41.773181",
-  "event_count": 50,
+  "fetched_at": "2026-09-08T18:22:49.174763",
+  "event_count": 51,
   "events": [
     {
       "event_name": "音泉祭り2027東京",
@@ -290,6 +290,24 @@
         },
         {
           "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "横浜国立大学 26常盤祭 湊みや・長月あおいのみゃーあおアカデミー",
+      "event_url": "https://www.eventernote.com/events/492048",
+      "date": "2026-11-01",
+      "venue": "横浜国立大学",
+      "open_time": "12:30",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
           "id": null
         }
       ]

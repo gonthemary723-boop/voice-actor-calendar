@@ -1,8 +1,8 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-09-07T19:05:25.244463",
-  "event_count": 46,
+  "fetched_at": "2026-09-08T18:26:21.452879",
+  "event_count": 47,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年1月17日)",
@@ -344,6 +344,20 @@
           "name": "陽高真白",
           "id": null
         },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "第42回立教大学学園祭 St. Paul's Festival 天音ゆかりトークショー ～音色奏でる新”天”地～",
+      "event_url": "https://www.eventernote.com/events/492077",
+      "date": "2026-11-03",
+      "venue": "立教大学 池袋キャンパス",
+      "open_time": "11:30",
+      "start_time": "12:00",
+      "actors": [
         {
           "name": "天音ゆかり",
           "id": null

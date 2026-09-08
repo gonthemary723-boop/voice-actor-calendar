@@ -1,8 +1,8 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-09-07T19:02:57.037320",
-  "event_count": 54,
+  "fetched_at": "2026-09-08T18:24:00.860173",
+  "event_count": 55,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年12月27日)",
@@ -204,6 +204,24 @@
         },
         {
           "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "横浜国立大学 26常盤祭 湊みや・長月あおいのみゃーあおアカデミー",
+      "event_url": "https://www.eventernote.com/events/492048",
+      "date": "2026-11-01",
+      "venue": "横浜国立大学",
+      "open_time": "12:30",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
           "id": null
         }
       ]
