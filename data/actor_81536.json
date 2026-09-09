@@ -1,8 +1,8 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-09-08T18:26:21.452879",
-  "event_count": 47,
+  "fetched_at": "2026-09-09T18:25:17.541678",
+  "event_count": 48,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年1月17日)",
@@ -474,6 +474,20 @@
           "name": "小山奈桜",
           "id": null
         },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「学園アイドルマスター」雨夜燕 役・天音ゆかりさんとアフレコ体験＆声優学科入学説明会",
+      "event_url": "https://www.eventernote.com/events/492177",
+      "date": "2026-09-27",
+      "venue": "アミューズメントメディア総合学院 2号館",
+      "open_time": "12:30",
+      "start_time": "13:00",
+      "actors": [
         {
           "name": "天音ゆかり",
           "id": null
