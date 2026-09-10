@@ -1,7 +1,7 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-09-09T18:24:47.658082",
+  "fetched_at": "2026-09-10T18:15:11.728515",
   "event_count": 551,
   "events": [
     {
@@ -11411,7 +11411,7 @@
           "id": null
         },
         {
-          "name": "好岡瞳",
+          "name": "渡来美友",
           "id": null
         },
         {
@@ -11509,7 +11509,7 @@
           "id": null
         },
         {
-          "name": "好岡瞳",
+          "name": "渡来美友",
           "id": null
         },
         {
@@ -11607,7 +11607,7 @@
           "id": null
         },
         {
-          "name": "好岡瞳",
+          "name": "渡来美友",
           "id": null
         },
         {
@@ -11705,7 +11705,7 @@
           "id": null
         },
         {
-          "name": "好岡瞳",
+          "name": "渡来美友",
           "id": null
         },
         {
@@ -11803,7 +11803,7 @@
           "id": null
         },
         {
-          "name": "好岡瞳",
+          "name": "渡来美友",
           "id": null
         },
         {
@@ -11901,7 +11901,7 @@
           "id": null
         },
         {
-          "name": "好岡瞳",
+          "name": "渡来美友",
           "id": null
         },
         {
@@ -11999,7 +11999,7 @@
           "id": null
         },
         {
-          "name": "好岡瞳",
+          "name": "渡来美友",
           "id": null
         },
         {
@@ -12097,7 +12097,7 @@
           "id": null
         },
         {
-          "name": "好岡瞳",
+          "name": "渡来美友",
           "id": null
         },
         {
@@ -12195,7 +12195,7 @@
           "id": null
         },
         {
-          "name": "好岡瞳",
+          "name": "渡来美友",
           "id": null
         },
         {
@@ -12293,7 +12293,7 @@
           "id": null
         },
         {
-          "name": "好岡瞳",
+          "name": "渡来美友",
           "id": null
         },
         {
@@ -22577,6 +22577,10 @@
           "id": null
         },
         {
+          "name": "星希成奏",
+          "id": null
+        },
+        {
           "name": "武田真理子(たけだまりこ)",
           "id": null
         },
@@ -22627,10 +22631,6 @@
         {
           "name": "井澤美香子",
           "id": null
-        },
-        {
-          "name": "井澤美香子",
-          "id": null
         }
       ]
     },
@@ -22675,15 +22675,15 @@
           "id": null
         },
         {
+          "name": "星希成奏",
+          "id": null
+        },
+        {
           "name": "aimai soleil",
           "id": null
         },
         {
           "name": "OVERWHELM",
-          "id": null
-        },
-        {
-          "name": "Priiry♡",
           "id": null
         },
         {
@@ -22733,15 +22733,15 @@
           "id": null
         },
         {
+          "name": "星希成奏",
+          "id": null
+        },
+        {
           "name": "aimai soleil",
           "id": null
         },
         {
           "name": "OVERWHELM",
-          "id": null
-        },
-        {
-          "name": "Priiry♡",
           "id": null
         },
         {
@@ -39524,7 +39524,7 @@
       "event_name": "『恋に咲く謎、はらはらと』予約イベント ③土浦",
       "event_url": "https://www.eventernote.com/events/164972",
       "date": "2018-07-15",
-      "venue": "イオンモール土浦 1F花火ひろば",
+      "venue": "イオンモール土浦",
       "open_time": "",
       "start_time": "16:30",
       "actors": [
@@ -39570,7 +39570,7 @@
       "event_name": "『恋に咲く謎、はらはらと』予約イベント ②土浦",
       "event_url": "https://www.eventernote.com/events/164971",
       "date": "2018-07-15",
-      "venue": "イオンモール土浦 1F花火ひろば",
+      "venue": "イオンモール土浦",
       "open_time": "",
       "start_time": "13:00",
       "actors": [

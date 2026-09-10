@@ -1,16 +1,54 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-09-09T18:22:08.310912",
-  "event_count": 107,
+  "fetched_at": "2026-09-10T18:12:18.231334",
+  "event_count": 108,
   "events": [
     {
-      "event_name": "制服カノジョ スペシャルイベント in バレンタイン",
+      "event_name": "制服カノジョ スペシャルイベント in バレンタイン　昼の部",
       "event_url": "https://www.eventernote.com/events/483131",
       "date": "2027-02-14",
-      "venue": "!_東京都内某所",
-      "open_time": "",
-      "start_time": "",
+      "venue": "ユナイテッド・シネマ アクアシティお台場",
+      "open_time": "13:30",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "前田佳織里",
+          "id": null
+        },
+        {
+          "name": "小坂井祐莉絵",
+          "id": null
+        },
+        {
+          "name": "橘杏咲",
+          "id": null
+        },
+        {
+          "name": "山田麻莉奈",
+          "id": null
+        },
+        {
+          "name": "月城日花",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "制服カノジョ スペシャルイベント in バレンタイン　夜の部",
+      "event_url": "https://www.eventernote.com/events/492241",
+      "date": "2027-02-14",
+      "venue": "ユナイテッド・シネマ アクアシティお台場",
+      "open_time": "17:30",
+      "start_time": "18:00",
       "actors": [
         {
           "name": "前田佳織里",
