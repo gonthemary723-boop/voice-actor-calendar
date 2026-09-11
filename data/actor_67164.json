@@ -1,8 +1,8 @@
 {
   "actor_id": 67164,
   "actor_name": "陽高真白",
-  "fetched_at": "2026-09-10T18:15:36.622961",
-  "event_count": 141,
+  "fetched_at": "2026-09-11T18:17:18.003212",
+  "event_count": 142,
   "events": [
     {
       "event_name": "制服カノジョ スペシャルイベント in バレンタイン　昼の部",
@@ -88,6 +88,24 @@
       "open_time": "18:00",
       "start_time": "19:00",
       "actors": [
+        {
+          "name": "陽高真白",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "天音ゆかりのあまねくハーモニー♪ Birthday party 夜の部",
+      "event_url": "https://www.eventernote.com/events/492483",
+      "date": "2026-11-22",
+      "venue": "R'sアートコート(労音大久保会館)",
+      "open_time": "",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
         {
           "name": "陽高真白",
           "id": null

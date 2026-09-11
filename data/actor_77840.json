@@ -1,8 +1,8 @@
 {
   "actor_id": 77840,
   "actor_name": "川村玲奈",
-  "fetched_at": "2026-09-10T18:13:14.257617",
-  "event_count": 56,
+  "fetched_at": "2026-09-11T18:15:02.866601",
+  "event_count": 57,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年12月13日)",
@@ -68,6 +68,24 @@
       "actors": [
         {
           "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "天音ゆかりのあまねくハーモニー♪ Birthday party 昼の部",
+      "event_url": "https://www.eventernote.com/events/492482",
+      "date": "2026-11-22",
+      "venue": "R'sアートコート(労音大久保会館)",
+      "open_time": "",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "天音ゆかり",
           "id": null
         },
         {

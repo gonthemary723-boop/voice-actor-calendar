@@ -1,8 +1,8 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-09-10T18:15:46.168683",
-  "event_count": 48,
+  "fetched_at": "2026-09-11T18:17:27.348002",
+  "event_count": 50,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年1月17日)",
@@ -214,6 +214,42 @@
         },
         {
           "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "天音ゆかりのあまねくハーモニー♪ Birthday party 昼の部",
+      "event_url": "https://www.eventernote.com/events/492482",
+      "date": "2026-11-22",
+      "venue": "R'sアートコート(労音大久保会館)",
+      "open_time": "",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "天音ゆかりのあまねくハーモニー♪ Birthday party 夜の部",
+      "event_url": "https://www.eventernote.com/events/492483",
+      "date": "2026-11-22",
+      "venue": "R'sアートコート(労音大久保会館)",
+      "open_time": "",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
           "id": null
         }
       ]
