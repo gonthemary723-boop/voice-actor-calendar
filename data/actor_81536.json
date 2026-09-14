@@ -1,7 +1,7 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-09-13T18:02:07.038624",
+  "fetched_at": "2026-09-14T19:48:26.493292",
   "event_count": 50,
   "events": [
     {
@@ -401,12 +401,12 @@
       ]
     },
     {
-      "event_name": "ウタヒメドリーム 3周年記念 5thライブ【夜公演】",
-      "event_url": "https://www.eventernote.com/events/461783",
+      "event_name": "ウタヒメドリーム 3周年記念 5thライブ【昼公演】",
+      "event_url": "https://www.eventernote.com/events/461782",
       "date": "2026-10-18",
       "venue": "豊洲PIT",
-      "open_time": "17:45",
-      "start_time": "18:30",
+      "open_time": "13:45",
+      "start_time": "14:30",
       "actors": [
         {
           "name": "山﨑玲奈",
@@ -459,12 +459,12 @@
       ]
     },
     {
-      "event_name": "ウタヒメドリーム 3周年記念 5thライブ【昼公演】",
-      "event_url": "https://www.eventernote.com/events/461782",
+      "event_name": "ウタヒメドリーム 3周年記念 5thライブ【夜公演】",
+      "event_url": "https://www.eventernote.com/events/461783",
       "date": "2026-10-18",
       "venue": "豊洲PIT",
-      "open_time": "13:45",
-      "start_time": "14:30",
+      "open_time": "17:45",
+      "start_time": "18:30",
       "actors": [
         {
           "name": "山﨑玲奈",
