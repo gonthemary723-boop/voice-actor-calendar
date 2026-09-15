@@ -1,8 +1,8 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-09-14T19:48:26.493292",
-  "event_count": 50,
+  "fetched_at": "2026-09-15T18:48:23.545559",
+  "event_count": 51,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年1月17日)",
@@ -214,6 +214,36 @@
         },
         {
           "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "北九州ポップカルチャーフェスティバル2026「ブルーアーカイブ」KPF2026トークステージ",
+      "event_url": "https://www.eventernote.com/events/492812",
+      "date": "2026-11-29",
+      "venue": "北九州メッセ(西日本総合展示場新館)",
+      "open_time": "",
+      "start_time": "10:20",
+      "actors": [
+        {
+          "name": "高田憂希",
+          "id": null
+        },
+        {
+          "name": "百瀬紗菜",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "坂巻学",
+          "id": null
+        },
+        {
+          "name": "市来光弘",
           "id": null
         }
       ]
