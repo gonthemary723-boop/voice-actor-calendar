@@ -1,8 +1,8 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-09-17T18:54:46.935084",
-  "event_count": 51,
+  "fetched_at": "2026-09-18T18:11:14.407417",
+  "event_count": 52,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年1月17日)",
@@ -280,6 +280,288 @@
         },
         {
           "name": "陽高真白",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "東武鉄道 presents ANIMAX MUSIX 2026 supported by Lemino【DAY2】",
+      "event_url": "https://www.eventernote.com/events/466254",
+      "date": "2026-11-21",
+      "venue": "横浜アリーナ",
+      "open_time": "13:00",
+      "start_time": "14:30",
+      "actors": [
+        {
+          "name": "藍井エイル",
+          "id": null
+        },
+        {
+          "name": "いきづらい部！",
+          "id": null
+        },
+        {
+          "name": "綾咲穂音",
+          "id": null
+        },
+        {
+          "name": "遠藤璃菜",
+          "id": null
+        },
+        {
+          "name": "宮野芹",
+          "id": null
+        },
+        {
+          "name": "藤野こころ",
+          "id": null
+        },
+        {
+          "name": "坂野愛羽",
+          "id": null
+        },
+        {
+          "name": "瀬古梨愛",
+          "id": null
+        },
+        {
+          "name": "奥村優季",
+          "id": null
+        },
+        {
+          "name": "天沢朱音",
+          "id": null
+        },
+        {
+          "name": "小戸森穂花",
+          "id": null
+        },
+        {
+          "name": "涼ノ瀬葵音",
+          "id": null
+        },
+        {
+          "name": "伊藤美来",
+          "id": null
+        },
+        {
+          "name": "大石昌良(オーイシマサヨシ)",
+          "id": null
+        },
+        {
+          "name": "小倉唯",
+          "id": null
+        },
+        {
+          "name": "七人のカリスマ声優",
+          "id": null
+        },
+        {
+          "name": "小野友樹",
+          "id": null
+        },
+        {
+          "name": "山中真尋",
+          "id": null
+        },
+        {
+          "name": "福原かつみ",
+          "id": null
+        },
+        {
+          "name": "細田健太",
+          "id": null
+        },
+        {
+          "name": "日向朔公",
+          "id": null
+        },
+        {
+          "name": "大河元気",
+          "id": null
+        },
+        {
+          "name": "橋詰知久",
+          "id": null
+        },
+        {
+          "name": "JELEE",
+          "id": null
+        },
+        {
+          "name": "鈴木このみ",
+          "id": null
+        },
+        {
+          "name": "東山奈央",
+          "id": null
+        },
+        {
+          "name": "前島亜美",
+          "id": null
+        },
+        {
+          "name": "吉田尚記",
+          "id": null
+        },
+        {
+          "name": "ウマ娘 プリティーダービー(gal’up!)",
+          "id": null
+        },
+        {
+          "name": "鈴木絵理",
+          "id": null
+        },
+        {
+          "name": "芹澤優",
+          "id": null
+        },
+        {
+          "name": "日比優理香",
+          "id": null
+        },
+        {
+          "name": "千賀光莉",
+          "id": null
+        },
+        {
+          "name": "菊池ゆりな",
+          "id": null
+        },
+        {
+          "name": "大西亜玖璃",
+          "id": null
+        },
+        {
+          "name": "奥井雅美",
+          "id": null
+        },
+        {
+          "name": "田中有紀",
+          "id": null
+        },
+        {
+          "name": "sajou no hana",
+          "id": null
+        },
+        {
+          "name": "sana(37/sajou no hana)",
+          "id": null
+        },
+        {
+          "name": "茅原実里",
+          "id": null
+        },
+        {
+          "name": "ハコニワリリィ",
+          "id": null
+        },
+        {
+          "name": "Hanon(ハコニワリリィ)",
+          "id": null
+        },
+        {
+          "name": "Kotoha(ハコニワリリィ)",
+          "id": null
+        },
+        {
+          "name": "fripSide",
+          "id": null
+        },
+        {
+          "name": "八木沼悟志",
+          "id": null
+        },
+        {
+          "name": "阿部寿世",
+          "id": null
+        },
+        {
+          "name": "上杉真央(mAO)",
+          "id": null
+        },
+        {
+          "name": "MADKID",
+          "id": null
+        },
+        {
+          "name": "YOU-TA(MADKID)",
+          "id": null
+        },
+        {
+          "name": "KAZUKI(MADKID)",
+          "id": null
+        },
+        {
+          "name": "SHIN(MADKID)",
+          "id": null
+        },
+        {
+          "name": "LIN(MADKID)",
+          "id": null
+        },
+        {
+          "name": "YUKI(MADKID)",
+          "id": null
+        },
+        {
+          "name": "ウタヒメドリーム オールスターズ",
+          "id": null
+        },
+        {
+          "name": "鈴木杏奈",
+          "id": null
+        },
+        {
+          "name": "花耶",
+          "id": null
+        },
+        {
+          "name": "礒部花凜",
+          "id": null
+        },
+        {
+          "name": "鷲見友美ジェナ",
+          "id": null
+        },
+        {
+          "name": "倉知玲鳳",
+          "id": null
+        },
+        {
+          "name": "小山奈桜",
+          "id": null
+        },
+        {
+          "name": "南條愛乃",
+          "id": null
+        },
+        {
+          "name": "Hearts2Hearts",
+          "id": null
+        },
+        {
+          "name": "天空のシラバス",
+          "id": null
+        },
+        {
+          "name": "陽乃ほのか",
+          "id": null
+        },
+        {
+          "name": "貴野萌",
+          "id": null
+        },
+        {
+          "name": "山根優佳",
+          "id": null
+        },
+        {
+          "name": "善木南帆",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
           "id": null
         }
       ]
@@ -1379,7 +1661,7 @@
           "id": null
         },
         {
-          "name": "石原美沙紀",
+          "name": "那華喜シイナ",
           "id": null
         },
         {

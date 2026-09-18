@@ -1,8 +1,8 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-09-17T18:54:14.406939",
-  "event_count": 551,
+  "fetched_at": "2026-09-18T18:10:40.906544",
+  "event_count": 560,
   "events": [
     {
       "event_name": "春咲暖1st Live「Light in Bloom」昼公演",
@@ -28,6 +28,708 @@
       "actors": [
         {
           "name": "春咲暖",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "舞台「爆剣-本能寺消滅記-」12月7日",
+      "event_url": "https://www.eventernote.com/events/493274",
+      "date": "2026-12-07",
+      "venue": "CBGKシブゲキ!!",
+      "open_time": "13:15",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "鵜飼主水",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "本西彩希帆",
+          "id": null
+        },
+        {
+          "name": "びぃと。",
+          "id": null
+        },
+        {
+          "name": "花奈澪",
+          "id": null
+        },
+        {
+          "name": "縣豪紀",
+          "id": null
+        },
+        {
+          "name": "村瀬文宣",
+          "id": null
+        },
+        {
+          "name": "宮ノ尾美友",
+          "id": null
+        },
+        {
+          "name": "佐藤智広",
+          "id": null
+        },
+        {
+          "name": "小栗諒",
+          "id": null
+        },
+        {
+          "name": "桜町たろ",
+          "id": null
+        },
+        {
+          "name": "雛形羽衣",
+          "id": null
+        },
+        {
+          "name": "細川晃弘",
+          "id": null
+        },
+        {
+          "name": "町田尚規",
+          "id": null
+        },
+        {
+          "name": "中野貴文",
+          "id": null
+        },
+        {
+          "name": "大谷翔吾",
+          "id": null
+        },
+        {
+          "name": "廣田那央",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "舞台「爆剣-本能寺消滅記-」12月6日 18:00",
+      "event_url": "https://www.eventernote.com/events/493272",
+      "date": "2026-12-06",
+      "venue": "CBGKシブゲキ!!",
+      "open_time": "17:15",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "鵜飼主水",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "本西彩希帆",
+          "id": null
+        },
+        {
+          "name": "びぃと。",
+          "id": null
+        },
+        {
+          "name": "花奈澪",
+          "id": null
+        },
+        {
+          "name": "縣豪紀",
+          "id": null
+        },
+        {
+          "name": "村瀬文宣",
+          "id": null
+        },
+        {
+          "name": "宮ノ尾美友",
+          "id": null
+        },
+        {
+          "name": "佐藤智広",
+          "id": null
+        },
+        {
+          "name": "小栗諒",
+          "id": null
+        },
+        {
+          "name": "桜町たろ",
+          "id": null
+        },
+        {
+          "name": "雛形羽衣",
+          "id": null
+        },
+        {
+          "name": "細川晃弘",
+          "id": null
+        },
+        {
+          "name": "町田尚規",
+          "id": null
+        },
+        {
+          "name": "中野貴文",
+          "id": null
+        },
+        {
+          "name": "大谷翔吾",
+          "id": null
+        },
+        {
+          "name": "廣田那央",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "舞台「爆剣-本能寺消滅記-」12月6日 13:00",
+      "event_url": "https://www.eventernote.com/events/493271",
+      "date": "2026-12-06",
+      "venue": "CBGKシブゲキ!!",
+      "open_time": "12:15",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "鵜飼主水",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "本西彩希帆",
+          "id": null
+        },
+        {
+          "name": "びぃと。",
+          "id": null
+        },
+        {
+          "name": "花奈澪",
+          "id": null
+        },
+        {
+          "name": "縣豪紀",
+          "id": null
+        },
+        {
+          "name": "村瀬文宣",
+          "id": null
+        },
+        {
+          "name": "宮ノ尾美友",
+          "id": null
+        },
+        {
+          "name": "佐藤智広",
+          "id": null
+        },
+        {
+          "name": "小栗諒",
+          "id": null
+        },
+        {
+          "name": "桜町たろ",
+          "id": null
+        },
+        {
+          "name": "雛形羽衣",
+          "id": null
+        },
+        {
+          "name": "細川晃弘",
+          "id": null
+        },
+        {
+          "name": "町田尚規",
+          "id": null
+        },
+        {
+          "name": "中野貴文",
+          "id": null
+        },
+        {
+          "name": "大谷翔吾",
+          "id": null
+        },
+        {
+          "name": "廣田那央",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "舞台「爆剣-本能寺消滅記-」12月5日 18:00",
+      "event_url": "https://www.eventernote.com/events/493270",
+      "date": "2026-12-05",
+      "venue": "CBGKシブゲキ!!",
+      "open_time": "17:15",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "鵜飼主水",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "本西彩希帆",
+          "id": null
+        },
+        {
+          "name": "びぃと。",
+          "id": null
+        },
+        {
+          "name": "花奈澪",
+          "id": null
+        },
+        {
+          "name": "縣豪紀",
+          "id": null
+        },
+        {
+          "name": "村瀬文宣",
+          "id": null
+        },
+        {
+          "name": "宮ノ尾美友",
+          "id": null
+        },
+        {
+          "name": "佐藤智広",
+          "id": null
+        },
+        {
+          "name": "小栗諒",
+          "id": null
+        },
+        {
+          "name": "桜町たろ",
+          "id": null
+        },
+        {
+          "name": "雛形羽衣",
+          "id": null
+        },
+        {
+          "name": "細川晃弘",
+          "id": null
+        },
+        {
+          "name": "町田尚規",
+          "id": null
+        },
+        {
+          "name": "中野貴文",
+          "id": null
+        },
+        {
+          "name": "大谷翔吾",
+          "id": null
+        },
+        {
+          "name": "廣田那央",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "舞台「爆剣-本能寺消滅記-」12月5日 13:00",
+      "event_url": "https://www.eventernote.com/events/493269",
+      "date": "2026-12-05",
+      "venue": "CBGKシブゲキ!!",
+      "open_time": "12:15",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "鵜飼主水",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "本西彩希帆",
+          "id": null
+        },
+        {
+          "name": "びぃと。",
+          "id": null
+        },
+        {
+          "name": "花奈澪",
+          "id": null
+        },
+        {
+          "name": "縣豪紀",
+          "id": null
+        },
+        {
+          "name": "村瀬文宣",
+          "id": null
+        },
+        {
+          "name": "宮ノ尾美友",
+          "id": null
+        },
+        {
+          "name": "佐藤智広",
+          "id": null
+        },
+        {
+          "name": "小栗諒",
+          "id": null
+        },
+        {
+          "name": "桜町たろ",
+          "id": null
+        },
+        {
+          "name": "雛形羽衣",
+          "id": null
+        },
+        {
+          "name": "細川晃弘",
+          "id": null
+        },
+        {
+          "name": "町田尚規",
+          "id": null
+        },
+        {
+          "name": "中野貴文",
+          "id": null
+        },
+        {
+          "name": "大谷翔吾",
+          "id": null
+        },
+        {
+          "name": "廣田那央",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "舞台「爆剣-本能寺消滅記-」12月4日 18:00",
+      "event_url": "https://www.eventernote.com/events/493268",
+      "date": "2026-12-04",
+      "venue": "CBGKシブゲキ!!",
+      "open_time": "17:15",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "鵜飼主水",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "本西彩希帆",
+          "id": null
+        },
+        {
+          "name": "びぃと。",
+          "id": null
+        },
+        {
+          "name": "花奈澪",
+          "id": null
+        },
+        {
+          "name": "縣豪紀",
+          "id": null
+        },
+        {
+          "name": "村瀬文宣",
+          "id": null
+        },
+        {
+          "name": "宮ノ尾美友",
+          "id": null
+        },
+        {
+          "name": "佐藤智広",
+          "id": null
+        },
+        {
+          "name": "小栗諒",
+          "id": null
+        },
+        {
+          "name": "桜町たろ",
+          "id": null
+        },
+        {
+          "name": "雛形羽衣",
+          "id": null
+        },
+        {
+          "name": "細川晃弘",
+          "id": null
+        },
+        {
+          "name": "町田尚規",
+          "id": null
+        },
+        {
+          "name": "中野貴文",
+          "id": null
+        },
+        {
+          "name": "大谷翔吾",
+          "id": null
+        },
+        {
+          "name": "廣田那央",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "舞台「爆剣-本能寺消滅記-」12月4日 13:00",
+      "event_url": "https://www.eventernote.com/events/493267",
+      "date": "2026-12-04",
+      "venue": "CBGKシブゲキ!!",
+      "open_time": "12:15",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "鵜飼主水",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "本西彩希帆",
+          "id": null
+        },
+        {
+          "name": "びぃと。",
+          "id": null
+        },
+        {
+          "name": "花奈澪",
+          "id": null
+        },
+        {
+          "name": "縣豪紀",
+          "id": null
+        },
+        {
+          "name": "村瀬文宣",
+          "id": null
+        },
+        {
+          "name": "宮ノ尾美友",
+          "id": null
+        },
+        {
+          "name": "佐藤智広",
+          "id": null
+        },
+        {
+          "name": "小栗諒",
+          "id": null
+        },
+        {
+          "name": "桜町たろ",
+          "id": null
+        },
+        {
+          "name": "雛形羽衣",
+          "id": null
+        },
+        {
+          "name": "細川晃弘",
+          "id": null
+        },
+        {
+          "name": "町田尚規",
+          "id": null
+        },
+        {
+          "name": "中野貴文",
+          "id": null
+        },
+        {
+          "name": "大谷翔吾",
+          "id": null
+        },
+        {
+          "name": "廣田那央",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "舞台「爆剣-本能寺消滅記-」12月3日 13:00",
+      "event_url": "https://www.eventernote.com/events/493264",
+      "date": "2026-12-03",
+      "venue": "CBGKシブゲキ!!",
+      "open_time": "12:15",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "鵜飼主水",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "本西彩希帆",
+          "id": null
+        },
+        {
+          "name": "びぃと。",
+          "id": null
+        },
+        {
+          "name": "花奈澪",
+          "id": null
+        },
+        {
+          "name": "縣豪紀",
+          "id": null
+        },
+        {
+          "name": "村瀬文宣",
+          "id": null
+        },
+        {
+          "name": "宮ノ尾美友",
+          "id": null
+        },
+        {
+          "name": "佐藤智広",
+          "id": null
+        },
+        {
+          "name": "小栗諒",
+          "id": null
+        },
+        {
+          "name": "桜町たろ",
+          "id": null
+        },
+        {
+          "name": "雛形羽衣",
+          "id": null
+        },
+        {
+          "name": "細川晃弘",
+          "id": null
+        },
+        {
+          "name": "町田尚規",
+          "id": null
+        },
+        {
+          "name": "中野貴文",
+          "id": null
+        },
+        {
+          "name": "大谷翔吾",
+          "id": null
+        },
+        {
+          "name": "廣田那央",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "舞台「爆剣-本能寺消滅記-」12月3日 18:00",
+      "event_url": "https://www.eventernote.com/events/493265",
+      "date": "2026-12-03",
+      "venue": "CBGKシブゲキ!!",
+      "open_time": "17:15",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "鵜飼主水",
+          "id": null
+        },
+        {
+          "name": "春咲暖",
+          "id": null
+        },
+        {
+          "name": "本西彩希帆",
+          "id": null
+        },
+        {
+          "name": "びぃと。",
+          "id": null
+        },
+        {
+          "name": "花奈澪",
+          "id": null
+        },
+        {
+          "name": "縣豪紀",
+          "id": null
+        },
+        {
+          "name": "村瀬文宣",
+          "id": null
+        },
+        {
+          "name": "宮ノ尾美友",
+          "id": null
+        },
+        {
+          "name": "佐藤智広",
+          "id": null
+        },
+        {
+          "name": "小栗諒",
+          "id": null
+        },
+        {
+          "name": "桜町たろ",
+          "id": null
+        },
+        {
+          "name": "雛形羽衣",
+          "id": null
+        },
+        {
+          "name": "細川晃弘",
+          "id": null
+        },
+        {
+          "name": "町田尚規",
+          "id": null
+        },
+        {
+          "name": "中野貴文",
+          "id": null
+        },
+        {
+          "name": "大谷翔吾",
+          "id": null
+        },
+        {
+          "name": "廣田那央",
           "id": null
         }
       ]
@@ -14443,6 +15145,10 @@
           "id": null
         },
         {
+          "name": "大島璃乃",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -14460,10 +15166,6 @@
         },
         {
           "name": "天音利梛",
-          "id": null
-        },
-        {
-          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -14497,6 +15199,10 @@
           "id": null
         },
         {
+          "name": "大島璃乃",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -14514,10 +15220,6 @@
         },
         {
           "name": "天音利梛",
-          "id": null
-        },
-        {
-          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -14659,6 +15361,10 @@
           "id": null
         },
         {
+          "name": "大島璃乃",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -14676,10 +15382,6 @@
         },
         {
           "name": "天音利梛",
-          "id": null
-        },
-        {
-          "name": "伊藤雨音",
           "id": null
         },
         {
