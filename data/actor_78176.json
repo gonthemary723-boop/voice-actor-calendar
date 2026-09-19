@@ -1,8 +1,8 @@
 {
   "actor_id": 78176,
   "actor_name": "浅見香月",
-  "fetched_at": "2026-09-18T18:11:20.857890",
-  "event_count": 40,
+  "fetched_at": "2026-09-19T17:53:25.718831",
+  "event_count": 39,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年12月13日)",
@@ -184,20 +184,6 @@
           "name": "高井千帆",
           "id": null
         },
-        {
-          "name": "浅見香月",
-          "id": null
-        }
-      ]
-    },
-    {
-      "event_name": "「TGS 2026」コーエーテクモブース 『カリアのアトリエ』スペシャルステージ 9月21日",
-      "event_url": "https://www.eventernote.com/events/490428",
-      "date": "2026-09-21",
-      "venue": "幕張メッセ 国際展示場ホール",
-      "open_time": "12:50",
-      "start_time": "13:00",
-      "actors": [
         {
           "name": "浅見香月",
           "id": null
