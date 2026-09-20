@@ -1,8 +1,8 @@
 {
   "actor_id": 56410,
   "actor_name": "小鹿なお",
-  "fetched_at": "2026-09-19T17:49:52.167479",
-  "event_count": 65,
+  "fetched_at": "2026-09-20T18:03:50.828824",
+  "event_count": 64,
   "events": [
     {
       "event_name": "学園アイドルマスター  LIVE TOUR -標- ファイナル公演 DAY2",
@@ -179,36 +179,6 @@
       "venue": "全電通労働会館 多目的ホール",
       "open_time": "13:00",
       "start_time": "14:00",
-      "actors": [
-        {
-          "name": "小鹿なお",
-          "id": null
-        },
-        {
-          "name": "坂倉花",
-          "id": null
-        },
-        {
-          "name": "月音こな",
-          "id": null
-        },
-        {
-          "name": "渡瀬結月",
-          "id": null
-        },
-        {
-          "name": "豊田萌絵",
-          "id": null
-        }
-      ]
-    },
-    {
-      "event_name": "『声グラゼミナール ～業界のいろは学びまSHOW～』第二弾 2限目（夜の部）",
-      "event_url": "https://www.eventernote.com/events/484281",
-      "date": "2026-09-21",
-      "venue": "全電通労働会館 多目的ホール",
-      "open_time": "16:30",
-      "start_time": "17:30",
       "actors": [
         {
           "name": "小鹿なお",
