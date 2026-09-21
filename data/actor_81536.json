@@ -1,7 +1,7 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-09-20T18:07:16.768021",
+  "fetched_at": "2026-09-21T19:57:21.311439",
   "event_count": 52,
   "events": [
     {
@@ -713,12 +713,12 @@
       ]
     },
     {
-      "event_name": "ウタヒメドリーム 3周年記念 5thライブ【昼公演】",
-      "event_url": "https://www.eventernote.com/events/461782",
+      "event_name": "ウタヒメドリーム 3周年記念 5thライブ【夜公演】",
+      "event_url": "https://www.eventernote.com/events/461783",
       "date": "2026-10-18",
       "venue": "豊洲PIT",
-      "open_time": "13:45",
-      "start_time": "14:30",
+      "open_time": "17:45",
+      "start_time": "18:30",
       "actors": [
         {
           "name": "山﨑玲奈",
@@ -771,12 +771,12 @@
       ]
     },
     {
-      "event_name": "ウタヒメドリーム 3周年記念 5thライブ【夜公演】",
-      "event_url": "https://www.eventernote.com/events/461783",
+      "event_name": "ウタヒメドリーム 3周年記念 5thライブ【昼公演】",
+      "event_url": "https://www.eventernote.com/events/461782",
       "date": "2026-10-18",
       "venue": "豊洲PIT",
-      "open_time": "17:45",
-      "start_time": "18:30",
+      "open_time": "13:45",
+      "start_time": "14:30",
       "actors": [
         {
           "name": "山﨑玲奈",
@@ -1661,7 +1661,7 @@
           "id": null
         },
         {
-          "name": "石原美沙紀",
+          "name": "那華喜シイナ",
           "id": null
         },
         {

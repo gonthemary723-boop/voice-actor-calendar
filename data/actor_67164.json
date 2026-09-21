@@ -1,8 +1,8 @@
 {
   "actor_id": 67164,
   "actor_name": "陽高真白",
-  "fetched_at": "2026-09-20T18:07:07.827789",
-  "event_count": 142,
+  "fetched_at": "2026-09-21T19:57:11.823220",
+  "event_count": 143,
   "events": [
     {
       "event_name": "制服カノジョ スペシャルイベント in バレンタイン　昼の部",
@@ -90,6 +90,36 @@
       "actors": [
         {
           "name": "陽高真白",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "LISANI！TAIPEI 2026 SUNDAY STAGE",
+      "event_url": "https://www.eventernote.com/events/493584",
+      "date": "2026-11-29",
+      "venue": "Legacy MaX",
+      "open_time": "17:00",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "小林愛香",
+          "id": null
+        },
+        {
+          "name": "伊達さゆり",
+          "id": null
+        },
+        {
+          "name": "岬なこ",
+          "id": null
+        },
+        {
+          "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "麻倉もも",
           "id": null
         }
       ]
@@ -649,11 +679,11 @@
           "id": null
         },
         {
-          "name": "土野秀斗",
+          "name": "蒲原玲久",
           "id": null
         },
         {
-          "name": "蒲原玲久",
+          "name": "山本光紗",
           "id": null
         },
         {
@@ -727,11 +757,11 @@
           "id": null
         },
         {
-          "name": "土野秀斗",
+          "name": "蒲原玲久",
           "id": null
         },
         {
-          "name": "蒲原玲久",
+          "name": "山本光紗",
           "id": null
         },
         {

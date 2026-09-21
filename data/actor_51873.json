@@ -1,8 +1,8 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-09-20T18:04:07.779254",
-  "event_count": 109,
+  "fetched_at": "2026-09-21T19:54:03.653413",
+  "event_count": 112,
   "events": [
     {
       "event_name": "制服カノジョ スペシャルイベント in バレンタイン　昼の部",
@@ -234,6 +234,48 @@
         },
         {
           "name": "DIALOGUE＋",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "飯田ヒカルのヒカROOM Route OKINAWA PHOTOBOOK 1部 PHOTOBOOKへのサイン会 大阪",
+      "event_url": "https://www.eventernote.com/events/493627",
+      "date": "2027-01-30",
+      "venue": "!_大阪府内某所",
+      "open_time": "11:30",
+      "start_time": "11:45",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "飯田ヒカルのヒカROOM Route OKINAWA PHOTOBOOK 2部 PHOTOBOOKへのサイン会 大阪",
+      "event_url": "https://www.eventernote.com/events/493628",
+      "date": "2027-01-30",
+      "venue": "!_大阪府内某所",
+      "open_time": "14:30",
+      "start_time": "14:45",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "飯田ヒカルのヒカROOM Route OKINAWA PHOTOBOOK 3部 じゃんけん＆フォトカードお渡し会 大阪",
+      "event_url": "https://www.eventernote.com/events/493629",
+      "date": "2027-01-30",
+      "venue": "!_大阪府内某所",
+      "open_time": "16:45",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
           "id": null
         }
       ]
