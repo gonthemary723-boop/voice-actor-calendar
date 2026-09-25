@@ -1,8 +1,8 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-09-24T18:51:54.179091",
-  "event_count": 112,
+  "fetched_at": "2026-09-25T19:09:59.956761",
+  "event_count": 113,
   "events": [
     {
       "event_name": "制服カノジョ スペシャルイベント in バレンタイン　昼の部",
@@ -239,20 +239,6 @@
       ]
     },
     {
-      "event_name": "飯田ヒカルのヒカROOM Route OKINAWA PHOTOBOOK 1部 PHOTOBOOKへのサイン会 大阪",
-      "event_url": "https://www.eventernote.com/events/493627",
-      "date": "2027-01-30",
-      "venue": "!_大阪府内某所",
-      "open_time": "11:30",
-      "start_time": "11:45",
-      "actors": [
-        {
-          "name": "飯田ヒカル",
-          "id": null
-        }
-      ]
-    },
-    {
       "event_name": "飯田ヒカルのヒカROOM Route OKINAWA PHOTOBOOK 2部 PHOTOBOOKへのサイン会 大阪",
       "event_url": "https://www.eventernote.com/events/493628",
       "date": "2027-01-30",
@@ -273,6 +259,20 @@
       "venue": "!_大阪府内某所",
       "open_time": "16:45",
       "start_time": "17:00",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "飯田ヒカルのヒカROOM Route OKINAWA PHOTOBOOK 1部 PHOTOBOOKへのサイン会 大阪",
+      "event_url": "https://www.eventernote.com/events/493627",
+      "date": "2027-01-30",
+      "venue": "!_大阪府内某所",
+      "open_time": "11:30",
+      "start_time": "11:45",
       "actors": [
         {
           "name": "飯田ヒカル",
@@ -612,6 +612,24 @@
       "actors": [
         {
           "name": "飯田ヒカル",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "大阪医科薬科大学 2026年度大薬祭 声優トークショー in 大薬祭2026",
+      "event_url": "https://www.eventernote.com/events/494071",
+      "date": "2026-10-31",
+      "venue": "大阪医科薬科大学 阿武山キャンパス",
+      "open_time": "",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "希水しお",
           "id": null
         }
       ]

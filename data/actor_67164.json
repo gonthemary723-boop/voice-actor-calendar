@@ -1,7 +1,7 @@
 {
   "actor_id": 67164,
   "actor_name": "陽高真白",
-  "fetched_at": "2026-09-24T18:54:41.128781",
+  "fetched_at": "2026-09-25T19:12:55.861678",
   "event_count": 143,
   "events": [
     {
@@ -103,6 +103,10 @@
       "start_time": "18:00",
       "actors": [
         {
+          "name": "麻倉もも",
+          "id": null
+        },
+        {
           "name": "小林愛香",
           "id": null
         },
@@ -111,15 +115,11 @@
           "id": null
         },
         {
-          "name": "岬なこ",
-          "id": null
-        },
-        {
           "name": "陽高真白",
           "id": null
         },
         {
-          "name": "麻倉もも",
+          "name": "岬なこ",
           "id": null
         }
       ]
