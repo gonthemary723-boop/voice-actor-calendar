@@ -1,7 +1,7 @@
 {
   "actor_id": 67164,
   "actor_name": "陽高真白",
-  "fetched_at": "2026-09-27T18:58:45.731475",
+  "fetched_at": "2026-09-28T21:10:27.197656",
   "event_count": 143,
   "events": [
     {
@@ -2051,12 +2051,12 @@
       ]
     },
     {
-      "event_name": "舞台「アサルトリリィ・シュツルム」〜サングリーズル編〜 第2弾公演 4/25 18:00",
-      "event_url": "https://www.eventernote.com/events/449138",
+      "event_name": "舞台「アサルトリリィ・シュツルム」〜サングリーズル編〜 第2弾公演 4/25 13:00",
+      "event_url": "https://www.eventernote.com/events/449137",
       "date": "2026-04-25",
       "venue": "こくみん共済 coop ホール／スペース・ゼロ",
-      "open_time": "17:00",
-      "start_time": "18:00",
+      "open_time": "12:00",
+      "start_time": "13:00",
       "actors": [
         {
           "name": "大森莉緒",
@@ -2169,12 +2169,12 @@
       ]
     },
     {
-      "event_name": "舞台「アサルトリリィ・シュツルム」〜サングリーズル編〜 第2弾公演 4/25 13:00",
-      "event_url": "https://www.eventernote.com/events/449137",
+      "event_name": "舞台「アサルトリリィ・シュツルム」〜サングリーズル編〜 第2弾公演 4/25 18:00",
+      "event_url": "https://www.eventernote.com/events/449138",
       "date": "2026-04-25",
       "venue": "こくみん共済 coop ホール／スペース・ゼロ",
-      "open_time": "12:00",
-      "start_time": "13:00",
+      "open_time": "17:00",
+      "start_time": "18:00",
       "actors": [
         {
           "name": "大森莉緒",
