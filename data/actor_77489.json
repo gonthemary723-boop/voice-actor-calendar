@@ -1,8 +1,8 @@
 {
   "actor_id": 77489,
   "actor_name": "花岩香奈",
-  "fetched_at": "2026-09-30T19:53:41.194424",
-  "event_count": 64,
+  "fetched_at": "2026-10-01T20:11:56.872527",
+  "event_count": 66,
   "events": [
     {
       "event_name": "北海道ベストフレンドパーク 1部(2027年1月10日)",
@@ -36,6 +36,50 @@
         },
         {
           "name": "薄井友里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "アリオ八尾でもオフレコでお願いします！ 夜の部(2026年12月20日)",
+      "event_url": "https://www.eventernote.com/events/494769",
+      "date": "2026-12-20",
+      "venue": "アリオ八尾 1F光町スクエア",
+      "open_time": "17:00",
+      "start_time": "17:30",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "小早川秀樹",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "アリオ八尾でもオフレコでお願いします！ 昼の部(2026年12月20日)",
+      "event_url": "https://www.eventernote.com/events/494768",
+      "date": "2026-12-20",
+      "venue": "アリオ八尾 1F光町スクエア",
+      "open_time": "13:30",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "小早川秀樹",
           "id": null
         }
       ]

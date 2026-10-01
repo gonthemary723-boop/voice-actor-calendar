@@ -1,8 +1,8 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-09-30T19:53:52.170375",
-  "event_count": 72,
+  "fetched_at": "2026-10-01T20:12:09.085885",
+  "event_count": 74,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年1月17日)",
@@ -36,6 +36,50 @@
         },
         {
           "name": "伊藤舞音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "アリオ八尾でもオフレコでお願いします！ 夜の部(2026年12月20日)",
+      "event_url": "https://www.eventernote.com/events/494769",
+      "date": "2026-12-20",
+      "venue": "アリオ八尾 1F光町スクエア",
+      "open_time": "17:00",
+      "start_time": "17:30",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "小早川秀樹",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "アリオ八尾でもオフレコでお願いします！ 昼の部(2026年12月20日)",
+      "event_url": "https://www.eventernote.com/events/494768",
+      "date": "2026-12-20",
+      "venue": "アリオ八尾 1F光町スクエア",
+      "open_time": "13:30",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "小早川秀樹",
           "id": null
         }
       ]
@@ -571,7 +615,7 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "汐屋遥佳",
           "id": null
         },
         {
@@ -597,7 +641,7 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "汐屋遥佳",
           "id": null
         },
         {
@@ -675,7 +719,7 @@
           "id": null
         },
         {
-          "name": "平山笑美",
+          "name": "那華喜シイナ",
           "id": null
         },
         {
@@ -753,7 +797,7 @@
           "id": null
         },
         {
-          "name": "平山笑美",
+          "name": "那華喜シイナ",
           "id": null
         },
         {
@@ -831,7 +875,7 @@
           "id": null
         },
         {
-          "name": "石原美沙紀",
+          "name": "那華喜シイナ",
           "id": null
         },
         {
@@ -2073,15 +2117,15 @@
           "id": null
         },
         {
-          "name": "アルバノクト",
-          "id": null
-        },
-        {
           "name": "田中あいみ",
           "id": null
         },
         {
           "name": "日高里菜",
+          "id": null
+        },
+        {
+          "name": "赤羽根健治",
           "id": null
         },
         {
@@ -2107,7 +2151,7 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "汐屋遥佳",
           "id": null
         },
         {
@@ -2133,7 +2177,7 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "汐屋遥佳",
           "id": null
         },
         {
@@ -2341,11 +2385,11 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "たかはし智秋",
           "id": null
         },
         {
-          "name": "たかはし智秋",
+          "name": "汐屋遥佳",
           "id": null
         },
         {
