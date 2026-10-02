@@ -1,16 +1,16 @@
 {
   "actor_id": 78176,
   "actor_name": "浅見香月",
-  "fetched_at": "2026-10-01T20:15:05.603260",
+  "fetched_at": "2026-10-02T19:51:23.244090",
   "event_count": 39,
   "events": [
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年12月13日)",
-      "event_url": "https://www.eventernote.com/events/489222",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年12月13日)",
+      "event_url": "https://www.eventernote.com/events/489223",
       "date": "2026-12-13",
       "venue": "MIRAIEリアン コミュニティホール七間町",
-      "open_time": "12:00",
-      "start_time": "12:45",
+      "open_time": "15:30",
+      "start_time": "16:15",
       "actors": [
         {
           "name": "川村玲奈",
@@ -23,12 +23,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年12月13日)",
-      "event_url": "https://www.eventernote.com/events/489223",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年12月13日)",
+      "event_url": "https://www.eventernote.com/events/489222",
       "date": "2026-12-13",
       "venue": "MIRAIEリアン コミュニティホール七間町",
-      "open_time": "15:30",
-      "start_time": "16:15",
+      "open_time": "12:00",
+      "start_time": "12:45",
       "actors": [
         {
           "name": "川村玲奈",
@@ -503,7 +503,7 @@
           "id": null
         },
         {
-          "name": "汐屋遥佳",
+          "name": "井料愛良",
           "id": null
         },
         {
@@ -529,7 +529,7 @@
           "id": null
         },
         {
-          "name": "汐屋遥佳",
+          "name": "井料愛良",
           "id": null
         },
         {
@@ -921,7 +921,7 @@
           "id": null
         },
         {
-          "name": "汐屋遥佳",
+          "name": "井料愛良",
           "id": null
         },
         {
@@ -947,7 +947,7 @@
           "id": null
         },
         {
-          "name": "汐屋遥佳",
+          "name": "井料愛良",
           "id": null
         },
         {
@@ -973,11 +973,11 @@
           "id": null
         },
         {
-          "name": "たかはし智秋",
+          "name": "井料愛良",
           "id": null
         },
         {
-          "name": "汐屋遥佳",
+          "name": "たかはし智秋",
           "id": null
         },
         {

@@ -1,8 +1,8 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-10-01T20:14:59.239863",
-  "event_count": 52,
+  "fetched_at": "2026-10-02T19:51:16.897810",
+  "event_count": 55,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年1月17日)",
@@ -219,12 +219,86 @@
       ]
     },
     {
-      "event_name": "北九州ポップカルチャーフェスティバル2026「ブルーアーカイブ」KPF2026トークステージ",
+      "event_name": "アパマンショップ KPF2026 supported by dアニメストア(北九州ポップカルチャーフェスティバル2026)「ブルーアーカイブ」KPF2026 トークステージ Day2",
       "event_url": "https://www.eventernote.com/events/492812",
       "date": "2026-11-29",
       "venue": "北九州メッセ(西日本総合展示場新館)",
       "open_time": "",
       "start_time": "10:20",
+      "actors": [
+        {
+          "name": "高田憂希",
+          "id": null
+        },
+        {
+          "name": "百瀬紗菜",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "坂巻学",
+          "id": null
+        },
+        {
+          "name": "市来光弘",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "アパマンショップ KPF2026 supported by dアニメストア(北九州ポップカルチャーフェスティバル2026)『ステラソラ』KPF2026ステージ 〜北九州の魔王さん、今年も会いに来ましたスペシャル〜 DAY2",
+      "event_url": "https://www.eventernote.com/events/494897",
+      "date": "2026-11-29",
+      "venue": "北九州メッセ(西日本総合展示場新館)",
+      "open_time": "",
+      "start_time": "14:15",
+      "actors": [
+        {
+          "name": "高田憂希",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "江原萌依",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "アパマンショップ KPF2026 supported by dアニメストア(北九州ポップカルチャーフェスティバル2026)『ステラソラ』KPF2026ステージ 〜北九州の魔王さん、今年も会いに来ましたスペシャル〜 DAY1",
+      "event_url": "https://www.eventernote.com/events/494895",
+      "date": "2026-11-28",
+      "venue": "北九州メッセ(西日本総合展示場新館)",
+      "open_time": "",
+      "start_time": "16:40",
+      "actors": [
+        {
+          "name": "高田憂希",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "江原萌依",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "アパマンショップ KPF2026 supported by dアニメストア(北九州ポップカルチャーフェスティバル2026)「ブルーアーカイブ」KPF2026 トークステージ Day1",
+      "event_url": "https://www.eventernote.com/events/494907",
+      "date": "2026-11-28",
+      "venue": "北九州メッセ(西日本総合展示場新館)",
+      "open_time": "",
+      "start_time": "14:50",
       "actors": [
         {
           "name": "高田憂希",
@@ -1661,7 +1735,7 @@
           "id": null
         },
         {
-          "name": "那華喜シイナ",
+          "name": "石原美沙紀",
           "id": null
         },
         {

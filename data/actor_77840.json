@@ -1,16 +1,16 @@
 {
   "actor_id": 77840,
   "actor_name": "川村玲奈",
-  "fetched_at": "2026-10-01T20:12:28.355758",
+  "fetched_at": "2026-10-02T19:48:56.048072",
   "event_count": 57,
   "events": [
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年12月13日)",
-      "event_url": "https://www.eventernote.com/events/489222",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年12月13日)",
+      "event_url": "https://www.eventernote.com/events/489223",
       "date": "2026-12-13",
       "venue": "MIRAIEリアン コミュニティホール七間町",
-      "open_time": "12:00",
-      "start_time": "12:45",
+      "open_time": "15:30",
+      "start_time": "16:15",
       "actors": [
         {
           "name": "川村玲奈",
@@ -23,12 +23,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年12月13日)",
-      "event_url": "https://www.eventernote.com/events/489223",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年12月13日)",
+      "event_url": "https://www.eventernote.com/events/489222",
       "date": "2026-12-13",
       "venue": "MIRAIEリアン コミュニティホール七間町",
-      "open_time": "15:30",
-      "start_time": "16:15",
+      "open_time": "12:00",
+      "start_time": "12:45",
       "actors": [
         {
           "name": "川村玲奈",
@@ -279,12 +279,12 @@
       ]
     },
     {
-      "event_name": "ことばとば【1部】(2026年10月3日)",
-      "event_url": "https://www.eventernote.com/events/480640",
+      "event_name": "ことばとば【2部】(2026年10月3日)",
+      "event_url": "https://www.eventernote.com/events/480641",
       "date": "2026-10-03",
       "venue": "心斎橋PARCO SPACE14(スペースイチヨン)",
-      "open_time": "12:00",
-      "start_time": "12:30",
+      "open_time": "15:30",
+      "start_time": "16:00",
       "actors": [
         {
           "name": "小鹿なお",
@@ -297,12 +297,12 @@
       ]
     },
     {
-      "event_name": "ことばとば【2部】(2026年10月3日)",
-      "event_url": "https://www.eventernote.com/events/480641",
+      "event_name": "ことばとば【1部】(2026年10月3日)",
+      "event_url": "https://www.eventernote.com/events/480640",
       "date": "2026-10-03",
       "venue": "心斎橋PARCO SPACE14(スペースイチヨン)",
-      "open_time": "15:30",
-      "start_time": "16:00",
+      "open_time": "12:00",
+      "start_time": "12:30",
       "actors": [
         {
           "name": "小鹿なお",
@@ -1067,10 +1067,6 @@
           "id": null
         },
         {
-          "name": "セクシーギャルズ(シンデレラガールズ)",
-          "id": null
-        },
-        {
           "name": "山下七海",
           "id": null
         },
@@ -1308,6 +1304,10 @@
         },
         {
           "name": "陽高真白",
+          "id": null
+        },
+        {
+          "name": "アルバノクト",
           "id": null
         },
         {

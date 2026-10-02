@@ -1,7 +1,7 @@
 {
   "actor_id": 56410,
   "actor_name": "小鹿なお",
-  "fetched_at": "2026-10-01T20:11:14.806913",
+  "fetched_at": "2026-10-02T19:47:43.729223",
   "event_count": 64,
   "events": [
     {
@@ -137,12 +137,12 @@
       ]
     },
     {
-      "event_name": "ことばとば【1部】(2026年10月3日)",
-      "event_url": "https://www.eventernote.com/events/480640",
+      "event_name": "ことばとば【2部】(2026年10月3日)",
+      "event_url": "https://www.eventernote.com/events/480641",
       "date": "2026-10-03",
       "venue": "心斎橋PARCO SPACE14(スペースイチヨン)",
-      "open_time": "12:00",
-      "start_time": "12:30",
+      "open_time": "15:30",
+      "start_time": "16:00",
       "actors": [
         {
           "name": "小鹿なお",
@@ -155,12 +155,12 @@
       ]
     },
     {
-      "event_name": "ことばとば【2部】(2026年10月3日)",
-      "event_url": "https://www.eventernote.com/events/480641",
+      "event_name": "ことばとば【1部】(2026年10月3日)",
+      "event_url": "https://www.eventernote.com/events/480640",
       "date": "2026-10-03",
       "venue": "心斎橋PARCO SPACE14(スペースイチヨン)",
-      "open_time": "15:30",
-      "start_time": "16:00",
+      "open_time": "12:00",
+      "start_time": "12:30",
       "actors": [
         {
           "name": "小鹿なお",
