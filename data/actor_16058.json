@@ -1,7 +1,7 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-10-03T18:38:40.280384",
+  "fetched_at": "2026-10-04T18:36:42.921016",
   "event_count": 560,
   "events": [
     {
@@ -2109,10 +2109,6 @@
           "id": null
         },
         {
-          "name": "新島瑠菜(声優)",
-          "id": null
-        },
-        {
           "name": "春咲暖",
           "id": null
         },
@@ -2137,7 +2133,11 @@
           "id": null
         },
         {
-          "name": "蓮水晴菜",
+          "name": "蒲原玲久",
+          "id": null
+        },
+        {
+          "name": "山本光紗",
           "id": null
         },
         {
@@ -2187,10 +2187,6 @@
           "id": null
         },
         {
-          "name": "新島瑠菜(声優)",
-          "id": null
-        },
-        {
           "name": "春咲暖",
           "id": null
         },
@@ -2215,11 +2211,15 @@
           "id": null
         },
         {
-          "name": "蓮水晴菜",
+          "name": "土野秀斗",
           "id": null
         },
         {
-          "name": "土野秀斗",
+          "name": "蒲原玲久",
+          "id": null
+        },
+        {
+          "name": "山本光紗",
           "id": null
         },
         {
