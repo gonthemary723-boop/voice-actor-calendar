@@ -1,7 +1,7 @@
 {
   "actor_id": 67164,
   "actor_name": "陽高真白",
-  "fetched_at": "2026-10-06T20:05:21.002224",
+  "fetched_at": "2026-10-07T20:30:32.014566",
   "event_count": 143,
   "events": [
     {
@@ -647,10 +647,6 @@
           "id": null
         },
         {
-          "name": "新島瑠菜(声優)",
-          "id": null
-        },
-        {
           "name": "春咲暖",
           "id": null
         },
@@ -675,11 +671,15 @@
           "id": null
         },
         {
-          "name": "蓮水晴菜",
+          "name": "土野秀斗",
           "id": null
         },
         {
-          "name": "土野秀斗",
+          "name": "蒲原玲久",
+          "id": null
+        },
+        {
+          "name": "山本光紗",
           "id": null
         },
         {
@@ -725,10 +725,6 @@
           "id": null
         },
         {
-          "name": "新島瑠菜(声優)",
-          "id": null
-        },
-        {
           "name": "春咲暖",
           "id": null
         },
@@ -753,11 +749,15 @@
           "id": null
         },
         {
-          "name": "蓮水晴菜",
+          "name": "土野秀斗",
           "id": null
         },
         {
-          "name": "土野秀斗",
+          "name": "蒲原玲久",
+          "id": null
+        },
+        {
+          "name": "山本光紗",
           "id": null
         },
         {
@@ -3727,15 +3727,15 @@
           "id": null
         },
         {
-          "name": "鈴代真弓",
-          "id": null
-        },
-        {
           "name": "助川綾美",
           "id": null
         },
         {
           "name": "SERENA",
+          "id": null
+        },
+        {
+          "name": "古川舞歌",
           "id": null
         },
         {
@@ -3825,15 +3825,15 @@
           "id": null
         },
         {
-          "name": "鈴代真弓",
-          "id": null
-        },
-        {
           "name": "助川綾美",
           "id": null
         },
         {
           "name": "SERENA",
+          "id": null
+        },
+        {
+          "name": "古川舞歌",
           "id": null
         },
         {
@@ -3923,15 +3923,15 @@
           "id": null
         },
         {
-          "name": "鈴代真弓",
-          "id": null
-        },
-        {
           "name": "助川綾美",
           "id": null
         },
         {
           "name": "SERENA",
+          "id": null
+        },
+        {
+          "name": "古川舞歌",
           "id": null
         },
         {
@@ -4021,15 +4021,15 @@
           "id": null
         },
         {
-          "name": "鈴代真弓",
-          "id": null
-        },
-        {
           "name": "助川綾美",
           "id": null
         },
         {
           "name": "SERENA",
+          "id": null
+        },
+        {
+          "name": "古川舞歌",
           "id": null
         },
         {
@@ -4119,15 +4119,15 @@
           "id": null
         },
         {
-          "name": "鈴代真弓",
-          "id": null
-        },
-        {
           "name": "助川綾美",
           "id": null
         },
         {
           "name": "SERENA",
+          "id": null
+        },
+        {
+          "name": "古川舞歌",
           "id": null
         },
         {
@@ -4217,15 +4217,15 @@
           "id": null
         },
         {
-          "name": "鈴代真弓",
-          "id": null
-        },
-        {
           "name": "助川綾美",
           "id": null
         },
         {
           "name": "SERENA",
+          "id": null
+        },
+        {
+          "name": "古川舞歌",
           "id": null
         },
         {
@@ -4315,15 +4315,15 @@
           "id": null
         },
         {
-          "name": "鈴代真弓",
-          "id": null
-        },
-        {
           "name": "助川綾美",
           "id": null
         },
         {
           "name": "SERENA",
+          "id": null
+        },
+        {
+          "name": "古川舞歌",
           "id": null
         },
         {
@@ -4413,15 +4413,15 @@
           "id": null
         },
         {
-          "name": "鈴代真弓",
-          "id": null
-        },
-        {
           "name": "助川綾美",
           "id": null
         },
         {
           "name": "SERENA",
+          "id": null
+        },
+        {
+          "name": "古川舞歌",
           "id": null
         },
         {
@@ -4511,15 +4511,15 @@
           "id": null
         },
         {
-          "name": "鈴代真弓",
-          "id": null
-        },
-        {
           "name": "助川綾美",
           "id": null
         },
         {
           "name": "SERENA",
+          "id": null
+        },
+        {
+          "name": "古川舞歌",
           "id": null
         },
         {
@@ -10553,6 +10553,10 @@
           "id": null
         },
         {
+          "name": "播磨かな",
+          "id": null
+        },
+        {
           "name": "日和ゆず",
           "id": null
         },
@@ -10570,10 +10574,6 @@
         },
         {
           "name": "陽高真白",
-          "id": null
-        },
-        {
-          "name": "岡本芽子",
           "id": null
         },
         {
@@ -10607,6 +10607,10 @@
           "id": null
         },
         {
+          "name": "播磨かな",
+          "id": null
+        },
+        {
           "name": "日和ゆず",
           "id": null
         },
@@ -10624,10 +10628,6 @@
         },
         {
           "name": "陽高真白",
-          "id": null
-        },
-        {
-          "name": "岡本芽子",
           "id": null
         },
         {
@@ -10661,6 +10661,10 @@
           "id": null
         },
         {
+          "name": "播磨かな",
+          "id": null
+        },
+        {
           "name": "日和ゆず",
           "id": null
         },
@@ -10678,10 +10682,6 @@
         },
         {
           "name": "陽高真白",
-          "id": null
-        },
-        {
-          "name": "岡本芽子",
           "id": null
         },
         {
@@ -10715,6 +10715,10 @@
           "id": null
         },
         {
+          "name": "播磨かな",
+          "id": null
+        },
+        {
           "name": "日和ゆず",
           "id": null
         },
@@ -10732,10 +10736,6 @@
         },
         {
           "name": "陽高真白",
-          "id": null
-        },
-        {
-          "name": "岡本芽子",
           "id": null
         },
         {
@@ -10769,6 +10769,10 @@
           "id": null
         },
         {
+          "name": "播磨かな",
+          "id": null
+        },
+        {
           "name": "日和ゆず",
           "id": null
         },
@@ -10786,10 +10790,6 @@
         },
         {
           "name": "陽高真白",
-          "id": null
-        },
-        {
-          "name": "岡本芽子",
           "id": null
         },
         {
