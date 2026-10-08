@@ -1,7 +1,7 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-10-07T20:30:08.180573",
+  "fetched_at": "2026-10-08T20:35:37.159391",
   "event_count": 560,
   "events": [
     {
@@ -2109,6 +2109,10 @@
           "id": null
         },
         {
+          "name": "新島瑠菜(声優)",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -2133,15 +2137,11 @@
           "id": null
         },
         {
+          "name": "蓮水晴菜",
+          "id": null
+        },
+        {
           "name": "土野秀斗",
-          "id": null
-        },
-        {
-          "name": "蒲原玲久",
-          "id": null
-        },
-        {
-          "name": "山本光紗",
           "id": null
         },
         {
@@ -2187,6 +2187,10 @@
           "id": null
         },
         {
+          "name": "新島瑠菜(声優)",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -2211,15 +2215,11 @@
           "id": null
         },
         {
+          "name": "蓮水晴菜",
+          "id": null
+        },
+        {
           "name": "土野秀斗",
-          "id": null
-        },
-        {
-          "name": "蒲原玲久",
-          "id": null
-        },
-        {
-          "name": "山本光紗",
           "id": null
         },
         {
@@ -15145,6 +15145,10 @@
           "id": null
         },
         {
+          "name": "大島璃乃",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -15162,10 +15166,6 @@
         },
         {
           "name": "天音利梛",
-          "id": null
-        },
-        {
-          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -15199,6 +15199,10 @@
           "id": null
         },
         {
+          "name": "大島璃乃",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -15216,10 +15220,6 @@
         },
         {
           "name": "天音利梛",
-          "id": null
-        },
-        {
-          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -15361,6 +15361,10 @@
           "id": null
         },
         {
+          "name": "大島璃乃",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -15378,10 +15382,6 @@
         },
         {
           "name": "天音利梛",
-          "id": null
-        },
-        {
-          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -43389,15 +43389,15 @@
           "id": null
         },
         {
-          "name": "石川智久(TECHNOBOYS PULCRAFT GREEN-FUND)",
-          "id": null
-        },
-        {
           "name": "松井洋平",
           "id": null
         },
         {
           "name": "Yun*chi",
+          "id": null
+        },
+        {
+          "name": "EFFY",
           "id": null
         },
         {
