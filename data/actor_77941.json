@@ -1,8 +1,8 @@
 {
   "actor_id": 77941,
   "actor_name": "松田彩音",
-  "fetched_at": "2026-10-08T20:34:08.166809",
-  "event_count": 42,
+  "fetched_at": "2026-10-09T20:03:36.026688",
+  "event_count": 40,
   "events": [
     {
       "event_name": "音泉祭り2027東京",
@@ -2276,82 +2276,6 @@
         },
         {
           "name": "岡本芽子",
-          "id": null
-        }
-      ]
-    },
-    {
-      "event_name": "TVアニメ『響け！ユーフォニアム３』第一回～第七回 一挙上映イベント",
-      "event_url": "https://www.eventernote.com/events/378695",
-      "date": "2024-05-25",
-      "venue": "丸の内ピカデリー",
-      "open_time": "",
-      "start_time": "15:00",
-      "actors": [
-        {
-          "name": "松田彩音",
-          "id": null
-        },
-        {
-          "name": "朝井彩加",
-          "id": null
-        },
-        {
-          "name": "寺澤百花",
-          "id": null
-        },
-        {
-          "name": "陶山恵実里",
-          "id": null
-        }
-      ]
-    },
-    {
-      "event_name": "「学園アイドルマスター」初星学園オープンキャンパス＠ニコニコ超会議2024",
-      "event_url": "https://www.eventernote.com/events/376316",
-      "date": "2024-04-28",
-      "venue": "幕張メッセ 国際展示場ホール",
-      "open_time": "10:00",
-      "start_time": "13:00",
-      "actors": [
-        {
-          "name": "長月あおい",
-          "id": null
-        },
-        {
-          "name": "小鹿なお",
-          "id": null
-        },
-        {
-          "name": "飯田ヒカル",
-          "id": null
-        },
-        {
-          "name": "春咲暖",
-          "id": null
-        },
-        {
-          "name": "陽高真白",
-          "id": null
-        },
-        {
-          "name": "松田彩音",
-          "id": null
-        },
-        {
-          "name": "小美野日出文",
-          "id": null
-        },
-        {
-          "name": "佐藤大地(BNEI)",
-          "id": null
-        },
-        {
-          "name": "山本亮(BNEI)",
-          "id": null
-        },
-        {
-          "name": "学園アイドルマスター",
           "id": null
         }
       ]
