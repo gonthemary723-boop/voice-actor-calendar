@@ -1,8 +1,8 @@
 {
   "actor_id": 56962,
   "actor_name": "薄井友里",
-  "fetched_at": "2026-10-09T20:03:20.494378",
-  "event_count": 80,
+  "fetched_at": "2026-10-10T19:12:49.016888",
+  "event_count": 91,
   "events": [
     {
       "event_name": "北海道ベストフレンドパーク 1部(2027年1月10日)",
@@ -3132,6 +3132,276 @@
         },
         {
           "name": "学園アイドルマスター",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "SEASIDE STREAMING Presents 〜トネケンプレミアム 2024〜【夜の部】",
+      "event_url": "https://www.eventernote.com/events/380508",
+      "date": "2024-06-22",
+      "venue": "築地本願寺ブディストホール",
+      "open_time": "17:30",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "利根健太朗",
+          "id": null
+        },
+        {
+          "name": "長江里加",
+          "id": null
+        },
+        {
+          "name": "中村温姫",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "Seaside Fresh Voices vol.1 昼の部",
+      "event_url": "https://www.eventernote.com/events/376261",
+      "date": "2024-06-08",
+      "venue": "築地本願寺ブディストホール",
+      "open_time": "13:30",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "桑原由気",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "和久野愛佳",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ごきげんよう！百合咲リヲです。はじめまして！百合咲リヲです。 第2部",
+      "event_url": "https://www.eventernote.com/events/372350",
+      "date": "2024-05-26",
+      "venue": "高円寺Studio K(Studio 3)",
+      "open_time": "17:30",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "髙橋咲貴",
+          "id": null
+        },
+        {
+          "name": "豊洲りお",
+          "id": null
+        },
+        {
+          "name": "ごきげんよう！百合咲リヲです。",
+          "id": null
+        },
+        {
+          "name": "武田羅梨沙多胡",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ごきげんよう！百合咲リヲです。はじめまして！百合咲リヲです。 第1部",
+      "event_url": "https://www.eventernote.com/events/372349",
+      "date": "2024-05-26",
+      "venue": "高円寺Studio K(Studio 3)",
+      "open_time": "15:00",
+      "start_time": "15:30",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "髙橋咲貴",
+          "id": null
+        },
+        {
+          "name": "豊洲りお",
+          "id": null
+        },
+        {
+          "name": "ごきげんよう！百合咲リヲです。",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "AnimeJapan2024 ベルガモブース『ごきげんよう！百合咲リヲです。 お話し会』",
+      "event_url": "https://www.eventernote.com/events/371361",
+      "date": "2024-03-23",
+      "venue": "東京ビッグサイト(東京国際展示場)",
+      "open_time": "12:20",
+      "start_time": "12:30",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "髙橋咲貴",
+          "id": null
+        },
+        {
+          "name": "豊洲りお",
+          "id": null
+        },
+        {
+          "name": "ごきげんよう！百合咲リヲです。",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【10/22】【TZ GAME Labs】ファンミーティング【3部】赤尾ひかる・稲垣好・薄井友里",
+      "event_url": "https://www.eventernote.com/events/353067",
+      "date": "2023-10-22",
+      "venue": "TZ GAME Labs(閉店)",
+      "open_time": "",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "赤尾ひかる",
+          "id": null
+        },
+        {
+          "name": "稲垣好",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【10/22】【TZ GAME Labs】ゲームイベント開催【2部】赤尾ひかる・薄井友里",
+      "event_url": "https://www.eventernote.com/events/353066",
+      "date": "2023-10-22",
+      "venue": "TZ GAME Labs(閉店)",
+      "open_time": "",
+      "start_time": "14:30",
+      "actors": [
+        {
+          "name": "赤尾ひかる",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ごきげんよう、蘭咲ユリのイベントは武器学校と麻雀です ①武器学校見学",
+      "event_url": "https://www.eventernote.com/events/353589",
+      "date": "2023-10-14",
+      "venue": "陸上自衛隊武器学校",
+      "open_time": "13:00",
+      "start_time": "13:30",
+      "actors": [
+        {
+          "name": "青山稀蘭",
+          "id": null
+        },
+        {
+          "name": "髙橋咲貴",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "ごきげんよう！蘭咲ユリです。",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ごきげんよう、蘭咲ユリのイベントは武器学校と麻雀です ②イベント",
+      "event_url": "https://www.eventernote.com/events/354309",
+      "date": "2023-10-14",
+      "venue": "土浦市亀城プラザ 学習室",
+      "open_time": "16:30",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "青山稀蘭",
+          "id": null
+        },
+        {
+          "name": "髙橋咲貴",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "ごきげんよう！蘭咲ユリです。",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「ごきげんよう蘭咲ユリです」パーソナリティ　チラシ配布",
+      "event_url": "https://www.eventernote.com/events/351765",
+      "date": "2023-03-25",
+      "venue": "東京ビッグサイト(東京国際展示場)",
+      "open_time": "",
+      "start_time": "15:00",
+      "actors": [
+        {
+          "name": "髙橋咲貴",
+          "id": null
+        },
+        {
+          "name": "青山稀蘭",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "ごきげんよう！蘭咲ユリです。",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "日曜日はオフレコでお願いします！第44回",
+      "event_url": "https://www.eventernote.com/events/317004",
+      "date": "2022-09-18",
+      "venue": "セブンパーク天美 3F AMAMI PLUS（閉館）",
+      "open_time": "15:15",
+      "start_time": "15:30",
+      "actors": [
+        {
+          "name": "緒方佑奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
           "id": null
         }
       ]
