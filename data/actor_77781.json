@@ -1,7 +1,7 @@
 {
   "actor_id": 77781,
   "actor_name": "七瀬つむぎ",
-  "fetched_at": "2026-10-12T22:25:29.898446",
+  "fetched_at": "2026-10-13T20:32:47.275165",
   "event_count": 70,
   "events": [
     {
@@ -215,12 +215,12 @@
       ]
     },
     {
-      "event_name": "『イエローが死んだ』④",
-      "event_url": "https://www.eventernote.com/events/496298",
+      "event_name": "『イエローが死んだ』⑤",
+      "event_url": "https://www.eventernote.com/events/496299",
       "date": "2026-11-28",
       "venue": "シアターグリーン BOX in BOX THEATER",
       "open_time": "",
-      "start_time": "13:30",
+      "start_time": "18:30",
       "actors": [
         {
           "name": "櫻井圭登",
@@ -289,12 +289,12 @@
       ]
     },
     {
-      "event_name": "『イエローが死んだ』⑤",
-      "event_url": "https://www.eventernote.com/events/496299",
+      "event_name": "『イエローが死んだ』④",
+      "event_url": "https://www.eventernote.com/events/496298",
       "date": "2026-11-28",
       "venue": "シアターグリーン BOX in BOX THEATER",
       "open_time": "",
-      "start_time": "18:30",
+      "start_time": "13:30",
       "actors": [
         {
           "name": "櫻井圭登",
