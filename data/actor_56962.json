@@ -1,9 +1,45 @@
 {
   "actor_id": 56962,
   "actor_name": "薄井友里",
-  "fetched_at": "2026-10-13T20:33:39.571097",
-  "event_count": 91,
+  "fetched_at": "2026-10-14T19:14:19.381674",
+  "event_count": 93,
   "events": [
+    {
+      "event_name": "ことばとば【1部】(2027年1月31日)",
+      "event_url": "https://www.eventernote.com/events/496535",
+      "date": "2027-01-31",
+      "venue": "ライクスホール",
+      "open_time": "12:00",
+      "start_time": "12:30",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ことばとば【2部】(2027年1月31日)",
+      "event_url": "https://www.eventernote.com/events/496536",
+      "date": "2027-01-31",
+      "venue": "ライクスホール",
+      "open_time": "15:30",
+      "start_time": "16:00",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "北海道ベストフレンドパーク 1部(2027年1月10日)",
       "event_url": "https://www.eventernote.com/events/493714",
