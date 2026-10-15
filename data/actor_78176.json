@@ -1,7 +1,7 @@
 {
   "actor_id": 78176,
   "actor_name": "浅見香月",
-  "fetched_at": "2026-10-14T19:16:24.849009",
+  "fetched_at": "2026-10-15T18:58:35.990615",
   "event_count": 39,
   "events": [
     {
@@ -213,12 +213,12 @@
       ]
     },
     {
-      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月19日⑦",
-      "event_url": "https://www.eventernote.com/events/488963",
+      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月19日⑧",
+      "event_url": "https://www.eventernote.com/events/488959",
       "date": "2026-09-19",
       "venue": "中野テアトルBONBON",
       "open_time": "",
-      "start_time": "14:00",
+      "start_time": "18:30",
       "actors": [
         {
           "name": "愛ノ彩笑",
@@ -279,12 +279,12 @@
       ]
     },
     {
-      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月19日⑧",
-      "event_url": "https://www.eventernote.com/events/488959",
+      "event_name": "［MISHIMALIVE READING PROJECT-Vol.2］『エンカウンター』9月19日⑦",
+      "event_url": "https://www.eventernote.com/events/488963",
       "date": "2026-09-19",
       "venue": "中野テアトルBONBON",
       "open_time": "",
-      "start_time": "18:30",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "愛ノ彩笑",
