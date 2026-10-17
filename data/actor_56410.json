@@ -1,9 +1,45 @@
 {
   "actor_id": 56410,
   "actor_name": "小鹿なお",
-  "fetched_at": "2026-10-16T18:40:05.050114",
-  "event_count": 66,
+  "fetched_at": "2026-10-17T17:47:11.215654",
+  "event_count": 68,
   "events": [
+    {
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年5月16日)",
+      "event_url": "https://www.eventernote.com/events/496841",
+      "date": "2027-05-16",
+      "venue": "!_静岡県内某所",
+      "open_time": "12:00",
+      "start_time": "12:45",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年5月16日)",
+      "event_url": "https://www.eventernote.com/events/496842",
+      "date": "2027-05-16",
+      "venue": "!_静岡県内某所",
+      "open_time": "15:30",
+      "start_time": "16:15",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "ことばとば【1部】(2027年1月31日)",
       "event_url": "https://www.eventernote.com/events/496535",

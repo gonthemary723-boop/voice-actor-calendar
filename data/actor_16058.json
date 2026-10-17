@@ -1,7 +1,7 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-10-16T18:42:48.451911",
+  "fetched_at": "2026-10-17T17:50:08.091756",
   "event_count": 560,
   "events": [
     {
@@ -101,7 +101,7 @@
           "id": null
         },
         {
-          "name": "大谷翔吾",
+          "name": "廣田那央",
           "id": null
         },
         {
@@ -179,7 +179,7 @@
           "id": null
         },
         {
-          "name": "大谷翔吾",
+          "name": "廣田那央",
           "id": null
         },
         {
@@ -257,7 +257,7 @@
           "id": null
         },
         {
-          "name": "大谷翔吾",
+          "name": "廣田那央",
           "id": null
         },
         {
@@ -335,7 +335,7 @@
           "id": null
         },
         {
-          "name": "大谷翔吾",
+          "name": "廣田那央",
           "id": null
         },
         {
@@ -413,7 +413,7 @@
           "id": null
         },
         {
-          "name": "大谷翔吾",
+          "name": "廣田那央",
           "id": null
         },
         {
@@ -491,7 +491,7 @@
           "id": null
         },
         {
-          "name": "大谷翔吾",
+          "name": "廣田那央",
           "id": null
         },
         {
@@ -569,7 +569,7 @@
           "id": null
         },
         {
-          "name": "大谷翔吾",
+          "name": "廣田那央",
           "id": null
         },
         {
@@ -647,7 +647,7 @@
           "id": null
         },
         {
-          "name": "大谷翔吾",
+          "name": "廣田那央",
           "id": null
         },
         {
@@ -725,7 +725,7 @@
           "id": null
         },
         {
-          "name": "大谷翔吾",
+          "name": "廣田那央",
           "id": null
         },
         {
@@ -8910,7 +8910,7 @@
       "event_name": "月を跨ぐVOL.2　夜の部",
       "event_url": "https://www.eventernote.com/events/347876",
       "date": "2023-07-15",
-      "venue": "CAPSULE",
+      "venue": "CAPSULE(閉館)",
       "open_time": "17:00",
       "start_time": "17:30",
       "actors": [
@@ -8952,7 +8952,7 @@
       "event_name": "月を跨ぐVOL.2　昼の部",
       "event_url": "https://www.eventernote.com/events/347875",
       "date": "2023-07-15",
-      "venue": "CAPSULE",
+      "venue": "CAPSULE(閉館)",
       "open_time": "14:00",
       "start_time": "14:30",
       "actors": [
@@ -36155,6 +36155,10 @@
           "id": null
         },
         {
+          "name": "辻野かなみ",
+          "id": null
+        },
+        {
           "name": "藤本ばんび",
           "id": null
         },
@@ -37476,10 +37480,6 @@
         },
         {
           "name": "平野友里",
-          "id": null
-        },
-        {
-          "name": "サンスポ",
           "id": null
         },
         {
