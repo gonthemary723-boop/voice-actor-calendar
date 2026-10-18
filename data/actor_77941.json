@@ -1,8 +1,8 @@
 {
   "actor_id": 77941,
   "actor_name": "松田彩音",
-  "fetched_at": "2026-10-17T17:48:45.744698",
-  "event_count": 42,
+  "fetched_at": "2026-10-18T17:54:08.611704",
+  "event_count": 44,
   "events": [
     {
       "event_name": "音泉祭り2027東京",
@@ -154,6 +154,66 @@
         },
         {
           "name": "DIALOGUE＋",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク6〜はちゅもうで〜 昼の部",
+      "event_url": "https://www.eventernote.com/events/496993",
+      "date": "2027-01-24",
+      "venue": "浜離宮朝日ホール 小ホール",
+      "open_time": "13:15",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク6〜はちゅもうで〜 夜の部",
+      "event_url": "https://www.eventernote.com/events/496994",
+      "date": "2027-01-24",
+      "venue": "浜離宮朝日ホール 小ホール",
+      "open_time": "16:45",
+      "start_time": "17:30",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
           "id": null
         }
       ]

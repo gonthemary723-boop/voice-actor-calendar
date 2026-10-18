@@ -1,8 +1,8 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-10-17T17:48:04.376390",
-  "event_count": 76,
+  "fetched_at": "2026-10-18T17:53:24.015958",
+  "event_count": 78,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年4月11日)",
@@ -36,6 +36,66 @@
         },
         {
           "name": "川村玲奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク6〜はちゅもうで〜 昼の部",
+      "event_url": "https://www.eventernote.com/events/496993",
+      "date": "2027-01-24",
+      "venue": "浜離宮朝日ホール 小ホール",
+      "open_time": "13:15",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク6〜はちゅもうで〜 夜の部",
+      "event_url": "https://www.eventernote.com/events/496994",
+      "date": "2027-01-24",
+      "venue": "浜離宮朝日ホール 小ホール",
+      "open_time": "16:45",
+      "start_time": "17:30",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
           "id": null
         }
       ]
@@ -651,7 +711,7 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "汐屋遥佳",
           "id": null
         },
         {
@@ -677,7 +737,7 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "汐屋遥佳",
           "id": null
         },
         {
@@ -755,7 +815,7 @@
           "id": null
         },
         {
-          "name": "平山笑美",
+          "name": "那華喜シイナ",
           "id": null
         },
         {
@@ -833,7 +893,7 @@
           "id": null
         },
         {
-          "name": "平山笑美",
+          "name": "那華喜シイナ",
           "id": null
         },
         {
@@ -911,7 +971,7 @@
           "id": null
         },
         {
-          "name": "石原美沙紀",
+          "name": "那華喜シイナ",
           "id": null
         },
         {
@@ -2187,7 +2247,7 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "汐屋遥佳",
           "id": null
         },
         {
@@ -2213,7 +2273,7 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "汐屋遥佳",
           "id": null
         },
         {
@@ -2421,11 +2481,11 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "たかはし智秋",
           "id": null
         },
         {
-          "name": "たかはし智秋",
+          "name": "汐屋遥佳",
           "id": null
         },
         {

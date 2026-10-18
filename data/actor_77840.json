@@ -1,8 +1,8 @@
 {
   "actor_id": 77840,
   "actor_name": "川村玲奈",
-  "fetched_at": "2026-10-17T17:48:22.391496",
-  "event_count": 59,
+  "fetched_at": "2026-10-18T17:53:44.736850",
+  "event_count": 61,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年4月11日)",
@@ -36,6 +36,66 @@
         },
         {
           "name": "川村玲奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク6〜はちゅもうで〜 昼の部",
+      "event_url": "https://www.eventernote.com/events/496993",
+      "date": "2027-01-24",
+      "venue": "浜離宮朝日ホール 小ホール",
+      "open_time": "13:15",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク6〜はちゅもうで〜 夜の部",
+      "event_url": "https://www.eventernote.com/events/496994",
+      "date": "2027-01-24",
+      "venue": "浜離宮朝日ホール 小ホール",
+      "open_time": "16:45",
+      "start_time": "17:30",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "松田彩音",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
           "id": null
         }
       ]
