@@ -1,7 +1,7 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-10-18T17:53:33.018682",
+  "fetched_at": "2026-10-19T20:26:02.323851",
   "event_count": 57,
   "events": [
     {
@@ -77,12 +77,12 @@
       ]
     },
     {
-      "event_name": "湊みや 香港粉絲見面會 第一部",
-      "event_url": "https://www.eventernote.com/events/496991",
+      "event_name": "湊みや 香港粉絲見面會 第二部",
+      "event_url": "https://www.eventernote.com/events/496992",
       "date": "2026-11-22",
       "venue": "P'Artiste",
-      "open_time": "11:30",
-      "start_time": "12:00",
+      "open_time": "15:30",
+      "start_time": "16:00",
       "actors": [
         {
           "name": "湊みや",
@@ -91,12 +91,12 @@
       ]
     },
     {
-      "event_name": "湊みや 香港粉絲見面會 第二部",
-      "event_url": "https://www.eventernote.com/events/496992",
+      "event_name": "湊みや 香港粉絲見面會 第一部",
+      "event_url": "https://www.eventernote.com/events/496991",
       "date": "2026-11-22",
       "venue": "P'Artiste",
-      "open_time": "15:30",
-      "start_time": "16:00",
+      "open_time": "11:30",
+      "start_time": "12:00",
       "actors": [
         {
           "name": "湊みや",

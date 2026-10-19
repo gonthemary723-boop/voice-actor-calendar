@@ -1,7 +1,7 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-10-18T17:55:32.113862",
+  "fetched_at": "2026-10-19T20:28:01.380320",
   "event_count": 560,
   "events": [
     {
@@ -267,12 +267,12 @@
       ]
     },
     {
-      "event_name": "舞台「爆剣-本能寺消滅記-」12月5日 13:00",
-      "event_url": "https://www.eventernote.com/events/493269",
+      "event_name": "舞台「爆剣-本能寺消滅記-」12月5日 18:00",
+      "event_url": "https://www.eventernote.com/events/493270",
       "date": "2026-12-05",
       "venue": "CBGKシブゲキ!!",
-      "open_time": "12:15",
-      "start_time": "13:00",
+      "open_time": "17:15",
+      "start_time": "18:00",
       "actors": [
         {
           "name": "鵜飼主水",
@@ -345,12 +345,12 @@
       ]
     },
     {
-      "event_name": "舞台「爆剣-本能寺消滅記-」12月5日 18:00",
-      "event_url": "https://www.eventernote.com/events/493270",
+      "event_name": "舞台「爆剣-本能寺消滅記-」12月5日 13:00",
+      "event_url": "https://www.eventernote.com/events/493269",
       "date": "2026-12-05",
       "venue": "CBGKシブゲキ!!",
-      "open_time": "17:15",
-      "start_time": "18:00",
+      "open_time": "12:15",
+      "start_time": "13:00",
       "actors": [
         {
           "name": "鵜飼主水",
@@ -2137,15 +2137,15 @@
           "id": null
         },
         {
-          "name": "蓮水晴菜",
-          "id": null
-        },
-        {
           "name": "土野秀斗",
           "id": null
         },
         {
           "name": "蒲原玲久",
+          "id": null
+        },
+        {
+          "name": "山本光紗",
           "id": null
         },
         {
@@ -2215,15 +2215,15 @@
           "id": null
         },
         {
-          "name": "蓮水晴菜",
-          "id": null
-        },
-        {
           "name": "土野秀斗",
           "id": null
         },
         {
           "name": "蒲原玲久",
+          "id": null
+        },
+        {
+          "name": "山本光紗",
           "id": null
         },
         {
@@ -12113,7 +12113,7 @@
           "id": null
         },
         {
-          "name": "渡来美友",
+          "name": "好岡瞳",
           "id": null
         },
         {
@@ -12211,7 +12211,7 @@
           "id": null
         },
         {
-          "name": "渡来美友",
+          "name": "好岡瞳",
           "id": null
         },
         {
@@ -12309,7 +12309,7 @@
           "id": null
         },
         {
-          "name": "渡来美友",
+          "name": "好岡瞳",
           "id": null
         },
         {
@@ -12407,7 +12407,7 @@
           "id": null
         },
         {
-          "name": "渡来美友",
+          "name": "好岡瞳",
           "id": null
         },
         {
@@ -12505,7 +12505,7 @@
           "id": null
         },
         {
-          "name": "渡来美友",
+          "name": "好岡瞳",
           "id": null
         },
         {
@@ -12603,7 +12603,7 @@
           "id": null
         },
         {
-          "name": "渡来美友",
+          "name": "好岡瞳",
           "id": null
         },
         {
@@ -12701,7 +12701,7 @@
           "id": null
         },
         {
-          "name": "渡来美友",
+          "name": "好岡瞳",
           "id": null
         },
         {
@@ -12799,7 +12799,7 @@
           "id": null
         },
         {
-          "name": "渡来美友",
+          "name": "好岡瞳",
           "id": null
         },
         {
@@ -12897,7 +12897,7 @@
           "id": null
         },
         {
-          "name": "渡来美友",
+          "name": "好岡瞳",
           "id": null
         },
         {
@@ -12995,7 +12995,7 @@
           "id": null
         },
         {
-          "name": "渡来美友",
+          "name": "好岡瞳",
           "id": null
         },
         {
@@ -15111,7 +15111,7 @@
           "id": null
         },
         {
-          "name": "天音利梛",
+          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -15145,6 +15145,10 @@
           "id": null
         },
         {
+          "name": "大島璃乃",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -15158,10 +15162,6 @@
         },
         {
           "name": "富田保乃歌",
-          "id": null
-        },
-        {
-          "name": "天音利梛",
           "id": null
         },
         {
@@ -15199,6 +15199,10 @@
           "id": null
         },
         {
+          "name": "大島璃乃",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -15212,10 +15216,6 @@
         },
         {
           "name": "富田保乃歌",
-          "id": null
-        },
-        {
-          "name": "天音利梛",
           "id": null
         },
         {
@@ -15273,7 +15273,7 @@
           "id": null
         },
         {
-          "name": "天音利梛",
+          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -15327,7 +15327,7 @@
           "id": null
         },
         {
-          "name": "天音利梛",
+          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -15361,6 +15361,10 @@
           "id": null
         },
         {
+          "name": "大島璃乃",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -15374,10 +15378,6 @@
         },
         {
           "name": "富田保乃歌",
-          "id": null
-        },
-        {
-          "name": "天音利梛",
           "id": null
         },
         {
@@ -15435,7 +15435,7 @@
           "id": null
         },
         {
-          "name": "天音利梛",
+          "name": "伊藤雨音",
           "id": null
         },
         {

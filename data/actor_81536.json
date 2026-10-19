@@ -1,7 +1,7 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-10-18T17:56:04.635323",
+  "fetched_at": "2026-10-19T20:28:34.225656",
   "event_count": 57,
   "events": [
     {
@@ -65,12 +65,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年1月17日)",
-      "event_url": "https://www.eventernote.com/events/484381",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年1月17日)",
+      "event_url": "https://www.eventernote.com/events/484380",
       "date": "2027-01-17",
       "venue": "MIRAIEリアン コミュニティホール七間町",
-      "open_time": "15:30",
-      "start_time": "16:15",
+      "open_time": "12:00",
+      "start_time": "12:45",
       "actors": [
         {
           "name": "天音ゆかり",
@@ -83,12 +83,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年1月17日)",
-      "event_url": "https://www.eventernote.com/events/484380",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年1月17日)",
+      "event_url": "https://www.eventernote.com/events/484381",
       "date": "2027-01-17",
       "venue": "MIRAIEリアン コミュニティホール七間町",
-      "open_time": "12:00",
-      "start_time": "12:45",
+      "open_time": "15:30",
+      "start_time": "16:15",
       "actors": [
         {
           "name": "天音ゆかり",
