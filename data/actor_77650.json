@@ -1,8 +1,8 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-10-19T20:25:53.195721",
-  "event_count": 78,
+  "fetched_at": "2026-10-20T19:01:14.355234",
+  "event_count": 82,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年4月11日)",
@@ -101,12 +101,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年1月17日)",
-      "event_url": "https://www.eventernote.com/events/484380",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年1月17日)",
+      "event_url": "https://www.eventernote.com/events/484381",
       "date": "2027-01-17",
       "venue": "MIRAIEリアン コミュニティホール七間町",
-      "open_time": "12:00",
-      "start_time": "12:45",
+      "open_time": "15:30",
+      "start_time": "16:15",
       "actors": [
         {
           "name": "天音ゆかり",
@@ -119,12 +119,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年1月17日)",
-      "event_url": "https://www.eventernote.com/events/484381",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年1月17日)",
+      "event_url": "https://www.eventernote.com/events/484380",
       "date": "2027-01-17",
       "venue": "MIRAIEリアン コミュニティホール七間町",
-      "open_time": "15:30",
-      "start_time": "16:15",
+      "open_time": "12:00",
+      "start_time": "12:45",
       "actors": [
         {
           "name": "天音ゆかり",
@@ -220,6 +220,110 @@
         },
         {
           "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "シナリブ＃3「夕凪にとける」⑧",
+      "event_url": "https://www.eventernote.com/events/497403",
+      "date": "2026-11-22",
+      "venue": "RBL CAFE",
+      "open_time": "15:40",
+      "start_time": "16:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "久家心",
+          "id": null
+        },
+        {
+          "name": "長田まひる",
+          "id": null
+        },
+        {
+          "name": "山本早恵",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "シナリブ＃3「夕凪にとける」⑦",
+      "event_url": "https://www.eventernote.com/events/497402",
+      "date": "2026-11-22",
+      "venue": "RBL CAFE",
+      "open_time": "11:40",
+      "start_time": "12:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "久家心",
+          "id": null
+        },
+        {
+          "name": "長田まひる",
+          "id": null
+        },
+        {
+          "name": "山本早恵",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "シナリブ＃3「夕凪にとける」⑤",
+      "event_url": "https://www.eventernote.com/events/497400",
+      "date": "2026-11-21",
+      "venue": "RBL CAFE",
+      "open_time": "11:40",
+      "start_time": "12:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "久家心",
+          "id": null
+        },
+        {
+          "name": "長田まひる",
+          "id": null
+        },
+        {
+          "name": "山本早恵",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "シナリブ＃3「夕凪にとける」⑥",
+      "event_url": "https://www.eventernote.com/events/497401",
+      "date": "2026-11-21",
+      "venue": "RBL CAFE",
+      "open_time": "15:40",
+      "start_time": "16:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "久家心",
+          "id": null
+        },
+        {
+          "name": "長田まひる",
+          "id": null
+        },
+        {
+          "name": "山本早恵",
           "id": null
         }
       ]
