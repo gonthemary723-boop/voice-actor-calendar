@@ -1,8 +1,8 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-10-20T19:00:35.446248",
-  "event_count": 115,
+  "fetched_at": "2026-10-21T19:09:40.645825",
+  "event_count": 117,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年5月16日)",
@@ -308,6 +308,66 @@
       "actors": [
         {
           "name": "飯田ヒカル",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「声優グランプリ」×「109シネマズ」presents シネマダミス『超時空捜査隊マルキュー』第4回公演 ユニーク・ドールズ編",
+      "event_url": "https://www.eventernote.com/events/497427",
+      "date": "2027-01-17",
+      "venue": "109シネマズ木場",
+      "open_time": "",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "久保田未夢",
+          "id": null
+        },
+        {
+          "name": "伊達さゆり",
+          "id": null
+        },
+        {
+          "name": "野中ここな",
+          "id": null
+        },
+        {
+          "name": "春川芽生",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "「声優グランプリ」×「109シネマズ」presents シネマダミス『超時空捜査隊マルキュー』第4回公演 メイク・フレンズ編",
+      "event_url": "https://www.eventernote.com/events/497426",
+      "date": "2027-01-17",
+      "venue": "109シネマズ木場",
+      "open_time": "",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "久保田未夢",
+          "id": null
+        },
+        {
+          "name": "伊達さゆり",
+          "id": null
+        },
+        {
+          "name": "野中ここな",
+          "id": null
+        },
+        {
+          "name": "春川芽生",
           "id": null
         }
       ]

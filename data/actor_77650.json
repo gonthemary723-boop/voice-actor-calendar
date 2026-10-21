@@ -1,7 +1,7 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-10-20T19:01:14.355234",
+  "fetched_at": "2026-10-21T19:10:17.789851",
   "event_count": 82,
   "events": [
     {
@@ -277,12 +277,12 @@
       ]
     },
     {
-      "event_name": "シナリブ＃3「夕凪にとける」⑤",
-      "event_url": "https://www.eventernote.com/events/497400",
+      "event_name": "シナリブ＃3「夕凪にとける」⑥",
+      "event_url": "https://www.eventernote.com/events/497401",
       "date": "2026-11-21",
       "venue": "RBL CAFE",
-      "open_time": "11:40",
-      "start_time": "12:00",
+      "open_time": "15:40",
+      "start_time": "16:00",
       "actors": [
         {
           "name": "伊藤舞音",
@@ -303,12 +303,12 @@
       ]
     },
     {
-      "event_name": "シナリブ＃3「夕凪にとける」⑥",
-      "event_url": "https://www.eventernote.com/events/497401",
+      "event_name": "シナリブ＃3「夕凪にとける」⑤",
+      "event_url": "https://www.eventernote.com/events/497400",
       "date": "2026-11-21",
       "venue": "RBL CAFE",
-      "open_time": "15:40",
-      "start_time": "16:00",
+      "open_time": "11:40",
+      "start_time": "12:00",
       "actors": [
         {
           "name": "伊藤舞音",
