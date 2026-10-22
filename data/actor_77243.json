@@ -1,8 +1,8 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-10-21T19:10:26.696536",
-  "event_count": 57,
+  "fetched_at": "2026-10-22T19:05:29.320734",
+  "event_count": 58,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年12月27日)",
@@ -36,6 +36,56 @@
         },
         {
           "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "GEKIROCK CLOTHING Presents\"WEAR THE MUSIC\"",
+      "event_url": "https://www.eventernote.com/events/497535",
+      "date": "2026-12-20",
+      "venue": "渋谷WOMB",
+      "open_time": "13:00",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "KOIAI",
+          "id": null
+        },
+        {
+          "name": "Lonesome_Blue",
+          "id": null
+        },
+        {
+          "name": "PaleNeØ",
+          "id": null
+        },
+        {
+          "name": "N.I.C.K(Naked Identity Created by King)",
+          "id": null
+        },
+        {
+          "name": "小日向美香",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "小原莉子",
+          "id": null
+        },
+        {
+          "name": "櫻川めぐ",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "湊みや",
           "id": null
         }
       ]

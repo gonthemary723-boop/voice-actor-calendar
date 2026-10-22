@@ -1,8 +1,8 @@
 {
   "actor_id": 77781,
   "actor_name": "七瀬つむぎ",
-  "fetched_at": "2026-10-21T19:09:52.327989",
-  "event_count": 70,
+  "fetched_at": "2026-10-22T19:04:56.689908",
+  "event_count": 71,
   "events": [
     {
       "event_name": "音泉祭り2027東京",
@@ -210,6 +210,56 @@
       "actors": [
         {
           "name": "七瀬つむぎ",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "GEKIROCK CLOTHING Presents\"WEAR THE MUSIC\"",
+      "event_url": "https://www.eventernote.com/events/497535",
+      "date": "2026-12-20",
+      "venue": "渋谷WOMB",
+      "open_time": "13:00",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "KOIAI",
+          "id": null
+        },
+        {
+          "name": "Lonesome_Blue",
+          "id": null
+        },
+        {
+          "name": "PaleNeØ",
+          "id": null
+        },
+        {
+          "name": "N.I.C.K(Naked Identity Created by King)",
+          "id": null
+        },
+        {
+          "name": "小日向美香",
+          "id": null
+        },
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "小原莉子",
+          "id": null
+        },
+        {
+          "name": "櫻川めぐ",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "湊みや",
           "id": null
         }
       ]
