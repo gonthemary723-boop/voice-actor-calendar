@@ -1,8 +1,8 @@
 {
   "actor_id": 56962,
   "actor_name": "薄井友里",
-  "fetched_at": "2026-10-22T19:05:53.475621",
-  "event_count": 95,
+  "fetched_at": "2026-10-23T18:55:57.237370",
+  "event_count": 96,
   "events": [
     {
       "event_name": "ことばとば【1部】(2027年1月31日)",
@@ -132,6 +132,28 @@
         },
         {
           "name": "薄井友里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "『声グラクリスマス2026』昼の部",
+      "event_url": "https://www.eventernote.com/events/497686",
+      "date": "2026-12-19",
+      "venue": "科学技術館サイエンスホール",
+      "open_time": "12:00",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "渡瀬結月",
           "id": null
         }
       ]

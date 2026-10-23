@@ -1,8 +1,8 @@
 {
   "actor_id": 77489,
   "actor_name": "花岩香奈",
-  "fetched_at": "2026-10-22T19:05:07.558383",
-  "event_count": 68,
+  "fetched_at": "2026-10-23T18:55:09.050203",
+  "event_count": 69,
   "events": [
     {
       "event_name": "北海道ベストフレンドパーク 1部(2027年1月10日)",
@@ -80,6 +80,28 @@
         },
         {
           "name": "小早川秀樹",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "『声グラクリスマス2026』昼の部",
+      "event_url": "https://www.eventernote.com/events/497686",
+      "date": "2026-12-19",
+      "venue": "科学技術館サイエンスホール",
+      "open_time": "12:00",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "渡瀬結月",
           "id": null
         }
       ]
