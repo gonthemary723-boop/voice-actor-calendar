@@ -1,7 +1,7 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-10-23T18:54:46.254775",
+  "fetched_at": "2026-10-24T17:56:03.944321",
   "event_count": 119,
   "events": [
     {
@@ -313,12 +313,12 @@
       ]
     },
     {
-      "event_name": "「声優グランプリ」×「109シネマズ」presents シネマダミス『超時空捜査隊マルキュー』第4回公演 メイク・フレンズ編",
-      "event_url": "https://www.eventernote.com/events/497426",
+      "event_name": "「声優グランプリ」×「109シネマズ」presents シネマダミス『超時空捜査隊マルキュー』第4回公演 ユニーク・ドールズ編",
+      "event_url": "https://www.eventernote.com/events/497427",
       "date": "2027-01-17",
       "venue": "109シネマズ木場",
       "open_time": "",
-      "start_time": "14:00",
+      "start_time": "17:00",
       "actors": [
         {
           "name": "飯田ヒカル",
@@ -343,12 +343,12 @@
       ]
     },
     {
-      "event_name": "「声優グランプリ」×「109シネマズ」presents シネマダミス『超時空捜査隊マルキュー』第4回公演 ユニーク・ドールズ編",
-      "event_url": "https://www.eventernote.com/events/497427",
+      "event_name": "「声優グランプリ」×「109シネマズ」presents シネマダミス『超時空捜査隊マルキュー』第4回公演 メイク・フレンズ編",
+      "event_url": "https://www.eventernote.com/events/497426",
       "date": "2027-01-17",
       "venue": "109シネマズ木場",
       "open_time": "",
-      "start_time": "17:00",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "飯田ヒカル",
