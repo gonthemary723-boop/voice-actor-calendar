@@ -1,16 +1,16 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-10-28T20:08:19.582467",
+  "fetched_at": "2026-10-29T20:06:36.719947",
   "event_count": 58,
   "events": [
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年12月27日)",
-      "event_url": "https://www.eventernote.com/events/487197",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年12月27日)",
+      "event_url": "https://www.eventernote.com/events/487198",
       "date": "2026-12-27",
       "venue": "MIRAIEリアン コミュニティホール七間町",
-      "open_time": "12:00",
-      "start_time": "12:45",
+      "open_time": "15:30",
+      "start_time": "16:15",
       "actors": [
         {
           "name": "湊みや",
@@ -23,12 +23,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年12月27日)",
-      "event_url": "https://www.eventernote.com/events/487198",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年12月27日)",
+      "event_url": "https://www.eventernote.com/events/487197",
       "date": "2026-12-27",
       "venue": "MIRAIEリアン コミュニティホール七間町",
-      "open_time": "15:30",
-      "start_time": "16:15",
+      "open_time": "12:00",
+      "start_time": "12:45",
       "actors": [
         {
           "name": "湊みや",
