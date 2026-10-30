@@ -1,7 +1,7 @@
 {
   "actor_id": 77489,
   "actor_name": "花岩香奈",
-  "fetched_at": "2026-10-29T20:06:13.450923",
+  "fetched_at": "2026-10-30T19:52:56.479721",
   "event_count": 69,
   "events": [
     {
@@ -107,12 +107,12 @@
       ]
     },
     {
-      "event_name": "ブルーアーカイブ 〜木枯らしぴゅ〜 金色とことこ 金沢さんぽ♪〜 トークショー 第2部",
-      "event_url": "https://www.eventernote.com/events/495492",
+      "event_name": "ブルーアーカイブ 〜木枯らしぴゅ〜 金色とことこ 金沢さんぽ♪〜 トークショー 第1部",
+      "event_url": "https://www.eventernote.com/events/495491",
       "date": "2026-11-15",
       "venue": "石川県文教会館",
-      "open_time": "17:00",
-      "start_time": "17:30",
+      "open_time": "13:30",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "今泉りおな",
@@ -137,12 +137,12 @@
       ]
     },
     {
-      "event_name": "ブルーアーカイブ 〜木枯らしぴゅ〜 金色とことこ 金沢さんぽ♪〜 トークショー 第1部",
-      "event_url": "https://www.eventernote.com/events/495491",
+      "event_name": "ブルーアーカイブ 〜木枯らしぴゅ〜 金色とことこ 金沢さんぽ♪〜 トークショー 第2部",
+      "event_url": "https://www.eventernote.com/events/495492",
       "date": "2026-11-15",
       "venue": "石川県文教会館",
-      "open_time": "13:30",
-      "start_time": "14:00",
+      "open_time": "17:00",
+      "start_time": "17:30",
       "actors": [
         {
           "name": "今泉りおな",

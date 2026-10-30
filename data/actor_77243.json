@@ -1,9 +1,37 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-10-29T20:06:36.719947",
-  "event_count": 58,
+  "fetched_at": "2026-10-30T19:53:19.090187",
+  "event_count": 60,
   "events": [
+    {
+      "event_name": "湊みや Fanmeeting in TOKYO（夜公演）",
+      "event_url": "https://www.eventernote.com/events/498444",
+      "date": "2027-01-16",
+      "venue": "秋葉原UDX4F UDXシアター",
+      "open_time": "17:00",
+      "start_time": "17:30",
+      "actors": [
+        {
+          "name": "湊みや",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "湊みや Fanmeeting in TOKYO（昼公演）",
+      "event_url": "https://www.eventernote.com/events/498442",
+      "date": "2027-01-16",
+      "venue": "秋葉原UDX4F UDXシアター",
+      "open_time": "12:30",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "湊みや",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年12月27日)",
       "event_url": "https://www.eventernote.com/events/487198",
@@ -305,12 +333,12 @@
       ]
     },
     {
-      "event_name": "朗読と歌とおしゃべりをきみと 〜W〜『Fioriのサプライズパーティー』第二部",
-      "event_url": "https://www.eventernote.com/events/486711",
+      "event_name": "朗読と歌とおしゃべりをきみと 〜W〜『Fioriのサプライズパーティー』第一部",
+      "event_url": "https://www.eventernote.com/events/486710",
       "date": "2026-10-31",
       "venue": "杉並区勤労福祉会館",
-      "open_time": "17:30",
-      "start_time": "18:00",
+      "open_time": "13:30",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "紫月杏朱彩",
@@ -331,12 +359,12 @@
       ]
     },
     {
-      "event_name": "朗読と歌とおしゃべりをきみと 〜W〜『Fioriのサプライズパーティー』第一部",
-      "event_url": "https://www.eventernote.com/events/486710",
+      "event_name": "朗読と歌とおしゃべりをきみと 〜W〜『Fioriのサプライズパーティー』第二部",
+      "event_url": "https://www.eventernote.com/events/486711",
       "date": "2026-10-31",
       "venue": "杉並区勤労福祉会館",
-      "open_time": "13:30",
-      "start_time": "14:00",
+      "open_time": "17:30",
+      "start_time": "18:00",
       "actors": [
         {
           "name": "紫月杏朱彩",

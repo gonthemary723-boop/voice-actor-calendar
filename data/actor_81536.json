@@ -1,8 +1,8 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-10-29T20:09:04.579490",
-  "event_count": 57,
+  "fetched_at": "2026-10-30T19:55:42.682481",
+  "event_count": 59,
   "events": [
     {
       "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク6〜はちゅもうで〜 昼の部",
@@ -383,6 +383,42 @@
       ]
     },
     {
+      "event_name": "Mayu Mineda Birthday Event 2026 〜Unlock the Beat〜【夜公演】",
+      "event_url": "https://www.eventernote.com/events/493241",
+      "date": "2026-11-23",
+      "venue": "時事通信ホール",
+      "open_time": "17:30",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "峯田茉優",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "Mayu Mineda Birthday Event 2026 〜Unlock the Beat〜【昼公演】",
+      "event_url": "https://www.eventernote.com/events/493240",
+      "date": "2026-11-23",
+      "venue": "時事通信ホール",
+      "open_time": "13:30",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "峯田茉優",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
+    {
       "event_name": "天音ゆかりのあまねくハーモニー♪ Birthday party 昼の部",
       "event_url": "https://www.eventernote.com/events/492482",
       "date": "2026-11-22",
@@ -696,6 +732,10 @@
         },
         {
           "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "山田奈都美",
           "id": null
         }
       ]

@@ -1,14 +1,14 @@
 {
   "actor_id": 77840,
   "actor_name": "川村玲奈",
-  "fetched_at": "2026-10-29T20:06:48.524204",
+  "fetched_at": "2026-10-30T19:53:30.463128",
   "event_count": 61,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年4月11日)",
       "event_url": "https://www.eventernote.com/events/495376",
       "date": "2027-04-11",
-      "venue": "!_静岡県内某所",
+      "venue": "静岡市東部勤労者福祉センター(清水テルサ)",
       "open_time": "12:00",
       "start_time": "12:45",
       "actors": [
@@ -26,7 +26,7 @@
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年4月11日)",
       "event_url": "https://www.eventernote.com/events/495377",
       "date": "2027-04-11",
-      "venue": "!_静岡県内某所",
+      "venue": "静岡市東部勤労者福祉センター(清水テルサ)",
       "open_time": "15:30",
       "start_time": "16:15",
       "actors": [

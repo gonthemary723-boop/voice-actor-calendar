@@ -1,8 +1,8 @@
 {
   "actor_id": 56410,
   "actor_name": "小鹿なお",
-  "fetched_at": "2026-10-29T20:05:32.675314",
-  "event_count": 68,
+  "fetched_at": "2026-10-30T19:52:16.812470",
+  "event_count": 69,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年5月16日)",
@@ -96,6 +96,20 @@
         },
         {
           "name": "しんじょう(オーパスツー)",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "小鹿なお FanMeeting in Taipei 2027",
+      "event_url": "https://www.eventernote.com/events/498428",
+      "date": "2027-01-16",
+      "venue": "CLAPPER STUDIO",
+      "open_time": "14:30",
+      "start_time": "15:00",
+      "actors": [
+        {
+          "name": "小鹿なお",
           "id": null
         }
       ]
