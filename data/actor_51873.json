@@ -1,8 +1,8 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-10-30T19:52:33.613070",
-  "event_count": 119,
+  "fetched_at": "2026-10-31T19:08:47.475398",
+  "event_count": 120,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年5月16日)",
@@ -373,6 +373,20 @@
       ]
     },
     {
+      "event_name": "『飯田ヒカルのヒカROOM RouteOKINAWA』発売記念イベント",
+      "event_url": "https://www.eventernote.com/events/498602",
+      "date": "2027-01-16",
+      "venue": "!_東京都内某所",
+      "open_time": "11:00",
+      "start_time": "11:30",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        }
+      ]
+    },
+    {
       "event_name": "飯田ヒカルのヒカROOM Route OKINAWA  PHOTOBOOK 1部 サイン会 福岡",
       "event_url": "https://www.eventernote.com/events/491184",
       "date": "2027-01-10",
@@ -530,6 +544,70 @@
         },
         {
           "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "つきみ",
+          "id": null
+        },
+        {
+          "name": "ジエメイ",
+          "id": null
+        },
+        {
+          "name": "VVSiS",
+          "id": null
+        },
+        {
+          "name": "ミームトーキョー(meme tokyo.)",
+          "id": null
+        },
+        {
+          "name": "MAZE",
+          "id": null
+        },
+        {
+          "name": "Maison de Queen",
+          "id": null
+        },
+        {
+          "name": "クモリノチ。",
+          "id": null
+        },
+        {
+          "name": "LEIWAN",
+          "id": null
+        },
+        {
+          "name": "AIBECK",
+          "id": null
+        },
+        {
+          "name": "EMPATHY",
+          "id": null
+        },
+        {
+          "name": "美味しい曖昧",
+          "id": null
+        },
+        {
+          "name": "シンデレラ宣言！",
+          "id": null
+        },
+        {
+          "name": "シュレーディンガーの犬",
+          "id": null
+        },
+        {
+          "name": "ピューパ!!",
+          "id": null
+        },
+        {
+          "name": "YA'ABURNEE",
+          "id": null
+        },
+        {
+          "name": "BabyQuartz(ex.Question.VI)",
           "id": null
         }
       ]

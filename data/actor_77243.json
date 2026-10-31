@@ -1,9 +1,53 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-10-30T19:53:19.090187",
-  "event_count": 60,
+  "fetched_at": "2026-10-31T19:09:33.381050",
+  "event_count": 62,
   "events": [
+    {
+      "event_name": "縁結びのゆかり様2ndイベント『縁と誓いの理想郷』夜公演",
+      "event_url": "https://www.eventernote.com/events/498624",
+      "date": "2027-02-07",
+      "venue": "日経ホール",
+      "open_time": "17:45",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "縁結びのゆかり様2ndイベント『縁と誓いの理想郷』昼公演",
+      "event_url": "https://www.eventernote.com/events/498622",
+      "date": "2027-02-07",
+      "venue": "日経ホール",
+      "open_time": "13:15",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "湊みや Fanmeeting in TOKYO（夜公演）",
       "event_url": "https://www.eventernote.com/events/498444",
@@ -114,6 +158,70 @@
         },
         {
           "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "つきみ",
+          "id": null
+        },
+        {
+          "name": "ジエメイ",
+          "id": null
+        },
+        {
+          "name": "VVSiS",
+          "id": null
+        },
+        {
+          "name": "ミームトーキョー(meme tokyo.)",
+          "id": null
+        },
+        {
+          "name": "MAZE",
+          "id": null
+        },
+        {
+          "name": "Maison de Queen",
+          "id": null
+        },
+        {
+          "name": "クモリノチ。",
+          "id": null
+        },
+        {
+          "name": "LEIWAN",
+          "id": null
+        },
+        {
+          "name": "AIBECK",
+          "id": null
+        },
+        {
+          "name": "EMPATHY",
+          "id": null
+        },
+        {
+          "name": "美味しい曖昧",
+          "id": null
+        },
+        {
+          "name": "シンデレラ宣言！",
+          "id": null
+        },
+        {
+          "name": "シュレーディンガーの犬",
+          "id": null
+        },
+        {
+          "name": "ピューパ!!",
+          "id": null
+        },
+        {
+          "name": "YA'ABURNEE",
+          "id": null
+        },
+        {
+          "name": "BabyQuartz(ex.Question.VI)",
           "id": null
         }
       ]

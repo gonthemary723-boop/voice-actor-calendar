@@ -1,9 +1,53 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-10-30T19:55:42.682481",
-  "event_count": 59,
+  "fetched_at": "2026-10-31T19:11:55.321540",
+  "event_count": 61,
   "events": [
+    {
+      "event_name": "縁結びのゆかり様2ndイベント『縁と誓いの理想郷』夜公演",
+      "event_url": "https://www.eventernote.com/events/498624",
+      "date": "2027-02-07",
+      "venue": "日経ホール",
+      "open_time": "17:45",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "縁結びのゆかり様2ndイベント『縁と誓いの理想郷』昼公演",
+      "event_url": "https://www.eventernote.com/events/498622",
+      "date": "2027-02-07",
+      "venue": "日経ホール",
+      "open_time": "13:15",
+      "start_time": "14:00",
+      "actors": [
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "薄井友里・川村玲奈のすーぱーかわちぃ☆ゆりれいしょん レク6〜はちゅもうで〜 昼の部",
       "event_url": "https://www.eventernote.com/events/496993",

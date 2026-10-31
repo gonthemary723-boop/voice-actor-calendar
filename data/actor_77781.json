@@ -1,7 +1,7 @@
 {
   "actor_id": 77781,
   "actor_name": "七瀬つむぎ",
-  "fetched_at": "2026-10-30T19:52:45.130901",
+  "fetched_at": "2026-10-31T19:08:58.376480",
   "event_count": 71,
   "events": [
     {
@@ -260,6 +260,70 @@
         },
         {
           "name": "湊みや",
+          "id": null
+        },
+        {
+          "name": "つきみ",
+          "id": null
+        },
+        {
+          "name": "ジエメイ",
+          "id": null
+        },
+        {
+          "name": "VVSiS",
+          "id": null
+        },
+        {
+          "name": "ミームトーキョー(meme tokyo.)",
+          "id": null
+        },
+        {
+          "name": "MAZE",
+          "id": null
+        },
+        {
+          "name": "Maison de Queen",
+          "id": null
+        },
+        {
+          "name": "クモリノチ。",
+          "id": null
+        },
+        {
+          "name": "LEIWAN",
+          "id": null
+        },
+        {
+          "name": "AIBECK",
+          "id": null
+        },
+        {
+          "name": "EMPATHY",
+          "id": null
+        },
+        {
+          "name": "美味しい曖昧",
+          "id": null
+        },
+        {
+          "name": "シンデレラ宣言！",
+          "id": null
+        },
+        {
+          "name": "シュレーディンガーの犬",
+          "id": null
+        },
+        {
+          "name": "ピューパ!!",
+          "id": null
+        },
+        {
+          "name": "YA'ABURNEE",
+          "id": null
+        },
+        {
+          "name": "BabyQuartz(ex.Question.VI)",
           "id": null
         }
       ]
