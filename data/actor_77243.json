@@ -1,16 +1,16 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-10-31T19:09:33.381050",
+  "fetched_at": "2026-11-01T19:25:28.030281",
   "event_count": 62,
   "events": [
     {
-      "event_name": "縁結びのゆかり様2ndイベント『縁と誓いの理想郷』夜公演",
-      "event_url": "https://www.eventernote.com/events/498624",
+      "event_name": "縁結びのゆかり様2ndイベント『縁と誓いの理想郷』昼公演",
+      "event_url": "https://www.eventernote.com/events/498622",
       "date": "2027-02-07",
       "venue": "日経ホール",
-      "open_time": "17:45",
-      "start_time": "18:30",
+      "open_time": "13:15",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "天音ゆかり",
@@ -27,12 +27,12 @@
       ]
     },
     {
-      "event_name": "縁結びのゆかり様2ndイベント『縁と誓いの理想郷』昼公演",
-      "event_url": "https://www.eventernote.com/events/498622",
+      "event_name": "縁結びのゆかり様2ndイベント『縁と誓いの理想郷』夜公演",
+      "event_url": "https://www.eventernote.com/events/498624",
       "date": "2027-02-07",
       "venue": "日経ホール",
-      "open_time": "13:15",
-      "start_time": "14:00",
+      "open_time": "17:45",
+      "start_time": "18:30",
       "actors": [
         {
           "name": "天音ゆかり",
@@ -441,12 +441,12 @@
       ]
     },
     {
-      "event_name": "朗読と歌とおしゃべりをきみと 〜W〜『Fioriのサプライズパーティー』第一部",
-      "event_url": "https://www.eventernote.com/events/486710",
+      "event_name": "朗読と歌とおしゃべりをきみと 〜W〜『Fioriのサプライズパーティー』第二部",
+      "event_url": "https://www.eventernote.com/events/486711",
       "date": "2026-10-31",
       "venue": "杉並区勤労福祉会館",
-      "open_time": "13:30",
-      "start_time": "14:00",
+      "open_time": "17:30",
+      "start_time": "18:00",
       "actors": [
         {
           "name": "紫月杏朱彩",
@@ -467,12 +467,12 @@
       ]
     },
     {
-      "event_name": "朗読と歌とおしゃべりをきみと 〜W〜『Fioriのサプライズパーティー』第二部",
-      "event_url": "https://www.eventernote.com/events/486711",
+      "event_name": "朗読と歌とおしゃべりをきみと 〜W〜『Fioriのサプライズパーティー』第一部",
+      "event_url": "https://www.eventernote.com/events/486710",
       "date": "2026-10-31",
       "venue": "杉並区勤労福祉会館",
-      "open_time": "17:30",
-      "start_time": "18:00",
+      "open_time": "13:30",
+      "start_time": "14:00",
       "actors": [
         {
           "name": "紫月杏朱彩",

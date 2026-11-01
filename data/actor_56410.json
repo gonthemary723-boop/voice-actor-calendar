@@ -1,8 +1,8 @@
 {
   "actor_id": 56410,
   "actor_name": "小鹿なお",
-  "fetched_at": "2026-10-31T19:08:31.364853",
-  "event_count": 69,
+  "fetched_at": "2026-11-01T19:24:20.136018",
+  "event_count": 71,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年5月16日)",
@@ -110,6 +110,54 @@
       "actors": [
         {
           "name": "小鹿なお",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "『魔法の姉妹ルルットリリィ』ファイナル・ステージ最速上映会 12:30の回",
+      "event_url": "https://www.eventernote.com/events/498791",
+      "date": "2026-12-20",
+      "venue": "イオンシネマ板橋",
+      "open_time": "",
+      "start_time": "12:30",
+      "actors": [
+        {
+          "name": "橘めい",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "和泉風花",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "『魔法の姉妹ルルットリリィ』ファイナル・ステージ最速上映会 15:10の回",
+      "event_url": "https://www.eventernote.com/events/498792",
+      "date": "2026-12-20",
+      "venue": "イオンシネマ板橋",
+      "open_time": "",
+      "start_time": "15:10",
+      "actors": [
+        {
+          "name": "橘めい",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "道解慎太郎",
+          "id": null
+        },
+        {
+          "name": "和泉風花",
           "id": null
         }
       ]
