@@ -1,8 +1,8 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-11-02T23:01:19.558001",
-  "event_count": 82,
+  "fetched_at": "2026-11-03T20:49:08.686949",
+  "event_count": 86,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年4月11日)",
@@ -132,6 +132,190 @@
         },
         {
           "name": "伊藤舞音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【Big Bridge Company】第4回公演 朗読劇『遠くで水の音がする』12月26日⑦",
+      "event_url": "https://www.eventernote.com/events/499117",
+      "date": "2026-12-26",
+      "venue": "シアターグリーン BASE THEATER",
+      "open_time": "",
+      "start_time": "13:30",
+      "actors": [
+        {
+          "name": "草場愛",
+          "id": null
+        },
+        {
+          "name": "八巻アンナ",
+          "id": null
+        },
+        {
+          "name": "高梨螢",
+          "id": null
+        },
+        {
+          "name": "園田れい",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "十二稜子",
+          "id": null
+        },
+        {
+          "name": "森青葉",
+          "id": null
+        },
+        {
+          "name": "七原帝子",
+          "id": null
+        },
+        {
+          "name": "集貝はな",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【Big Bridge Company】第4回公演 朗読劇『遠くで水の音がする』12月26日⑧",
+      "event_url": "https://www.eventernote.com/events/499118",
+      "date": "2026-12-26",
+      "venue": "シアターグリーン BASE THEATER",
+      "open_time": "",
+      "start_time": "18:00",
+      "actors": [
+        {
+          "name": "草場愛",
+          "id": null
+        },
+        {
+          "name": "八巻アンナ",
+          "id": null
+        },
+        {
+          "name": "高梨螢",
+          "id": null
+        },
+        {
+          "name": "園田れい",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "十二稜子",
+          "id": null
+        },
+        {
+          "name": "森青葉",
+          "id": null
+        },
+        {
+          "name": "七原帝子",
+          "id": null
+        },
+        {
+          "name": "集貝はな",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【Big Bridge Company】第4回公演 朗読劇『遠くで水の音がする』12月25日⑤",
+      "event_url": "https://www.eventernote.com/events/499115",
+      "date": "2026-12-25",
+      "venue": "シアターグリーン BASE THEATER",
+      "open_time": "",
+      "start_time": "14:30",
+      "actors": [
+        {
+          "name": "草場愛",
+          "id": null
+        },
+        {
+          "name": "八巻アンナ",
+          "id": null
+        },
+        {
+          "name": "高梨螢",
+          "id": null
+        },
+        {
+          "name": "白河みずな",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "十二稜子",
+          "id": null
+        },
+        {
+          "name": "森青葉",
+          "id": null
+        },
+        {
+          "name": "七原帝子",
+          "id": null
+        },
+        {
+          "name": "葵るり",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "【Big Bridge Company】第4回公演 朗読劇『遠くで水の音がする』12月25日⑥",
+      "event_url": "https://www.eventernote.com/events/499116",
+      "date": "2026-12-25",
+      "venue": "シアターグリーン BASE THEATER",
+      "open_time": "",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "草場愛",
+          "id": null
+        },
+        {
+          "name": "八巻アンナ",
+          "id": null
+        },
+        {
+          "name": "高梨螢",
+          "id": null
+        },
+        {
+          "name": "白河みずな",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "十二稜子",
+          "id": null
+        },
+        {
+          "name": "森青葉",
+          "id": null
+        },
+        {
+          "name": "七原帝子",
+          "id": null
+        },
+        {
+          "name": "葵るり",
           "id": null
         }
       ]

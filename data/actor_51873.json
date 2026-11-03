@@ -1,7 +1,7 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-11-02T23:00:44.301017",
+  "fetched_at": "2026-11-03T20:48:33.788592",
   "event_count": 120,
   "events": [
     {
@@ -443,12 +443,12 @@
       ]
     },
     {
-      "event_name": "飯田ヒカルのヒカROOM Route OKINAWA  PHOTOBOOK 4部 オフショットチェキお渡し会 東京",
-      "event_url": "https://www.eventernote.com/events/491189",
+      "event_name": "飯田ヒカルのヒカROOM Route OKINAWA  PHOTOBOOK 1部 サイン会 東京",
+      "event_url": "https://www.eventernote.com/events/491183",
       "date": "2026-12-27",
       "venue": "!_東京都内某所",
-      "open_time": "16:55",
-      "start_time": "17:10",
+      "open_time": "10:15",
+      "start_time": "10:30",
       "actors": [
         {
           "name": "飯田ヒカル",
@@ -457,12 +457,12 @@
       ]
     },
     {
-      "event_name": "飯田ヒカルのヒカROOM Route OKINAWA  PHOTOBOOK 1部 サイン会 東京",
-      "event_url": "https://www.eventernote.com/events/491183",
+      "event_name": "飯田ヒカルのヒカROOM Route OKINAWA  PHOTOBOOK 4部 オフショットチェキお渡し会 東京",
+      "event_url": "https://www.eventernote.com/events/491189",
       "date": "2026-12-27",
       "venue": "!_東京都内某所",
-      "open_time": "10:15",
-      "start_time": "10:30",
+      "open_time": "16:55",
+      "start_time": "17:10",
       "actors": [
         {
           "name": "飯田ヒカル",
