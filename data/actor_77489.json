@@ -1,7 +1,7 @@
 {
   "actor_id": 77489,
   "actor_name": "花岩香奈",
-  "fetched_at": "2026-11-03T20:48:55.305626",
+  "fetched_at": "2026-11-04T21:06:04.827898",
   "event_count": 71,
   "events": [
     {
@@ -1375,10 +1375,6 @@
           "id": null
         },
         {
-          "name": "#UNICUS(シンデレラガールズ)",
-          "id": null
-        },
-        {
           "name": "梅澤めぐ",
           "id": null
         },
@@ -1648,6 +1644,10 @@
         },
         {
           "name": "レトラ",
+          "id": null
+        },
+        {
+          "name": "赤羽根健治",
           "id": null
         },
         {

@@ -1,8 +1,8 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-11-03T20:49:08.686949",
-  "event_count": 86,
+  "fetched_at": "2026-11-04T21:06:18.838010",
+  "event_count": 88,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年4月11日)",
@@ -36,6 +36,66 @@
         },
         {
           "name": "川村玲奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ことばとば【1部】(2027年4月10日)",
+      "event_url": "https://www.eventernote.com/events/499200",
+      "date": "2027-04-10",
+      "venue": "神戸ポートオアシス",
+      "open_time": "11:30",
+      "start_time": "12:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "オーパスツー",
+          "id": null
+        },
+        {
+          "name": "大ちゃん(オーパスツー)",
+          "id": null
+        },
+        {
+          "name": "しんじょう(オーパスツー)",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ことばとば【2部】(2027年4月10日)",
+      "event_url": "https://www.eventernote.com/events/499201",
+      "date": "2027-04-10",
+      "venue": "神戸ポートオアシス",
+      "open_time": "15:30",
+      "start_time": "16:00",
+      "actors": [
+        {
+          "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "七瀬つむぎ",
+          "id": null
+        },
+        {
+          "name": "オーパスツー",
+          "id": null
+        },
+        {
+          "name": "大ちゃん(オーパスツー)",
+          "id": null
+        },
+        {
+          "name": "しんじょう(オーパスツー)",
           "id": null
         }
       ]

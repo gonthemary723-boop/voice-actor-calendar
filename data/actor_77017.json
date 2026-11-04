@@ -1,7 +1,7 @@
 {
   "actor_id": 77017,
   "actor_name": "長月あおい",
-  "fetched_at": "2026-11-03T20:48:07.642656",
+  "fetched_at": "2026-11-04T21:05:14.430104",
   "event_count": 51,
   "events": [
     {
@@ -949,10 +949,6 @@
           "id": null
         },
         {
-          "name": "#UNICUS(シンデレラガールズ)",
-          "id": null
-        },
-        {
           "name": "梅澤めぐ",
           "id": null
         },
@@ -1222,6 +1218,10 @@
         },
         {
           "name": "レトラ",
+          "id": null
+        },
+        {
+          "name": "赤羽根健治",
           "id": null
         },
         {

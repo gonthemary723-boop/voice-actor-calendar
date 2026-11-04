@@ -1,7 +1,7 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-11-03T20:48:33.788592",
+  "fetched_at": "2026-11-04T21:05:42.149897",
   "event_count": 120,
   "events": [
     {
@@ -1943,10 +1943,6 @@
           "id": null
         },
         {
-          "name": "#UNICUS(シンデレラガールズ)",
-          "id": null
-        },
-        {
           "name": "梅澤めぐ",
           "id": null
         },
@@ -2216,6 +2212,10 @@
         },
         {
           "name": "レトラ",
+          "id": null
+        },
+        {
+          "name": "赤羽根健治",
           "id": null
         },
         {
