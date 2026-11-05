@@ -1,7 +1,7 @@
 {
   "actor_id": 56410,
   "actor_name": "小鹿なお",
-  "fetched_at": "2026-11-04T21:05:25.913433",
+  "fetched_at": "2026-11-05T21:21:04.790994",
   "event_count": 71,
   "events": [
     {
@@ -1123,6 +1123,10 @@
           "id": null
         },
         {
+          "name": "#UNICUS(シンデレラガールズ)",
+          "id": null
+        },
+        {
           "name": "梅澤めぐ",
           "id": null
         },
@@ -1392,10 +1396,6 @@
         },
         {
           "name": "レトラ",
-          "id": null
-        },
-        {
-          "name": "赤羽根健治",
           "id": null
         },
         {

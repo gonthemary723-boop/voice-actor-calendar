@@ -1,7 +1,7 @@
 {
   "actor_id": 56962,
   "actor_name": "薄井友里",
-  "fetched_at": "2026-11-04T21:06:56.151059",
+  "fetched_at": "2026-11-05T21:22:35.341535",
   "event_count": 96,
   "events": [
     {
@@ -1237,6 +1237,10 @@
           "id": null
         },
         {
+          "name": "#UNICUS(シンデレラガールズ)",
+          "id": null
+        },
+        {
           "name": "梅澤めぐ",
           "id": null
         },
@@ -1506,10 +1510,6 @@
         },
         {
           "name": "レトラ",
-          "id": null
-        },
-        {
-          "name": "赤羽根健治",
           "id": null
         },
         {

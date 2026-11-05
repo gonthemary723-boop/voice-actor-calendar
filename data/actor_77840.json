@@ -1,8 +1,8 @@
 {
   "actor_id": 77840,
   "actor_name": "川村玲奈",
-  "fetched_at": "2026-11-04T21:06:41.606972",
-  "event_count": 61,
+  "fetched_at": "2026-11-05T21:22:21.310890",
+  "event_count": 63,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年4月11日)",
@@ -132,6 +132,34 @@
         },
         {
           "name": "浅見香月",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "星空朗読会 ゲスト：川村 玲奈 様(15時40分の回)",
+      "event_url": "https://www.eventernote.com/events/499290",
+      "date": "2026-12-06",
+      "venue": "あすたむらんど徳島",
+      "open_time": "",
+      "start_time": "15:40",
+      "actors": [
+        {
+          "name": "川村玲奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "星空朗読会 ゲスト：川村 玲奈 様(13時の回)",
+      "event_url": "https://www.eventernote.com/events/499289",
+      "date": "2026-12-06",
+      "venue": "あすたむらんど徳島",
+      "open_time": "",
+      "start_time": "13:00",
+      "actors": [
+        {
+          "name": "川村玲奈",
           "id": null
         }
       ]

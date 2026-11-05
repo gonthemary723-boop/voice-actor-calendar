@@ -1,16 +1,16 @@
 {
   "actor_id": 77781,
   "actor_name": "七瀬つむぎ",
-  "fetched_at": "2026-11-04T21:05:53.625773",
+  "fetched_at": "2026-11-05T21:21:33.275407",
   "event_count": 73,
   "events": [
     {
-      "event_name": "ことばとば【1部】(2027年4月10日)",
-      "event_url": "https://www.eventernote.com/events/499200",
+      "event_name": "ことばとば【2部】(2027年4月10日)",
+      "event_url": "https://www.eventernote.com/events/499201",
       "date": "2027-04-10",
       "venue": "神戸ポートオアシス",
-      "open_time": "11:30",
-      "start_time": "12:00",
+      "open_time": "15:30",
+      "start_time": "16:00",
       "actors": [
         {
           "name": "伊藤舞音",
@@ -35,12 +35,12 @@
       ]
     },
     {
-      "event_name": "ことばとば【2部】(2027年4月10日)",
-      "event_url": "https://www.eventernote.com/events/499201",
+      "event_name": "ことばとば【1部】(2027年4月10日)",
+      "event_url": "https://www.eventernote.com/events/499200",
       "date": "2027-04-10",
       "venue": "神戸ポートオアシス",
-      "open_time": "15:30",
-      "start_time": "16:00",
+      "open_time": "11:30",
+      "start_time": "12:00",
       "actors": [
         {
           "name": "伊藤舞音",
@@ -3003,6 +3003,10 @@
           "id": null
         },
         {
+          "name": "#UNICUS(シンデレラガールズ)",
+          "id": null
+        },
+        {
           "name": "梅澤めぐ",
           "id": null
         },
@@ -3272,10 +3276,6 @@
         },
         {
           "name": "レトラ",
-          "id": null
-        },
-        {
-          "name": "赤羽根健治",
           "id": null
         },
         {

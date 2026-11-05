@@ -1,7 +1,7 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-11-04T21:06:18.838010",
+  "fetched_at": "2026-11-05T21:21:58.938403",
   "event_count": 88,
   "events": [
     {
@@ -41,12 +41,12 @@
       ]
     },
     {
-      "event_name": "ことばとば【1部】(2027年4月10日)",
-      "event_url": "https://www.eventernote.com/events/499200",
+      "event_name": "ことばとば【2部】(2027年4月10日)",
+      "event_url": "https://www.eventernote.com/events/499201",
       "date": "2027-04-10",
       "venue": "神戸ポートオアシス",
-      "open_time": "11:30",
-      "start_time": "12:00",
+      "open_time": "15:30",
+      "start_time": "16:00",
       "actors": [
         {
           "name": "伊藤舞音",
@@ -71,12 +71,12 @@
       ]
     },
     {
-      "event_name": "ことばとば【2部】(2027年4月10日)",
-      "event_url": "https://www.eventernote.com/events/499201",
+      "event_name": "ことばとば【1部】(2027年4月10日)",
+      "event_url": "https://www.eventernote.com/events/499200",
       "date": "2027-04-10",
       "venue": "神戸ポートオアシス",
-      "open_time": "15:30",
-      "start_time": "16:00",
+      "open_time": "11:30",
+      "start_time": "12:00",
       "actors": [
         {
           "name": "伊藤舞音",
