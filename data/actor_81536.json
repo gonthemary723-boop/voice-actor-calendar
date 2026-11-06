@@ -1,7 +1,7 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-11-05T21:24:37.009657",
+  "fetched_at": "2026-11-06T20:47:06.992213",
   "event_count": 61,
   "events": [
     {
@@ -323,6 +323,28 @@
       ]
     },
     {
+      "event_name": "アパマンショップ KPF2026 supported by dアニメストア(北九州ポップカルチャーフェスティバル2026)『ステラソラ』KPF2026ステージ 〜北九州の魔王さん、今年も会いに来ましたスペシャル〜 DAY2",
+      "event_url": "https://www.eventernote.com/events/494897",
+      "date": "2026-11-29",
+      "venue": "北九州メッセ(西日本総合展示場新館)",
+      "open_time": "",
+      "start_time": "14:15",
+      "actors": [
+        {
+          "name": "高田憂希",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        },
+        {
+          "name": "江原萌依",
+          "id": null
+        }
+      ]
+    },
+    {
       "event_name": "アパマンショップ KPF2026 supported by dアニメストア(北九州ポップカルチャーフェスティバル2026)「ブルーアーカイブ」KPF2026 トークステージ Day2",
       "event_url": "https://www.eventernote.com/events/492812",
       "date": "2026-11-29",
@@ -348,28 +370,6 @@
         },
         {
           "name": "市来光弘",
-          "id": null
-        }
-      ]
-    },
-    {
-      "event_name": "アパマンショップ KPF2026 supported by dアニメストア(北九州ポップカルチャーフェスティバル2026)『ステラソラ』KPF2026ステージ 〜北九州の魔王さん、今年も会いに来ましたスペシャル〜 DAY2",
-      "event_url": "https://www.eventernote.com/events/494897",
-      "date": "2026-11-29",
-      "venue": "北九州メッセ(西日本総合展示場新館)",
-      "open_time": "",
-      "start_time": "14:15",
-      "actors": [
-        {
-          "name": "高田憂希",
-          "id": null
-        },
-        {
-          "name": "天音ゆかり",
-          "id": null
-        },
-        {
-          "name": "江原萌依",
           "id": null
         }
       ]
