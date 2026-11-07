@@ -1,7 +1,7 @@
 {
   "actor_id": 77840,
   "actor_name": "川村玲奈",
-  "fetched_at": "2026-11-06T20:44:50.613628",
+  "fetched_at": "2026-11-07T19:17:49.354715",
   "event_count": 67,
   "events": [
     {
@@ -41,8 +41,8 @@
       ]
     },
     {
-      "event_name": "朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月31日①",
-      "event_url": "https://www.eventernote.com/events/499364",
+      "event_name": "朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月31日②",
+      "event_url": "https://www.eventernote.com/events/499365",
       "date": "2027-01-31",
       "venue": "",
       "open_time": "",
@@ -79,8 +79,8 @@
       ]
     },
     {
-      "event_name": "朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月31日②",
-      "event_url": "https://www.eventernote.com/events/499365",
+      "event_name": "朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月31日①",
+      "event_url": "https://www.eventernote.com/events/499364",
       "date": "2027-01-31",
       "venue": "",
       "open_time": "",
@@ -1347,6 +1347,10 @@
           "id": null
         },
         {
+          "name": "セクシーギャルズ(シンデレラガールズ)",
+          "id": null
+        },
+        {
           "name": "山下七海",
           "id": null
         },
@@ -1596,10 +1600,6 @@
         },
         {
           "name": "日高里菜",
-          "id": null
-        },
-        {
-          "name": "赤羽根健治",
           "id": null
         },
         {
