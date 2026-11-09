@@ -1,9 +1,23 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-11-08T19:26:30.726985",
-  "event_count": 560,
+  "fetched_at": "2026-11-09T23:45:55.836413",
+  "event_count": 561,
   "events": [
+    {
+      "event_name": "「HAPPY NON DAY 2027 ～with Valentine～」",
+      "event_url": "https://www.eventernote.com/events/499763",
+      "date": "2027-02-14",
+      "venue": "神田スクエアホール",
+      "open_time": "15:00",
+      "start_time": "16:00",
+      "actors": [
+        {
+          "name": "春咲暖",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "春咲暖1st Live「Light in Bloom」夜公演",
       "event_url": "https://www.eventernote.com/events/478199",
