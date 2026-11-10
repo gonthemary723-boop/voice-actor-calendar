@@ -1,7 +1,7 @@
 {
   "actor_id": 77840,
   "actor_name": "川村玲奈",
-  "fetched_at": "2026-11-09T23:44:07.739836",
+  "fetched_at": "2026-11-10T21:14:42.558956",
   "event_count": 67,
   "events": [
     {
@@ -41,8 +41,8 @@
       ]
     },
     {
-      "event_name": "朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月31日①",
-      "event_url": "https://www.eventernote.com/events/499364",
+      "event_name": "朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月31日②",
+      "event_url": "https://www.eventernote.com/events/499365",
       "date": "2027-01-31",
       "venue": "",
       "open_time": "",
@@ -79,8 +79,8 @@
       ]
     },
     {
-      "event_name": "朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月31日②",
-      "event_url": "https://www.eventernote.com/events/499365",
+      "event_name": "朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月31日①",
+      "event_url": "https://www.eventernote.com/events/499364",
       "date": "2027-01-31",
       "venue": "",
       "open_time": "",
