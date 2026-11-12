@@ -1,8 +1,8 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-11-11T21:46:43.256836",
-  "event_count": 120,
+  "fetched_at": "2026-11-12T21:46:12.518499",
+  "event_count": 122,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年5月16日)",
@@ -36,6 +36,66 @@
         },
         {
           "name": "小鹿なお",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ことばとば【2部】(2027年4月18日)",
+      "event_url": "https://www.eventernote.com/events/500087",
+      "date": "2027-04-18",
+      "venue": "ライクスホール",
+      "open_time": "15:30",
+      "start_time": "16:00",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "オーパスツー",
+          "id": null
+        },
+        {
+          "name": "大ちゃん(オーパスツー)",
+          "id": null
+        },
+        {
+          "name": "しんじょう(オーパスツー)",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ことばとば【1部】(2027年4月18日)",
+      "event_url": "https://www.eventernote.com/events/500086",
+      "date": "2027-04-18",
+      "venue": "ライクスホール",
+      "open_time": "11:30",
+      "start_time": "12:00",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "浅見香月",
+          "id": null
+        },
+        {
+          "name": "オーパスツー",
+          "id": null
+        },
+        {
+          "name": "大ちゃん(オーパスツー)",
+          "id": null
+        },
+        {
+          "name": "しんじょう(オーパスツー)",
           "id": null
         }
       ]

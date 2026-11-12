@@ -1,7 +1,7 @@
 {
   "actor_id": 77840,
   "actor_name": "川村玲奈",
-  "fetched_at": "2026-11-11T21:47:45.169053",
+  "fetched_at": "2026-11-12T21:47:10.463647",
   "event_count": 67,
   "events": [
     {
@@ -133,6 +133,10 @@
           "id": null
         },
         {
+          "name": "柳澤美月",
+          "id": null
+        },
+        {
           "name": "山崎直宣",
           "id": null
         },
@@ -146,10 +150,6 @@
         },
         {
           "name": "花まどか",
-          "id": null
-        },
-        {
-          "name": "清水大登",
           "id": null
         },
         {
