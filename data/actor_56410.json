@@ -1,16 +1,16 @@
 {
   "actor_id": 56410,
   "actor_name": "小鹿なお",
-  "fetched_at": "2026-11-12T21:45:53.543617",
+  "fetched_at": "2026-11-13T21:14:28.881496",
   "event_count": 71,
   "events": [
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年5月16日)",
-      "event_url": "https://www.eventernote.com/events/496841",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年5月16日)",
+      "event_url": "https://www.eventernote.com/events/496842",
       "date": "2027-05-16",
-      "venue": "!_静岡県内某所",
-      "open_time": "12:00",
-      "start_time": "12:45",
+      "venue": "MIRAIEリアン コミュニティホール七間町",
+      "open_time": "15:30",
+      "start_time": "16:15",
       "actors": [
         {
           "name": "飯田ヒカル",
@@ -23,12 +23,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年5月16日)",
-      "event_url": "https://www.eventernote.com/events/496842",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年5月16日)",
+      "event_url": "https://www.eventernote.com/events/496841",
       "date": "2027-05-16",
-      "venue": "!_静岡県内某所",
-      "open_time": "15:30",
-      "start_time": "16:15",
+      "venue": "MIRAIEリアン コミュニティホール七間町",
+      "open_time": "12:00",
+      "start_time": "12:45",
       "actors": [
         {
           "name": "飯田ヒカル",

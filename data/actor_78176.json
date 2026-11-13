@@ -1,16 +1,16 @@
 {
   "actor_id": 78176,
   "actor_name": "浅見香月",
-  "fetched_at": "2026-11-12T21:49:33.746979",
+  "fetched_at": "2026-11-13T21:18:21.659827",
   "event_count": 41,
   "events": [
     {
-      "event_name": "ことばとば【2部】(2027年4月18日)",
-      "event_url": "https://www.eventernote.com/events/500087",
+      "event_name": "ことばとば【1部】(2027年4月18日)",
+      "event_url": "https://www.eventernote.com/events/500086",
       "date": "2027-04-18",
       "venue": "ライクスホール",
-      "open_time": "15:30",
-      "start_time": "16:00",
+      "open_time": "11:30",
+      "start_time": "12:00",
       "actors": [
         {
           "name": "飯田ヒカル",
@@ -35,12 +35,12 @@
       ]
     },
     {
-      "event_name": "ことばとば【1部】(2027年4月18日)",
-      "event_url": "https://www.eventernote.com/events/500086",
+      "event_name": "ことばとば【2部】(2027年4月18日)",
+      "event_url": "https://www.eventernote.com/events/500087",
       "date": "2027-04-18",
       "venue": "ライクスホール",
-      "open_time": "11:30",
-      "start_time": "12:00",
+      "open_time": "15:30",
+      "start_time": "16:00",
       "actors": [
         {
           "name": "飯田ヒカル",

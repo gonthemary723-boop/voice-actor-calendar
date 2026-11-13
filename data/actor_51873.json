@@ -1,32 +1,14 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-11-12T21:46:12.518499",
+  "fetched_at": "2026-11-13T21:14:48.827799",
   "event_count": 122,
   "events": [
-    {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年5月16日)",
-      "event_url": "https://www.eventernote.com/events/496841",
-      "date": "2027-05-16",
-      "venue": "!_静岡県内某所",
-      "open_time": "12:00",
-      "start_time": "12:45",
-      "actors": [
-        {
-          "name": "飯田ヒカル",
-          "id": null
-        },
-        {
-          "name": "小鹿なお",
-          "id": null
-        }
-      ]
-    },
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年5月16日)",
       "event_url": "https://www.eventernote.com/events/496842",
       "date": "2027-05-16",
-      "venue": "!_静岡県内某所",
+      "venue": "MIRAIEリアン コミュニティホール七間町",
       "open_time": "15:30",
       "start_time": "16:15",
       "actors": [
@@ -41,12 +23,30 @@
       ]
     },
     {
-      "event_name": "ことばとば【2部】(2027年4月18日)",
-      "event_url": "https://www.eventernote.com/events/500087",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年5月16日)",
+      "event_url": "https://www.eventernote.com/events/496841",
+      "date": "2027-05-16",
+      "venue": "MIRAIEリアン コミュニティホール七間町",
+      "open_time": "12:00",
+      "start_time": "12:45",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "小鹿なお",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "ことばとば【1部】(2027年4月18日)",
+      "event_url": "https://www.eventernote.com/events/500086",
       "date": "2027-04-18",
       "venue": "ライクスホール",
-      "open_time": "15:30",
-      "start_time": "16:00",
+      "open_time": "11:30",
+      "start_time": "12:00",
       "actors": [
         {
           "name": "飯田ヒカル",
@@ -71,12 +71,12 @@
       ]
     },
     {
-      "event_name": "ことばとば【1部】(2027年4月18日)",
-      "event_url": "https://www.eventernote.com/events/500086",
+      "event_name": "ことばとば【2部】(2027年4月18日)",
+      "event_url": "https://www.eventernote.com/events/500087",
       "date": "2027-04-18",
       "venue": "ライクスホール",
-      "open_time": "11:30",
-      "start_time": "12:00",
+      "open_time": "15:30",
+      "start_time": "16:00",
       "actors": [
         {
           "name": "飯田ヒカル",
