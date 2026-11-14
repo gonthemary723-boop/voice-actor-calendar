@@ -1,8 +1,8 @@
 {
   "actor_id": 56962,
   "actor_name": "薄井友里",
-  "fetched_at": "2026-11-13T21:16:05.010943",
-  "event_count": 96,
+  "fetched_at": "2026-11-14T19:48:57.888390",
+  "event_count": 97,
   "events": [
     {
       "event_name": "ことばとば【1部】(2027年1月31日)",
@@ -178,6 +178,32 @@
         },
         {
           "name": "渡瀬結月",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "UZU on STAGE【ステージF】",
+      "event_url": "https://www.eventernote.com/events/500348",
+      "date": "2026-12-05",
+      "venue": "Music & Culture Space 六本木SCHOOL",
+      "open_time": "16:30",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "樹冬華",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        },
+        {
+          "name": "関根瞳",
+          "id": null
+        },
+        {
+          "name": "森山由梨佳",
           "id": null
         }
       ]
