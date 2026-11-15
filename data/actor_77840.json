@@ -1,8 +1,8 @@
 {
   "actor_id": 77840,
   "actor_name": "川村玲奈",
-  "fetched_at": "2026-11-14T19:48:44.430082",
-  "event_count": 67,
+  "fetched_at": "2026-11-15T20:13:45.068305",
+  "event_count": 69,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年4月11日)",
@@ -32,6 +32,50 @@
       "actors": [
         {
           "name": "伊藤舞音",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター『氷渡香名江 1st Single』リリース記念イベント [大阪]【1回目】",
+      "event_url": "https://www.eventernote.com/events/500473",
+      "date": "2027-03-14",
+      "venue": "アニメイト大阪日本橋 5Fイベントホール",
+      "open_time": "11:00",
+      "start_time": "12:00",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "安倍彩野夏",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター『氷渡香名江 1st Single』リリース記念イベント [大阪]【2回目】",
+      "event_url": "https://www.eventernote.com/events/500474",
+      "date": "2027-03-14",
+      "venue": "アニメイト大阪日本橋 5Fイベントホール",
+      "open_time": "14:00",
+      "start_time": "15:00",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "安倍彩野夏",
           "id": null
         },
         {

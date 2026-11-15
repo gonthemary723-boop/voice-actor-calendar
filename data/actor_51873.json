@@ -1,16 +1,16 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-11-14T19:47:47.805679",
-  "event_count": 122,
+  "fetched_at": "2026-11-15T20:12:42.536584",
+  "event_count": 123,
   "events": [
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年5月16日)",
-      "event_url": "https://www.eventernote.com/events/496842",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年5月16日)",
+      "event_url": "https://www.eventernote.com/events/496841",
       "date": "2027-05-16",
       "venue": "MIRAIEリアン コミュニティホール七間町",
-      "open_time": "15:30",
-      "start_time": "16:15",
+      "open_time": "12:00",
+      "start_time": "12:45",
       "actors": [
         {
           "name": "飯田ヒカル",
@@ -23,12 +23,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年5月16日)",
-      "event_url": "https://www.eventernote.com/events/496841",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年5月16日)",
+      "event_url": "https://www.eventernote.com/events/496842",
       "date": "2027-05-16",
       "venue": "MIRAIEリアン コミュニティホール七間町",
-      "open_time": "12:00",
-      "start_time": "12:45",
+      "open_time": "15:30",
+      "start_time": "16:15",
       "actors": [
         {
           "name": "飯田ヒカル",
@@ -368,6 +368,32 @@
       "actors": [
         {
           "name": "飯田ヒカル",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "東洋大学サブカルチャー同窓会 主催 朗読劇トークショー「星の王子さま」",
+      "event_url": "https://www.eventernote.com/events/500464",
+      "date": "2027-01-23",
+      "venue": "星陵会館",
+      "open_time": "14:30",
+      "start_time": "15:00",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
+          "id": null
+        },
+        {
+          "name": "仲村宗悟",
+          "id": null
+        },
+        {
+          "name": "小林千晃",
           "id": null
         }
       ]

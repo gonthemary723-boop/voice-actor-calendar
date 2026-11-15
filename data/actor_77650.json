@@ -1,8 +1,8 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-11-14T19:48:22.546487",
-  "event_count": 88,
+  "fetched_at": "2026-11-15T20:13:21.352159",
+  "event_count": 90,
   "events": [
     {
       "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年4月11日)",
@@ -96,6 +96,50 @@
         },
         {
           "name": "しんじょう(オーパスツー)",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター『氷渡香名江 1st Single』リリース記念イベント [東京] 2月23日【1回目】",
+      "event_url": "https://www.eventernote.com/events/500467",
+      "date": "2027-02-23",
+      "venue": "アニメイト池袋本店 9F animate hall BLACK",
+      "open_time": "11:00",
+      "start_time": "12:00",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "安倍彩野夏",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "学園アイドルマスター『氷渡香名江 1st Single』リリース記念イベント [東京] 2月23日【2回目】",
+      "event_url": "https://www.eventernote.com/events/500468",
+      "date": "2027-02-23",
+      "venue": "アニメイト池袋本店 9F animate hall BLACK",
+      "open_time": "14:00",
+      "start_time": "15:00",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "安倍彩野夏",
+          "id": null
+        },
+        {
+          "name": "伊藤舞音",
           "id": null
         }
       ]
@@ -243,6 +287,10 @@
         {
           "name": "宇野心晴",
           "id": null
+        },
+        {
+          "name": "鶴見萌",
+          "id": null
         }
       ]
     },
@@ -292,6 +340,10 @@
         },
         {
           "name": "宇野心晴",
+          "id": null
+        },
+        {
+          "name": "鶴見萌",
           "id": null
         }
       ]
@@ -343,6 +395,10 @@
         {
           "name": "宇野心晴",
           "id": null
+        },
+        {
+          "name": "鶴見萌",
+          "id": null
         }
       ]
     },
@@ -392,6 +448,10 @@
         },
         {
           "name": "宇野心晴",
+          "id": null
+        },
+        {
+          "name": "鶴見萌",
           "id": null
         }
       ]
@@ -537,12 +597,12 @@
       ]
     },
     {
-      "event_name": "シナリブ＃3「夕凪にとける」⑤",
-      "event_url": "https://www.eventernote.com/events/497400",
+      "event_name": "シナリブ＃3「夕凪にとける」⑥",
+      "event_url": "https://www.eventernote.com/events/497401",
       "date": "2026-11-21",
       "venue": "RBL CAFE",
-      "open_time": "11:40",
-      "start_time": "12:00",
+      "open_time": "15:40",
+      "start_time": "16:00",
       "actors": [
         {
           "name": "伊藤舞音",
@@ -563,12 +623,12 @@
       ]
     },
     {
-      "event_name": "シナリブ＃3「夕凪にとける」⑥",
-      "event_url": "https://www.eventernote.com/events/497401",
+      "event_name": "シナリブ＃3「夕凪にとける」⑤",
+      "event_url": "https://www.eventernote.com/events/497400",
       "date": "2026-11-21",
       "venue": "RBL CAFE",
-      "open_time": "15:40",
-      "start_time": "16:00",
+      "open_time": "11:40",
+      "start_time": "12:00",
       "actors": [
         {
           "name": "伊藤舞音",

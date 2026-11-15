@@ -1,8 +1,8 @@
 {
   "actor_id": 77017,
   "actor_name": "長月あおい",
-  "fetched_at": "2026-11-14T19:47:18.726717",
-  "event_count": 51,
+  "fetched_at": "2026-11-15T20:12:10.385197",
+  "event_count": 52,
   "events": [
     {
       "event_name": "音泉祭り2027東京",
@@ -154,6 +154,32 @@
         },
         {
           "name": "DIALOGUE＋",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "東洋大学サブカルチャー同窓会 主催 朗読劇トークショー「星の王子さま」",
+      "event_url": "https://www.eventernote.com/events/500464",
+      "date": "2027-01-23",
+      "venue": "星陵会館",
+      "open_time": "14:30",
+      "start_time": "15:00",
+      "actors": [
+        {
+          "name": "飯田ヒカル",
+          "id": null
+        },
+        {
+          "name": "長月あおい",
+          "id": null
+        },
+        {
+          "name": "仲村宗悟",
+          "id": null
+        },
+        {
+          "name": "小林千晃",
           "id": null
         }
       ]
