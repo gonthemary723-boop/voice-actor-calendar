@@ -1,7 +1,7 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-11-15T20:13:21.352159",
+  "fetched_at": "2026-11-16T23:40:47.287974",
   "event_count": 90,
   "events": [
     {
@@ -349,12 +349,12 @@
       ]
     },
     {
-      "event_name": "【Big Bridge Company】第4回公演 朗読劇『遠くで水の音がする』12月25日⑤",
-      "event_url": "https://www.eventernote.com/events/499115",
+      "event_name": "【Big Bridge Company】第4回公演 朗読劇『遠くで水の音がする』12月25日⑥",
+      "event_url": "https://www.eventernote.com/events/499116",
       "date": "2026-12-25",
       "venue": "シアターグリーン BASE THEATER",
       "open_time": "",
-      "start_time": "14:30",
+      "start_time": "19:00",
       "actors": [
         {
           "name": "草場愛",
@@ -403,12 +403,12 @@
       ]
     },
     {
-      "event_name": "【Big Bridge Company】第4回公演 朗読劇『遠くで水の音がする』12月25日⑥",
-      "event_url": "https://www.eventernote.com/events/499116",
+      "event_name": "【Big Bridge Company】第4回公演 朗読劇『遠くで水の音がする』12月25日⑤",
+      "event_url": "https://www.eventernote.com/events/499115",
       "date": "2026-12-25",
       "venue": "シアターグリーン BASE THEATER",
       "open_time": "",
-      "start_time": "19:00",
+      "start_time": "14:30",
       "actors": [
         {
           "name": "草場愛",
