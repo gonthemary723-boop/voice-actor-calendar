@@ -1,7 +1,7 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-11-16T23:40:58.147944",
+  "fetched_at": "2026-11-17T22:49:00.548790",
   "event_count": 62,
   "events": [
     {
@@ -222,6 +222,22 @@
         },
         {
           "name": "BabyQuartz(ex.Question.VI)",
+          "id": null
+        },
+        {
+          "name": "MIZUKI(Drum)",
+          "id": null
+        },
+        {
+          "name": "野村麻衣子",
+          "id": null
+        },
+        {
+          "name": "広瀬ゆうき",
+          "id": null
+        },
+        {
+          "name": "Sally@Guitarist(@sallyrose4)",
           "id": null
         }
       ]
