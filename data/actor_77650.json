@@ -1,7 +1,7 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-11-17T22:48:48.830396",
+  "fetched_at": "2026-11-18T22:30:44.230252",
   "event_count": 90,
   "events": [
     {
@@ -41,12 +41,12 @@
       ]
     },
     {
-      "event_name": "ことばとば【2部】(2027年4月10日)",
-      "event_url": "https://www.eventernote.com/events/499201",
+      "event_name": "ことばとば【1部】(2027年4月10日)",
+      "event_url": "https://www.eventernote.com/events/499200",
       "date": "2027-04-10",
       "venue": "神戸ポートオアシス",
-      "open_time": "15:30",
-      "start_time": "16:00",
+      "open_time": "11:30",
+      "start_time": "12:00",
       "actors": [
         {
           "name": "伊藤舞音",
@@ -71,12 +71,12 @@
       ]
     },
     {
-      "event_name": "ことばとば【1部】(2027年4月10日)",
-      "event_url": "https://www.eventernote.com/events/499200",
+      "event_name": "ことばとば【2部】(2027年4月10日)",
+      "event_url": "https://www.eventernote.com/events/499201",
       "date": "2027-04-10",
       "venue": "神戸ポートオアシス",
-      "open_time": "11:30",
-      "start_time": "12:00",
+      "open_time": "15:30",
+      "start_time": "16:00",
       "actors": [
         {
           "name": "伊藤舞音",
@@ -1135,7 +1135,7 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "汐屋遥佳",
           "id": null
         },
         {
@@ -1161,7 +1161,7 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "汐屋遥佳",
           "id": null
         },
         {
@@ -2671,7 +2671,7 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "汐屋遥佳",
           "id": null
         },
         {
@@ -2697,7 +2697,7 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "汐屋遥佳",
           "id": null
         },
         {
@@ -2905,11 +2905,11 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "たかはし智秋",
           "id": null
         },
         {
-          "name": "たかはし智秋",
+          "name": "汐屋遥佳",
           "id": null
         },
         {

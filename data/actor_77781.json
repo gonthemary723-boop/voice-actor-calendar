@@ -1,16 +1,16 @@
 {
   "actor_id": 77781,
   "actor_name": "七瀬つむぎ",
-  "fetched_at": "2026-11-17T22:48:22.100523",
+  "fetched_at": "2026-11-18T22:30:16.834023",
   "event_count": 73,
   "events": [
     {
-      "event_name": "ことばとば【2部】(2027年4月10日)",
-      "event_url": "https://www.eventernote.com/events/499201",
+      "event_name": "ことばとば【1部】(2027年4月10日)",
+      "event_url": "https://www.eventernote.com/events/499200",
       "date": "2027-04-10",
       "venue": "神戸ポートオアシス",
-      "open_time": "15:30",
-      "start_time": "16:00",
+      "open_time": "11:30",
+      "start_time": "12:00",
       "actors": [
         {
           "name": "伊藤舞音",
@@ -35,12 +35,12 @@
       ]
     },
     {
-      "event_name": "ことばとば【1部】(2027年4月10日)",
-      "event_url": "https://www.eventernote.com/events/499200",
+      "event_name": "ことばとば【2部】(2027年4月10日)",
+      "event_url": "https://www.eventernote.com/events/499201",
       "date": "2027-04-10",
       "venue": "神戸ポートオアシス",
-      "open_time": "11:30",
-      "start_time": "12:00",
+      "open_time": "15:30",
+      "start_time": "16:00",
       "actors": [
         {
           "name": "伊藤舞音",
