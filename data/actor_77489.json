@@ -1,8 +1,8 @@
 {
   "actor_id": 77489,
   "actor_name": "花岩香奈",
-  "fetched_at": "2026-11-18T22:30:29.392186",
-  "event_count": 71,
+  "fetched_at": "2026-11-19T22:36:21.131055",
+  "event_count": 72,
   "events": [
     {
       "event_name": "縁結びのゆかり様2ndイベント『縁と誓いの理想郷』昼公演",
@@ -80,6 +80,20 @@
         },
         {
           "name": "薄井友里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "Kana Hanaiwa Fan Meeting in Macao 2026",
+      "event_url": "https://www.eventernote.com/events/500891",
+      "date": "2026-12-26",
+      "venue": "NEW ORIENT LANDMARK HOTEL",
+      "open_time": "12:50",
+      "start_time": "13:30",
+      "actors": [
+        {
+          "name": "花岩香奈",
           "id": null
         }
       ]
