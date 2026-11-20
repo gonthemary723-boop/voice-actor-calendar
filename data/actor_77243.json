@@ -1,7 +1,7 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-11-19T22:36:47.298879",
+  "fetched_at": "2026-11-20T22:10:04.466868",
   "event_count": 62,
   "events": [
     {
@@ -121,10 +121,6 @@
       "start_time": "13:00",
       "actors": [
         {
-          "name": "KOIAI",
-          "id": null
-        },
-        {
           "name": "Lonesome_Blue",
           "id": null
         },
@@ -234,6 +230,10 @@
         },
         {
           "name": "広瀬ゆうき",
+          "id": null
+        },
+        {
+          "name": "Sally@Guitarist(@sallyrose4)",
           "id": null
         },
         {

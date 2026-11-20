@@ -1,7 +1,7 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-11-19T22:36:35.656893",
+  "fetched_at": "2026-11-20T22:09:52.853716",
   "event_count": 90,
   "events": [
     {
@@ -241,12 +241,12 @@
       ]
     },
     {
-      "event_name": "【Big Bridge Company】第4回公演 朗読劇『遠くで水の音がする』12月26日⑧",
-      "event_url": "https://www.eventernote.com/events/499118",
+      "event_name": "【Big Bridge Company】第4回公演 朗読劇『遠くで水の音がする』12月26日⑦",
+      "event_url": "https://www.eventernote.com/events/499117",
       "date": "2026-12-26",
       "venue": "シアターグリーン BASE THEATER",
       "open_time": "",
-      "start_time": "18:00",
+      "start_time": "13:30",
       "actors": [
         {
           "name": "草場愛",
@@ -295,12 +295,12 @@
       ]
     },
     {
-      "event_name": "【Big Bridge Company】第4回公演 朗読劇『遠くで水の音がする』12月26日⑦",
-      "event_url": "https://www.eventernote.com/events/499117",
+      "event_name": "【Big Bridge Company】第4回公演 朗読劇『遠くで水の音がする』12月26日⑧",
+      "event_url": "https://www.eventernote.com/events/499118",
       "date": "2026-12-26",
       "venue": "シアターグリーン BASE THEATER",
       "open_time": "",
-      "start_time": "13:30",
+      "start_time": "18:00",
       "actors": [
         {
           "name": "草場愛",
@@ -1713,7 +1713,7 @@
           "id": null
         },
         {
-          "name": "三葉海緒(珠原海愛)",
+          "name": "三葉海緒",
           "id": null
         },
         {

@@ -1,7 +1,7 @@
 {
   "actor_id": 51873,
   "actor_name": "飯田ヒカル",
-  "fetched_at": "2026-11-19T22:35:57.184531",
+  "fetched_at": "2026-11-20T22:09:14.277240",
   "event_count": 123,
   "events": [
     {
@@ -593,10 +593,6 @@
       "start_time": "13:00",
       "actors": [
         {
-          "name": "KOIAI",
-          "id": null
-        },
-        {
           "name": "Lonesome_Blue",
           "id": null
         },
@@ -706,6 +702,10 @@
         },
         {
           "name": "広瀬ゆうき",
+          "id": null
+        },
+        {
+          "name": "Sally@Guitarist(@sallyrose4)",
           "id": null
         },
         {
