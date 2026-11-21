@@ -1,7 +1,7 @@
 {
   "actor_id": 77781,
   "actor_name": "七瀬つむぎ",
-  "fetched_at": "2026-11-20T22:09:26.586143",
+  "fetched_at": "2026-11-21T20:48:33.222554",
   "event_count": 73,
   "events": [
     {
@@ -283,6 +283,10 @@
       "start_time": "13:00",
       "actors": [
         {
+          "name": "KOIAI",
+          "id": null
+        },
+        {
           "name": "Lonesome_Blue",
           "id": null
         },
@@ -392,10 +396,6 @@
         },
         {
           "name": "広瀬ゆうき",
-          "id": null
-        },
-        {
-          "name": "Sally@Guitarist(@sallyrose4)",
           "id": null
         },
         {

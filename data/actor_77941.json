@@ -1,16 +1,16 @@
 {
   "actor_id": 77941,
   "actor_name": "松田彩音",
-  "fetched_at": "2026-11-20T22:10:39.930431",
+  "fetched_at": "2026-11-21T20:49:39.624449",
   "event_count": 46,
   "events": [
     {
-      "event_name": "学園アイドルマスター『氷渡香名江 1st Single』リリース記念イベント [愛知]【2回目】",
-      "event_url": "https://www.eventernote.com/events/500472",
+      "event_name": "学園アイドルマスター『氷渡香名江 1st Single』リリース記念イベント [愛知]【1回目】",
+      "event_url": "https://www.eventernote.com/events/500471",
       "date": "2027-03-13",
       "venue": "第3太閤ビル",
-      "open_time": "14:00",
-      "start_time": "15:00",
+      "open_time": "11:00",
+      "start_time": "12:00",
       "actors": [
         {
           "name": "学園アイドルマスター",
@@ -27,12 +27,12 @@
       ]
     },
     {
-      "event_name": "学園アイドルマスター『氷渡香名江 1st Single』リリース記念イベント [愛知]【1回目】",
-      "event_url": "https://www.eventernote.com/events/500471",
+      "event_name": "学園アイドルマスター『氷渡香名江 1st Single』リリース記念イベント [愛知]【2回目】",
+      "event_url": "https://www.eventernote.com/events/500472",
       "date": "2027-03-13",
       "venue": "第3太閤ビル",
-      "open_time": "11:00",
-      "start_time": "12:00",
+      "open_time": "14:00",
+      "start_time": "15:00",
       "actors": [
         {
           "name": "学園アイドルマスター",

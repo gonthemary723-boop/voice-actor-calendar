@@ -1,7 +1,7 @@
 {
   "actor_id": 16058,
   "actor_name": "春咲暖",
-  "fetched_at": "2026-11-20T22:12:04.425667",
+  "fetched_at": "2026-11-21T20:50:56.592284",
   "event_count": 563,
   "events": [
     {
@@ -15203,6 +15203,10 @@
           "id": null
         },
         {
+          "name": "大島璃乃",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -15220,10 +15224,6 @@
         },
         {
           "name": "天音利梛",
-          "id": null
-        },
-        {
-          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -15257,6 +15257,10 @@
           "id": null
         },
         {
+          "name": "大島璃乃",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -15274,10 +15278,6 @@
         },
         {
           "name": "天音利梛",
-          "id": null
-        },
-        {
-          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -15419,6 +15419,10 @@
           "id": null
         },
         {
+          "name": "大島璃乃",
+          "id": null
+        },
+        {
           "name": "春咲暖",
           "id": null
         },
@@ -15436,10 +15440,6 @@
         },
         {
           "name": "天音利梛",
-          "id": null
-        },
-        {
-          "name": "伊藤雨音",
           "id": null
         },
         {
@@ -35038,7 +35038,7 @@
       "event_name": "ヤングチャンピオン30th. FESTIVAL（別会場：A応P特典会）",
       "event_url": "https://www.eventernote.com/events/170191",
       "date": "2018-08-08",
-      "venue": "ハロー貸会議室西新宿",
+      "venue": "ハロー貸会議室西新宿(閉店)",
       "open_time": "",
       "start_time": "19:30",
       "actors": [

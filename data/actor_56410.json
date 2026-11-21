@@ -1,7 +1,7 @@
 {
   "actor_id": 56410,
   "actor_name": "小鹿なお",
-  "fetched_at": "2026-11-20T22:08:54.048678",
+  "fetched_at": "2026-11-21T20:48:03.817689",
   "event_count": 72,
   "events": [
     {
@@ -465,24 +465,6 @@
       ]
     },
     {
-      "event_name": "小鹿なおの#サシバナProduced by ボイスガレッジ 第2部",
-      "event_url": "https://www.eventernote.com/events/484309",
-      "date": "2026-08-23",
-      "venue": "R'sアートコート(労音大久保会館)",
-      "open_time": "15:00",
-      "start_time": "15:30",
-      "actors": [
-        {
-          "name": "小鹿なお",
-          "id": null
-        },
-        {
-          "name": "飯田友子",
-          "id": null
-        }
-      ]
-    },
-    {
       "event_name": "小鹿なおの#サシバナProduced by ボイスガレッジ 第3部",
       "event_url": "https://www.eventernote.com/events/484310",
       "date": "2026-08-23",
@@ -496,6 +478,24 @@
         },
         {
           "name": "松岡美里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "小鹿なおの#サシバナProduced by ボイスガレッジ 第2部",
+      "event_url": "https://www.eventernote.com/events/484309",
+      "date": "2026-08-23",
+      "venue": "R'sアートコート(労音大久保会館)",
+      "open_time": "15:00",
+      "start_time": "15:30",
+      "actors": [
+        {
+          "name": "小鹿なお",
+          "id": null
+        },
+        {
+          "name": "飯田友子",
           "id": null
         }
       ]
