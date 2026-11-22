@@ -1,8 +1,8 @@
 {
   "actor_id": 77489,
   "actor_name": "花岩香奈",
-  "fetched_at": "2026-11-21T20:48:44.299757",
-  "event_count": 72,
+  "fetched_at": "2026-11-22T20:57:31.215417",
+  "event_count": 75,
   "events": [
     {
       "event_name": "縁結びのゆかり様2ndイベント『縁と誓いの理想郷』昼公演",
@@ -44,6 +44,60 @@
         },
         {
           "name": "花岩香奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "アンビエントシアター「君と続きを書く、君の続きを読む」教室篇『君と続きを書く』1.17 13:30",
+      "event_url": "https://www.eventernote.com/events/501175",
+      "date": "2027-01-17",
+      "venue": "HOME/WORK VILLAGE",
+      "open_time": "13:00",
+      "start_time": "13:30",
+      "actors": [
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "アンビエントシアター「君と続きを書く、君の続きを読む」教室篇『君と続きを書く』1.17 18:30",
+      "event_url": "https://www.eventernote.com/events/501177",
+      "date": "2027-01-17",
+      "venue": "HOME/WORK VILLAGE",
+      "open_time": "18:00",
+      "start_time": "18:30",
+      "actors": [
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "アンビエントシアター「君と続きを書く、君の続きを読む」教室篇『君と続きを書く』1.17 16:00",
+      "event_url": "https://www.eventernote.com/events/501176",
+      "date": "2027-01-17",
+      "venue": "HOME/WORK VILLAGE",
+      "open_time": "15:30",
+      "start_time": "16:00",
+      "actors": [
+        {
+          "name": "花岩香奈",
+          "id": null
+        },
+        {
+          "name": "薄井友里",
           "id": null
         }
       ]
