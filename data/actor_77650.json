@@ -1,16 +1,16 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-11-24T02:02:19.325626",
+  "fetched_at": "2026-11-24T23:48:03.290804",
   "event_count": 90,
   "events": [
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年4月11日)",
-      "event_url": "https://www.eventernote.com/events/495376",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年4月11日)",
+      "event_url": "https://www.eventernote.com/events/495377",
       "date": "2027-04-11",
       "venue": "静岡市東部勤労者福祉センター(清水テルサ)",
-      "open_time": "12:00",
-      "start_time": "12:45",
+      "open_time": "15:30",
+      "start_time": "16:15",
       "actors": [
         {
           "name": "伊藤舞音",
@@ -23,12 +23,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年4月11日)",
-      "event_url": "https://www.eventernote.com/events/495377",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年4月11日)",
+      "event_url": "https://www.eventernote.com/events/495376",
       "date": "2027-04-11",
       "venue": "静岡市東部勤労者福祉センター(清水テルサ)",
-      "open_time": "15:30",
-      "start_time": "16:15",
+      "open_time": "12:00",
+      "start_time": "12:45",
       "actors": [
         {
           "name": "伊藤舞音",
@@ -1135,7 +1135,7 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "汐屋遥佳",
           "id": null
         },
         {
@@ -1161,7 +1161,7 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "汐屋遥佳",
           "id": null
         },
         {
@@ -1239,7 +1239,7 @@
           "id": null
         },
         {
-          "name": "平山笑美",
+          "name": "那華喜シイナ",
           "id": null
         },
         {
@@ -1317,7 +1317,7 @@
           "id": null
         },
         {
-          "name": "平山笑美",
+          "name": "那華喜シイナ",
           "id": null
         },
         {
@@ -1395,7 +1395,7 @@
           "id": null
         },
         {
-          "name": "石原美沙紀",
+          "name": "那華喜シイナ",
           "id": null
         },
         {
@@ -2671,7 +2671,7 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "汐屋遥佳",
           "id": null
         },
         {
@@ -2697,7 +2697,7 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "汐屋遥佳",
           "id": null
         },
         {
@@ -2905,11 +2905,11 @@
           "id": null
         },
         {
-          "name": "井料愛良",
+          "name": "たかはし智秋",
           "id": null
         },
         {
-          "name": "たかはし智秋",
+          "name": "汐屋遥佳",
           "id": null
         },
         {

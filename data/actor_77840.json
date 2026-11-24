@@ -1,16 +1,16 @@
 {
   "actor_id": 77840,
   "actor_name": "川村玲奈",
-  "fetched_at": "2026-11-24T02:02:41.008296",
+  "fetched_at": "2026-11-24T23:48:26.796503",
   "event_count": 69,
   "events": [
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年4月11日)",
-      "event_url": "https://www.eventernote.com/events/495376",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年4月11日)",
+      "event_url": "https://www.eventernote.com/events/495377",
       "date": "2027-04-11",
       "venue": "静岡市東部勤労者福祉センター(清水テルサ)",
-      "open_time": "12:00",
-      "start_time": "12:45",
+      "open_time": "15:30",
+      "start_time": "16:15",
       "actors": [
         {
           "name": "伊藤舞音",
@@ -23,12 +23,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年4月11日)",
-      "event_url": "https://www.eventernote.com/events/495377",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年4月11日)",
+      "event_url": "https://www.eventernote.com/events/495376",
       "date": "2027-04-11",
       "venue": "静岡市東部勤労者福祉センター(清水テルサ)",
-      "open_time": "15:30",
-      "start_time": "16:15",
+      "open_time": "12:00",
+      "start_time": "12:45",
       "actors": [
         {
           "name": "伊藤舞音",
@@ -101,10 +101,6 @@
           "id": null
         },
         {
-          "name": "山崎直宣",
-          "id": null
-        },
-        {
           "name": "川村玲奈",
           "id": null
         },
@@ -114,6 +110,10 @@
         },
         {
           "name": "清水大登",
+          "id": null
+        },
+        {
+          "name": "花まどか",
           "id": null
         },
         {
@@ -139,10 +139,6 @@
           "id": null
         },
         {
-          "name": "山崎直宣",
-          "id": null
-        },
-        {
           "name": "川村玲奈",
           "id": null
         },
@@ -152,6 +148,10 @@
         },
         {
           "name": "清水大登",
+          "id": null
+        },
+        {
+          "name": "花まどか",
           "id": null
         },
         {
@@ -177,10 +177,6 @@
           "id": null
         },
         {
-          "name": "山崎直宣",
-          "id": null
-        },
-        {
           "name": "川村玲奈",
           "id": null
         },
@@ -194,6 +190,10 @@
         },
         {
           "name": "花まどか",
+          "id": null
+        },
+        {
+          "name": "清水大登",
           "id": null
         },
         {
@@ -219,10 +219,6 @@
           "id": null
         },
         {
-          "name": "山崎直宣",
-          "id": null
-        },
-        {
           "name": "川村玲奈",
           "id": null
         },
@@ -232,6 +228,10 @@
         },
         {
           "name": "清水大登",
+          "id": null
+        },
+        {
+          "name": "花まどか",
           "id": null
         },
         {
