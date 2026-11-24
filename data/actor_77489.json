@@ -1,7 +1,7 @@
 {
   "actor_id": 77489,
   "actor_name": "花岩香奈",
-  "fetched_at": "2026-11-22T20:57:31.215417",
+  "fetched_at": "2026-11-24T02:02:05.731903",
   "event_count": 75,
   "events": [
     {
@@ -49,12 +49,12 @@
       ]
     },
     {
-      "event_name": "アンビエントシアター「君と続きを書く、君の続きを読む」教室篇『君と続きを書く』1.17 13:30",
-      "event_url": "https://www.eventernote.com/events/501175",
+      "event_name": "アンビエントシアター「君と続きを書く、君の続きを読む」教室篇『君と続きを書く』1.17 18:30",
+      "event_url": "https://www.eventernote.com/events/501177",
       "date": "2027-01-17",
       "venue": "HOME/WORK VILLAGE",
-      "open_time": "13:00",
-      "start_time": "13:30",
+      "open_time": "18:00",
+      "start_time": "18:30",
       "actors": [
         {
           "name": "花岩香奈",
@@ -67,12 +67,12 @@
       ]
     },
     {
-      "event_name": "アンビエントシアター「君と続きを書く、君の続きを読む」教室篇『君と続きを書く』1.17 18:30",
-      "event_url": "https://www.eventernote.com/events/501177",
+      "event_name": "アンビエントシアター「君と続きを書く、君の続きを読む」教室篇『君と続きを書く』1.17 13:30",
+      "event_url": "https://www.eventernote.com/events/501175",
       "date": "2027-01-17",
       "venue": "HOME/WORK VILLAGE",
-      "open_time": "18:00",
-      "start_time": "18:30",
+      "open_time": "13:00",
+      "start_time": "13:30",
       "actors": [
         {
           "name": "花岩香奈",
@@ -425,12 +425,12 @@
       ]
     },
     {
-      "event_name": "花岩香奈さん 1st写真集発売記念イベント@書泉ブックタワー ＜第1部＞",
-      "event_url": "https://www.eventernote.com/events/483678",
+      "event_name": "花岩香奈さん 1st写真集発売記念イベント@書泉ブックタワー ＜第6部＞",
+      "event_url": "https://www.eventernote.com/events/484462",
       "date": "2026-10-10",
       "venue": "書泉ブックタワー",
       "open_time": "",
-      "start_time": "11:30",
+      "start_time": "17:50",
       "actors": [
         {
           "name": "花岩香奈",
@@ -439,12 +439,12 @@
       ]
     },
     {
-      "event_name": "花岩香奈さん 1st写真集発売記念イベント@書泉ブックタワー ＜第6部＞",
-      "event_url": "https://www.eventernote.com/events/484462",
+      "event_name": "花岩香奈さん 1st写真集発売記念イベント@書泉ブックタワー ＜第1部＞",
+      "event_url": "https://www.eventernote.com/events/483678",
       "date": "2026-10-10",
       "venue": "書泉ブックタワー",
       "open_time": "",
-      "start_time": "17:50",
+      "start_time": "11:30",
       "actors": [
         {
           "name": "花岩香奈",
