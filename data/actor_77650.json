@@ -1,16 +1,16 @@
 {
   "actor_id": 77650,
   "actor_name": "伊藤舞音",
-  "fetched_at": "2026-11-25T23:30:08.797295",
+  "fetched_at": "2026-11-26T23:32:42.110852",
   "event_count": 90,
   "events": [
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年4月11日)",
-      "event_url": "https://www.eventernote.com/events/495377",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年4月11日)",
+      "event_url": "https://www.eventernote.com/events/495376",
       "date": "2027-04-11",
       "venue": "静岡市東部勤労者福祉センター(清水テルサ)",
-      "open_time": "15:30",
-      "start_time": "16:15",
+      "open_time": "12:00",
+      "start_time": "12:45",
       "actors": [
         {
           "name": "伊藤舞音",
@@ -23,12 +23,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2027年4月11日)",
-      "event_url": "https://www.eventernote.com/events/495376",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2027年4月11日)",
+      "event_url": "https://www.eventernote.com/events/495377",
       "date": "2027-04-11",
       "venue": "静岡市東部勤労者福祉センター(清水テルサ)",
-      "open_time": "12:00",
-      "start_time": "12:45",
+      "open_time": "15:30",
+      "start_time": "16:15",
       "actors": [
         {
           "name": "伊藤舞音",
@@ -1239,7 +1239,7 @@
           "id": null
         },
         {
-          "name": "那華喜シイナ",
+          "name": "平山笑美",
           "id": null
         },
         {
@@ -1317,7 +1317,7 @@
           "id": null
         },
         {
-          "name": "那華喜シイナ",
+          "name": "平山笑美",
           "id": null
         },
         {
@@ -1395,7 +1395,7 @@
           "id": null
         },
         {
-          "name": "那華喜シイナ",
+          "name": "石原美沙紀",
           "id": null
         },
         {

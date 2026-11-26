@@ -1,7 +1,7 @@
 {
   "actor_id": 77243,
   "actor_name": "湊みや",
-  "fetched_at": "2026-11-25T23:30:20.748685",
+  "fetched_at": "2026-11-26T23:32:53.708286",
   "event_count": 62,
   "events": [
     {
@@ -49,10 +49,10 @@
       ]
     },
     {
-      "event_name": "湊みや Fanmeeting in TOKYO（昼公演）",
+      "event_name": "【会場変更】湊みや Fanmeeting in TOKYO（昼公演）",
       "event_url": "https://www.eventernote.com/events/498442",
       "date": "2027-01-16",
-      "venue": "秋葉原UDX4F UDXシアター",
+      "venue": "北とぴあ3F つつじホール",
       "open_time": "12:30",
       "start_time": "13:00",
       "actors": [
@@ -63,10 +63,10 @@
       ]
     },
     {
-      "event_name": "湊みや Fanmeeting in TOKYO（夜公演）",
+      "event_name": "【会場変更】湊みや Fanmeeting in TOKYO（夜公演）",
       "event_url": "https://www.eventernote.com/events/498444",
       "date": "2027-01-16",
-      "venue": "秋葉原UDX4F UDXシアター",
+      "venue": "北とぴあ3F つつじホール",
       "open_time": "17:00",
       "start_time": "17:30",
       "actors": [
@@ -77,12 +77,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年12月27日)",
-      "event_url": "https://www.eventernote.com/events/487198",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年12月27日)",
+      "event_url": "https://www.eventernote.com/events/487197",
       "date": "2026-12-27",
       "venue": "MIRAIEリアン コミュニティホール七間町",
-      "open_time": "15:30",
-      "start_time": "16:15",
+      "open_time": "12:00",
+      "start_time": "12:45",
       "actors": [
         {
           "name": "湊みや",
@@ -95,12 +95,12 @@
       ]
     },
     {
-      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 昼の部(2026年12月27日)",
-      "event_url": "https://www.eventernote.com/events/487197",
+      "event_name": "SECOND LINE Presents みんなに会いに行くよ! in 静岡 夜の部(2026年12月27日)",
+      "event_url": "https://www.eventernote.com/events/487198",
       "date": "2026-12-27",
       "venue": "MIRAIEリアン コミュニティホール七間町",
-      "open_time": "12:00",
-      "start_time": "12:45",
+      "open_time": "15:30",
+      "start_time": "16:15",
       "actors": [
         {
           "name": "湊みや",
@@ -279,12 +279,12 @@
       ]
     },
     {
-      "event_name": "湊みや 香港粉絲見面會 第一部",
-      "event_url": "https://www.eventernote.com/events/496991",
+      "event_name": "湊みや 香港粉絲見面會 第二部",
+      "event_url": "https://www.eventernote.com/events/496992",
       "date": "2026-11-22",
       "venue": "P'Artiste",
-      "open_time": "11:30",
-      "start_time": "12:00",
+      "open_time": "15:30",
+      "start_time": "16:00",
       "actors": [
         {
           "name": "湊みや",
@@ -293,12 +293,12 @@
       ]
     },
     {
-      "event_name": "湊みや 香港粉絲見面會 第二部",
-      "event_url": "https://www.eventernote.com/events/496992",
+      "event_name": "湊みや 香港粉絲見面會 第一部",
+      "event_url": "https://www.eventernote.com/events/496991",
       "date": "2026-11-22",
       "venue": "P'Artiste",
-      "open_time": "15:30",
-      "start_time": "16:00",
+      "open_time": "11:30",
+      "start_time": "12:00",
       "actors": [
         {
           "name": "湊みや",
