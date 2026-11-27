@@ -1,9 +1,45 @@
 {
   "actor_id": 77489,
   "actor_name": "花岩香奈",
-  "fetched_at": "2026-11-26T23:32:27.947871",
-  "event_count": 75,
+  "fetched_at": "2026-11-27T23:16:48.034360",
+  "event_count": 77,
   "events": [
+    {
+      "event_name": "紫月杏朱彩のお姫様になるんだもん☆ FANMEETING 2027 Happy Valentine’s Day 第2部",
+      "event_url": "https://www.eventernote.com/events/501767",
+      "date": "2027-02-21",
+      "venue": "アニメイト池袋本店 B2F アニメイトシアター",
+      "open_time": "16:30",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "紫月杏朱彩",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "紫月杏朱彩のお姫様になるんだもん☆ FANMEETING 2027 Happy Valentine’s Day 第1部",
+      "event_url": "https://www.eventernote.com/events/501766",
+      "date": "2027-02-21",
+      "venue": "アニメイト池袋本店 B2F アニメイトシアター",
+      "open_time": "13:45",
+      "start_time": "14:15",
+      "actors": [
+        {
+          "name": "紫月杏朱彩",
+          "id": null
+        },
+        {
+          "name": "花岩香奈",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "縁結びのゆかり様2ndイベント『縁と誓いの理想郷』昼公演",
       "event_url": "https://www.eventernote.com/events/498622",

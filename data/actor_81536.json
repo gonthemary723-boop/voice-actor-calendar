@@ -1,9 +1,39 @@
 {
   "actor_id": 81536,
   "actor_name": "天音ゆかり",
-  "fetched_at": "2026-11-26T23:35:28.535005",
-  "event_count": 61,
+  "fetched_at": "2026-11-27T23:19:49.491402",
+  "event_count": 62,
   "events": [
+    {
+      "event_name": "【振替】セカショ朗読会‐00‐ ＜昼の部＞",
+      "event_url": "https://www.eventernote.com/events/501731",
+      "date": "2027-04-11",
+      "venue": "星陵会館",
+      "open_time": "13:30",
+      "start_time": "14:30",
+      "actors": [
+        {
+          "name": "佐藤元(声優)",
+          "id": null
+        },
+        {
+          "name": "上田瞳",
+          "id": null
+        },
+        {
+          "name": "照井悠希",
+          "id": null
+        },
+        {
+          "name": "井藤智哉",
+          "id": null
+        },
+        {
+          "name": "天音ゆかり",
+          "id": null
+        }
+      ]
+    },
     {
       "event_name": "縁結びのゆかり様2ndイベント『縁と誓いの理想郷』昼公演",
       "event_url": "https://www.eventernote.com/events/498622",

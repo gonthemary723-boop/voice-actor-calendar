@@ -1,7 +1,7 @@
 {
   "actor_id": 77840,
   "actor_name": "川村玲奈",
-  "fetched_at": "2026-11-26T23:33:05.390671",
+  "fetched_at": "2026-11-27T23:17:25.910556",
   "event_count": 69,
   "events": [
     {
@@ -41,28 +41,6 @@
       ]
     },
     {
-      "event_name": "学園アイドルマスター『氷渡香名江 1st Single』リリース記念イベント [大阪]【2回目】",
-      "event_url": "https://www.eventernote.com/events/500474",
-      "date": "2027-03-14",
-      "venue": "アニメイト大阪日本橋 5Fイベントホール",
-      "open_time": "14:00",
-      "start_time": "15:00",
-      "actors": [
-        {
-          "name": "学園アイドルマスター",
-          "id": null
-        },
-        {
-          "name": "安倍彩野夏",
-          "id": null
-        },
-        {
-          "name": "川村玲奈",
-          "id": null
-        }
-      ]
-    },
-    {
       "event_name": "学園アイドルマスター『氷渡香名江 1st Single』リリース記念イベント [大阪]【1回目】",
       "event_url": "https://www.eventernote.com/events/500473",
       "date": "2027-03-14",
@@ -85,12 +63,34 @@
       ]
     },
     {
-      "event_name": "朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月31日②",
+      "event_name": "学園アイドルマスター『氷渡香名江 1st Single』リリース記念イベント [大阪]【2回目】",
+      "event_url": "https://www.eventernote.com/events/500474",
+      "date": "2027-03-14",
+      "venue": "アニメイト大阪日本橋 5Fイベントホール",
+      "open_time": "14:00",
+      "start_time": "15:00",
+      "actors": [
+        {
+          "name": "学園アイドルマスター",
+          "id": null
+        },
+        {
+          "name": "安倍彩野夏",
+          "id": null
+        },
+        {
+          "name": "川村玲奈",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "朗読劇『明治法廷異聞 ―残照の狼牙―』1月31日 ソワレ",
       "event_url": "https://www.eventernote.com/events/499365",
       "date": "2027-01-31",
-      "venue": "",
-      "open_time": "",
-      "start_time": "",
+      "venue": "武蔵野芸能劇場 小劇場",
+      "open_time": "16:15",
+      "start_time": "17:00",
       "actors": [
         {
           "name": "堀金蒼平",
@@ -119,16 +119,20 @@
         {
           "name": "花まどか",
           "id": null
+        },
+        {
+          "name": "花まどか",
+          "id": null
         }
       ]
     },
     {
-      "event_name": "朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月31日①",
+      "event_name": "朗読劇『明治法廷異聞 ―残照の狼牙―』1月31日 マチネ",
       "event_url": "https://www.eventernote.com/events/499364",
       "date": "2027-01-31",
-      "venue": "",
-      "open_time": "",
-      "start_time": "",
+      "venue": "武蔵野芸能劇場 小劇場",
+      "open_time": "12:15",
+      "start_time": "13:00",
       "actors": [
         {
           "name": "堀金蒼平",
@@ -157,16 +161,20 @@
         {
           "name": "花まどか",
           "id": null
+        },
+        {
+          "name": "花まどか",
+          "id": null
         }
       ]
     },
     {
-      "event_name": "朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月30日①",
+      "event_name": "朗読劇『明治法廷異聞 ―残照の狼牙―』1月30日 マチネ",
       "event_url": "https://www.eventernote.com/events/499362",
       "date": "2027-01-30",
       "venue": "武蔵野芸能劇場 小劇場",
-      "open_time": "",
-      "start_time": "",
+      "open_time": "12:15",
+      "start_time": "13:00",
       "actors": [
         {
           "name": "堀金蒼平",
@@ -203,12 +211,12 @@
       ]
     },
     {
-      "event_name": "朗読劇『明治法廷異聞 ―残照の狼牙―』2027年1月30日②",
+      "event_name": "朗読劇『明治法廷異聞 ―残照の狼牙―』1月30日 ソワレ",
       "event_url": "https://www.eventernote.com/events/499363",
       "date": "2027-01-30",
-      "venue": "",
-      "open_time": "",
-      "start_time": "",
+      "venue": "武蔵野芸能劇場 小劇場",
+      "open_time": "16:15",
+      "start_time": "17:00",
       "actors": [
         {
           "name": "堀金蒼平",
@@ -232,6 +240,10 @@
         },
         {
           "name": "清水大登",
+          "id": null
+        },
+        {
+          "name": "花まどか",
           "id": null
         },
         {

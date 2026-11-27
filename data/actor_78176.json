@@ -1,8 +1,8 @@
 {
   "actor_id": 78176,
   "actor_name": "浅見香月",
-  "fetched_at": "2026-11-26T23:35:37.029470",
-  "event_count": 41,
+  "fetched_at": "2026-11-27T23:19:58.212017",
+  "event_count": 43,
   "events": [
     {
       "event_name": "ことばとば【1部】(2027年4月18日)",
@@ -60,6 +60,34 @@
         },
         {
           "name": "しんじょう(オーパスツー)",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "『VOICEスタイルVOL.8』発売記念 浅見香月さんイベント アニメイト回",
+      "event_url": "https://www.eventernote.com/events/501666",
+      "date": "2026-12-26",
+      "venue": "アニメイト秋葉原1号館 7F",
+      "open_time": "18:20",
+      "start_time": "19:00",
+      "actors": [
+        {
+          "name": "浅見香月",
+          "id": null
+        }
+      ]
+    },
+    {
+      "event_name": "『VOICEスタイルVOL.8』発売記念 浅見香月さんイベント ゲーマーズ回",
+      "event_url": "https://www.eventernote.com/events/501683",
+      "date": "2026-12-26",
+      "venue": "アニメイト秋葉原1号館 7F",
+      "open_time": "",
+      "start_time": "17:00",
+      "actors": [
+        {
+          "name": "浅見香月",
           "id": null
         }
       ]
@@ -563,7 +591,7 @@
           "id": null
         },
         {
-          "name": "汐屋遥佳",
+          "name": "井料愛良",
           "id": null
         },
         {
@@ -589,7 +617,7 @@
           "id": null
         },
         {
-          "name": "汐屋遥佳",
+          "name": "井料愛良",
           "id": null
         },
         {
@@ -981,7 +1009,7 @@
           "id": null
         },
         {
-          "name": "汐屋遥佳",
+          "name": "井料愛良",
           "id": null
         },
         {
@@ -1007,7 +1035,7 @@
           "id": null
         },
         {
-          "name": "汐屋遥佳",
+          "name": "井料愛良",
           "id": null
         },
         {
@@ -1033,11 +1061,11 @@
           "id": null
         },
         {
-          "name": "たかはし智秋",
+          "name": "井料愛良",
           "id": null
         },
         {
-          "name": "汐屋遥佳",
+          "name": "たかはし智秋",
           "id": null
         },
         {
